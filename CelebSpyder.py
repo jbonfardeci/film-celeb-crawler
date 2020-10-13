@@ -252,7 +252,8 @@ class CelebSpyder():
 
 start_url="https://www.the-numbers.com/box-office-star-records/domestic/lifetime-acting/top-grossing-leading-stars"
 celeb_list: List[Celeb] = []
-for page_num in range(0, 1):
+# Gets first 5 pages of celebritys (500)
+for page_num in range(0, 5):
     url = start_url if page_num < 1 else str.format('{0}/{1}01', start_url, page_num)
     print(url)
     spyder = CelebSpyder(celeb_list_url=url, page_num=page_num, debug=False)
