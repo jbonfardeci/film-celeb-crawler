@@ -1,0 +1,1229 @@
+{
+    "Rank": 21,
+    "FullName": "Emma Watson",
+    "DomesticBoxOfficeRevenue": 3047882981,
+    "AverageDomesticBoxOfficeRevenue": 203192199,
+    "LocalDataSourcePath": "./html/imdb_profiles/EmmaWatson.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMTQ3ODE2NTMxMV5BMl5BanBnXkFtZTgwOTIzOTQzMjE@._V1_UY317_CR21,0,214,317_AL_.jpg",
+    "DOB": "1990-4-15",
+    "BornIn": "Paris, France",
+    "Gender": "Female",
+    "Height": 1.65,
+    "AstrologicalSign": "Aries",
+    "Roles": [
+        {
+            "CharacterName": "Meg March",
+            "Aired": "2019",
+            "FilmTitle": "Little Women",
+            "FilmUrl": "https://www.imdb.com/title/tt3281548/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "Mae",
+            "Aired": "2017/I",
+            "FilmTitle": "The Circle",
+            "FilmUrl": "https://www.imdb.com/title/tt4287320/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "Belle",
+            "Aired": "2017/I",
+            "FilmTitle": "Beauty and the Beast",
+            "FilmUrl": "https://www.imdb.com/title/tt2771200/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "Angela Gray",
+            "Aired": "2015/I",
+            "FilmTitle": "Regression",
+            "FilmUrl": "https://www.imdb.com/title/tt3319920/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "Lena",
+            "Aired": "2015",
+            "FilmTitle": "Colonia",
+            "FilmUrl": "https://www.imdb.com/title/tt4005402/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Reverend Iris",
+            "Aired": "2015",
+            "FilmTitle": "The Vicar of Dibley",
+            "FilmUrl": "https://www.imdb.com/title/tt0108981/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "Ila",
+            "Aired": "2014",
+            "FilmTitle": "Noah",
+            "FilmUrl": "https://www.imdb.com/title/tt1959490/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Emma Watson",
+            "Aired": "2013",
+            "FilmTitle": "This Is the End",
+            "FilmUrl": "https://www.imdb.com/title/tt1245492/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Nicki",
+            "Aired": "2013",
+            "FilmTitle": "The Bling Ring",
+            "FilmUrl": "https://www.imdb.com/title/tt2132285/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "Sam",
+            "Aired": "2012",
+            "FilmTitle": "The Perks of Being a Wallflower",
+            "FilmUrl": "https://www.imdb.com/title/tt1659337/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Lucy",
+            "Aired": "2011",
+            "FilmTitle": "My Week with Marilyn",
+            "FilmUrl": "https://www.imdb.com/title/tt1655420/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2011",
+            "FilmTitle": "Harry Potter and the Deathly Hallows: Part 2",
+            "FilmUrl": "https://www.imdb.com/title/tt1201607/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2010",
+            "FilmTitle": "Harry Potter and the Deathly Hallows: Part 1",
+            "FilmUrl": "https://www.imdb.com/title/tt0926084/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Lady",
+            "Aired": "2010",
+            "FilmTitle": "One Night Only: Say You Don't Want It",
+            "FilmUrl": "https://www.imdb.com/title/tt6637854/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2010",
+            "FilmTitle": "Harry Potter and the Forbidden Journey",
+            "FilmUrl": "https://www.imdb.com/title/tt1756545/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2009",
+            "FilmTitle": "Harry Potter and the Half-Blood Prince",
+            "FilmUrl": "https://www.imdb.com/title/tt0417741/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Princess Pea (voice)",
+            "Aired": "2008",
+            "FilmTitle": "The Tale of Despereaux",
+            "FilmUrl": "https://www.imdb.com/title/tt0420238/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Pauline Fossil",
+            "Aired": "2007",
+            "FilmTitle": "Ballet Shoes",
+            "FilmUrl": "https://www.imdb.com/title/tt1083845/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2007",
+            "FilmTitle": "Harry Potter and the Order of the Phoenix",
+            "FilmUrl": "https://www.imdb.com/title/tt0373889/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2005",
+            "FilmTitle": "Harry Potter and the Goblet of Fire",
+            "FilmUrl": "https://www.imdb.com/title/tt0330373/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2004",
+            "FilmTitle": "Harry Potter and the Prisoner of Azkaban",
+            "FilmUrl": "https://www.imdb.com/title/tt0304141/?ref_=nm_flmg_act_21"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2002",
+            "FilmTitle": "Harry Potter and the Chamber of Secrets",
+            "FilmUrl": "https://www.imdb.com/title/tt0295297/?ref_=nm_flmg_act_22"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2001",
+            "FilmTitle": "Harry Potter and the Sorcerer's Stone",
+            "FilmUrl": "https://www.imdb.com/title/tt0241527/?ref_=nm_flmg_act_23"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2018",
+            "FilmTitle": "Nostalgia Critic",
+            "FilmUrl": "https://www.imdb.com/title/tt1635327/?ref_=_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017/I",
+            "FilmTitle": "Beauty and the Beast",
+            "FilmUrl": "https://www.imdb.com/title/tt2771200/?ref_=_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2010",
+            "FilmTitle": "Harry Potter and the Deathly Hallows: Part 1",
+            "FilmUrl": "https://www.imdb.com/title/tt0926084/?ref_=_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2016",
+            "FilmTitle": "The Million Dollar Nickel",
+            "FilmUrl": "https://www.imdb.com/title/tt5419748/?ref_=nm_flmg_tk_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Creating the World of Harry Potter, Part 1: The Magic Begins",
+            "FilmUrl": "https://www.imdb.com/title/tt1501346/?ref_=nm_flmg_tk_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2006",
+            "FilmTitle": "Conversations with the Cast",
+            "FilmUrl": "https://www.imdb.com/title/tt0775448/?ref_=nm_flmg_tk_3"
+        },
+        {
+            "CharacterName": "Self - Actor",
+            "Aired": "2020",
+            "FilmTitle": "Louisa's Legacy: Little Women and Orchard House",
+            "FilmUrl": "https://www.imdb.com/title/tt11945260/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019-2020",
+            "FilmTitle": "Hollywood Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt8638066/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2019",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Vogue Australia: Sixty Years Through the Lens",
+            "FilmUrl": "https://www.imdb.com/title/tt12691854/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007-2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self - Video Message for Evanna Lynch",
+            "Aired": "2018",
+            "FilmTitle": "Dancing with the Stars",
+            "FilmUrl": "https://www.imdb.com/title/tt0463398/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "75th Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt6635044/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2018",
+            "FilmTitle": "E! Live from the Red Carpet",
+            "FilmUrl": "https://www.imdb.com/title/tt4346344/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self (segment \"Mean Tweets\") / Self - Guest",
+            "Aired": "2017",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2017",
+            "FilmTitle": "2017 MTV Movie & TV Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt6998250/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "MTV Movie and TV Awards 2017 Pre-Show",
+            "FilmUrl": "https://www.imdb.com/title/tt6869434/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008-2017",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2017",
+            "FilmTitle": "God kveld Norge",
+            "FilmUrl": "https://www.imdb.com/title/tt0278859/?ref_=nm_flmg_slf_14"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Dish Nation",
+            "FilmUrl": "https://www.imdb.com/title/tt1973047/?ref_=nm_flmg_slf_15"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2017",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_16"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2017",
+            "FilmTitle": "Dagsrevyen",
+            "FilmUrl": "https://www.imdb.com/title/tt0380100/?ref_=nm_flmg_slf_17"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_18"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2017",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_19"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012-2017",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_20"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Vanity Fair: Emma Watson Gives Strangers Advice for $2 at Grand Central",
+            "FilmUrl": "https://www.imdb.com/title/tt6594654/?ref_=nm_flmg_slf_21"
+        },
+        {
+            "CharacterName": "Self / Lena (uncredited)",
+            "Aired": "2016",
+            "FilmTitle": "Colonia: Behind the Scenes",
+            "FilmUrl": "https://www.imdb.com/title/tt6298622/?ref_=nm_flmg_slf_22"
+        },
+        {
+            "CharacterName": "Self / Lena",
+            "Aired": "2016",
+            "FilmTitle": "Colonia: Interview with Emma Watson",
+            "FilmUrl": "https://www.imdb.com/title/tt6298630/?ref_=nm_flmg_slf_23"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Lorraine",
+            "FilmUrl": "https://www.imdb.com/title/tt0298674/?ref_=nm_flmg_slf_24"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Red Nose Day",
+            "FilmUrl": "https://www.imdb.com/title/tt6021936/?ref_=nm_flmg_slf_25"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The Making of 'Regression'",
+            "FilmUrl": "https://www.imdb.com/title/tt5856764/?ref_=nm_flmg_slf_26"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006-2016",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_slf_27"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2009-2015",
+            "FilmTitle": "D\u00edas de cine",
+            "FilmUrl": "https://www.imdb.com/title/tt0390699/?ref_=nm_flmg_slf_28"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Celebrity Style Story",
+            "FilmUrl": "https://www.imdb.com/title/tt2576350/?ref_=nm_flmg_slf_29"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Hormivuela como puedas",
+            "FilmUrl": "https://www.imdb.com/title/tt5013074/?ref_=nm_flmg_slf_30"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "British Fashion Awards 2014",
+            "FilmUrl": "https://www.imdb.com/title/tt7596024/?ref_=nm_flmg_slf_31"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "BAFTA Britannia Awards Special 2014",
+            "FilmUrl": "https://www.imdb.com/title/tt4312856/?ref_=nm_flmg_slf_32"
+        },
+        {
+            "CharacterName": "Self - Cameo #17",
+            "Aired": "2014",
+            "FilmTitle": "2014 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3578774/?ref_=nm_flmg_slf_33"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011-2014",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_slf_34"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2010-2014",
+            "FilmTitle": "Cinema 3",
+            "FilmUrl": "https://www.imdb.com/title/tt0111920/?ref_=nm_flmg_slf_35"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010-2014",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_36"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "Up Close with Carrie Keagan",
+            "FilmUrl": "https://www.imdb.com/title/tt1434322/?ref_=nm_flmg_slf_37"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Reel Junkie",
+            "FilmUrl": "https://www.imdb.com/title/tt3234862/?ref_=nm_flmg_slf_38"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2007-2014",
+            "FilmTitle": "Late Show with David Letterman",
+            "FilmUrl": "https://www.imdb.com/title/tt0106053/?ref_=nm_flmg_slf_39"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2014",
+            "FilmTitle": "The 86th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2796782/?ref_=nm_flmg_slf_40"
+        },
+        {
+            "CharacterName": "Self - Presenter (uncredited)",
+            "Aired": "2014",
+            "FilmTitle": "71st Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3262722/?ref_=nm_flmg_slf_41"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Le grand journal de Canal+",
+            "FilmUrl": "https://www.imdb.com/title/tt0426701/?ref_=nm_flmg_slf_42"
+        },
+        {
+            "CharacterName": "Self - Trailblazer Award Recipient",
+            "Aired": "2013",
+            "FilmTitle": "2013 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2806252/?ref_=nm_flmg_slf_43"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2013",
+            "FilmTitle": "The 39th Annual People's Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2615724/?ref_=nm_flmg_slf_44"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012",
+            "FilmTitle": "The Jonathan Ross Show",
+            "FilmUrl": "https://www.imdb.com/title/tt2049323/?ref_=nm_flmg_slf_45"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Anderson Live",
+            "FilmUrl": "https://www.imdb.com/title/tt1796776/?ref_=nm_flmg_slf_46"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012",
+            "FilmTitle": "Late Night with Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt1231460/?ref_=nm_flmg_slf_47"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2004-2012",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_48"
+        },
+        {
+            "CharacterName": "Self - 'Hermione Granger'",
+            "Aired": "2012",
+            "FilmTitle": "Creating the World of Harry Potter, Part 8: Growing Up",
+            "FilmUrl": "https://www.imdb.com/title/tt2339417/?ref_=nm_flmg_slf_49"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "2012 MTV Video Music Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2361772/?ref_=nm_flmg_slf_50"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "2012",
+            "FilmTitle": "2012 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2402919/?ref_=nm_flmg_slf_51"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2012",
+            "FilmTitle": "Nickelodeon Kids' Choice Awards 2012",
+            "FilmUrl": "https://www.imdb.com/title/tt2199495/?ref_=nm_flmg_slf_52"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Warner Bros. Studio Tour London: The Making of Harry Potter",
+            "FilmUrl": "https://www.imdb.com/title/tt2917244/?ref_=nm_flmg_slf_53"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "My Week with Marilyn: The Untold Story of an American Icon",
+            "FilmUrl": "https://www.imdb.com/title/tt5563304/?ref_=nm_flmg_slf_54"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "The Women of Harry Potter",
+            "FilmUrl": "https://www.imdb.com/title/tt11471144/?ref_=nm_flmg_slf_55"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "When Harry Left Hogwarts",
+            "FilmUrl": "https://www.imdb.com/title/tt11471204/?ref_=nm_flmg_slf_56"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "The Big Picture",
+            "FilmUrl": "https://www.imdb.com/title/tt1908337/?ref_=nm_flmg_slf_57"
+        },
+        {
+            "CharacterName": "Self / Hermione Granger",
+            "Aired": "2011",
+            "FilmTitle": "50 Greatest Harry Potter Moments",
+            "FilmUrl": "https://www.imdb.com/title/tt2006673/?ref_=nm_flmg_slf_58"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Acesso MTV",
+            "FilmUrl": "https://www.imdb.com/title/tt2316746/?ref_=nm_flmg_slf_59"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2004-2011",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_60"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010-2011",
+            "FilmTitle": "Daybreak",
+            "FilmUrl": "https://www.imdb.com/title/tt1695352/?ref_=nm_flmg_slf_61"
+        },
+        {
+            "CharacterName": "Self - 'Hermione Granger'",
+            "Aired": "2011",
+            "FilmTitle": "Creating the World of Harry Potter, Part 5: Evolution",
+            "FilmUrl": "https://www.imdb.com/title/tt2339411/?ref_=nm_flmg_slf_62"
+        },
+        {
+            "CharacterName": "Self - 'Hermione Granger'",
+            "Aired": "2011",
+            "FilmTitle": "Creating the World of Harry Potter, Part 6: Magical Effects",
+            "FilmUrl": "https://www.imdb.com/title/tt2339413/?ref_=nm_flmg_slf_63"
+        },
+        {
+            "CharacterName": "Self - At the MTV Movie Awards / Self - Guest",
+            "Aired": "2002-2011",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_64"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2011",
+            "FilmTitle": "2011 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1924211/?ref_=nm_flmg_slf_65"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "Breakfast",
+            "FilmUrl": "https://www.imdb.com/title/tt0262152/?ref_=nm_flmg_slf_66"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "The Orange British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1845276/?ref_=nm_flmg_slf_67"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Harry Potter and the Deathly Hallows T4 Premiere Special",
+            "FilmUrl": "https://www.imdb.com/title/tt1778266/?ref_=nm_flmg_slf_68"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "The 7PM Project",
+            "FilmUrl": "https://www.imdb.com/title/tt1480165/?ref_=nm_flmg_slf_69"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Big Movie Premiere: Harry Potter & the Deathly Hallows Pt. 1",
+            "FilmUrl": "https://www.imdb.com/title/tt1778205/?ref_=nm_flmg_slf_70"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "ITV at the Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt1775795/?ref_=nm_flmg_slf_71"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "The X Factor UK",
+            "FilmUrl": "https://www.imdb.com/title/tt0423776/?ref_=nm_flmg_slf_72"
+        },
+        {
+            "CharacterName": "Self - 'Hermione Granger'",
+            "Aired": "2010",
+            "FilmTitle": "Creating the World of Harry Potter, Part 3: Creatures",
+            "FilmUrl": "https://www.imdb.com/title/tt2339409/?ref_=nm_flmg_slf_73"
+        },
+        {
+            "CharacterName": "Self - 'Hermione Granger'",
+            "Aired": "2010",
+            "FilmTitle": "Creating the World of Harry Potter, Part 4: Sound and Music",
+            "FilmUrl": "https://www.imdb.com/title/tt1781796/?ref_=nm_flmg_slf_74"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "National Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1656693/?ref_=nm_flmg_slf_75"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Top 20 Under 25",
+            "FilmUrl": "https://www.imdb.com/title/tt1579253/?ref_=nm_flmg_slf_76"
+        },
+        {
+            "CharacterName": "Self - 'Hermione Granger'",
+            "Aired": "2009",
+            "FilmTitle": "Creating the World of Harry Potter, Part 1: The Magic Begins",
+            "FilmUrl": "https://www.imdb.com/title/tt1501346/?ref_=nm_flmg_slf_77"
+        },
+        {
+            "CharacterName": "Self - 'Hermioner Granger'",
+            "Aired": "2009",
+            "FilmTitle": "Creating the World of Harry Potter, Part 2: Characters",
+            "FilmUrl": "https://www.imdb.com/title/tt1501347/?ref_=nm_flmg_slf_78"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Xpos\u00e9",
+            "FilmUrl": "https://www.imdb.com/title/tt1016283/?ref_=nm_flmg_slf_79"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004-2009",
+            "FilmTitle": "GMTV",
+            "FilmUrl": "https://www.imdb.com/title/tt0222560/?ref_=nm_flmg_slf_80"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Rove Live",
+            "FilmUrl": "https://www.imdb.com/title/tt0261489/?ref_=nm_flmg_slf_81"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2009",
+            "FilmTitle": "Friday Night with Jonathan Ross",
+            "FilmUrl": "https://www.imdb.com/title/tt0299302/?ref_=nm_flmg_slf_82"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001-2009",
+            "FilmTitle": "HBO First Look",
+            "FilmUrl": "https://www.imdb.com/title/tt0318220/?ref_=nm_flmg_slf_83"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "The Movie Loft",
+            "FilmUrl": "https://www.imdb.com/title/tt1297644/?ref_=nm_flmg_slf_84"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2009",
+            "FilmTitle": "2009 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1401689/?ref_=nm_flmg_slf_85"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "The Making of 'The Tale of Despereaux'",
+            "FilmUrl": "https://www.imdb.com/title/tt1543261/?ref_=nm_flmg_slf_86"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2009",
+            "FilmTitle": "The Orange British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1366328/?ref_=nm_flmg_slf_87"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "Empire Movie Awards 2008",
+            "FilmUrl": "https://www.imdb.com/title/tt1220211/?ref_=nm_flmg_slf_88"
+        },
+        {
+            "CharacterName": "Self / Pauline Fossil",
+            "Aired": "2007",
+            "FilmTitle": "Ballet Shoes: Interview with Emma Watson",
+            "FilmUrl": "https://www.imdb.com/title/tt3904766/?ref_=nm_flmg_slf_89"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "The National Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1659230/?ref_=nm_flmg_slf_90"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2007",
+            "FilmTitle": "Late Night with Conan O'Brien",
+            "FilmUrl": "https://www.imdb.com/title/tt0106052/?ref_=nm_flmg_slf_91"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "HypaSpace",
+            "FilmUrl": "https://www.imdb.com/title/tt0315677/?ref_=nm_flmg_slf_92"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "Achter de schermen bij 'Harry Potter en de orde van de feniks'",
+            "FilmUrl": "https://www.imdb.com/title/tt1111768/?ref_=nm_flmg_slf_93"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002-2007",
+            "FilmTitle": "Das gro\u00dfe RTL Special zum Film",
+            "FilmUrl": "https://www.imdb.com/title/tt1069278/?ref_=nm_flmg_slf_94"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "The Hidden Secrets of Harry Potter",
+            "FilmUrl": "https://www.imdb.com/title/tt1065088/?ref_=nm_flmg_slf_95"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2007",
+            "FilmTitle": "Cartelera",
+            "FilmUrl": "https://www.imdb.com/title/tt0447736/?ref_=nm_flmg_slf_96"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "20 heures le journal",
+            "FilmUrl": "https://www.imdb.com/title/tt0480279/?ref_=nm_flmg_slf_97"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "Nickelodeon Kids' Choice Awards '07",
+            "FilmUrl": "https://www.imdb.com/title/tt1002691/?ref_=nm_flmg_slf_98"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006-2007",
+            "FilmTitle": "Space Top 10 Countdown",
+            "FilmUrl": "https://www.imdb.com/title/tt0925656/?ref_=nm_flmg_slf_99"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "The Children's Party at the Palace",
+            "FilmUrl": "https://www.imdb.com/title/tt0839761/?ref_=nm_flmg_slf_100"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Conversations with the Cast",
+            "FilmUrl": "https://www.imdb.com/title/tt0775448/?ref_=nm_flmg_slf_101"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "Meet the Champions",
+            "FilmUrl": "https://www.imdb.com/title/tt0949754/?ref_=nm_flmg_slf_102"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Preparing for the Yule Ball",
+            "FilmUrl": "https://www.imdb.com/title/tt0949766/?ref_=nm_flmg_slf_103"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Reflections on the Fourth Film",
+            "FilmUrl": "https://www.imdb.com/title/tt0949769/?ref_=nm_flmg_slf_104"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Ph\u00e9nomania",
+            "FilmUrl": "https://www.imdb.com/title/tt0499402/?ref_=nm_flmg_slf_105"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Getaway",
+            "FilmUrl": "https://www.imdb.com/title/tt0207934/?ref_=nm_flmg_slf_106"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Planet Voice",
+            "FilmUrl": "https://www.imdb.com/title/tt0778564/?ref_=nm_flmg_slf_107"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "'Harry Potter': Behind the Magic",
+            "FilmUrl": "https://www.imdb.com/title/tt0497106/?ref_=nm_flmg_slf_108"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Inside 'Harry Potter and the Goblet of Fire'",
+            "FilmUrl": "https://www.imdb.com/title/tt0491721/?ref_=nm_flmg_slf_109"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Film '72",
+            "FilmUrl": "https://www.imdb.com/title/tt0192897/?ref_=nm_flmg_slf_110"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2005",
+            "FilmTitle": "Coraz\u00f3n de...",
+            "FilmUrl": "https://www.imdb.com/title/tt0463397/?ref_=nm_flmg_slf_111"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004-2005",
+            "FilmTitle": "Ministry of Mayhem",
+            "FilmUrl": "https://www.imdb.com/title/tt0396345/?ref_=nm_flmg_slf_112"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Empire Movie Awards 2005",
+            "FilmUrl": "https://www.imdb.com/title/tt0791112/?ref_=nm_flmg_slf_113"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Head to Shrunken Head",
+            "FilmUrl": "https://www.imdb.com/title/tt0996942/?ref_=nm_flmg_slf_114"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Cartoon Cartoon Fridays",
+            "FilmUrl": "https://www.imdb.com/title/tt0302083/?ref_=nm_flmg_slf_115"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Total Request Live",
+            "FilmUrl": "https://www.imdb.com/title/tt0376435/?ref_=nm_flmg_slf_116"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2004",
+            "FilmTitle": "Richard & Judy",
+            "FilmUrl": "https://www.imdb.com/title/tt0299374/?ref_=nm_flmg_slf_117"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Total Request Live",
+            "FilmUrl": "https://www.imdb.com/title/tt0167735/?ref_=nm_flmg_slf_118"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Nick Takes Over the Superbowl",
+            "FilmUrl": "https://www.imdb.com/title/tt0446749/?ref_=nm_flmg_slf_119"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "Julie Walters: A BAFTA Tribute",
+            "FilmUrl": "https://www.imdb.com/title/tt0424208/?ref_=nm_flmg_slf_120"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "E! News Live",
+            "FilmUrl": "https://www.imdb.com/title/tt0319991/?ref_=nm_flmg_slf_121"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "Disney Channel Kid's Awards 2003",
+            "FilmUrl": "https://www.imdb.com/title/tt1481527/?ref_=nm_flmg_slf_122"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "The BAFTA TV Awards 2003",
+            "FilmUrl": "https://www.imdb.com/title/tt0367523/?ref_=nm_flmg_slf_123"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "Interviews with Students",
+            "FilmUrl": "https://www.imdb.com/title/tt1001361/?ref_=nm_flmg_slf_124"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2002",
+            "FilmTitle": "The Wayne Brady Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0364900/?ref_=nm_flmg_slf_125"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2002",
+            "FilmTitle": "The Caroline Rhea Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0338587/?ref_=nm_flmg_slf_126"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2002",
+            "FilmTitle": "The Early Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0220225/?ref_=nm_flmg_slf_127"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2002",
+            "FilmTitle": "The Oprah Winfrey Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0090493/?ref_=nm_flmg_slf_128"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "Omnibus",
+            "FilmUrl": "https://www.imdb.com/title/tt0200358/?ref_=nm_flmg_slf_129"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2001",
+            "FilmTitle": "The Rosie O'Donnell Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115338/?ref_=nm_flmg_slf_130"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "'Harry Potter': Behind the Magic",
+            "FilmUrl": "https://www.imdb.com/title/tt0301379/?ref_=nm_flmg_slf_131"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Jeremy Vine",
+            "FilmUrl": "https://www.imdb.com/title/tt8925242/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "ITV Lunchtime News",
+            "FilmUrl": "https://www.imdb.com/title/tt0959790/?ref_=nm_flmg_arf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Saved by the Bell",
+            "FilmUrl": "https://www.imdb.com/title/tt9773424/?ref_=nm_flmg_arf_3"
+        },
+        {
+            "CharacterName": "Self / Self - Actress / Self - Beauty and the Beast",
+            "Aired": "2017-2018",
+            "FilmTitle": "Good Morning Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3644198/?ref_=nm_flmg_arf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_arf_5"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Akkad Daily",
+            "FilmUrl": "https://www.imdb.com/title/tt10322970/?ref_=nm_flmg_arf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015-2017",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_7"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_arf_8"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_arf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_arf_11"
+        },
+        {
+            "CharacterName": "Acting Role",
+            "Aired": "2016",
+            "FilmTitle": "2016: We Remember Part One",
+            "FilmUrl": "https://www.imdb.com/title/tt6392740/?ref_=nm_flmg_arf_12"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Lorraine",
+            "FilmUrl": "https://www.imdb.com/title/tt0298674/?ref_=nm_flmg_arf_13"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The Red Pill",
+            "FilmUrl": "https://www.imdb.com/title/tt3686998/?ref_=nm_flmg_arf_14"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2016",
+            "FilmTitle": "Robin's Comedy Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7443340/?ref_=nm_flmg_arf_15"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2015",
+            "FilmTitle": "Piers Morgan's Life Stories",
+            "FilmUrl": "https://www.imdb.com/title/tt1415098/?ref_=nm_flmg_arf_16"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2015",
+            "FilmTitle": "Lego Dimensions",
+            "FilmUrl": "https://www.imdb.com/title/tt4656392/?ref_=nm_flmg_arf_17"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Telef\u00e9 noticias a las 19",
+            "FilmUrl": "https://www.imdb.com/title/tt0409628/?ref_=nm_flmg_arf_18"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Tonight with Trevor McDonald",
+            "FilmUrl": "https://www.imdb.com/title/tt0213373/?ref_=nm_flmg_arf_19"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Gomorron",
+            "FilmUrl": "https://www.imdb.com/title/tt0930831/?ref_=nm_flmg_arf_20"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2014",
+            "FilmTitle": "Brows Held High",
+            "FilmUrl": "https://www.imdb.com/title/tt2012155/?ref_=nm_flmg_arf_21"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2014",
+            "FilmTitle": "Harry Potter and the Escape from Gringotts",
+            "FilmUrl": "https://www.imdb.com/title/tt3731688/?ref_=nm_flmg_arf_22"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Harry Potter: The Making of Diagon Alley",
+            "FilmUrl": "https://www.imdb.com/title/tt5901980/?ref_=nm_flmg_arf_23"
+        },
+        {
+            "CharacterName": "Ila",
+            "Aired": "2014",
+            "FilmTitle": "The Drunken Peasants",
+            "FilmUrl": "https://www.imdb.com/title/tt4823212/?ref_=nm_flmg_arf_24"
+        },
+        {
+            "CharacterName": "Nicki",
+            "Aired": "2013",
+            "FilmTitle": "Movie Guide",
+            "FilmUrl": "https://www.imdb.com/title/tt2841688/?ref_=nm_flmg_arf_25"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2011-2012",
+            "FilmTitle": "Visionado obligado",
+            "FilmUrl": "https://www.imdb.com/title/tt1949088/?ref_=nm_flmg_arf_26"
+        },
+        {
+            "CharacterName": "Self / Hermione Granger",
+            "Aired": "2011",
+            "FilmTitle": "Bloomberg Game Changers",
+            "FilmUrl": "https://www.imdb.com/title/tt1776394/?ref_=nm_flmg_arf_27"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Reeling in the Years",
+            "FilmUrl": "https://www.imdb.com/title/tt0476108/?ref_=nm_flmg_arf_28"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "20 to 1",
+            "FilmUrl": "https://www.imdb.com/title/tt0800968/?ref_=nm_flmg_arf_29"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Breakfast",
+            "FilmUrl": "https://www.imdb.com/title/tt0262152/?ref_=nm_flmg_arf_30"
+        },
+        {
+            "CharacterName": "Hermione Granger",
+            "Aired": "2010",
+            "FilmTitle": "Lego Harry Potter: Years 1-4",
+            "FilmUrl": "https://www.imdb.com/title/tt1454016/?ref_=nm_flmg_arf_31"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Live from Studio Five",
+            "FilmUrl": "https://www.imdb.com/title/tt1509653/?ref_=nm_flmg_arf_32"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "Forbes 20 Under 25: Young, Rich and Famous",
+            "FilmUrl": "https://www.imdb.com/title/tt1229751/?ref_=nm_flmg_arf_33"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2007",
+            "FilmTitle": "Harry Potter: Hogwarts Challenge",
+            "FilmUrl": "https://www.imdb.com/title/tt1176427/?ref_=nm_flmg_arf_34"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "Harry vs. the Horntail: The First Task",
+            "FilmUrl": "https://www.imdb.com/title/tt0949733/?ref_=nm_flmg_arf_35"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "In Too Deep: The Second Task",
+            "FilmUrl": "https://www.imdb.com/title/tt0949737/?ref_=nm_flmg_arf_36"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2004",
+            "FilmTitle": "Care of Magical Creatures",
+            "FilmUrl": "https://www.imdb.com/title/tt0996922/?ref_=nm_flmg_arf_37"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2004",
+            "FilmTitle": "Conjuring a Scene",
+            "FilmUrl": "https://www.imdb.com/title/tt0996924/?ref_=nm_flmg_arf_38"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2004",
+            "FilmTitle": "Creating the Vision",
+            "FilmUrl": "https://www.imdb.com/title/tt0996926/?ref_=nm_flmg_arf_39"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2003",
+            "FilmTitle": "Build a Scene",
+            "FilmUrl": "https://www.imdb.com/title/tt0997425/?ref_=nm_flmg_arf_40"
+        },
+        {
+            "CharacterName": "Hermione Granger (uncredited)",
+            "Aired": "2003",
+            "FilmTitle": "Interviews with Professors & More",
+            "FilmUrl": "https://www.imdb.com/title/tt1001360/?ref_=nm_flmg_arf_41"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1987",
+            "FilmTitle": "Biography",
+            "FilmUrl": "https://www.imdb.com/title/tt0092322/?ref_=nm_flmg_arf_42"
+        }
+    ],
+    "AwardsWins": 25,
+    "AwardNominations": 62
+}

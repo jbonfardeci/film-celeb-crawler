@@ -1,0 +1,1500 @@
+{
+    "Rank": 32,
+    "FullName": "Jennifer Lawrence",
+    "DomesticBoxOfficeRevenue": 2594808492,
+    "AverageDomesticBoxOfficeRevenue": 123562309,
+    "LocalDataSourcePath": "./html/imdb_profiles/JenniferLawrence.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "DOB": "1990-8-15",
+    "BornIn": "Louisville, Kentucky, USA",
+    "Gender": "Female",
+    "Height": 1.75,
+    "AstrologicalSign": "Leo",
+    "Trademark": "Slightly husky voice",
+    "Roles": [
+        {
+            "CharacterName": "Elizabeth Holmes",
+            "Aired": "",
+            "FilmTitle": "Bad Blood",
+            "FilmUrl": "https://www.imdb.com/title/tt5795144/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "Arlyne Brickman",
+            "Aired": "",
+            "FilmTitle": "Mob Girl",
+            "FilmUrl": "https://www.imdb.com/title/tt10690606/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "Don't look up",
+            "FilmUrl": "https://www.imdb.com/title/tt11286314/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "Untitled Lila Neugebauer Project",
+            "FilmUrl": "https://www.imdb.com/title/tt10192406/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "Raven / Mystique",
+            "Aired": "2019",
+            "FilmTitle": "X-Men: Dark Phoenix",
+            "FilmUrl": "https://www.imdb.com/title/tt6565702/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Woman",
+            "Aired": "2018",
+            "FilmTitle": "Dior: Joy",
+            "FilmUrl": "https://www.imdb.com/title/tt8934082/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "Dominika Egorova",
+            "Aired": "2018",
+            "FilmTitle": "Red Sparrow",
+            "FilmUrl": "https://www.imdb.com/title/tt2873282/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Mother",
+            "Aired": "2017",
+            "FilmTitle": "Mother!",
+            "FilmUrl": "https://www.imdb.com/title/tt5109784/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Aurora Lane",
+            "Aired": "2016/I",
+            "FilmTitle": "Passengers",
+            "FilmUrl": "https://www.imdb.com/title/tt1355644/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "Raven / Mystique",
+            "Aired": "2016",
+            "FilmTitle": "X-Men: Apocalypse",
+            "FilmUrl": "https://www.imdb.com/title/tt3385516/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Joy",
+            "Aired": "2015/I",
+            "FilmTitle": "Joy",
+            "FilmUrl": "https://www.imdb.com/title/tt2446980/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Katniss Everdeen",
+            "Aired": "2015",
+            "FilmTitle": "The Hunger Games: Mockingjay - Part 2",
+            "FilmUrl": "https://www.imdb.com/title/tt1951266/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Katniss Everdeen",
+            "Aired": "2014",
+            "FilmTitle": "The Hunger Games: Mockingjay - Part 1",
+            "FilmUrl": "https://www.imdb.com/title/tt1951265/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Serena Pemberton",
+            "Aired": "2014/I",
+            "FilmTitle": "Serena",
+            "FilmUrl": "https://www.imdb.com/title/tt1247690/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Raven / Mystique",
+            "Aired": "2014",
+            "FilmTitle": "X-Men: Days of Future Past",
+            "FilmUrl": "https://www.imdb.com/title/tt1877832/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Rosalyn Rosenfeld",
+            "Aired": "2013",
+            "FilmTitle": "American Hustle",
+            "FilmUrl": "https://www.imdb.com/title/tt1800241/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Katniss Everdeen",
+            "Aired": "2013",
+            "FilmTitle": "The Hunger Games: Catching Fire",
+            "FilmUrl": "https://www.imdb.com/title/tt1951264/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Young Zoe",
+            "Aired": "2013",
+            "FilmTitle": "The Devil You Know",
+            "FilmUrl": "https://www.imdb.com/title/tt0463960/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Elissa",
+            "Aired": "2012",
+            "FilmTitle": "House at the End of the Street",
+            "FilmUrl": "https://www.imdb.com/title/tt1582507/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "Tiffany",
+            "Aired": "2012",
+            "FilmTitle": "Silver Linings Playbook",
+            "FilmUrl": "https://www.imdb.com/title/tt1045658/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "Katniss Everdeen",
+            "Aired": "2012",
+            "FilmTitle": "The Hunger Games",
+            "FilmUrl": "https://www.imdb.com/title/tt1392170/?ref_=nm_flmg_act_21"
+        },
+        {
+            "CharacterName": "Raven / Mystique",
+            "Aired": "2011",
+            "FilmTitle": "X: First Class",
+            "FilmUrl": "https://www.imdb.com/title/tt1270798/?ref_=nm_flmg_act_22"
+        },
+        {
+            "CharacterName": "Norah",
+            "Aired": "2011",
+            "FilmTitle": "The Beaver",
+            "FilmUrl": "https://www.imdb.com/title/tt1321860/?ref_=nm_flmg_act_23"
+        },
+        {
+            "CharacterName": "Sam",
+            "Aired": "2011",
+            "FilmTitle": "Like Crazy",
+            "FilmUrl": "https://www.imdb.com/title/tt1758692/?ref_=nm_flmg_act_24"
+        },
+        {
+            "CharacterName": "Ree",
+            "Aired": "2010",
+            "FilmTitle": "Winter's Bone",
+            "FilmUrl": "https://www.imdb.com/title/tt1399683/?ref_=nm_flmg_act_25"
+        },
+        {
+            "CharacterName": "Lauren Pearson",
+            "Aired": "2007-2009",
+            "FilmTitle": "The Bill Engvall Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0926732/?ref_=nm_flmg_act_26"
+        },
+        {
+            "CharacterName": "Mariana",
+            "Aired": "2008",
+            "FilmTitle": "The Burning Plain",
+            "FilmUrl": "https://www.imdb.com/title/tt1068641/?ref_=nm_flmg_act_27"
+        },
+        {
+            "CharacterName": "Agnes",
+            "Aired": "2008",
+            "FilmTitle": "The Poker House",
+            "FilmUrl": "https://www.imdb.com/title/tt1014806/?ref_=nm_flmg_act_28"
+        },
+        {
+            "CharacterName": "Tiff",
+            "Aired": "2008",
+            "FilmTitle": "Garden Party",
+            "FilmUrl": "https://www.imdb.com/title/tt0828393/?ref_=nm_flmg_act_29"
+        },
+        {
+            "CharacterName": "Young Allison / Claire Chase",
+            "Aired": "2007-2008",
+            "FilmTitle": "Medium",
+            "FilmUrl": "https://www.imdb.com/title/tt0412175/?ref_=nm_flmg_act_30"
+        },
+        {
+            "CharacterName": "Frantic Girl (uncredited)",
+            "Aired": "2007",
+            "FilmTitle": "Not Another High School Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0876236/?ref_=nm_flmg_act_31"
+        },
+        {
+            "CharacterName": "Abby Bradford - 2007",
+            "Aired": "2007",
+            "FilmTitle": "Cold Case",
+            "FilmUrl": "https://www.imdb.com/title/tt0368479/?ref_=nm_flmg_act_32"
+        },
+        {
+            "CharacterName": "Caitlin",
+            "Aired": "2006",
+            "FilmTitle": "Company Town",
+            "FilmUrl": "https://www.imdb.com/title/tt0497893/?ref_=nm_flmg_act_33"
+        },
+        {
+            "CharacterName": "Mascot",
+            "Aired": "2006",
+            "FilmTitle": "Monk",
+            "FilmUrl": "https://www.imdb.com/title/tt0312172/?ref_=nm_flmg_act_34"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2016",
+            "FilmTitle": "Everything Wrong with...",
+            "FilmUrl": "https://www.imdb.com/title/tt3498954/?ref_=_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2015",
+            "FilmTitle": "The Hunger Games: Mockingjay - Part 2",
+            "FilmUrl": "https://www.imdb.com/title/tt1951266/?ref_=_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2014",
+            "FilmTitle": "The Hunger Games: Mockingjay - Part 1",
+            "FilmUrl": "https://www.imdb.com/title/tt1951265/?ref_=_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2012",
+            "FilmTitle": "The Hunger Games",
+            "FilmUrl": "https://www.imdb.com/title/tt1392170/?ref_=_5"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2008",
+            "FilmTitle": "The Poker House",
+            "FilmUrl": "https://www.imdb.com/title/tt1014806/?ref_=_6"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2008",
+            "FilmTitle": "Medium",
+            "FilmUrl": "https://www.imdb.com/title/tt0412175/?ref_=_7"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "Bad Blood",
+            "FilmUrl": "https://www.imdb.com/title/tt5795144/?ref_=nm_flmg_prd_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "Mob Girl",
+            "FilmUrl": "https://www.imdb.com/title/tt10690606/?ref_=nm_flmg_prd_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "Untitled Lila Neugebauer Project",
+            "FilmUrl": "https://www.imdb.com/title/tt10192406/?ref_=nm_flmg_prd_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2019",
+            "FilmTitle": "Unbreaking America: Solving the Corruption Crisis",
+            "FilmUrl": "https://www.imdb.com/title/tt9852094/?ref_=nm_flmg_wr_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2018",
+            "FilmTitle": "X-Men Mondays",
+            "FilmUrl": "https://www.imdb.com/title/tt9207650/?ref_=nm_flmg_tk_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "Casting the 'Passengers'",
+            "FilmUrl": "https://www.imdb.com/title/tt6667520/?ref_=nm_flmg_tk_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "Amy Schumer: The Leather Special",
+            "FilmUrl": "https://www.imdb.com/title/tt6616074/?ref_=nm_flmg_tk_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2015",
+            "FilmTitle": "The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1",
+            "FilmUrl": "https://www.imdb.com/title/tt4026144/?ref_=nm_flmg_tk_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Expecting Amy",
+            "FilmUrl": "https://www.imdb.com/title/tt11188392/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Amy Schumer Learns to Cook",
+            "FilmUrl": "https://www.imdb.com/title/tt12212014/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self / Self - The Hunger Games",
+            "Aired": "2013-2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "The United Nations Association 2019 Global Citizen Awards & 12th Annual West Coast Global Forum",
+            "FilmUrl": "https://www.imdb.com/title/tt10921886/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013-2019",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self - Guest / Self - Guest (segment \"Mean Tweets\") / Self / ...",
+            "Aired": "2011-2019",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "X-Men: Dark Phoenix LIVE Red Carpet World Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10440726/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Unbreaking America: Solving the Corruption Crisis",
+            "FilmUrl": "https://www.imdb.com/title/tt9852094/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Love, Antosha",
+            "FilmUrl": "https://www.imdb.com/title/tt9351746/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2018",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Agents Provocateurs: The Ensemble Cast",
+            "FilmUrl": "https://www.imdb.com/title/tt8569466/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "A New Cold War: Origination and Adaptation",
+            "FilmUrl": "https://www.imdb.com/title/tt8569458/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Heart of the Tempest: Locations",
+            "FilmUrl": "https://www.imdb.com/title/tt8569494/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Tradecraft: Visual Authenticity",
+            "FilmUrl": "https://www.imdb.com/title/tt8569476/?ref_=nm_flmg_slf_14"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Welcome to Sparrow School: Ballets and Stunts",
+            "FilmUrl": "https://www.imdb.com/title/tt8569498/?ref_=nm_flmg_slf_15"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Rencontres de cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt5123584/?ref_=nm_flmg_slf_16"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "The Oscars",
+            "FilmUrl": "https://www.imdb.com/title/tt7235270/?ref_=nm_flmg_slf_17"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2018",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_18"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012-2018",
+            "FilmTitle": "Up Close with Carrie Keagan",
+            "FilmUrl": "https://www.imdb.com/title/tt1434322/?ref_=nm_flmg_slf_19"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2018",
+            "FilmTitle": "Dish Nation",
+            "FilmUrl": "https://www.imdb.com/title/tt1973047/?ref_=nm_flmg_slf_20"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "GQ: Actually Me",
+            "FilmUrl": "https://www.imdb.com/title/tt8288638/?ref_=nm_flmg_slf_21"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012-2018",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_22"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_23"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015-2018",
+            "FilmTitle": "Watch What Happens: Live",
+            "FilmUrl": "https://www.imdb.com/title/tt2057880/?ref_=nm_flmg_slf_24"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2018",
+            "FilmTitle": "Lorraine",
+            "FilmUrl": "https://www.imdb.com/title/tt0298674/?ref_=nm_flmg_slf_25"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2015-2018",
+            "FilmTitle": "The Late Show with Stephen Colbert",
+            "FilmUrl": "https://www.imdb.com/title/tt3697842/?ref_=nm_flmg_slf_26"
+        },
+        {
+            "CharacterName": "Self - Actress (segment \"Jennifer Lawrence\")",
+            "Aired": "2018",
+            "FilmTitle": "60 Minutes",
+            "FilmUrl": "https://www.imdb.com/title/tt0123338/?ref_=nm_flmg_slf_27"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015-2018",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_slf_28"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "The EE British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt7866928/?ref_=nm_flmg_slf_29"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Entertainment Tonight Canada",
+            "FilmUrl": "https://www.imdb.com/title/tt0482346/?ref_=nm_flmg_slf_30"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016-2018",
+            "FilmTitle": "Close Up with the Hollywood Reporter",
+            "FilmUrl": "https://www.imdb.com/title/tt4931888/?ref_=nm_flmg_slf_31"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Variety Studio: Actors on Actors",
+            "FilmUrl": "https://www.imdb.com/title/tt4267324/?ref_=nm_flmg_slf_32"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014-2017",
+            "FilmTitle": "Late Night with Seth Meyers",
+            "FilmUrl": "https://www.imdb.com/title/tt3513388/?ref_=nm_flmg_slf_33"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2017",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_34"
+        },
+        {
+            "CharacterName": "Self - Guest / Dez",
+            "Aired": "2014-2017",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_35"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Vice Talks Film",
+            "FilmUrl": "https://www.imdb.com/title/tt7387584/?ref_=nm_flmg_slf_36"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "74th Venice Film Festival Awards Ceremony",
+            "FilmUrl": "https://www.imdb.com/title/tt7363318/?ref_=nm_flmg_slf_37"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Jennifer Lawrence Plays: Movie Review or Wine Review?",
+            "FilmUrl": "https://www.imdb.com/title/tt7879680/?ref_=nm_flmg_slf_38"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Everything It Took to Create Jennifer Lawrence's September Cover Shoot",
+            "FilmUrl": "https://www.imdb.com/title/tt11056810/?ref_=nm_flmg_slf_39"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "A Journey to the Stars: The Making of 'Passengers'",
+            "FilmUrl": "https://www.imdb.com/title/tt6667586/?ref_=nm_flmg_slf_40"
+        },
+        {
+            "CharacterName": "Self / Aurora Lane",
+            "Aired": "2017",
+            "FilmTitle": "Casting the 'Passengers'",
+            "FilmUrl": "https://www.imdb.com/title/tt6667520/?ref_=nm_flmg_slf_41"
+        },
+        {
+            "CharacterName": "Self / Aurora Lane",
+            "Aired": "2017",
+            "FilmTitle": "Passengers: Creating the Avalon",
+            "FilmUrl": "https://www.imdb.com/title/tt6667536/?ref_=nm_flmg_slf_42"
+        },
+        {
+            "CharacterName": "Self / Aurora Lane",
+            "Aired": "2017",
+            "FilmTitle": "Passengers: On the Set with Chris Pratt",
+            "FilmUrl": "https://www.imdb.com/title/tt6667532/?ref_=nm_flmg_slf_43"
+        },
+        {
+            "CharacterName": "Self / Aurora Lane",
+            "Aired": "2017",
+            "FilmTitle": "Space on Screen: The Visual Effects of 'Passengers'",
+            "FilmUrl": "https://www.imdb.com/title/tt6667530/?ref_=nm_flmg_slf_44"
+        },
+        {
+            "CharacterName": "Narrator (voice)",
+            "Aired": "2017",
+            "FilmTitle": "100 Years",
+            "FilmUrl": "https://www.imdb.com/title/tt6436770/?ref_=nm_flmg_slf_45"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2017",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_slf_46"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2012-2016",
+            "FilmTitle": "D\u00edas de cine",
+            "FilmUrl": "https://www.imdb.com/title/tt0390699/?ref_=nm_flmg_slf_47"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "Good Morning Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3644198/?ref_=nm_flmg_slf_48"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "Chelsea",
+            "FilmUrl": "https://www.imdb.com/title/tt5672036/?ref_=nm_flmg_slf_49"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Rotten Tomatoes",
+            "FilmUrl": "https://www.imdb.com/title/tt5368216/?ref_=nm_flmg_slf_50"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2016",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_slf_51"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "The Late Late Show with James Corden",
+            "FilmUrl": "https://www.imdb.com/title/tt4280606/?ref_=nm_flmg_slf_52"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2015-2016",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_slf_53"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2016",
+            "FilmTitle": "The British Academy Britannia Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt6215258/?ref_=nm_flmg_slf_54"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "The Noite com Danilo Gentili",
+            "FilmUrl": "https://www.imdb.com/title/tt3612488/?ref_=nm_flmg_slf_55"
+        },
+        {
+            "CharacterName": "Narrator (voice)",
+            "Aired": "2016",
+            "FilmTitle": "A Beautiful Planet",
+            "FilmUrl": "https://www.imdb.com/title/tt2800050/?ref_=nm_flmg_slf_56"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The First Monday in May",
+            "FilmUrl": "https://www.imdb.com/title/tt5519566/?ref_=nm_flmg_slf_57"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2016",
+            "FilmTitle": "2016 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5556144/?ref_=nm_flmg_slf_58"
+        },
+        {
+            "CharacterName": "Self - Katniss Everdeen",
+            "Aired": "2016",
+            "FilmTitle": "Panem on Display: The Hunger Games, The Exhibition",
+            "FilmUrl": "https://www.imdb.com/title/tt5949902/?ref_=nm_flmg_slf_59"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Pawns No More: Making the Hunger Games: Mockingjay Part 2",
+            "FilmUrl": "https://www.imdb.com/title/tt5100692/?ref_=nm_flmg_slf_60"
+        },
+        {
+            "CharacterName": "Self - 'Katniss Everdeen'",
+            "Aired": "2016",
+            "FilmTitle": "The Hunger Games: Going Rogue (The Cast)",
+            "FilmUrl": "https://www.imdb.com/title/tt5949940/?ref_=nm_flmg_slf_61"
+        },
+        {
+            "CharacterName": "Self - 'Katniss Everdeen'",
+            "Aired": "2016",
+            "FilmTitle": "Underground Terror: Battling the Lizard Mutts",
+            "FilmUrl": "https://www.imdb.com/title/tt5949964/?ref_=nm_flmg_slf_62"
+        },
+        {
+            "CharacterName": "Self - 'Katniss Everdeen'",
+            "Aired": "2016",
+            "FilmTitle": "Welcome to the 76th Hunger Games: On Location in Atlanta, Paris & Berlin",
+            "FilmUrl": "https://www.imdb.com/title/tt5949928/?ref_=nm_flmg_slf_63"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Joy, Strength and Perseverance",
+            "FilmUrl": "https://www.imdb.com/title/tt5492276/?ref_=nm_flmg_slf_64"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Ant & Dec's Saturday Night Takeaway",
+            "FilmUrl": "https://www.imdb.com/title/tt0324692/?ref_=nm_flmg_slf_65"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2016",
+            "FilmTitle": "The Oscars",
+            "FilmUrl": "https://www.imdb.com/title/tt4991632/?ref_=nm_flmg_slf_66"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "2016 Golden Globe Arrivals Special",
+            "FilmUrl": "https://www.imdb.com/title/tt5363742/?ref_=nm_flmg_slf_67"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "2016",
+            "FilmTitle": "73rd Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt4399942/?ref_=nm_flmg_slf_68"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2016",
+            "FilmTitle": "E! Live from the Red Carpet",
+            "FilmUrl": "https://www.imdb.com/title/tt4346344/?ref_=nm_flmg_slf_69"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "IMDb First Credit",
+            "FilmUrl": "https://www.imdb.com/title/tt5533446/?ref_=nm_flmg_slf_70"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Special Look",
+            "FilmUrl": "https://www.imdb.com/title/tt3746054/?ref_=nm_flmg_slf_71"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "World Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt0800381/?ref_=nm_flmg_slf_72"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2015",
+            "FilmTitle": "Charlie Rose",
+            "FilmUrl": "https://www.imdb.com/title/tt0270116/?ref_=nm_flmg_slf_73"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2015",
+            "FilmTitle": "Film '72",
+            "FilmUrl": "https://www.imdb.com/title/tt0192897/?ref_=nm_flmg_slf_74"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013-2015",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_75"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013-2015",
+            "FilmTitle": "Conan",
+            "FilmUrl": "https://www.imdb.com/title/tt1637574/?ref_=nm_flmg_slf_76"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Circus Halligalli",
+            "FilmUrl": "https://www.imdb.com/title/tt2717740/?ref_=nm_flmg_slf_77"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Smosh",
+            "FilmUrl": "https://www.imdb.com/title/tt1500910/?ref_=nm_flmg_slf_78"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2015",
+            "FilmTitle": "Weekend Ticket",
+            "FilmUrl": "https://www.imdb.com/title/tt2787918/?ref_=nm_flmg_slf_79"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "The Hunger Games: The Phenomenon",
+            "FilmUrl": "https://www.imdb.com/title/tt5198846/?ref_=nm_flmg_slf_80"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "IMDb Asks",
+            "FilmUrl": "https://www.imdb.com/title/tt5070048/?ref_=nm_flmg_slf_81"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Celebrity Style Story",
+            "FilmUrl": "https://www.imdb.com/title/tt2576350/?ref_=nm_flmg_slf_82"
+        },
+        {
+            "CharacterName": "Hersel / Raven / Mystique",
+            "Aired": "2015",
+            "FilmTitle": "Mutant vs. Machine: The Making of 'X-Men: Days of Future Past'",
+            "FilmUrl": "https://www.imdb.com/title/tt5513964/?ref_=nm_flmg_slf_83"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "MTV After Hours with Josh Horowitz",
+            "FilmUrl": "https://www.imdb.com/title/tt7914770/?ref_=nm_flmg_slf_84"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2015",
+            "FilmTitle": "2015 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt4577398/?ref_=nm_flmg_slf_85"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "The Propos Team: Mockingjay Propaganda Films",
+            "FilmUrl": "https://www.imdb.com/title/tt5295882/?ref_=nm_flmg_slf_86"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Utilitarian Chic: Makeup and Costumes",
+            "FilmUrl": "https://www.imdb.com/title/tt5295874/?ref_=nm_flmg_slf_87"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Joining the Fight: The New Cast",
+            "FilmUrl": "https://www.imdb.com/title/tt6740330/?ref_=nm_flmg_slf_88"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Straight from the Heart: A Tribute to Philip Seymour Hoffman",
+            "FilmUrl": "https://www.imdb.com/title/tt5294910/?ref_=nm_flmg_slf_89"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "The Making of a Hollywood Blockbuster",
+            "FilmUrl": "https://www.imdb.com/title/tt6740342/?ref_=nm_flmg_slf_90"
+        },
+        {
+            "CharacterName": "Self / Katniss Everdeen",
+            "Aired": "2015",
+            "FilmTitle": "The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1",
+            "FilmUrl": "https://www.imdb.com/title/tt4026144/?ref_=nm_flmg_slf_91"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Hunger Games: Capitol Cuisine",
+            "FilmUrl": "https://www.imdb.com/title/tt6094286/?ref_=nm_flmg_slf_92"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "IMDb: What to Watch",
+            "FilmUrl": "https://www.imdb.com/title/tt3412000/?ref_=nm_flmg_slf_93"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Ask a Badass with Elizabeth Banks",
+            "FilmUrl": "https://www.imdb.com/title/tt4425436/?ref_=nm_flmg_slf_94"
+        },
+        {
+            "CharacterName": "Self / Self - Host / Galadriel / ...",
+            "Aired": "2013-2014",
+            "FilmTitle": "Saturday Night Live",
+            "FilmUrl": "https://www.imdb.com/title/tt0072562/?ref_=nm_flmg_slf_95"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "The X Factor UK",
+            "FilmUrl": "https://www.imdb.com/title/tt0423776/?ref_=nm_flmg_slf_96"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "The Colbert Report",
+            "FilmUrl": "https://www.imdb.com/title/tt0458254/?ref_=nm_flmg_slf_97"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011-2014",
+            "FilmTitle": "Late Show with David Letterman",
+            "FilmUrl": "https://www.imdb.com/title/tt0106053/?ref_=nm_flmg_slf_98"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "Wetten, dass..?",
+            "FilmUrl": "https://www.imdb.com/title/tt0081961/?ref_=nm_flmg_slf_99"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2014",
+            "FilmTitle": "Dior and I",
+            "FilmUrl": "https://www.imdb.com/title/tt3539664/?ref_=nm_flmg_slf_100"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2014",
+            "FilmTitle": "2014 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3578774/?ref_=nm_flmg_slf_101"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Making of American Hustle",
+            "FilmUrl": "https://www.imdb.com/title/tt3573144/?ref_=nm_flmg_slf_102"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Inside District 12: The Hob",
+            "FilmUrl": "https://www.imdb.com/title/tt6094298/?ref_=nm_flmg_slf_103"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Alliance: Returning Cast",
+            "FilmUrl": "https://www.imdb.com/title/tt5295368/?ref_=nm_flmg_slf_104"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Hunger Games: Battling the Clock Arena",
+            "FilmUrl": "https://www.imdb.com/title/tt6094272/?ref_=nm_flmg_slf_105"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Hunger Games: Bringing Panem to Life",
+            "FilmUrl": "https://www.imdb.com/title/tt6094242/?ref_=nm_flmg_slf_106"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Hunger Games: Catching Fire - Taking Aim: Stunts and Weapons",
+            "FilmUrl": "https://www.imdb.com/title/tt6094252/?ref_=nm_flmg_slf_107"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Hunger Games: The Quarter Quell Cast",
+            "FilmUrl": "https://www.imdb.com/title/tt6094234/?ref_=nm_flmg_slf_108"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Quell: On Location in Hawaii",
+            "FilmUrl": "https://www.imdb.com/title/tt6094266/?ref_=nm_flmg_slf_109"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Presenter",
+            "Aired": "2014",
+            "FilmTitle": "The 86th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2796782/?ref_=nm_flmg_slf_110"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Interviewee",
+            "Aired": "2014",
+            "FilmTitle": "The EE British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3453002/?ref_=nm_flmg_slf_111"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Inside Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt0166442/?ref_=nm_flmg_slf_112"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Presenter",
+            "Aired": "2014",
+            "FilmTitle": "20th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3477194/?ref_=nm_flmg_slf_113"
+        },
+        {
+            "CharacterName": "Self - Nominee (credit only)",
+            "Aired": "2014",
+            "FilmTitle": "19th Annual Critics' Choice Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3427762/?ref_=nm_flmg_slf_114"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2014",
+            "FilmTitle": "2014 Golden Globe Arrivals Special",
+            "FilmUrl": "https://www.imdb.com/title/tt3464668/?ref_=nm_flmg_slf_115"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "2014",
+            "FilmTitle": "71st Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3262722/?ref_=nm_flmg_slf_116"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "The Barbara Walters Summer Special",
+            "FilmUrl": "https://www.imdb.com/title/tt0326459/?ref_=nm_flmg_slf_117"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2011-2013",
+            "FilmTitle": "Cinema 3",
+            "FilmUrl": "https://www.imdb.com/title/tt0111920/?ref_=nm_flmg_slf_118"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "The Daily Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115147/?ref_=nm_flmg_slf_119"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "MTV's Catching Fire Fan Tribute",
+            "FilmUrl": "https://www.imdb.com/title/tt3440908/?ref_=nm_flmg_slf_120"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Surviving the Game - Making the Hunger Games: Catching Fire",
+            "FilmUrl": "https://www.imdb.com/title/tt4041372/?ref_=nm_flmg_slf_121"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "Good Day L.A.",
+            "FilmUrl": "https://www.imdb.com/title/tt0197153/?ref_=nm_flmg_slf_122"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Revealed",
+            "FilmUrl": "https://www.imdb.com/title/tt2844946/?ref_=nm_flmg_slf_123"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012-2013",
+            "FilmTitle": "Big Morning Buzz Live",
+            "FilmUrl": "https://www.imdb.com/title/tt1907886/?ref_=nm_flmg_slf_124"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011-2013",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_125"
+        },
+        {
+            "CharacterName": "Self - Winner, Presenter &amp; Performer",
+            "Aired": "2013",
+            "FilmTitle": "The Oscars",
+            "FilmUrl": "https://www.imdb.com/title/tt2461862/?ref_=nm_flmg_slf_126"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2013",
+            "FilmTitle": "The Oscars Red Carpet Live",
+            "FilmUrl": "https://www.imdb.com/title/tt2759310/?ref_=nm_flmg_slf_127"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2013",
+            "FilmTitle": "The 2013 Film Independent Spirit Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2739636/?ref_=nm_flmg_slf_128"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "Katie",
+            "FilmUrl": "https://www.imdb.com/title/tt2354136/?ref_=nm_flmg_slf_129"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Between Two Ferns with Zach Galifianakis",
+            "FilmUrl": "https://www.imdb.com/title/tt1535002/?ref_=nm_flmg_slf_130"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2013",
+            "FilmTitle": "The EE British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2700610/?ref_=nm_flmg_slf_131"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "Piers Morgan Live",
+            "FilmUrl": "https://www.imdb.com/title/tt1809909/?ref_=nm_flmg_slf_132"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "2013",
+            "FilmTitle": "19th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2660550/?ref_=nm_flmg_slf_133"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2013",
+            "FilmTitle": "70th Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2604420/?ref_=nm_flmg_slf_134"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "18th Annual Critics' Choice Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2622478/?ref_=nm_flmg_slf_135"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "2013",
+            "FilmTitle": "The 39th Annual People's Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2615724/?ref_=nm_flmg_slf_136"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Chase the Stars: The Cast of 'The Hunger Games'",
+            "FilmUrl": "https://www.imdb.com/title/tt3052106/?ref_=nm_flmg_slf_137"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "La classe am\u00e9ricaine",
+            "FilmUrl": "https://www.imdb.com/title/tt2936414/?ref_=nm_flmg_slf_138"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011-2012",
+            "FilmTitle": "DP/30: Conversations About Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt2386723/?ref_=nm_flmg_slf_139"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012",
+            "FilmTitle": "El hormiguero",
+            "FilmUrl": "https://www.imdb.com/title/tt0870872/?ref_=nm_flmg_slf_140"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "The World Is Watching: Making the Hunger Games",
+            "FilmUrl": "https://www.imdb.com/title/tt2327114/?ref_=nm_flmg_slf_141"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2012",
+            "FilmTitle": "2012 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2402919/?ref_=nm_flmg_slf_142"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Hunger Games: Cast Interviews",
+            "FilmUrl": "https://www.imdb.com/title/tt3603870/?ref_=nm_flmg_slf_143"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012",
+            "FilmTitle": "Chelsea Lately",
+            "FilmUrl": "https://www.imdb.com/title/tt1002838/?ref_=nm_flmg_slf_144"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2010-2012",
+            "FilmTitle": "Late Night with Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt1231460/?ref_=nm_flmg_slf_145"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2010-2012",
+            "FilmTitle": "Breakfast",
+            "FilmUrl": "https://www.imdb.com/title/tt0262152/?ref_=nm_flmg_slf_146"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "The Hunger Games Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10075788/?ref_=nm_flmg_slf_147"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "\u00a1Despierta Am\u00e9rica!",
+            "FilmUrl": "https://www.imdb.com/title/tt0346243/?ref_=nm_flmg_slf_148"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Red Carpet Report",
+            "FilmUrl": "https://www.imdb.com/title/tt5611414/?ref_=nm_flmg_slf_149"
+        },
+        {
+            "CharacterName": "Self (2013)",
+            "Aired": "2012",
+            "FilmTitle": "MSN Exclusives",
+            "FilmUrl": "https://www.imdb.com/title/tt2606208/?ref_=nm_flmg_slf_150"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2012",
+            "FilmTitle": "The 38th Annual People's Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2179173/?ref_=nm_flmg_slf_151"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Children of the Atom: Filming X-Men: First Class",
+            "FilmUrl": "https://www.imdb.com/title/tt2058594/?ref_=nm_flmg_slf_152"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "X Marks the Spot on 'X-Men: First Class'",
+            "FilmUrl": "https://www.imdb.com/title/tt5513444/?ref_=nm_flmg_slf_153"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2011",
+            "FilmTitle": "2011 MTV Video Music Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2027157/?ref_=nm_flmg_slf_154"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "Canada A.M.",
+            "FilmUrl": "https://www.imdb.com/title/tt0341708/?ref_=nm_flmg_slf_155"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "What's Going On? with Mike Mitchell",
+            "FilmUrl": "https://www.imdb.com/title/tt1979153/?ref_=nm_flmg_slf_156"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "La noche de los Oscar",
+            "FilmUrl": "https://www.imdb.com/title/tt1852824/?ref_=nm_flmg_slf_157"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2011",
+            "FilmTitle": "The 83rd Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1625351/?ref_=nm_flmg_slf_158"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2011",
+            "FilmTitle": "The 2011 Independent Spirit Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1823217/?ref_=nm_flmg_slf_159"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2011",
+            "FilmTitle": "17th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1831556/?ref_=nm_flmg_slf_160"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2011",
+            "FilmTitle": "The 68th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1810776/?ref_=nm_flmg_slf_161"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2011",
+            "FilmTitle": "16th Annual Critics' Choice Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1817076/?ref_=nm_flmg_slf_162"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "In the House with Peter Bart & Peter Guber",
+            "FilmUrl": "https://www.imdb.com/title/tt1642102/?ref_=nm_flmg_slf_163"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "14 Actors Acting",
+            "FilmUrl": "https://www.imdb.com/title/tt3205676/?ref_=nm_flmg_slf_164"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Moving Pictures Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt1552185/?ref_=nm_flmg_slf_165"
+        },
+        {
+            "CharacterName": "Self / Self - The Hunger Games / Self - Hacking Victim",
+            "Aired": "2014-2020",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2019",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_arf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Dish Nation",
+            "FilmUrl": "https://www.imdb.com/title/tt1973047/?ref_=nm_flmg_arf_3"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Socialit\u00e9",
+            "FilmUrl": "https://www.imdb.com/title/tt7295054/?ref_=nm_flmg_arf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2019",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_5"
+        },
+        {
+            "CharacterName": "Ree / Katniss Everdeen / Tiffany / ...",
+            "Aired": "2019",
+            "FilmTitle": "The Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt10468676/?ref_=nm_flmg_arf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Close Up",
+            "FilmUrl": "https://www.imdb.com/title/tt2132638/?ref_=nm_flmg_arf_7"
+        },
+        {
+            "CharacterName": "Self - Actress (segment \"Jennifer Lawrence\")",
+            "Aired": "2018",
+            "FilmTitle": "60 Minutes",
+            "FilmUrl": "https://www.imdb.com/title/tt0123338/?ref_=nm_flmg_arf_8"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "#TeamG1, la quotidienne",
+            "FilmUrl": "https://www.imdb.com/title/tt8235530/?ref_=nm_flmg_arf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Frontline",
+            "FilmUrl": "https://www.imdb.com/title/tt0133302/?ref_=nm_flmg_arf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Panorama",
+            "FilmUrl": "https://www.imdb.com/title/tt0199257/?ref_=nm_flmg_arf_11"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Hoy nos toca",
+            "FilmUrl": "https://www.imdb.com/title/tt6436780/?ref_=nm_flmg_arf_12"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015-2018",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_arf_13"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Sky World News",
+            "FilmUrl": "https://www.imdb.com/title/tt1461349/?ref_=nm_flmg_arf_14"
+        },
+        {
+            "CharacterName": "Self - Actress",
+            "Aired": "2017",
+            "FilmTitle": "Good Morning Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3644198/?ref_=nm_flmg_arf_15"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015-2017",
+            "FilmTitle": "Inside Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt0166442/?ref_=nm_flmg_arf_16"
+        },
+        {
+            "CharacterName": "Self - Actress",
+            "Aired": "2017",
+            "FilmTitle": "The Truth About Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt7517272/?ref_=nm_flmg_arf_17"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2017",
+            "FilmTitle": "The Andrew Klavan Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7268356/?ref_=nm_flmg_arf_18"
+        },
+        {
+            "CharacterName": "Self - Actress",
+            "Aired": "2017",
+            "FilmTitle": "Jennifer Lawrence Is a Complete Idiot",
+            "FilmUrl": "https://www.imdb.com/title/tt7349130/?ref_=nm_flmg_arf_19"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "GMB Today",
+            "FilmUrl": "https://www.imdb.com/title/tt7268754/?ref_=nm_flmg_arf_20"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_arf_21"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_arf_22"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2016",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_arf_23"
+        },
+        {
+            "CharacterName": "Mystique / Raven",
+            "Aired": "2016",
+            "FilmTitle": "The FalconCast Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5643674/?ref_=nm_flmg_arf_24"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2016",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_arf_25"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Screenwipe",
+            "FilmUrl": "https://www.imdb.com/title/tt0780206/?ref_=nm_flmg_arf_26"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_arf_27"
+        },
+        {
+            "CharacterName": "Danielle (uncredited)",
+            "Aired": "2014",
+            "FilmTitle": "SNL Shorts",
+            "FilmUrl": "https://www.imdb.com/title/tt3709798/?ref_=nm_flmg_arf_28"
+        },
+        {
+            "CharacterName": "Katniss Everdeen",
+            "Aired": "2013",
+            "FilmTitle": "Chelsea Lately",
+            "FilmUrl": "https://www.imdb.com/title/tt1002838/?ref_=nm_flmg_arf_29"
+        },
+        {
+            "CharacterName": "Katniss Everdeen",
+            "Aired": "2013",
+            "FilmTitle": "The Frame",
+            "FilmUrl": "https://www.imdb.com/title/tt2891956/?ref_=nm_flmg_arf_30"
+        },
+        {
+            "CharacterName": "Katniss",
+            "Aired": "2013",
+            "FilmTitle": "Everything Wrong with...",
+            "FilmUrl": "https://www.imdb.com/title/tt3498954/?ref_=nm_flmg_arf_31"
+        },
+        {
+            "CharacterName": "Sam (uncredited)",
+            "Aired": "2012",
+            "FilmTitle": "Like Crazy: Alternate Scenes",
+            "FilmUrl": "https://www.imdb.com/title/tt6107680/?ref_=nm_flmg_arf_32"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_arf_33"
+        }
+    ],
+    "AwardsWins": 118,
+    "AwardNominations": 183
+}

@@ -1,0 +1,923 @@
+{
+    "Rank": 89,
+    "FullName": "Lupita Nyong'o",
+    "DomesticBoxOfficeRevenue": 1763222200,
+    "AverageDomesticBoxOfficeRevenue": 220402775,
+    "LocalDataSourcePath": "./html/imdb_profiles/LupitaNyongo.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "DOB": "1983-3-1",
+    "BornIn": "Mexico City, Distrito Federal, Mexico",
+    "Gender": "Female",
+    "Height": 1.65,
+    "AstrologicalSign": "Pisces",
+    "Roles": [
+        {
+            "CharacterName": "Ifemelu",
+            "Aired": "2021",
+            "FilmTitle": "Americanah",
+            "FilmUrl": "https://www.imdb.com/title/tt3781380/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "Khadijah",
+            "Aired": "2021",
+            "FilmTitle": "The 355",
+            "FilmUrl": "https://www.imdb.com/title/tt8356942/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2020",
+            "FilmTitle": "Bookmarks",
+            "FilmUrl": "https://www.imdb.com/title/tt12923664/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "Lupita Nyong'o",
+            "Aired": "2020",
+            "FilmTitle": "Black Is King",
+            "FilmUrl": "https://www.imdb.com/title/tt12607910/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2020",
+            "FilmTitle": "James and the Giant Peach with Taika and Friends",
+            "FilmUrl": "https://www.imdb.com/title/tt13168898/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Maz Kanata",
+            "Aired": "2019",
+            "FilmTitle": "Star Wars: Episode IX - The Rise of Skywalker",
+            "FilmUrl": "https://www.imdb.com/title/tt2527338/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "Adelaide Wilson / Red",
+            "Aired": "2019/II",
+            "FilmTitle": "Us",
+            "FilmUrl": "https://www.imdb.com/title/tt6857112/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Miss Caroline",
+            "Aired": "2019",
+            "FilmTitle": "Little Monsters",
+            "FilmUrl": "https://www.imdb.com/title/tt7390588/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Maz Kanata",
+            "Aired": "2017-2018",
+            "FilmTitle": "Star Wars: Forces of Destiny",
+            "FilmUrl": "https://www.imdb.com/title/tt6779076/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "The Giant",
+            "Aired": "2018",
+            "FilmTitle": "Jack: Part One",
+            "FilmUrl": "https://www.imdb.com/title/tt8507368/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Nakia",
+            "Aired": "2018",
+            "FilmTitle": "Black Panther",
+            "FilmUrl": "https://www.imdb.com/title/tt1825683/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Maz Kanata",
+            "Aired": "2017",
+            "FilmTitle": "Star Wars: Episode VIII - The Last Jedi",
+            "FilmUrl": "https://www.imdb.com/title/tt2527336/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Woman",
+            "Aired": "2017",
+            "FilmTitle": "Jay-Z: MaNyfaCedGod",
+            "FilmUrl": "https://www.imdb.com/title/tt7126786/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Nakku Harriet",
+            "Aired": "2016",
+            "FilmTitle": "Queen of Katwe",
+            "FilmUrl": "https://www.imdb.com/title/tt4341582/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Maz Kanata (voice)",
+            "Aired": "2016",
+            "FilmTitle": "Lego Star Wars: The Force Awakens",
+            "FilmUrl": "https://www.imdb.com/title/tt5430544/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Raksha (voice)",
+            "Aired": "2016",
+            "FilmTitle": "The Jungle Book",
+            "FilmUrl": "https://www.imdb.com/title/tt3040964/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Maz Kanata",
+            "Aired": "2015",
+            "FilmTitle": "Star Wars: Episode VII - The Force Awakens",
+            "FilmUrl": "https://www.imdb.com/title/tt2488496/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Flower",
+            "Aired": "2014",
+            "FilmTitle": "Nature Is Speaking",
+            "FilmUrl": "https://www.imdb.com/title/tt5786876/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Gwen",
+            "Aired": "2014",
+            "FilmTitle": "Non-Stop",
+            "FilmUrl": "https://www.imdb.com/title/tt2024469/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "Patsey",
+            "Aired": "2013",
+            "FilmTitle": "12 Years a Slave",
+            "FilmUrl": "https://www.imdb.com/title/tt2024544/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "Ayira",
+            "Aired": "2009-2012",
+            "FilmTitle": "Shuga",
+            "FilmUrl": "https://www.imdb.com/title/tt2577388/?ref_=nm_flmg_act_21"
+        },
+        {
+            "CharacterName": "Maz Kanata",
+            "Aired": "2011",
+            "FilmTitle": "Star Tours: The Adventures Continue",
+            "FilmUrl": "https://www.imdb.com/title/tt1643247/?ref_=nm_flmg_act_22"
+        },
+        {
+            "CharacterName": "F",
+            "Aired": "2008",
+            "FilmTitle": "East River",
+            "FilmUrl": "https://www.imdb.com/title/tt1358949/?ref_=nm_flmg_act_23"
+        },
+        {
+            "CharacterName": "Laila",
+            "Aired": "2006",
+            "FilmTitle": "Roho",
+            "FilmUrl": "https://www.imdb.com/title/tt6904554/?ref_=nm_flmg_act_24"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "Americanah",
+            "FilmUrl": "https://www.imdb.com/title/tt3781380/?ref_=nm_flmg_prd_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "In My Genes",
+            "FilmUrl": "https://www.imdb.com/title/tt1474233/?ref_=nm_flmg_prd_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "In My Genes",
+            "FilmUrl": "https://www.imdb.com/title/tt1474233/?ref_=nm_flmg_msc_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2005",
+            "FilmTitle": "The Constant Gardener",
+            "FilmUrl": "https://www.imdb.com/title/tt0387131/?ref_=nm_flmg_msc_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "In My Genes",
+            "FilmUrl": "https://www.imdb.com/title/tt1474233/?ref_=nm_flmg_dr_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2007",
+            "FilmTitle": "Where God Left His Shoes",
+            "FilmUrl": "https://www.imdb.com/title/tt0756725/?ref_=nm_flmg_ardp_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "In My Genes",
+            "FilmUrl": "https://www.imdb.com/title/tt1474233/?ref_=nm_flmg_edt_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2006",
+            "FilmTitle": "The Namesake",
+            "FilmUrl": "https://www.imdb.com/title/tt0433416/?ref_=nm_flmg_eddp_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "In My Genes",
+            "FilmUrl": "https://www.imdb.com/title/tt1474233/?ref_=nm_flmg_snd_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2015",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=_1"
+        },
+        {
+            "CharacterName": "Self - Storyteller",
+            "Aired": "2020",
+            "FilmTitle": "Bookmarks",
+            "FilmUrl": "https://www.imdb.com/title/tt12923664/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Martha Knows Best",
+            "FilmUrl": "https://www.imdb.com/title/tt12950236/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "One World: Together at Home",
+            "FilmUrl": "https://www.imdb.com/title/tt12144858/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self - Presenter &amp; Nominee",
+            "Aired": "2020",
+            "FilmTitle": "The 26th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt10751088/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Close Up with the Hollywood Reporter",
+            "FilmUrl": "https://www.imdb.com/title/tt4931888/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self - Presenter &amp; Nominee",
+            "Aired": "2020",
+            "FilmTitle": "The 25th Annual Critics' Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt10150518/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2019",
+            "FilmTitle": "Inside the Actors Studio",
+            "FilmUrl": "https://www.imdb.com/title/tt0169455/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2015-2019",
+            "FilmTitle": "The Daily Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115147/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2013-2019",
+            "FilmTitle": "The View",
+            "FilmUrl": "https://www.imdb.com/title/tt0123366/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "The British Academy Britannia Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt11186946/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2019",
+            "FilmTitle": "Warrior Women with Lupita Nyong'o",
+            "FilmUrl": "https://www.imdb.com/title/tt11091480/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2015-2019",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014-2019",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_14"
+        },
+        {
+            "CharacterName": "Self - Actress",
+            "Aired": "2019",
+            "FilmTitle": "Newsnight",
+            "FilmUrl": "https://www.imdb.com/title/tt0163471/?ref_=nm_flmg_slf_15"
+        },
+        {
+            "CharacterName": "Self - Guest / Self - Performer",
+            "Aired": "2015-2019",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_16"
+        },
+        {
+            "CharacterName": "Narrator",
+            "Aired": "2019",
+            "FilmTitle": "Serengeti",
+            "FilmUrl": "https://www.imdb.com/title/tt8164448/?ref_=nm_flmg_slf_17"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_18"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Dish Nation",
+            "FilmUrl": "https://www.imdb.com/title/tt1973047/?ref_=nm_flmg_slf_19"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Complex x Fuse",
+            "FilmUrl": "https://www.imdb.com/title/tt8607794/?ref_=nm_flmg_slf_20"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "50th NAACP Image Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9542590/?ref_=nm_flmg_slf_21"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2019",
+            "FilmTitle": "Sunday Today with Willie Geist",
+            "FilmUrl": "https://www.imdb.com/title/tt8005764/?ref_=nm_flmg_slf_22"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Desus & Mero",
+            "FilmUrl": "https://www.imdb.com/title/tt9362790/?ref_=nm_flmg_slf_23"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2019",
+            "FilmTitle": "IMDb's Cast Connections",
+            "FilmUrl": "https://www.imdb.com/title/tt10031942/?ref_=nm_flmg_slf_24"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2015-2019",
+            "FilmTitle": "The Late Show with Stephen Colbert",
+            "FilmUrl": "https://www.imdb.com/title/tt3697842/?ref_=nm_flmg_slf_25"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_26"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2019",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_27"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014-2019",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_28"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018-2019",
+            "FilmTitle": "Entertainment Tonight Canada",
+            "FilmUrl": "https://www.imdb.com/title/tt0482346/?ref_=nm_flmg_slf_29"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "2 Dope Queens",
+            "FilmUrl": "https://www.imdb.com/title/tt7246394/?ref_=nm_flmg_slf_30"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "The 25th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9424718/?ref_=nm_flmg_slf_31"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Black Panther Power",
+            "FilmUrl": "https://www.imdb.com/title/tt9911696/?ref_=nm_flmg_slf_32"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Variety Studio: Actors on Actors",
+            "FilmUrl": "https://www.imdb.com/title/tt4267324/?ref_=nm_flmg_slf_33"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "2019 Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9000560/?ref_=nm_flmg_slf_34"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2019",
+            "FilmTitle": "E! Live from the Red Carpet",
+            "FilmUrl": "https://www.imdb.com/title/tt4346344/?ref_=nm_flmg_slf_35"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Black Panther: The Warriors Within",
+            "FilmUrl": "https://www.imdb.com/title/tt8429800/?ref_=nm_flmg_slf_36"
+        },
+        {
+            "CharacterName": "Self - Narrator",
+            "Aired": "2018",
+            "FilmTitle": "My Africa",
+            "FilmUrl": "https://www.imdb.com/title/tt8178966/?ref_=nm_flmg_slf_37"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "The Dream Still Lives",
+            "FilmUrl": "https://www.imdb.com/title/tt9646446/?ref_=nm_flmg_slf_38"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "The Oscars",
+            "FilmUrl": "https://www.imdb.com/title/tt7235270/?ref_=nm_flmg_slf_39"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Essence 11th Annual Black Women in Hollywood Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt8358926/?ref_=nm_flmg_slf_40"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "The EE British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt7866928/?ref_=nm_flmg_slf_41"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2018",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_42"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Celebrities Answer the Web's Most Searched Questions",
+            "FilmUrl": "https://www.imdb.com/title/tt7826984/?ref_=nm_flmg_slf_43"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Last Week",
+            "FilmUrl": "https://www.imdb.com/title/tt8527880/?ref_=nm_flmg_slf_44"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2018",
+            "FilmTitle": "Good Morning Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3644198/?ref_=nm_flmg_slf_45"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2018",
+            "FilmTitle": "The IMDb Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7549864/?ref_=nm_flmg_slf_46"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014-2018",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_47"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "24th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt8053828/?ref_=nm_flmg_slf_48"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Movie Surfers",
+            "FilmUrl": "https://www.imdb.com/title/tt0295122/?ref_=nm_flmg_slf_49"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Oh My Disney Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7954808/?ref_=nm_flmg_slf_50"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Live from the Red Carpet of Star Wars: The Last Jedi",
+            "FilmUrl": "https://www.imdb.com/title/tt7768586/?ref_=nm_flmg_slf_51"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Finding Your Roots with Henry Louis Gates, Jr.",
+            "FilmUrl": "https://www.imdb.com/title/tt2326517/?ref_=nm_flmg_slf_52"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "2017 Global Citizen",
+            "FilmUrl": "https://www.imdb.com/title/tt7486544/?ref_=nm_flmg_slf_53"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Hand in Hand: A Benefit for Hurricane Relief",
+            "FilmUrl": "https://www.imdb.com/title/tt8168692/?ref_=nm_flmg_slf_54"
+        },
+        {
+            "CharacterName": "Self - Competitor",
+            "Aired": "2016",
+            "FilmTitle": "Lip Sync Battle",
+            "FilmUrl": "https://www.imdb.com/title/tt4335742/?ref_=nm_flmg_slf_55"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Lip Sync Battle Preshow",
+            "FilmUrl": "https://www.imdb.com/title/tt6654174/?ref_=nm_flmg_slf_56"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Steve Harvey",
+            "FilmUrl": "https://www.imdb.com/title/tt2380710/?ref_=nm_flmg_slf_57"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "IMDb First Credit",
+            "FilmUrl": "https://www.imdb.com/title/tt5533446/?ref_=nm_flmg_slf_58"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "Watch What Happens: Live",
+            "FilmUrl": "https://www.imdb.com/title/tt2057880/?ref_=nm_flmg_slf_59"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "August 28th",
+            "FilmUrl": "https://www.imdb.com/title/tt7308720/?ref_=nm_flmg_slf_60"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2016",
+            "FilmTitle": "The 70th Annual Tony Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5626484/?ref_=nm_flmg_slf_61"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Celebrity Style Story",
+            "FilmUrl": "https://www.imdb.com/title/tt2576350/?ref_=nm_flmg_slf_62"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2016",
+            "FilmTitle": "2016 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5556144/?ref_=nm_flmg_slf_63"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "Theater Talk",
+            "FilmUrl": "https://www.imdb.com/title/tt0817467/?ref_=nm_flmg_slf_64"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "ILM: The Visual Magic of 'The Force Awakens'",
+            "FilmUrl": "https://www.imdb.com/title/tt5974844/?ref_=nm_flmg_slf_65"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The Force Awakens: Force for Change",
+            "FilmUrl": "https://www.imdb.com/title/tt6342798/?ref_=nm_flmg_slf_66"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "Late Night with Seth Meyers",
+            "FilmUrl": "https://www.imdb.com/title/tt3513388/?ref_=nm_flmg_slf_67"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Secrets of the Force Awakens: A Cinematic Journey",
+            "FilmUrl": "https://www.imdb.com/title/tt5532610/?ref_=nm_flmg_slf_68"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Essence Ninth Annual Black Women in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt5506234/?ref_=nm_flmg_slf_69"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Disneyland 60th Anniversary TV Special",
+            "FilmUrl": "https://www.imdb.com/title/tt5463310/?ref_=nm_flmg_slf_70"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_71"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Star Wars: Greatest Moments",
+            "FilmUrl": "https://www.imdb.com/title/tt5312326/?ref_=nm_flmg_slf_72"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Oprah Goes to Broadway: The Color Purple",
+            "FilmUrl": "https://www.imdb.com/title/tt5344132/?ref_=nm_flmg_slf_73"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014-2015",
+            "FilmTitle": "Conan",
+            "FilmUrl": "https://www.imdb.com/title/tt1637574/?ref_=nm_flmg_slf_74"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2015",
+            "FilmTitle": "Nunca es tarde",
+            "FilmUrl": "https://www.imdb.com/title/tt4699262/?ref_=nm_flmg_slf_75"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2015",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_slf_76"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Unfiltered with Renee Young",
+            "FilmUrl": "https://www.imdb.com/title/tt5079852/?ref_=nm_flmg_slf_77"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Star Wars: The Force Awakens World Premiere Red Carpet",
+            "FilmUrl": "https://www.imdb.com/title/tt7768640/?ref_=nm_flmg_slf_78"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Clevver News Feed",
+            "FilmUrl": "https://www.imdb.com/title/tt4969692/?ref_=nm_flmg_slf_79"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Rotten Tomatoes",
+            "FilmUrl": "https://www.imdb.com/title/tt5368216/?ref_=nm_flmg_slf_80"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Associated Press: YouTube Channel",
+            "FilmUrl": "https://www.imdb.com/title/tt5720402/?ref_=nm_flmg_slf_81"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "73 Questions",
+            "FilmUrl": "https://www.imdb.com/title/tt5220922/?ref_=nm_flmg_slf_82"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2015",
+            "FilmTitle": "The Oscars",
+            "FilmUrl": "https://www.imdb.com/title/tt3674910/?ref_=nm_flmg_slf_83"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2015",
+            "FilmTitle": "The 21st Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt4384904/?ref_=nm_flmg_slf_84"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2015",
+            "FilmTitle": "72nd Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3270224/?ref_=nm_flmg_slf_85"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Sesame Street",
+            "FilmUrl": "https://www.imdb.com/title/tt0063951/?ref_=nm_flmg_slf_86"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "Kid President: Declaration of Awesome",
+            "FilmUrl": "https://www.imdb.com/title/tt3986134/?ref_=nm_flmg_slf_87"
+        },
+        {
+            "CharacterName": "Self - Cameo #13 / Presenter",
+            "Aired": "2014",
+            "FilmTitle": "2014 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3578774/?ref_=nm_flmg_slf_88"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "12 Years a Slave: A Historical Portrait",
+            "FilmUrl": "https://www.imdb.com/title/tt3599702/?ref_=nm_flmg_slf_89"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Inside Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt0166442/?ref_=nm_flmg_slf_90"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "La noche de los Oscar",
+            "FilmUrl": "https://www.imdb.com/title/tt3573210/?ref_=nm_flmg_slf_91"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2014",
+            "FilmTitle": "The 86th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2796782/?ref_=nm_flmg_slf_92"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2014",
+            "FilmTitle": "The 2014 Film Independent Spirit Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3410698/?ref_=nm_flmg_slf_93"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "45th NAACP Image Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3593708/?ref_=nm_flmg_slf_94"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "Late Show with David Letterman",
+            "FilmUrl": "https://www.imdb.com/title/tt0106053/?ref_=nm_flmg_slf_95"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2014",
+            "FilmTitle": "The EE British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3453002/?ref_=nm_flmg_slf_96"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "Late Night with Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt1231460/?ref_=nm_flmg_slf_97"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "The Queen Latifah Show",
+            "FilmUrl": "https://www.imdb.com/title/tt2099467/?ref_=nm_flmg_slf_98"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Rencontres de cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt5123584/?ref_=nm_flmg_slf_99"
+        },
+        {
+            "CharacterName": "Self - Presenter &amp; Winner",
+            "Aired": "2014",
+            "FilmTitle": "20th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3477194/?ref_=nm_flmg_slf_100"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2014",
+            "FilmTitle": "19th Annual Critics' Choice Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3427762/?ref_=nm_flmg_slf_101"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "Tavis Smiley",
+            "FilmUrl": "https://www.imdb.com/title/tt0403813/?ref_=nm_flmg_slf_102"
+        },
+        {
+            "CharacterName": "Self - Nominee (uncredited)",
+            "Aired": "2014",
+            "FilmTitle": "71st Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3262722/?ref_=nm_flmg_slf_103"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "The Hollywood Reporter Roundtables",
+            "FilmUrl": "https://www.imdb.com/title/tt3281320/?ref_=nm_flmg_slf_104"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "The Late Late Show with Craig Ferguson",
+            "FilmUrl": "https://www.imdb.com/title/tt0437729/?ref_=nm_flmg_slf_105"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "TV One on One",
+            "FilmUrl": "https://www.imdb.com/title/tt0493382/?ref_=nm_flmg_slf_106"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "The Reel Story: 12 Years a Slave",
+            "FilmUrl": "https://www.imdb.com/title/tt3720046/?ref_=nm_flmg_slf_107"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2020",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Hollywood's Stories",
+            "FilmUrl": "https://www.imdb.com/title/tt11427372/?ref_=nm_flmg_arf_2"
+        },
+        {
+            "CharacterName": "Patsey",
+            "Aired": "2019",
+            "FilmTitle": "The Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt10468676/?ref_=nm_flmg_arf_3"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_4"
+        },
+        {
+            "CharacterName": "Maz Kanata",
+            "Aired": "2018",
+            "FilmTitle": "Star Wars Rebels",
+            "FilmUrl": "https://www.imdb.com/title/tt2930604/?ref_=nm_flmg_arf_5"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Inside Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt0166442/?ref_=nm_flmg_arf_7"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_arf_8"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Screenwipe",
+            "FilmUrl": "https://www.imdb.com/title/tt0780206/?ref_=nm_flmg_arf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_arf_10"
+        }
+    ],
+    "AwardsWins": 91,
+    "AwardNominations": 97
+}

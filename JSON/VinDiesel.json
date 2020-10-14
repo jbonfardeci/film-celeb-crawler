@@ -1,0 +1,1871 @@
+{
+    "Rank": 16,
+    "FullName": "Vin Diesel",
+    "DomesticBoxOfficeRevenue": 3214515401,
+    "AverageDomesticBoxOfficeRevenue": 133938142,
+    "LocalDataSourcePath": "./html/imdb_profiles/VinDiesel.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "DOB": "1967-7-18",
+    "BornIn": "Alameda County, California, USA",
+    "Gender": "Male",
+    "Height": 1.82,
+    "AstrologicalSign": "Cancer",
+    "Trademark": "Muscular physique",
+    "Roles": [
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "The Machine",
+            "FilmUrl": "https://www.imdb.com/title/tt1937386/?ref_=nm_flmg_prd_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "Furya",
+            "FilmUrl": "https://www.imdb.com/title/tt5218270/?ref_=nm_flmg_prd_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "Merc City",
+            "FilmUrl": "https://www.imdb.com/title/tt5218292/?ref_=nm_flmg_prd_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "F9",
+            "FilmUrl": "https://www.imdb.com/title/tt5433138/?ref_=nm_flmg_prd_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2019-2020",
+            "FilmTitle": "Fast & Furious Spy Racers",
+            "FilmUrl": "https://www.imdb.com/title/tt8322592/?ref_=nm_flmg_prd_5"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2020",
+            "FilmTitle": "Bloodshot",
+            "FilmUrl": "https://www.imdb.com/title/tt1634106/?ref_=nm_flmg_prd_6"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2018",
+            "FilmTitle": "Get Christie Love",
+            "FilmUrl": "https://www.imdb.com/title/tt7752082/?ref_=nm_flmg_prd_7"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt4630562/?ref_=nm_flmg_prd_8"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "xXx: Return of Xander Cage",
+            "FilmUrl": "https://www.imdb.com/title/tt1293847/?ref_=nm_flmg_prd_9"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2015",
+            "FilmTitle": "The Last Witch Hunter",
+            "FilmUrl": "https://www.imdb.com/title/tt1618442/?ref_=nm_flmg_prd_10"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7",
+            "FilmUrl": "https://www.imdb.com/title/tt2820852/?ref_=nm_flmg_prd_11"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2014",
+            "FilmTitle": "Life Is a Dream",
+            "FilmUrl": "https://www.imdb.com/title/tt3655326/?ref_=nm_flmg_prd_12"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2013",
+            "FilmTitle": "Riddick",
+            "FilmUrl": "https://www.imdb.com/title/tt1411250/?ref_=nm_flmg_prd_13"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2013",
+            "FilmTitle": "Furious 6",
+            "FilmUrl": "https://www.imdb.com/title/tt1905041/?ref_=nm_flmg_prd_14"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2012",
+            "FilmTitle": "A War Hero",
+            "FilmUrl": "https://www.imdb.com/title/tt2433614/?ref_=nm_flmg_prd_15"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2012",
+            "FilmTitle": "The Ropes",
+            "FilmUrl": "https://www.imdb.com/title/tt2084685/?ref_=nm_flmg_prd_16"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five",
+            "FilmUrl": "https://www.imdb.com/title/tt1596343/?ref_=nm_flmg_prd_17"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Los Bandoleros",
+            "FilmUrl": "https://www.imdb.com/title/tt1538503/?ref_=nm_flmg_prd_18"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "The Chronicles of Riddick: Assault on Dark Athena",
+            "FilmUrl": "https://www.imdb.com/title/tt1218336/?ref_=nm_flmg_prd_19"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Wheelman",
+            "FilmUrl": "https://www.imdb.com/title/tt1418290/?ref_=nm_flmg_prd_20"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Fast & Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt1013752/?ref_=nm_flmg_prd_21"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2007/I",
+            "FilmTitle": "Hitman",
+            "FilmUrl": "https://www.imdb.com/title/tt0465494/?ref_=nm_flmg_prd_22"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick",
+            "FilmUrl": "https://www.imdb.com/title/tt0296572/?ref_=nm_flmg_prd_23"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick: Escape from Butcher Bay",
+            "FilmUrl": "https://www.imdb.com/title/tt0405833/?ref_=nm_flmg_prd_24"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2003",
+            "FilmTitle": "A Man Apart",
+            "FilmUrl": "https://www.imdb.com/title/tt0266465/?ref_=nm_flmg_prd_25"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2002",
+            "FilmTitle": "xXx",
+            "FilmUrl": "https://www.imdb.com/title/tt0295701/?ref_=nm_flmg_prd_26"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1997",
+            "FilmTitle": "Strays",
+            "FilmUrl": "https://www.imdb.com/title/tt0149171/?ref_=nm_flmg_prd_27"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1995",
+            "FilmTitle": "Multi-Facial",
+            "FilmUrl": "https://www.imdb.com/title/tt0226168/?ref_=nm_flmg_prd_28"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "",
+            "FilmTitle": "Fast & Furious 10",
+            "FilmUrl": "https://www.imdb.com/title/tt5433140/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "Riddick",
+            "Aired": "",
+            "FilmTitle": "Furya",
+            "FilmUrl": "https://www.imdb.com/title/tt5218270/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "Groot (voice)",
+            "Aired": "2021",
+            "FilmTitle": "Guardians of the Galaxy Vol. 3",
+            "FilmUrl": "https://www.imdb.com/title/tt6791350/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2022",
+            "FilmTitle": "Avatar 2",
+            "FilmUrl": "https://www.imdb.com/title/tt1630029/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "2021",
+            "FilmTitle": "F9",
+            "FilmUrl": "https://www.imdb.com/title/tt5433138/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Dominic (voice)",
+            "Aired": "2020",
+            "FilmTitle": "Fast and Furious Crossroads",
+            "FilmUrl": "https://www.imdb.com/title/tt11468188/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "Bloodshot",
+            "Aired": "2020",
+            "FilmTitle": "Bloodshot",
+            "FilmUrl": "https://www.imdb.com/title/tt1634106/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Dom Toretto",
+            "Aired": "2019",
+            "FilmTitle": "Fast & Furious Spy Racers",
+            "FilmUrl": "https://www.imdb.com/title/tt8322592/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Groot (voice)",
+            "Aired": "2019",
+            "FilmTitle": "Avengers: Endgame",
+            "FilmUrl": "https://www.imdb.com/title/tt4154796/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "Baby Groot (voice)",
+            "Aired": "2018",
+            "FilmTitle": "Ralph Breaks the Internet",
+            "FilmUrl": "https://www.imdb.com/title/tt5848272/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Groot (voice)",
+            "Aired": "2018",
+            "FilmTitle": "Avengers: Infinity War",
+            "FilmUrl": "https://www.imdb.com/title/tt4154756/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Baby Groot (voice)",
+            "Aired": "2017",
+            "FilmTitle": "Disneyland Resort: Guardians of the Galaxy - Mission Breakout!",
+            "FilmUrl": "https://www.imdb.com/title/tt7134278/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Baby Groot (voice)",
+            "Aired": "2017",
+            "FilmTitle": "Guardians of the Galaxy Vol. 2",
+            "FilmUrl": "https://www.imdb.com/title/tt3896198/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Dom",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt4630562/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Xander Cage",
+            "Aired": "2017",
+            "FilmTitle": "xXx: Return of Xander Cage",
+            "FilmUrl": "https://www.imdb.com/title/tt1293847/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Shroom",
+            "Aired": "2016",
+            "FilmTitle": "Billy Lynn's Long Halftime Walk",
+            "FilmUrl": "https://www.imdb.com/title/tt2513074/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Kaulder",
+            "Aired": "2015",
+            "FilmTitle": "CelebriD&D",
+            "FilmUrl": "https://www.imdb.com/title/tt7537668/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Kaulder",
+            "Aired": "2015",
+            "FilmTitle": "D&Diesel",
+            "FilmUrl": "https://www.imdb.com/title/tt5540044/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Kaulder",
+            "Aired": "2015",
+            "FilmTitle": "The Last Witch Hunter",
+            "FilmUrl": "https://www.imdb.com/title/tt1618442/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "2015",
+            "FilmTitle": "Fast & Furious: Supercharged",
+            "FilmUrl": "https://www.imdb.com/title/tt3757982/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "Dom Toretto",
+            "Aired": "2015",
+            "FilmTitle": "Wiz Khalifa Ft. Charlie Puth: See You Again",
+            "FilmUrl": "https://www.imdb.com/title/tt6706132/?ref_=nm_flmg_act_21"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7",
+            "FilmUrl": "https://www.imdb.com/title/tt2820852/?ref_=nm_flmg_act_22"
+        },
+        {
+            "CharacterName": "Groot (voice)",
+            "Aired": "2014",
+            "FilmTitle": "Guardians of the Galaxy",
+            "FilmUrl": "https://www.imdb.com/title/tt2015381/?ref_=nm_flmg_act_23"
+        },
+        {
+            "CharacterName": "Riddick",
+            "Aired": "2013",
+            "FilmTitle": "Riddick",
+            "FilmUrl": "https://www.imdb.com/title/tt1411250/?ref_=nm_flmg_act_24"
+        },
+        {
+            "CharacterName": "Riddick (voice)",
+            "Aired": "2013",
+            "FilmTitle": "Riddick: Blindsided",
+            "FilmUrl": "https://www.imdb.com/title/tt3095416/?ref_=nm_flmg_act_25"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "2013",
+            "FilmTitle": "Furious 6",
+            "FilmUrl": "https://www.imdb.com/title/tt1905041/?ref_=nm_flmg_act_26"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five",
+            "FilmUrl": "https://www.imdb.com/title/tt1596343/?ref_=nm_flmg_act_27"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "2009",
+            "FilmTitle": "Los Bandoleros",
+            "FilmUrl": "https://www.imdb.com/title/tt1538503/?ref_=nm_flmg_act_28"
+        },
+        {
+            "CharacterName": "Richard B. Riddick (voice)",
+            "Aired": "2009",
+            "FilmTitle": "The Chronicles of Riddick: Assault on Dark Athena",
+            "FilmUrl": "https://www.imdb.com/title/tt1218336/?ref_=nm_flmg_act_29"
+        },
+        {
+            "CharacterName": "Milo Burik (voice)",
+            "Aired": "2009",
+            "FilmTitle": "Wheelman",
+            "FilmUrl": "https://www.imdb.com/title/tt1418290/?ref_=nm_flmg_act_30"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "2009",
+            "FilmTitle": "Fast & Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt1013752/?ref_=nm_flmg_act_31"
+        },
+        {
+            "CharacterName": "Toorop",
+            "Aired": "2008",
+            "FilmTitle": "Babylon A.D.",
+            "FilmUrl": "https://www.imdb.com/title/tt0364970/?ref_=nm_flmg_act_32"
+        },
+        {
+            "CharacterName": "Dominic Toretto (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "The Fast and the Furious: Tokyo Drift",
+            "FilmUrl": "https://www.imdb.com/title/tt0463985/?ref_=nm_flmg_act_33"
+        },
+        {
+            "CharacterName": "Jackie DiNorscio",
+            "Aired": "2006",
+            "FilmTitle": "Find Me Guilty",
+            "FilmUrl": "https://www.imdb.com/title/tt0419749/?ref_=nm_flmg_act_34"
+        },
+        {
+            "CharacterName": "Shane Wolfe",
+            "Aired": "2005",
+            "FilmTitle": "The Pacifier",
+            "FilmUrl": "https://www.imdb.com/title/tt0395699/?ref_=nm_flmg_act_35"
+        },
+        {
+            "CharacterName": "Richard B. Riddick",
+            "Aired": "2005",
+            "FilmTitle": "GameStar: Die Redaktion",
+            "FilmUrl": "https://www.imdb.com/title/tt4967358/?ref_=nm_flmg_act_36"
+        },
+        {
+            "CharacterName": "Richard B. Riddick (voice)",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick: Dark Fury",
+            "FilmUrl": "https://www.imdb.com/title/tt0407658/?ref_=nm_flmg_act_37"
+        },
+        {
+            "CharacterName": "Riddick",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick",
+            "FilmUrl": "https://www.imdb.com/title/tt0296572/?ref_=nm_flmg_act_38"
+        },
+        {
+            "CharacterName": "Richard B. Riddick (voice)",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick: Escape from Butcher Bay",
+            "FilmUrl": "https://www.imdb.com/title/tt0405833/?ref_=nm_flmg_act_39"
+        },
+        {
+            "CharacterName": "Sean Vetter",
+            "Aired": "2003",
+            "FilmTitle": "A Man Apart",
+            "FilmUrl": "https://www.imdb.com/title/tt0266465/?ref_=nm_flmg_act_40"
+        },
+        {
+            "CharacterName": "Xander Cage",
+            "Aired": "2002",
+            "FilmTitle": "xXx",
+            "FilmUrl": "https://www.imdb.com/title/tt0295701/?ref_=nm_flmg_act_41"
+        },
+        {
+            "CharacterName": "Taylor Reese",
+            "Aired": "2001",
+            "FilmTitle": "Knockaround Guys",
+            "FilmUrl": "https://www.imdb.com/title/tt0211465/?ref_=nm_flmg_act_42"
+        },
+        {
+            "CharacterName": "Dominic Toretto",
+            "Aired": "2001",
+            "FilmTitle": "The Fast and the Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt0232500/?ref_=nm_flmg_act_43"
+        },
+        {
+            "CharacterName": "Richard B. Riddick",
+            "Aired": "2000",
+            "FilmTitle": "Pitch Black",
+            "FilmUrl": "https://www.imdb.com/title/tt0134847/?ref_=nm_flmg_act_44"
+        },
+        {
+            "CharacterName": "Chris Varick",
+            "Aired": "2000",
+            "FilmTitle": "Boiler Room",
+            "FilmUrl": "https://www.imdb.com/title/tt0181984/?ref_=nm_flmg_act_45"
+        },
+        {
+            "CharacterName": "Richard B. Riddick",
+            "Aired": "2000",
+            "FilmTitle": "The Chronicles of Riddick: Into Pitch Black",
+            "FilmUrl": "https://www.imdb.com/title/tt0366620/?ref_=nm_flmg_act_46"
+        },
+        {
+            "CharacterName": "The Iron Giant (voice)",
+            "Aired": "1999",
+            "FilmTitle": "The Iron Giant",
+            "FilmUrl": "https://www.imdb.com/title/tt0129167/?ref_=nm_flmg_act_47"
+        },
+        {
+            "CharacterName": "Private Caparzo",
+            "Aired": "1998",
+            "FilmTitle": "Saving Private Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0120815/?ref_=nm_flmg_act_48"
+        },
+        {
+            "CharacterName": "Rick",
+            "Aired": "1997",
+            "FilmTitle": "Strays",
+            "FilmUrl": "https://www.imdb.com/title/tt0149171/?ref_=nm_flmg_act_49"
+        },
+        {
+            "CharacterName": "Mike",
+            "Aired": "1995",
+            "FilmTitle": "Multi-Facial",
+            "FilmUrl": "https://www.imdb.com/title/tt0226168/?ref_=nm_flmg_act_50"
+        },
+        {
+            "CharacterName": "Hospital Orderly (uncredited)",
+            "Aired": "1990",
+            "FilmTitle": "Awakenings",
+            "FilmUrl": "https://www.imdb.com/title/tt0099077/?ref_=nm_flmg_act_51"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2012",
+            "FilmTitle": "The Ropes",
+            "FilmUrl": "https://www.imdb.com/title/tt2084685/?ref_=nm_flmg_dr_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Los Bandoleros",
+            "FilmUrl": "https://www.imdb.com/title/tt1538503/?ref_=nm_flmg_dr_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2000",
+            "FilmTitle": "Short Diversity 5",
+            "FilmUrl": "https://www.imdb.com/title/tt0371214/?ref_=nm_flmg_dr_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1997",
+            "FilmTitle": "Strays",
+            "FilmUrl": "https://www.imdb.com/title/tt0149171/?ref_=nm_flmg_dr_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1995",
+            "FilmTitle": "Multi-Facial",
+            "FilmUrl": "https://www.imdb.com/title/tt0226168/?ref_=nm_flmg_dr_5"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2012",
+            "FilmTitle": "The Ropes",
+            "FilmUrl": "https://www.imdb.com/title/tt2084685/?ref_=nm_flmg_wr_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Los Bandoleros",
+            "FilmUrl": "https://www.imdb.com/title/tt1538503/?ref_=nm_flmg_wr_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1997",
+            "FilmTitle": "Strays",
+            "FilmUrl": "https://www.imdb.com/title/tt0149171/?ref_=nm_flmg_wr_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1995",
+            "FilmTitle": "Multi-Facial",
+            "FilmUrl": "https://www.imdb.com/title/tt0226168/?ref_=nm_flmg_wr_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "The Chronicles of Riddick: Assault on Dark Athena",
+            "FilmUrl": "https://www.imdb.com/title/tt1218336/?ref_=nm_flmg_msc_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick: Escape from Butcher Bay",
+            "FilmUrl": "https://www.imdb.com/title/tt0405833/?ref_=nm_flmg_msc_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2018",
+            "FilmTitle": "The Children",
+            "FilmUrl": "https://www.imdb.com/title/tt9011042/?ref_=nm_flmg_tk_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2014/I",
+            "FilmTitle": "Typecast",
+            "FilmUrl": "https://www.imdb.com/title/tt3141726/?ref_=nm_flmg_tk_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2014",
+            "FilmTitle": "Marvel Studios: Assembling a Universe",
+            "FilmUrl": "https://www.imdb.com/title/tt3591568/?ref_=nm_flmg_tk_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2013",
+            "FilmTitle": "Fast & Furious 6: Take Control",
+            "FilmUrl": "https://www.imdb.com/title/tt3401738/?ref_=nm_flmg_tk_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2013",
+            "FilmTitle": "Micro SD",
+            "FilmUrl": "https://www.imdb.com/title/tt2978780/?ref_=nm_flmg_tk_5"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Fast & Furious: Getting the Gang Back Together",
+            "FilmUrl": "https://www.imdb.com/title/tt5527604/?ref_=nm_flmg_tk_6"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "The Chronicles of Riddick: Assault on Dark Athena",
+            "FilmUrl": "https://www.imdb.com/title/tt1218336/?ref_=nm_flmg_tk_7"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Making the 'Fast' Franchise",
+            "FilmUrl": "https://www.imdb.com/title/tt5527220/?ref_=nm_flmg_tk_8"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "The Fast and the Furious: Quarter Mile at a Time",
+            "FilmUrl": "https://www.imdb.com/title/tt5267236/?ref_=nm_flmg_tk_9"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2008",
+            "FilmTitle": "The Assassin",
+            "FilmUrl": "https://www.imdb.com/title/tt1287318/?ref_=nm_flmg_tk_10"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick: Escape from Butcher Bay",
+            "FilmUrl": "https://www.imdb.com/title/tt0405833/?ref_=nm_flmg_tk_11"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Bisping",
+            "FilmUrl": "https://www.imdb.com/title/tt9690830/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Hollywood Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt8638066/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2020",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2020",
+            "FilmTitle": "IMDb on the Scene - Interviews",
+            "FilmUrl": "https://www.imdb.com/title/tt8596744/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2020",
+            "FilmTitle": "The Late Late Show with James Corden",
+            "FilmUrl": "https://www.imdb.com/title/tt4280606/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self / Self - Furious 7",
+            "Aired": "2009-2020",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2020",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2009-2020",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "WWE's the Bump",
+            "FilmUrl": "https://www.imdb.com/title/tt11981530/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "The Road to F9: Fast & Furious Fan Fest",
+            "FilmUrl": "https://www.imdb.com/title/tt11723710/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013-2020",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "The Game Awards 2019",
+            "FilmUrl": "https://www.imdb.com/title/tt11464910/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "The British Academy Britannia Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt11186946/?ref_=nm_flmg_slf_14"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "This Week in Marvel",
+            "FilmUrl": "https://www.imdb.com/title/tt9836386/?ref_=nm_flmg_slf_15"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Red Carpet Report",
+            "FilmUrl": "https://www.imdb.com/title/tt5611414/?ref_=nm_flmg_slf_16"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Marvel Studios' Avengers: Endgame LIVE Red Carpet World Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10240638/?ref_=nm_flmg_slf_17"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "50th NAACP Image Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9542590/?ref_=nm_flmg_slf_18"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2018",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_slf_19"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2018",
+            "FilmTitle": "Good Morning Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3644198/?ref_=nm_flmg_slf_20"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "One Voice Somos Live: A Concert for Disaster Relief",
+            "FilmUrl": "https://www.imdb.com/title/tt7516298/?ref_=nm_flmg_slf_21"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: All About the Stunts",
+            "FilmUrl": "https://www.imdb.com/title/tt7144116/?ref_=nm_flmg_slf_22"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: Behind-The-Scenes Family",
+            "FilmUrl": "https://www.imdb.com/title/tt7145196/?ref_=nm_flmg_slf_23"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: Car Culture",
+            "FilmUrl": "https://www.imdb.com/title/tt7144128/?ref_=nm_flmg_slf_24"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: Heating Up Iceland",
+            "FilmUrl": "https://www.imdb.com/title/tt7145180/?ref_=nm_flmg_slf_25"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: How to Stop Toretto",
+            "FilmUrl": "https://www.imdb.com/title/tt7145182/?ref_=nm_flmg_slf_26"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: In the Family",
+            "FilmUrl": "https://www.imdb.com/title/tt7145172/?ref_=nm_flmg_slf_27"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: The Cuban Spirit",
+            "FilmUrl": "https://www.imdb.com/title/tt7143920/?ref_=nm_flmg_slf_28"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: Touring the Toy Shop",
+            "FilmUrl": "https://www.imdb.com/title/tt7145190/?ref_=nm_flmg_slf_29"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Fate of the Furious: Wrecking Ball",
+            "FilmUrl": "https://www.imdb.com/title/tt7145184/?ref_=nm_flmg_slf_30"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "I Live for This Sh#T!: Stunts",
+            "FilmUrl": "https://www.imdb.com/title/tt7196318/?ref_=nm_flmg_slf_31"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Indelible Ink: Tattoos",
+            "FilmUrl": "https://www.imdb.com/title/tt7196322/?ref_=nm_flmg_slf_32"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Opening Pandora's Box: On Location",
+            "FilmUrl": "https://www.imdb.com/title/tt7196314/?ref_=nm_flmg_slf_33"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Open Ocean Motorcycle Chase",
+            "FilmUrl": "https://www.imdb.com/title/tt7196334/?ref_=nm_flmg_slf_34"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Rebels, Tyrants & Ghosts: The Cast",
+            "FilmUrl": "https://www.imdb.com/title/tt7196302/?ref_=nm_flmg_slf_35"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Xander Zone: Post-Production",
+            "FilmUrl": "https://www.imdb.com/title/tt7196330/?ref_=nm_flmg_slf_36"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Third Time's the Charm: Xander Returns",
+            "FilmUrl": "https://www.imdb.com/title/tt7196294/?ref_=nm_flmg_slf_37"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2017",
+            "FilmTitle": "2017 MTV Movie & TV Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt6998250/?ref_=nm_flmg_slf_38"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2017",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_slf_39"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2005-2017",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_40"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Le gros journal",
+            "FilmUrl": "https://www.imdb.com/title/tt6039060/?ref_=nm_flmg_slf_41"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2003-2017",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_42"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2017",
+            "FilmTitle": "God kveld Norge",
+            "FilmUrl": "https://www.imdb.com/title/tt0278859/?ref_=nm_flmg_slf_43"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2014-2017",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_44"
+        },
+        {
+            "CharacterName": "Self - interviewee",
+            "Aired": "2017",
+            "FilmTitle": "FC FaceTime",
+            "FilmUrl": "https://www.imdb.com/title/tt6573786/?ref_=nm_flmg_slf_45"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "xXx: Origins of a Renegade",
+            "FilmUrl": "https://www.imdb.com/title/tt6610892/?ref_=nm_flmg_slf_46"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The Noite com Danilo Gentili",
+            "FilmUrl": "https://www.imdb.com/title/tt3612488/?ref_=nm_flmg_slf_47"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "Game4Paul",
+            "FilmUrl": "https://www.imdb.com/title/tt6170014/?ref_=nm_flmg_slf_48"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2016",
+            "FilmTitle": "2016 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5556144/?ref_=nm_flmg_slf_49"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "It's Not You, It's Men",
+            "FilmUrl": "https://www.imdb.com/title/tt5571684/?ref_=nm_flmg_slf_50"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Accepting Award",
+            "Aired": "2016",
+            "FilmTitle": "The 42nd Annual People's Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5344290/?ref_=nm_flmg_slf_51"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2005-2015",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_52"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2015",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_53"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2015",
+            "FilmTitle": "Weekend Ticket",
+            "FilmUrl": "https://www.imdb.com/title/tt2787918/?ref_=nm_flmg_slf_54"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: A Home in Ruins",
+            "FilmUrl": "https://www.imdb.com/title/tt6736266/?ref_=nm_flmg_slf_55"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: Back to the Starting Line",
+            "FilmUrl": "https://www.imdb.com/title/tt5273526/?ref_=nm_flmg_slf_56"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: Flying Cars",
+            "FilmUrl": "https://www.imdb.com/title/tt5273600/?ref_=nm_flmg_slf_57"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: From Pre-Viz to Final",
+            "FilmUrl": "https://www.imdb.com/title/tt6736462/?ref_=nm_flmg_slf_58"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: Inside the Fight",
+            "FilmUrl": "https://www.imdb.com/title/tt5273558/?ref_=nm_flmg_slf_59"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: Jeff Imada, Up Close and Personal",
+            "FilmUrl": "https://www.imdb.com/title/tt6737452/?ref_=nm_flmg_slf_60"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: Race Wars",
+            "FilmUrl": "https://www.imdb.com/title/tt5273616/?ref_=nm_flmg_slf_61"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: Shooting in Abu Dhabi",
+            "FilmUrl": "https://www.imdb.com/title/tt6737430/?ref_=nm_flmg_slf_62"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Making of Fast & Furious Supercharged Ride",
+            "FilmUrl": "https://www.imdb.com/title/tt5273700/?ref_=nm_flmg_slf_63"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2015",
+            "FilmTitle": "The Cars of Furious 7",
+            "FilmUrl": "https://www.imdb.com/title/tt5273596/?ref_=nm_flmg_slf_64"
+        },
+        {
+            "CharacterName": "Self - Accepting Award",
+            "Aired": "2015",
+            "FilmTitle": "Teen Choice Awards 2015",
+            "FilmUrl": "https://www.imdb.com/title/tt4922522/?ref_=nm_flmg_slf_65"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Presenter",
+            "Aired": "2015",
+            "FilmTitle": "2015 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt4577398/?ref_=nm_flmg_slf_66"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2015",
+            "FilmTitle": "The Talk",
+            "FilmUrl": "https://www.imdb.com/title/tt1740718/?ref_=nm_flmg_slf_67"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Fast and Furious: Back Under the Hood",
+            "FilmUrl": "https://www.imdb.com/title/tt5933234/?ref_=nm_flmg_slf_68"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Fast and Furious: Cast Favorites",
+            "FilmUrl": "https://www.imdb.com/title/tt5932982/?ref_=nm_flmg_slf_69"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Fast and Furious: Fast Cars!",
+            "FilmUrl": "https://www.imdb.com/title/tt5933142/?ref_=nm_flmg_slf_70"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Fast and Furious: Mapping Fast & Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt5933302/?ref_=nm_flmg_slf_71"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Fast and Furious: Restrospective",
+            "FilmUrl": "https://www.imdb.com/title/tt5932974/?ref_=nm_flmg_slf_72"
+        },
+        {
+            "CharacterName": "Self - Sk\u00e5despelare",
+            "Aired": "2015",
+            "FilmTitle": "Hitl\u00e5tens historia",
+            "FilmUrl": "https://www.imdb.com/title/tt6273058/?ref_=nm_flmg_slf_73"
+        },
+        {
+            "CharacterName": "Narrator (2015)",
+            "Aired": "2015",
+            "FilmTitle": "Snoop & Son: A Dad's Dream",
+            "FilmUrl": "https://www.imdb.com/title/tt4300004/?ref_=nm_flmg_slf_74"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Guide to the Galaxy with James Gunn",
+            "FilmUrl": "https://www.imdb.com/title/tt4311066/?ref_=nm_flmg_slf_75"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Intergalactic Visual Effects of 'Guardians of the Galaxy'",
+            "FilmUrl": "https://www.imdb.com/title/tt5286008/?ref_=nm_flmg_slf_76"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Sit Down with the Stars",
+            "FilmUrl": "https://www.imdb.com/title/tt4369244/?ref_=nm_flmg_slf_77"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Journey to Sundance",
+            "FilmUrl": "https://www.imdb.com/title/tt1302010/?ref_=nm_flmg_slf_78"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "IMDb: What to Watch",
+            "FilmUrl": "https://www.imdb.com/title/tt3412000/?ref_=nm_flmg_slf_79"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Marvel Studios: Assembling a Universe",
+            "FilmUrl": "https://www.imdb.com/title/tt3591568/?ref_=nm_flmg_slf_80"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "45th NAACP Image Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3593708/?ref_=nm_flmg_slf_81"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Riddick: Meet the Mercs",
+            "FilmUrl": "https://www.imdb.com/title/tt5375012/?ref_=nm_flmg_slf_82"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Riddick: The Twohy Touch",
+            "FilmUrl": "https://www.imdb.com/title/tt5375048/?ref_=nm_flmg_slf_83"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Vin's Riddick",
+            "FilmUrl": "https://www.imdb.com/title/tt5375038/?ref_=nm_flmg_slf_84"
+        },
+        {
+            "CharacterName": "Self - Interviewee / Actor",
+            "Aired": "2013",
+            "FilmTitle": "Close Up",
+            "FilmUrl": "https://www.imdb.com/title/tt2132638/?ref_=nm_flmg_slf_85"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Fast & Furious 6 Special",
+            "FilmUrl": "https://www.imdb.com/title/tt2936266/?ref_=nm_flmg_slf_86"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2013",
+            "FilmTitle": "Fast & Furious 6: Take Control",
+            "FilmUrl": "https://www.imdb.com/title/tt3401738/?ref_=nm_flmg_slf_87"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2013",
+            "FilmTitle": "Hand to Hand Fury",
+            "FilmUrl": "https://www.imdb.com/title/tt3401714/?ref_=nm_flmg_slf_88"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2013",
+            "FilmTitle": "It's All About the Cars",
+            "FilmUrl": "https://www.imdb.com/title/tt3402158/?ref_=nm_flmg_slf_89"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2013",
+            "FilmTitle": "Planes, Tanks and Automobiles",
+            "FilmUrl": "https://www.imdb.com/title/tt3402154/?ref_=nm_flmg_slf_90"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2013",
+            "FilmTitle": "The Making of Fast & Furious 6",
+            "FilmUrl": "https://www.imdb.com/title/tt3402104/?ref_=nm_flmg_slf_91"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "The Late Late Show with Craig Ferguson",
+            "FilmUrl": "https://www.imdb.com/title/tt0437729/?ref_=nm_flmg_slf_92"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Young Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt4034410/?ref_=nm_flmg_slf_93"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Nerd HQ",
+            "FilmUrl": "https://www.imdb.com/title/tt3109382/?ref_=nm_flmg_slf_94"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Guys Choice Awards 2013",
+            "FilmUrl": "https://www.imdb.com/title/tt3199440/?ref_=nm_flmg_slf_95"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011-2013",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_slf_96"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Vivir de cine",
+            "FilmUrl": "https://www.imdb.com/title/tt3110888/?ref_=nm_flmg_slf_97"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "Conan",
+            "FilmUrl": "https://www.imdb.com/title/tt1637574/?ref_=nm_flmg_slf_98"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2001-2013",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_99"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "The Jonathan Ross Show",
+            "FilmUrl": "https://www.imdb.com/title/tt2049323/?ref_=nm_flmg_slf_100"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998-2013",
+            "FilmTitle": "HBO First Look",
+            "FilmUrl": "https://www.imdb.com/title/tt0318220/?ref_=nm_flmg_slf_101"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2013",
+            "FilmTitle": "2013 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2806252/?ref_=nm_flmg_slf_102"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Fucking Kassovitz",
+            "FilmUrl": "https://www.imdb.com/title/tt2114385/?ref_=nm_flmg_slf_103"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: A New Set of Wheels",
+            "FilmUrl": "https://www.imdb.com/title/tt5528292/?ref_=nm_flmg_slf_104"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: Brian O'Conner, from Fed to Con",
+            "FilmUrl": "https://www.imdb.com/title/tt5527696/?ref_=nm_flmg_slf_105"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: Dom's Journey",
+            "FilmUrl": "https://www.imdb.com/title/tt5527692/?ref_=nm_flmg_slf_106"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: Dom vs. Hobbs",
+            "FilmUrl": "https://www.imdb.com/title/tt5528298/?ref_=nm_flmg_slf_107"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: Enter Federal Agent Hobbs",
+            "FilmUrl": "https://www.imdb.com/title/tt5527704/?ref_=nm_flmg_slf_108"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: Inside the Vault Chase",
+            "FilmUrl": "https://www.imdb.com/title/tt5528322/?ref_=nm_flmg_slf_109"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: On Set with Director Justin Lin",
+            "FilmUrl": "https://www.imdb.com/title/tt5528304/?ref_=nm_flmg_slf_110"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: Reuniting the Team",
+            "FilmUrl": "https://www.imdb.com/title/tt5528288/?ref_=nm_flmg_slf_111"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: The Big Train Heist",
+            "FilmUrl": "https://www.imdb.com/title/tt5528284/?ref_=nm_flmg_slf_112"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2011",
+            "FilmTitle": "Fast Five: Tyrese TV",
+            "FilmUrl": "https://www.imdb.com/title/tt5528328/?ref_=nm_flmg_slf_113"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Bastidores",
+            "FilmUrl": "https://www.imdb.com/title/tt5989264/?ref_=nm_flmg_slf_114"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "Attack of the Show!",
+            "FilmUrl": "https://www.imdb.com/title/tt0498878/?ref_=nm_flmg_slf_115"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Cinema 3",
+            "FilmUrl": "https://www.imdb.com/title/tt0111920/?ref_=nm_flmg_slf_116"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "El hormiguero",
+            "FilmUrl": "https://www.imdb.com/title/tt0870872/?ref_=nm_flmg_slf_117"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "The 7PM Project",
+            "FilmUrl": "https://www.imdb.com/title/tt1480165/?ref_=nm_flmg_slf_118"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Fast & Furious Five Special",
+            "FilmUrl": "https://www.imdb.com/title/tt1913023/?ref_=nm_flmg_slf_119"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "CQC: Custe o Que Custar",
+            "FilmUrl": "https://www.imdb.com/title/tt1518344/?ref_=nm_flmg_slf_120"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Domingo Espetacular",
+            "FilmUrl": "https://www.imdb.com/title/tt2269211/?ref_=nm_flmg_slf_121"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Legend\u00e1rios",
+            "FilmUrl": "https://www.imdb.com/title/tt2306860/?ref_=nm_flmg_slf_122"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "P\u00e2nico na TV",
+            "FilmUrl": "https://www.imdb.com/title/tt0466518/?ref_=nm_flmg_slf_123"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "The Role That Changed My Life",
+            "FilmUrl": "https://www.imdb.com/title/tt6282514/?ref_=nm_flmg_slf_124"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009-2010",
+            "FilmTitle": "Fashion News Live",
+            "FilmUrl": "https://www.imdb.com/title/tt2195045/?ref_=nm_flmg_slf_125"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "The Movie Loft",
+            "FilmUrl": "https://www.imdb.com/title/tt1297644/?ref_=nm_flmg_slf_126"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2009",
+            "FilmTitle": "Fast & Furious: Driving School with Vin Diesel",
+            "FilmUrl": "https://www.imdb.com/title/tt5527608/?ref_=nm_flmg_slf_127"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2009",
+            "FilmTitle": "Fast & Furious: Getting the Gang Back Together",
+            "FilmUrl": "https://www.imdb.com/title/tt5527604/?ref_=nm_flmg_slf_128"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2009",
+            "FilmTitle": "Fast & Furious: Races and Chases",
+            "FilmUrl": "https://www.imdb.com/title/tt5527618/?ref_=nm_flmg_slf_129"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2009",
+            "FilmTitle": "Fast & Furious: Shooting the Big Rig Heist",
+            "FilmUrl": "https://www.imdb.com/title/tt5527616/?ref_=nm_flmg_slf_130"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2009",
+            "FilmTitle": "South of the Border: Filming in Mexico",
+            "FilmUrl": "https://www.imdb.com/title/tt5527626/?ref_=nm_flmg_slf_131"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2009",
+            "FilmTitle": "Under the Hood: Muscle Cars",
+            "FilmUrl": "https://www.imdb.com/title/tt5527596/?ref_=nm_flmg_slf_132"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Quelli che... il calcio",
+            "FilmUrl": "https://www.imdb.com/title/tt0445135/?ref_=nm_flmg_slf_133"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "Making of...",
+            "FilmUrl": "https://www.imdb.com/title/tt1332048/?ref_=nm_flmg_slf_134"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2008-2009",
+            "FilmTitle": "Up Close with Carrie Keagan",
+            "FilmUrl": "https://www.imdb.com/title/tt1434322/?ref_=nm_flmg_slf_135"
+        },
+        {
+            "CharacterName": "Self - 'Dominic'",
+            "Aired": "2009",
+            "FilmTitle": "Making the 'Fast' Franchise",
+            "FilmUrl": "https://www.imdb.com/title/tt5527220/?ref_=nm_flmg_slf_136"
+        },
+        {
+            "CharacterName": "Self - 'Dominic'",
+            "Aired": "2009",
+            "FilmTitle": "The Fast and the Furious: Dom's Charger",
+            "FilmUrl": "https://www.imdb.com/title/tt5267212/?ref_=nm_flmg_slf_137"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2009",
+            "FilmTitle": "Friday Night with Jonathan Ross",
+            "FilmUrl": "https://www.imdb.com/title/tt0299302/?ref_=nm_flmg_slf_138"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006-2009",
+            "FilmTitle": "Le grand journal de Canal+",
+            "FilmUrl": "https://www.imdb.com/title/tt0426701/?ref_=nm_flmg_slf_139"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "TV total",
+            "FilmUrl": "https://www.imdb.com/title/tt0207274/?ref_=nm_flmg_slf_140"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "Samuel L. Jackson: An American Cinematheque Tribute",
+            "FilmUrl": "https://www.imdb.com/title/tt1334557/?ref_=nm_flmg_slf_141"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2003-2008",
+            "FilmTitle": "Late Night with Conan O'Brien",
+            "FilmUrl": "https://www.imdb.com/title/tt0106052/?ref_=nm_flmg_slf_142"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Sexiest...",
+            "FilmUrl": "https://www.imdb.com/title/tt0799895/?ref_=nm_flmg_slf_143"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "The Reichen Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0780409/?ref_=nm_flmg_slf_144"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Shootout",
+            "FilmUrl": "https://www.imdb.com/title/tt0390776/?ref_=nm_flmg_slf_145"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2000-2006",
+            "FilmTitle": "The Daily Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115147/?ref_=nm_flmg_slf_146"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2003-2006",
+            "FilmTitle": "Late Show with David Letterman",
+            "FilmUrl": "https://www.imdb.com/title/tt0106053/?ref_=nm_flmg_slf_147"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "2006 Independent Spirit Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0770704/?ref_=nm_flmg_slf_148"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2005",
+            "FilmTitle": "2005 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0463853/?ref_=nm_flmg_slf_149"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "MTV Movie Awards 2005 Pre-Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0468511/?ref_=nm_flmg_slf_150"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Caiga quien caiga",
+            "FilmUrl": "https://www.imdb.com/title/tt0241090/?ref_=nm_flmg_slf_151"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "The Contender",
+            "FilmUrl": "https://www.imdb.com/title/tt0416359/?ref_=nm_flmg_slf_152"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "106 & Park",
+            "FilmUrl": "https://www.imdb.com/title/tt0350384/?ref_=nm_flmg_slf_153"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick: Creation of New Mecca",
+            "FilmUrl": "https://www.imdb.com/title/tt5374806/?ref_=nm_flmg_slf_154"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick: Riddick Rises",
+            "FilmUrl": "https://www.imdb.com/title/tt5374738/?ref_=nm_flmg_slf_155"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Vin Diesel's Guided Tour",
+            "FilmUrl": "https://www.imdb.com/title/tt6761970/?ref_=nm_flmg_slf_156"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Dark Fury: Into the Light",
+            "FilmUrl": "https://www.imdb.com/title/tt5374436/?ref_=nm_flmg_slf_157"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "From Pitch Black to the Chronicles of Riddick: Bridging the Gap",
+            "FilmUrl": "https://www.imdb.com/title/tt5372678/?ref_=nm_flmg_slf_158"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2004",
+            "FilmTitle": "2004 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0415469/?ref_=nm_flmg_slf_159"
+        },
+        {
+            "CharacterName": "Riddick",
+            "Aired": "2004",
+            "FilmTitle": "Sci-Fi Channel: The Lowdown - The Chronicles of Riddick",
+            "FilmUrl": "https://www.imdb.com/title/tt0827518/?ref_=nm_flmg_slf_160"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Pitch Black: A View Into the Dark",
+            "FilmUrl": "https://www.imdb.com/title/tt5372338/?ref_=nm_flmg_slf_161"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Pitch Black: Johns' Chase Log",
+            "FilmUrl": "https://www.imdb.com/title/tt5372340/?ref_=nm_flmg_slf_162"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "The Chronicles of Riddick: Visual Encyclopedia",
+            "FilmUrl": "https://www.imdb.com/title/tt5372346/?ref_=nm_flmg_slf_163"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "'Saving Private Ryan': Boot Camp",
+            "FilmUrl": "https://www.imdb.com/title/tt0431377/?ref_=nm_flmg_slf_164"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "'Saving Private Ryan': Miller and His Platoon",
+            "FilmUrl": "https://www.imdb.com/title/tt0427818/?ref_=nm_flmg_slf_165"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "'Saving Private Ryan': Re-Creating Omaha Beach",
+            "FilmUrl": "https://www.imdb.com/title/tt0431378/?ref_=nm_flmg_slf_166"
+        },
+        {
+            "CharacterName": "Self - Co-Host",
+            "Aired": "2003",
+            "FilmTitle": "MTV Europe Music Awards 2003",
+            "FilmUrl": "https://www.imdb.com/title/tt0386607/?ref_=nm_flmg_slf_167"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "Tinseltown TV",
+            "FilmUrl": "https://www.imdb.com/title/tt0376434/?ref_=nm_flmg_slf_168"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "34th NAACP Image Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0402000/?ref_=nm_flmg_slf_169"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Designing the World of 'xXx'",
+            "FilmUrl": "https://www.imdb.com/title/tt5514476/?ref_=nm_flmg_slf_170"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Player$",
+            "FilmUrl": "https://www.imdb.com/title/tt0360301/?ref_=nm_flmg_slf_171"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "xaXx: A Filmmaker's Diary",
+            "FilmUrl": "https://www.imdb.com/title/tt0339926/?ref_=nm_flmg_slf_172"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "VH1 Big in 2002 Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0340415/?ref_=nm_flmg_slf_173"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "RI:SE",
+            "FilmUrl": "https://www.imdb.com/title/tt0317016/?ref_=nm_flmg_slf_174"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001-2002",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_slf_175"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Hyper show",
+            "FilmUrl": "https://www.imdb.com/title/tt0369119/?ref_=nm_flmg_slf_176"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2001-2002",
+            "FilmTitle": "The Late Late Show with Craig Kilborn",
+            "FilmUrl": "https://www.imdb.com/title/tt0192906/?ref_=nm_flmg_slf_177"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Starz on the Set: 'xXx'",
+            "FilmUrl": "https://www.imdb.com/title/tt0844343/?ref_=nm_flmg_slf_178"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "2002",
+            "FilmTitle": "2002 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0324947/?ref_=nm_flmg_slf_179"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Rank",
+            "FilmUrl": "https://www.imdb.com/title/tt0340474/?ref_=nm_flmg_slf_180"
+        },
+        {
+            "CharacterName": "Self - 'Dominic'",
+            "Aired": "2002",
+            "FilmTitle": "The Making of 'The Fast and the Furious'",
+            "FilmUrl": "https://www.imdb.com/title/tt5267184/?ref_=nm_flmg_slf_181"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "Playboy Exposed: Playboy Mansion Parties Uncensored",
+            "FilmUrl": "https://www.imdb.com/title/tt0838191/?ref_=nm_flmg_slf_182"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "+ de cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt0302066/?ref_=nm_flmg_slf_183"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "Young Hollywood Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0358780/?ref_=nm_flmg_slf_184"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000",
+            "FilmTitle": "Raveworld: 'Pitch Black' Event Webcast",
+            "FilmUrl": "https://www.imdb.com/title/tt5372352/?ref_=nm_flmg_slf_185"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000",
+            "FilmTitle": "The Making of 'Pitch Black'",
+            "FilmUrl": "https://www.imdb.com/title/tt5372334/?ref_=nm_flmg_slf_186"
+        },
+        {
+            "CharacterName": "Self - Host",
+            "Aired": "2000",
+            "FilmTitle": "The Making of 'The Iron Giant'",
+            "FilmUrl": "https://www.imdb.com/title/tt0299020/?ref_=nm_flmg_slf_187"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000",
+            "FilmTitle": "The Panel",
+            "FilmUrl": "https://www.imdb.com/title/tt0140756/?ref_=nm_flmg_slf_188"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000",
+            "FilmTitle": "2000 Blockbuster Entertainment Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0343328/?ref_=nm_flmg_slf_189"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998",
+            "FilmTitle": "Into the Breach: 'Saving Private Ryan'",
+            "FilmUrl": "https://www.imdb.com/title/tt0160410/?ref_=nm_flmg_slf_190"
+        },
+        {
+            "Aired": "1984",
+            "FilmTitle": "Breakin' in the USA: Break Dancing and Electric Boogie Taught by the Pros",
+            "FilmUrl": "https://www.imdb.com/title/tt1880937/?ref_=nm_flmg_slf_191"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2020",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015-2019",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Hollywood's Stories",
+            "FilmUrl": "https://www.imdb.com/title/tt11427372/?ref_=nm_flmg_arf_3"
+        },
+        {
+            "CharacterName": "Clients (as Groot)",
+            "Aired": "2017",
+            "FilmTitle": "Hell's Club Part 2. Another Night",
+            "FilmUrl": "https://www.imdb.com/title/tt7808628/?ref_=nm_flmg_arf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_arf_5"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_arf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_arf_7"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: Snatch and Grab",
+            "FilmUrl": "https://www.imdb.com/title/tt5273608/?ref_=nm_flmg_arf_8"
+        },
+        {
+            "CharacterName": "Self - 'Dominic Toretto' / Producer",
+            "Aired": "2015",
+            "FilmTitle": "Furious 7: Tower Jumps",
+            "FilmUrl": "https://www.imdb.com/title/tt5273612/?ref_=nm_flmg_arf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Inside Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt0166442/?ref_=nm_flmg_arf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2014",
+            "FilmTitle": "Chelsea Lately",
+            "FilmUrl": "https://www.imdb.com/title/tt1002838/?ref_=nm_flmg_arf_11"
+        },
+        {
+            "CharacterName": "Riddick / Dominic Toretto",
+            "Aired": "2013",
+            "FilmTitle": "Movie Guide",
+            "FilmUrl": "https://www.imdb.com/title/tt2841688/?ref_=nm_flmg_arf_12"
+        },
+        {
+            "CharacterName": "Pvt. Adrian Carpazzo / Taylor Reese",
+            "Aired": "2006",
+            "FilmTitle": "Headline News",
+            "FilmUrl": "https://www.imdb.com/title/tt0256555/?ref_=nm_flmg_arf_13"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Best Week Ever with Paul F. Tompkins",
+            "FilmUrl": "https://www.imdb.com/title/tt0405520/?ref_=nm_flmg_arf_14"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2005",
+            "FilmTitle": "The 77th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0429487/?ref_=nm_flmg_arf_15"
+        },
+        {
+            "CharacterName": "Dominic Toretto (uncredited)",
+            "Aired": "2003",
+            "FilmTitle": "Turbo Charged Prelude to 2 Fast 2 Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt2055789/?ref_=nm_flmg_arf_16"
+        }
+    ],
+    "AwardsWins": 7,
+    "AwardNominations": 36
+}

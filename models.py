@@ -1,5 +1,6 @@
 from typing import List, Dict
 from types import SimpleNamespace
+import json
 
 class Film:
     FilmTitle: str = None
@@ -24,7 +25,8 @@ class Film:
 
 class CelebRole:
     FilmTitle: str = None
-    Year: int = None
+    FilmUrl: str = None
+    Year: str = None
     Role: str = None
     CharacterName: str = None
 
@@ -51,13 +53,17 @@ class Celeb:
     Location: str = None
     Rank: int = None
     DomesticBoxOfficeRevenue: int = None
-    NumMovies: int = 0
     AverageDomesticBoxOfficeRevenue: int = None
-    BestKnownAs: str = None
     LocalDataSourcePath: str = None
     Trademark: str = None
     DataSourceUrl: str = None
     AstrologicalSign: str = None
-    Films: List[Film] = None
+    AwardsUrl: str = None
+    AwardNominations: int = None
+    AwardsWins: int = None
+    # Films: List[Film] = None
     Roles: List[CelebRole] = None
-    Award: List[CelebAward] = None
+    # Awards: List[CelebAward] = None
+
+    def toJson(self, indent=0):
+        return json.dumps(self, default=lambda o: o.__dict__, indent=indent)

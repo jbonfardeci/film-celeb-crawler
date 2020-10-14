@@ -1,0 +1,1272 @@
+{
+    "Rank": 8,
+    "FullName": "Chris Hemsworth",
+    "DomesticBoxOfficeRevenue": 3959570662,
+    "AverageDomesticBoxOfficeRevenue": 158382826,
+    "LocalDataSourcePath": "./html/imdb_profiles/ChrisHemsworth.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "DOB": "1983-8-11",
+    "BornIn": "Melbourne, Victoria, Australia",
+    "Gender": "Male",
+    "Height": 1.9,
+    "AstrologicalSign": "Leo",
+    "Trademark": "Deep resonant voice",
+    "Roles": [
+        {
+            "CharacterName": "Tyler Rake",
+            "Aired": "",
+            "FilmTitle": "Extraction 2",
+            "FilmUrl": "https://www.imdb.com/title/tt12263384/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "Terry Bollea / Hulk Hogan",
+            "Aired": "",
+            "FilmTitle": "Untitled Hulk Hogan Biopic",
+            "FilmUrl": "https://www.imdb.com/title/tt9817210/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2022",
+            "FilmTitle": "Thor: Love and Thunder",
+            "FilmUrl": "https://www.imdb.com/title/tt10648342/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2021",
+            "FilmTitle": "What If...?",
+            "FilmUrl": "https://www.imdb.com/title/tt10168312/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "Aunt Sponge",
+            "Aired": "2020",
+            "FilmTitle": "James and the Giant Peach with Taika and Friends",
+            "FilmUrl": "https://www.imdb.com/title/tt13168898/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Tyler Rake",
+            "Aired": "2020",
+            "FilmTitle": "Extraction",
+            "FilmUrl": "https://www.imdb.com/title/tt8936646/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "Chris Hemsworth",
+            "Aired": "2019",
+            "FilmTitle": "Jay and Silent Bob Reboot",
+            "FilmUrl": "https://www.imdb.com/title/tt6521876/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Agent H",
+            "Aired": "2019",
+            "FilmTitle": "Men in Black: International",
+            "FilmUrl": "https://www.imdb.com/title/tt2283336/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2019",
+            "FilmTitle": "Avengers: Endgame",
+            "FilmUrl": "https://www.imdb.com/title/tt4154796/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "Billy Lee",
+            "Aired": "2018",
+            "FilmTitle": "Bad Times at the El Royale",
+            "FilmUrl": "https://www.imdb.com/title/tt6628394/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2018",
+            "FilmTitle": "Avengers: Infinity War",
+            "FilmUrl": "https://www.imdb.com/title/tt4154756/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Wally Jr.",
+            "Aired": "2018",
+            "FilmTitle": "Tourism Australia: Dundee - The Son of a Legend Returns Home",
+            "FilmUrl": "https://www.imdb.com/title/tt7895824/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Captain Mitch Nelson",
+            "Aired": "2018",
+            "FilmTitle": "12 Strong",
+            "FilmUrl": "https://www.imdb.com/title/tt1413492/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2017",
+            "FilmTitle": "Thor: Ragnarok",
+            "FilmUrl": "https://www.imdb.com/title/tt3501632/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Kevin (voice)",
+            "Aired": "2017",
+            "FilmTitle": "Ghostbusters VR: Now Hiring",
+            "FilmUrl": "https://www.imdb.com/title/tt6679848/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2017",
+            "FilmTitle": "Team Thor: Part 2",
+            "FilmUrl": "https://www.imdb.com/title/tt6599818/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Thor (uncredited)",
+            "Aired": "2016",
+            "FilmTitle": "Doctor Strange",
+            "FilmUrl": "https://www.imdb.com/title/tt1211837/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2016",
+            "FilmTitle": "Team Thor",
+            "FilmUrl": "https://www.imdb.com/title/tt6016776/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Kevin",
+            "Aired": "2016",
+            "FilmTitle": "Ghostbusters: Answer the Call",
+            "FilmUrl": "https://www.imdb.com/title/tt1289401/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "The Huntsman / Eric",
+            "Aired": "2016",
+            "FilmTitle": "The Huntsman: Winter's War",
+            "FilmUrl": "https://www.imdb.com/title/tt2381991/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "Owen Chase",
+            "Aired": "2015",
+            "FilmTitle": "In the Heart of the Sea",
+            "FilmUrl": "https://www.imdb.com/title/tt1390411/?ref_=nm_flmg_act_21"
+        },
+        {
+            "CharacterName": "Stone Crandall",
+            "Aired": "2015/I",
+            "FilmTitle": "Vacation",
+            "FilmUrl": "https://www.imdb.com/title/tt1524930/?ref_=nm_flmg_act_22"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2015",
+            "FilmTitle": "Avengers: Age of Ultron",
+            "FilmUrl": "https://www.imdb.com/title/tt2395427/?ref_=nm_flmg_act_23"
+        },
+        {
+            "CharacterName": "Nick Hathaway",
+            "Aired": "2015",
+            "FilmTitle": "Blackhat",
+            "FilmUrl": "https://www.imdb.com/title/tt2717822/?ref_=nm_flmg_act_24"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2013",
+            "FilmTitle": "Thor: The Dark World",
+            "FilmUrl": "https://www.imdb.com/title/tt1981115/?ref_=nm_flmg_act_25"
+        },
+        {
+            "CharacterName": "James Hunt",
+            "Aired": "2013/I",
+            "FilmTitle": "Rush",
+            "FilmUrl": "https://www.imdb.com/title/tt1979320/?ref_=nm_flmg_act_26"
+        },
+        {
+            "CharacterName": "George Kirk",
+            "Aired": "2013",
+            "FilmTitle": "Star Trek Into Darkness",
+            "FilmUrl": "https://www.imdb.com/title/tt1408101/?ref_=nm_flmg_act_27"
+        },
+        {
+            "CharacterName": "Jed Eckert",
+            "Aired": "2012",
+            "FilmTitle": "Red Dawn",
+            "FilmUrl": "https://www.imdb.com/title/tt1234719/?ref_=nm_flmg_act_28"
+        },
+        {
+            "CharacterName": "The Huntsman",
+            "Aired": "2012",
+            "FilmTitle": "Snow White and the Huntsman",
+            "FilmUrl": "https://www.imdb.com/title/tt1735898/?ref_=nm_flmg_act_29"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2012",
+            "FilmTitle": "The Avengers",
+            "FilmUrl": "https://www.imdb.com/title/tt0848228/?ref_=nm_flmg_act_30"
+        },
+        {
+            "CharacterName": "Curt",
+            "Aired": "2011",
+            "FilmTitle": "The Cabin in the Woods",
+            "FilmUrl": "https://www.imdb.com/title/tt1259521/?ref_=nm_flmg_act_31"
+        },
+        {
+            "CharacterName": "Thor (voice)",
+            "Aired": "2011",
+            "FilmTitle": "Thor: God of Thunder",
+            "FilmUrl": "https://www.imdb.com/title/tt1699199/?ref_=nm_flmg_act_32"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2011",
+            "FilmTitle": "Thor",
+            "FilmUrl": "https://www.imdb.com/title/tt0800369/?ref_=nm_flmg_act_33"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2011",
+            "FilmTitle": "Talk About It!",
+            "FilmUrl": "https://www.imdb.com/title/tt2814306/?ref_=nm_flmg_act_34"
+        },
+        {
+            "CharacterName": "Chad",
+            "Aired": "2010",
+            "FilmTitle": "Ollie Klublershturf vs. the Nazis",
+            "FilmUrl": "https://www.imdb.com/title/tt1522220/?ref_=nm_flmg_act_35"
+        },
+        {
+            "CharacterName": "Sam Phelan",
+            "Aired": "2010",
+            "FilmTitle": "Ca$h",
+            "FilmUrl": "https://www.imdb.com/title/tt1106860/?ref_=nm_flmg_act_36"
+        },
+        {
+            "CharacterName": "Kale",
+            "Aired": "2009",
+            "FilmTitle": "A Perfect Getaway",
+            "FilmUrl": "https://www.imdb.com/title/tt0971209/?ref_=nm_flmg_act_37"
+        },
+        {
+            "CharacterName": "George Kirk",
+            "Aired": "2009",
+            "FilmTitle": "Star Trek",
+            "FilmUrl": "https://www.imdb.com/title/tt0796366/?ref_=nm_flmg_act_38"
+        },
+        {
+            "CharacterName": "Kim Hyde",
+            "Aired": "2004-2007",
+            "FilmTitle": "Home and Away",
+            "FilmUrl": "https://www.imdb.com/title/tt0094481/?ref_=nm_flmg_act_39"
+        },
+        {
+            "CharacterName": "Craig",
+            "Aired": "2004",
+            "FilmTitle": "Fergus McPhail",
+            "FilmUrl": "https://www.imdb.com/title/tt0380893/?ref_=nm_flmg_act_40"
+        },
+        {
+            "CharacterName": "George Whiteside",
+            "Aired": "2003",
+            "FilmTitle": "The Saddle Club",
+            "FilmUrl": "https://www.imdb.com/title/tt0278876/?ref_=nm_flmg_act_41"
+        },
+        {
+            "CharacterName": "The Kid",
+            "Aired": "2002",
+            "FilmTitle": "Marshall Law",
+            "FilmUrl": "https://www.imdb.com/title/tt0302135/?ref_=nm_flmg_act_42"
+        },
+        {
+            "CharacterName": "Jamie Kane",
+            "Aired": "2002",
+            "FilmTitle": "Neighbours",
+            "FilmUrl": "https://www.imdb.com/title/tt0088580/?ref_=nm_flmg_act_43"
+        },
+        {
+            "CharacterName": "King Arthur",
+            "Aired": "2002",
+            "FilmTitle": "Guinevere Jones",
+            "FilmUrl": "https://www.imdb.com/title/tt0316985/?ref_=nm_flmg_act_44"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "Untitled Hulk Hogan Biopic",
+            "FilmUrl": "https://www.imdb.com/title/tt9817210/?ref_=nm_flmg_prd_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "Shark Beach",
+            "FilmUrl": "https://www.imdb.com/title/tt12833014/?ref_=nm_flmg_prd_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2020",
+            "FilmTitle": "Extraction",
+            "FilmUrl": "https://www.imdb.com/title/tt8936646/?ref_=nm_flmg_prd_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2018",
+            "FilmTitle": "Andy Irons: Kissed by God",
+            "FilmUrl": "https://www.imdb.com/title/tt8961266/?ref_=nm_flmg_prd_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2018-2019",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2014",
+            "FilmTitle": "Marvel Studios: Assembling a Universe",
+            "FilmUrl": "https://www.imdb.com/title/tt3591568/?ref_=nm_flmg_tk_1"
+        },
+        {
+            "CharacterName": "Self - Host",
+            "Aired": "2021",
+            "FilmTitle": "Shark Beach",
+            "FilmUrl": "https://www.imdb.com/title/tt12833014/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "20/20",
+            "FilmUrl": "https://www.imdb.com/title/tt0124932/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019-2020",
+            "FilmTitle": "Hollywood Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt8638066/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Beyond the Headlines: Moments that Matter",
+            "FilmUrl": "https://www.imdb.com/title/tt12844464/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Nickelodeon's Kids' Choice Awards 2020: Celebrate Together",
+            "FilmUrl": "https://www.imdb.com/title/tt11290570/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2020",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self / Self in London",
+            "Aired": "2019-2020",
+            "FilmTitle": "Entertainment Tonight Canada",
+            "FilmUrl": "https://www.imdb.com/title/tt0482346/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Self / Self - Blackhat / Self - In the Heart of the Sea / ...",
+            "Aired": "2010-2020",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2020",
+            "FilmTitle": "IMDb on the Scene - Interviews",
+            "FilmUrl": "https://www.imdb.com/title/tt8596744/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016-2020",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013-2020",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2015-2020",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self - Guest / Self / Self (segment \"Mean Tweets\")",
+            "Aired": "2011-2020",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Bayut Commercial",
+            "FilmUrl": "https://www.imdb.com/title/tt13175486/?ref_=nm_flmg_slf_14"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2019",
+            "FilmTitle": "2019 MTV Movie & TV Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt10228730/?ref_=nm_flmg_slf_15"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2011-2019",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_16"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2015-2019",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_17"
+        },
+        {
+            "CharacterName": "Self / Self - Performer / Self - The Marvel Bunch / ...",
+            "Aired": "2015-2019",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_18"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "JAM",
+            "FilmUrl": "https://www.imdb.com/title/tt7840616/?ref_=nm_flmg_slf_19"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Jacksepticeye",
+            "FilmUrl": "https://www.imdb.com/title/tt6854902/?ref_=nm_flmg_slf_20"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2012-2019",
+            "FilmTitle": "Evening Urgant",
+            "FilmUrl": "https://www.imdb.com/title/tt4264964/?ref_=nm_flmg_slf_21"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Quotidien",
+            "FilmUrl": "https://www.imdb.com/title/tt6052530/?ref_=nm_flmg_slf_22"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2019",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_23"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "This Morning",
+            "FilmUrl": "https://www.imdb.com/title/tt0181261/?ref_=nm_flmg_slf_24"
+        },
+        {
+            "CharacterName": "Self - Interviewee (segment \"Avengers\")",
+            "Aired": "2019",
+            "FilmTitle": "Dagsrevyen",
+            "FilmUrl": "https://www.imdb.com/title/tt0380100/?ref_=nm_flmg_slf_25"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Red Carpet Report",
+            "FilmUrl": "https://www.imdb.com/title/tt5611414/?ref_=nm_flmg_slf_26"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Marvel Studios' Avengers: Endgame LIVE Red Carpet World Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10240638/?ref_=nm_flmg_slf_27"
+        },
+        {
+            "CharacterName": "Self - Just One Quest1on: Avengers Edition",
+            "Aired": "2019",
+            "FilmTitle": "The Late Show with Stephen Colbert",
+            "FilmUrl": "https://www.imdb.com/title/tt3697842/?ref_=nm_flmg_slf_28"
+        },
+        {
+            "CharacterName": "Self - Actor, 'Avengers: Endgame'",
+            "Aired": "2019",
+            "FilmTitle": "Good Morning Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3644198/?ref_=nm_flmg_slf_29"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2015-2019",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_30"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Making 'Bad Times at the El Royale'",
+            "FilmUrl": "https://www.imdb.com/title/tt9546620/?ref_=nm_flmg_slf_31"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "Festival de Cine de San Sebasti\u00e1n 2018 - Gala de clausura",
+            "FilmUrl": "https://www.imdb.com/title/tt9062220/?ref_=nm_flmg_slf_32"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Marvel Studios: The First Ten Years - Connecting the Universe",
+            "FilmUrl": "https://www.imdb.com/title/tt8429794/?ref_=nm_flmg_slf_33"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "12 Strong: The Making of an Impossible Mission",
+            "FilmUrl": "https://www.imdb.com/title/tt8415526/?ref_=nm_flmg_slf_34"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012-2018",
+            "FilmTitle": "Conan",
+            "FilmUrl": "https://www.imdb.com/title/tt1637574/?ref_=nm_flmg_slf_35"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Getting in Touch with your Inner Thor",
+            "FilmUrl": "https://www.imdb.com/title/tt8512988/?ref_=nm_flmg_slf_36"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Marvel Studios: The First Ten Years - The Evolution of Heroes",
+            "FilmUrl": "https://www.imdb.com/title/tt8513028/?ref_=nm_flmg_slf_37"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Sakaar: On the Edge of the Known and Unknown",
+            "FilmUrl": "https://www.imdb.com/title/tt8513010/?ref_=nm_flmg_slf_38"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Thor: Finding Korg",
+            "FilmUrl": "https://www.imdb.com/title/tt8513006/?ref_=nm_flmg_slf_39"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Thor: Journey Into Mystery",
+            "FilmUrl": "https://www.imdb.com/title/tt8513020/?ref_=nm_flmg_slf_40"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2018",
+            "FilmTitle": "The IMDb Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7549864/?ref_=nm_flmg_slf_41"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2018",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_42"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "The 23rd Annual Critics' Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt7861522/?ref_=nm_flmg_slf_43"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "75th Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt6635044/?ref_=nm_flmg_slf_44"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011-2017",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_45"
+        },
+        {
+            "CharacterName": "Self / Self - Nominations Guest",
+            "Aired": "2014-2017",
+            "FilmTitle": "E! News",
+            "FilmUrl": "https://www.imdb.com/title/tt0266134/?ref_=nm_flmg_slf_46"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Movie Surfers",
+            "FilmUrl": "https://www.imdb.com/title/tt0295122/?ref_=nm_flmg_slf_47"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2017",
+            "FilmTitle": "Planeta Calleja",
+            "FilmUrl": "https://www.imdb.com/title/tt10529720/?ref_=nm_flmg_slf_48"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2017",
+            "FilmTitle": "74th Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5824900/?ref_=nm_flmg_slf_49"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Ghostbusters: Chris Hemsworth is Kevin",
+            "FilmUrl": "https://www.imdb.com/title/tt10393770/?ref_=nm_flmg_slf_50"
+        },
+        {
+            "CharacterName": "Self - 'The Huntsman' / 'Eric'",
+            "Aired": "2016",
+            "FilmTitle": "Winter's Vistas: The Making of The Huntsman: Winter's War",
+            "FilmUrl": "https://www.imdb.com/title/tt6008234/?ref_=nm_flmg_slf_51"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Dish Nation",
+            "FilmUrl": "https://www.imdb.com/title/tt1973047/?ref_=nm_flmg_slf_52"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The Late Late Show with James Corden",
+            "FilmUrl": "https://www.imdb.com/title/tt4280606/?ref_=nm_flmg_slf_53"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Rencontres de cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt5123584/?ref_=nm_flmg_slf_54"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Presenter",
+            "Aired": "2016",
+            "FilmTitle": "2016 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5556144/?ref_=nm_flmg_slf_55"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Chase and Pollard: A Man of Means and a Man of Courage",
+            "FilmUrl": "https://www.imdb.com/title/tt5652792/?ref_=nm_flmg_slf_56"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The Hard Life of a Whaler",
+            "FilmUrl": "https://www.imdb.com/title/tt5652808/?ref_=nm_flmg_slf_57"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The 24th Annual Movieguide Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5440526/?ref_=nm_flmg_slf_58"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2016",
+            "FilmTitle": "The 42nd Annual People's Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5344290/?ref_=nm_flmg_slf_59"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Blackhat: Creating Reality",
+            "FilmUrl": "https://www.imdb.com/title/tt4841020/?ref_=nm_flmg_slf_60"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Blackhat: On Location Around the World",
+            "FilmUrl": "https://www.imdb.com/title/tt4841014/?ref_=nm_flmg_slf_61"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Blackhat: The Cyber Threat",
+            "FilmUrl": "https://www.imdb.com/title/tt4841016/?ref_=nm_flmg_slf_62"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011-2015",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_slf_63"
+        },
+        {
+            "CharacterName": "Self - Host / Matty / Various / ...",
+            "Aired": "2015",
+            "FilmTitle": "Saturday Night Live",
+            "FilmUrl": "https://www.imdb.com/title/tt0072562/?ref_=nm_flmg_slf_64"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Phase 2 Tag Scenes: A Making of the Marvel Cinematic Universe Phase Two",
+            "FilmUrl": "https://www.imdb.com/title/tt6022968/?ref_=nm_flmg_slf_65"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Celebrity Style Story",
+            "FilmUrl": "https://www.imdb.com/title/tt2576350/?ref_=nm_flmg_slf_66"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013-2015",
+            "FilmTitle": "Weekend Ticket",
+            "FilmUrl": "https://www.imdb.com/title/tt2787918/?ref_=nm_flmg_slf_67"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "The Man Who Dreams Only of Surfing",
+            "FilmUrl": "https://www.imdb.com/title/tt8746980/?ref_=nm_flmg_slf_68"
+        },
+        {
+            "CharacterName": "Self / Self - People Magazine's Sexiest Man Alive",
+            "Aired": "2014-2015",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_slf_69"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Avengers: Age of Ultron - From the Inside Out: Making of Avengers - Age of Ultron",
+            "FilmUrl": "https://www.imdb.com/title/tt5180410/?ref_=nm_flmg_slf_70"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Avengers: Age of Ultron - Global Adventure",
+            "FilmUrl": "https://www.imdb.com/title/tt5181714/?ref_=nm_flmg_slf_71"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Avengers: Age of Ultron - The Infinite Six",
+            "FilmUrl": "https://www.imdb.com/title/tt5180980/?ref_=nm_flmg_slf_72"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "MTV After Hours with Josh Horowitz",
+            "FilmUrl": "https://www.imdb.com/title/tt7914770/?ref_=nm_flmg_slf_73"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2015",
+            "FilmTitle": "2015 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt4577398/?ref_=nm_flmg_slf_74"
+        },
+        {
+            "CharacterName": "Self - Award Presenter (segment \"Selma\")",
+            "Aired": "2015",
+            "FilmTitle": "60 Minutes",
+            "FilmUrl": "https://www.imdb.com/title/tt0123338/?ref_=nm_flmg_slf_75"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2015",
+            "FilmTitle": "20th Annual Critics' Choice Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt4438144/?ref_=nm_flmg_slf_76"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "HBO First Look: Blackhat",
+            "FilmUrl": "https://www.imdb.com/title/tt4483536/?ref_=nm_flmg_slf_77"
+        },
+        {
+            "CharacterName": "Self - People Magazine's Sexiest Man Alive",
+            "Aired": "2014",
+            "FilmTitle": "Inside Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt0166442/?ref_=nm_flmg_slf_78"
+        },
+        {
+            "CharacterName": "Self - Spectator",
+            "Aired": "2014",
+            "FilmTitle": "Today at Wimbledon",
+            "FilmUrl": "https://www.imdb.com/title/tt3804520/?ref_=nm_flmg_slf_79"
+        },
+        {
+            "CharacterName": "Self - Spectator",
+            "Aired": "2014",
+            "FilmTitle": "Wimbledon",
+            "FilmUrl": "https://www.imdb.com/title/tt3770700/?ref_=nm_flmg_slf_80"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "2014",
+            "FilmTitle": "2014 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3578774/?ref_=nm_flmg_slf_81"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Marvel Studios: Assembling a Universe",
+            "FilmUrl": "https://www.imdb.com/title/tt3591568/?ref_=nm_flmg_slf_82"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2014",
+            "FilmTitle": "The 86th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2796782/?ref_=nm_flmg_slf_83"
+        },
+        {
+            "CharacterName": "Self - 'Thor'",
+            "Aired": "2014",
+            "FilmTitle": "A Brothers' Journey: Thor & Loki",
+            "FilmUrl": "https://www.imdb.com/title/tt5484872/?ref_=nm_flmg_slf_84"
+        },
+        {
+            "CharacterName": "Self - Presenter (uncredited)",
+            "Aired": "2014",
+            "FilmTitle": "71st Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3262722/?ref_=nm_flmg_slf_85"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012-2013",
+            "FilmTitle": "Fant\u00e1stico",
+            "FilmUrl": "https://www.imdb.com/title/tt0381753/?ref_=nm_flmg_slf_86"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Thor: The Dark World Special",
+            "FilmUrl": "https://www.imdb.com/title/tt3313706/?ref_=nm_flmg_slf_87"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Staying in with Greg and Russell",
+            "FilmUrl": "https://www.imdb.com/title/tt3268424/?ref_=nm_flmg_slf_88"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "IMDb: What to Watch",
+            "FilmUrl": "https://www.imdb.com/title/tt3412000/?ref_=nm_flmg_slf_89"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012-2013",
+            "FilmTitle": "The View",
+            "FilmUrl": "https://www.imdb.com/title/tt0123366/?ref_=nm_flmg_slf_90"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "Late Night with Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt1231460/?ref_=nm_flmg_slf_91"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011-2013",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_92"
+        },
+        {
+            "CharacterName": "Self - 'Thor'",
+            "Aired": "2012",
+            "FilmTitle": "The Avengers: Assembling the Ultimate Team",
+            "FilmUrl": "https://www.imdb.com/title/tt5180254/?ref_=nm_flmg_slf_93"
+        },
+        {
+            "CharacterName": "Self - 'The Huntsman'",
+            "Aired": "2012",
+            "FilmTitle": "Snow White and the Huntsman: A Legend Is Born",
+            "FilmUrl": "https://www.imdb.com/title/tt5450018/?ref_=nm_flmg_slf_94"
+        },
+        {
+            "CharacterName": "Self - 'The Huntsman'",
+            "Aired": "2012",
+            "FilmTitle": "Snow White and the Huntsman: Citizens of the Kingdom",
+            "FilmUrl": "https://www.imdb.com/title/tt5450044/?ref_=nm_flmg_slf_95"
+        },
+        {
+            "CharacterName": "Self - 'The Huntsman'",
+            "Aired": "2012",
+            "FilmTitle": "Snow White and the Huntsman: Reinventing the Fairy-tale",
+            "FilmUrl": "https://www.imdb.com/title/tt5450010/?ref_=nm_flmg_slf_96"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2012",
+            "FilmTitle": "Teen Choice Awards 2012",
+            "FilmUrl": "https://www.imdb.com/title/tt2381325/?ref_=nm_flmg_slf_97"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "unCONventional",
+            "FilmUrl": "https://www.imdb.com/title/tt2386458/?ref_=nm_flmg_slf_98"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2012",
+            "FilmTitle": "2012 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2402919/?ref_=nm_flmg_slf_99"
+        },
+        {
+            "CharacterName": "Self - 'James Hunt'",
+            "Aired": "2012",
+            "FilmTitle": "Formula 1: BBC Sport",
+            "FilmUrl": "https://www.imdb.com/title/tt1540109/?ref_=nm_flmg_slf_100"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "TMZ on TV",
+            "FilmUrl": "https://www.imdb.com/title/tt1095213/?ref_=nm_flmg_slf_101"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011-2012",
+            "FilmTitle": "Late Show with David Letterman",
+            "FilmUrl": "https://www.imdb.com/title/tt0106053/?ref_=nm_flmg_slf_102"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "VIP zpr\u00e1vy",
+            "FilmUrl": "https://www.imdb.com/title/tt1764072/?ref_=nm_flmg_slf_103"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "The Avengers Assemble Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10075836/?ref_=nm_flmg_slf_104"
+        },
+        {
+            "CharacterName": "Self - 'Thor'",
+            "Aired": "2011",
+            "FilmTitle": "Thor: Assembling the Troupe",
+            "FilmUrl": "https://www.imdb.com/title/tt5484382/?ref_=nm_flmg_slf_105"
+        },
+        {
+            "CharacterName": "Self - 'Thor'",
+            "Aired": "2011",
+            "FilmTitle": "Thor: Creating Laufey",
+            "FilmUrl": "https://www.imdb.com/title/tt5484736/?ref_=nm_flmg_slf_106"
+        },
+        {
+            "CharacterName": "Self - 'Thor'",
+            "Aired": "2011",
+            "FilmTitle": "Thor: From Asgard to Earth",
+            "FilmUrl": "https://www.imdb.com/title/tt5484208/?ref_=nm_flmg_slf_107"
+        },
+        {
+            "CharacterName": "Self - 'Thor'",
+            "Aired": "2011",
+            "FilmTitle": "Thor: Hammer Time",
+            "FilmUrl": "https://www.imdb.com/title/tt5484564/?ref_=nm_flmg_slf_108"
+        },
+        {
+            "CharacterName": "Self - 'Thor'",
+            "Aired": "2011",
+            "FilmTitle": "Thor: Our Fearless Leader",
+            "FilmUrl": "https://www.imdb.com/title/tt5484228/?ref_=nm_flmg_slf_109"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2011",
+            "FilmTitle": "Teen Choice 2011",
+            "FilmUrl": "https://www.imdb.com/title/tt1991198/?ref_=nm_flmg_slf_110"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Marvel LIVE! World Premiere of Captain America: The First Avenger",
+            "FilmUrl": "https://www.imdb.com/title/tt1998278/?ref_=nm_flmg_slf_111"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "In the Qube 3D",
+            "FilmUrl": "https://www.imdb.com/title/tt1947930/?ref_=nm_flmg_slf_112"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "Lopez Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt1489432/?ref_=nm_flmg_slf_113"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "Big Morning Buzz Live",
+            "FilmUrl": "https://www.imdb.com/title/tt1907886/?ref_=nm_flmg_slf_114"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "Up Close with Carrie Keagan",
+            "FilmUrl": "https://www.imdb.com/title/tt1434322/?ref_=nm_flmg_slf_115"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "The Big Picture",
+            "FilmUrl": "https://www.imdb.com/title/tt1908337/?ref_=nm_flmg_slf_116"
+        },
+        {
+            "CharacterName": "Self / Thor",
+            "Aired": "2011",
+            "FilmTitle": "Troldspejlet",
+            "FilmUrl": "https://www.imdb.com/title/tt0318251/?ref_=nm_flmg_slf_117"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Cinema 3",
+            "FilmUrl": "https://www.imdb.com/title/tt0111920/?ref_=nm_flmg_slf_118"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "D\u00edas de cine",
+            "FilmUrl": "https://www.imdb.com/title/tt0390699/?ref_=nm_flmg_slf_119"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2011",
+            "FilmTitle": "El hormiguero",
+            "FilmUrl": "https://www.imdb.com/title/tt0870872/?ref_=nm_flmg_slf_120"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Daybreak",
+            "FilmUrl": "https://www.imdb.com/title/tt1695352/?ref_=nm_flmg_slf_121"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "The Circle",
+            "FilmUrl": "https://www.imdb.com/title/tt1614840/?ref_=nm_flmg_slf_122"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "The 7PM Project",
+            "FilmUrl": "https://www.imdb.com/title/tt1480165/?ref_=nm_flmg_slf_123"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2011",
+            "FilmTitle": "The 68th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1810776/?ref_=nm_flmg_slf_124"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Spike TV VGA Video Game Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1828294/?ref_=nm_flmg_slf_125"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Scream Awards 2010",
+            "FilmUrl": "https://www.imdb.com/title/tt1754468/?ref_=nm_flmg_slf_126"
+        },
+        {
+            "CharacterName": "Self / Kim Hyde (uncredited)",
+            "Aired": "2007",
+            "FilmTitle": "The 2007 TV Week Logie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1028520/?ref_=nm_flmg_slf_127"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Dancing with the Stars",
+            "FilmUrl": "https://www.imdb.com/title/tt0434676/?ref_=nm_flmg_slf_128"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "The 20th Annual ARIA Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0897409/?ref_=nm_flmg_slf_129"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Deal or No Deal",
+            "FilmUrl": "https://www.imdb.com/title/tt0407380/?ref_=nm_flmg_slf_130"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Telethon",
+            "FilmUrl": "https://www.imdb.com/title/tt0886272/?ref_=nm_flmg_slf_131"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2020",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self / Self - People Magazine's Sexiest Man Alive",
+            "Aired": "2014-2020",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Quotidien",
+            "FilmUrl": "https://www.imdb.com/title/tt6052530/?ref_=nm_flmg_arf_3"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_arf_4"
+        },
+        {
+            "CharacterName": "Agent H",
+            "Aired": "2019",
+            "FilmTitle": "Jeopardy!",
+            "FilmUrl": "https://www.imdb.com/title/tt0159881/?ref_=nm_flmg_arf_5"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2019",
+            "FilmTitle": "The Chris Moyles Show on Radio X",
+            "FilmUrl": "https://www.imdb.com/title/tt10981540/?ref_=nm_flmg_arf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Beyond Boundaries: The Harvey Weinstein Scandal",
+            "FilmUrl": "https://www.imdb.com/title/tt9129406/?ref_=nm_flmg_arf_7"
+        },
+        {
+            "CharacterName": "Kim Hyde (uncredited)",
+            "Aired": "2018",
+            "FilmTitle": "Endless Summer: 30 Years of Home and Away",
+            "FilmUrl": "https://www.imdb.com/title/tt8723762/?ref_=nm_flmg_arf_8"
+        },
+        {
+            "CharacterName": "Thor / Mick Dundee / Captain Mitch Nelson",
+            "Aired": "2012-2018",
+            "FilmTitle": "Sunrise",
+            "FilmUrl": "https://www.imdb.com/title/tt0428169/?ref_=nm_flmg_arf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2018",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_arf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_arf_11"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015-2017",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_12"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2016",
+            "FilmTitle": "Lego Marvel's Avengers",
+            "FilmUrl": "https://www.imdb.com/title/tt4776398/?ref_=nm_flmg_arf_13"
+        },
+        {
+            "CharacterName": "Kevin Beckman (uncredited)",
+            "Aired": "2015",
+            "FilmTitle": "Lego Dimensions",
+            "FilmUrl": "https://www.imdb.com/title/tt4656392/?ref_=nm_flmg_arf_14"
+        },
+        {
+            "CharacterName": "Curt",
+            "Aired": "2014",
+            "FilmTitle": "Cinemassacre's Monster Madness",
+            "FilmUrl": "https://www.imdb.com/title/tt1743990/?ref_=nm_flmg_arf_15"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Wright Stuff",
+            "FilmUrl": "https://www.imdb.com/title/tt0315727/?ref_=nm_flmg_arf_16"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_arf_17"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012-2013",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_arf_18"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2013",
+            "FilmTitle": "Chelsea Lately",
+            "FilmUrl": "https://www.imdb.com/title/tt1002838/?ref_=nm_flmg_arf_19"
+        },
+        {
+            "CharacterName": "James Hunt",
+            "Aired": "2013",
+            "FilmTitle": "Movie Guide",
+            "FilmUrl": "https://www.imdb.com/title/tt2841688/?ref_=nm_flmg_arf_20"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2012",
+            "FilmTitle": "Heroes & Demons",
+            "FilmUrl": "https://www.imdb.com/title/tt8698020/?ref_=nm_flmg_arf_21"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2012",
+            "FilmTitle": "Welcome to the Basement",
+            "FilmUrl": "https://www.imdb.com/title/tt4416750/?ref_=nm_flmg_arf_22"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2012",
+            "FilmTitle": "Death Battle",
+            "FilmUrl": "https://www.imdb.com/title/tt4031218/?ref_=nm_flmg_arf_23"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_arf_24"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Road to 'The Avengers'",
+            "FilmUrl": "https://www.imdb.com/title/tt5484160/?ref_=nm_flmg_arf_25"
+        },
+        {
+            "CharacterName": "Thor",
+            "Aired": "2011",
+            "FilmTitle": "Brows Held High",
+            "FilmUrl": "https://www.imdb.com/title/tt2012155/?ref_=nm_flmg_arf_26"
+        },
+        {
+            "CharacterName": "Kim Hyde (uncredited)",
+            "Aired": "2005",
+            "FilmTitle": "Home and Away: Weddings",
+            "FilmUrl": "https://www.imdb.com/title/tt0932531/?ref_=nm_flmg_arf_27"
+        },
+        {
+            "CharacterName": "Kim Hyde (uncredited)",
+            "Aired": "2005",
+            "FilmTitle": "Home and Away: Romances",
+            "FilmUrl": "https://www.imdb.com/title/tt0929761/?ref_=nm_flmg_arf_28"
+        }
+    ],
+    "AwardsWins": 12,
+    "AwardNominations": 40
+}

@@ -1,0 +1,1734 @@
+{
+    "Rank": 48,
+    "FullName": "Dave Bautista",
+    "DomesticBoxOfficeRevenue": 2397200123,
+    "AverageDomesticBoxOfficeRevenue": 126168428,
+    "LocalDataSourcePath": "./html/imdb_profiles/DaveBautista.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BNTZkYzU0ZGUtZTk1MC00MzJjLWFmMzItY2M0ODY1ZmI2OGQ0XkEyXkFqcGdeQXVyMjI0MjgwNjc@._V1_UY317_CR175,0,214,317_AL_.jpg",
+    "DOB": "1969-1-18",
+    "BornIn": "Washington, District of Columbia, USA",
+    "Gender": "Male",
+    "Height": 1.98,
+    "AstrologicalSign": "Capricorn",
+    "Trademark": "Finishing move: Double Leg Spinebuster",
+    "Roles": [
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "Groove Tails",
+            "FilmUrl": "https://www.imdb.com/title/tt3756580/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "Drax",
+            "Aired": "2021",
+            "FilmTitle": "Guardians of the Galaxy Vol. 3",
+            "FilmUrl": "https://www.imdb.com/title/tt6791350/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "Scott Ward",
+            "Aired": "",
+            "FilmTitle": "Army of the Dead",
+            "FilmUrl": "https://www.imdb.com/title/tt0993840/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "Glossu 'Beast' Rabban",
+            "Aired": "2021",
+            "FilmTitle": "Dune",
+            "FilmUrl": "https://www.imdb.com/title/tt1160419/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "Doug 'Raw Dawg Avalanche'",
+            "Aired": "2020",
+            "FilmTitle": "Room 104",
+            "FilmUrl": "https://www.imdb.com/title/tt6064882/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Fezzik",
+            "Aired": "2020",
+            "FilmTitle": "Princess Bride",
+            "FilmUrl": "https://www.imdb.com/title/tt12607768/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "JJ",
+            "Aired": "2020",
+            "FilmTitle": "My Spy",
+            "FilmUrl": "https://www.imdb.com/title/tt8242084/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Trent Derosa",
+            "Aired": "2019",
+            "FilmTitle": "Escape Plan: The Extractors",
+            "FilmUrl": "https://www.imdb.com/title/tt6772804/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Garrett",
+            "Aired": "2019",
+            "FilmTitle": "What We Do in the Shadows",
+            "FilmUrl": "https://www.imdb.com/title/tt7908628/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "Drax",
+            "Aired": "2019",
+            "FilmTitle": "Avengers: Endgame",
+            "FilmUrl": "https://www.imdb.com/title/tt4154796/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2019",
+            "FilmTitle": "WrestleMania 35",
+            "FilmUrl": "https://www.imdb.com/title/tt8671116/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Batista / Dave Batista",
+            "Aired": "2002-2019",
+            "FilmTitle": "WWE Raw",
+            "FilmUrl": "https://www.imdb.com/title/tt0185103/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Vic Manning",
+            "Aired": "2019",
+            "FilmTitle": "Stuber",
+            "FilmUrl": "https://www.imdb.com/title/tt7734218/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Batista / Deacon Batista",
+            "Aired": "2002-2018",
+            "FilmTitle": "WWE Smackdown!",
+            "FilmUrl": "https://www.imdb.com/title/tt0227972/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Owen Davidson",
+            "Aired": "2018",
+            "FilmTitle": "Master Z: The Ip Man Legacy",
+            "FilmUrl": "https://www.imdb.com/title/tt7262882/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Knox",
+            "Aired": "2018",
+            "FilmTitle": "Final Score",
+            "FilmUrl": "https://www.imdb.com/title/tt5254610/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Trent Derosa",
+            "Aired": "2018",
+            "FilmTitle": "Escape Plan 2: Hades",
+            "FilmUrl": "https://www.imdb.com/title/tt6513656/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Everest",
+            "Aired": "2018",
+            "FilmTitle": "Hotel Artemis",
+            "FilmUrl": "https://www.imdb.com/title/tt5834262/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Drax",
+            "Aired": "2018",
+            "FilmTitle": "Avengers: Infinity War",
+            "FilmUrl": "https://www.imdb.com/title/tt4154756/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2017",
+            "FilmTitle": "WWE 2K18",
+            "FilmUrl": "https://www.imdb.com/title/tt7513962/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "Sapper Morton",
+            "Aired": "2017",
+            "FilmTitle": "Blade Runner 2049",
+            "FilmUrl": "https://www.imdb.com/title/tt1856101/?ref_=nm_flmg_act_21"
+        },
+        {
+            "CharacterName": "Sapper Morton",
+            "Aired": "2017",
+            "FilmTitle": "2048: Nowhere to Run",
+            "FilmUrl": "https://www.imdb.com/title/tt7387408/?ref_=nm_flmg_act_22"
+        },
+        {
+            "CharacterName": "Drax",
+            "Aired": "2017",
+            "FilmTitle": "Disneyland Resort: Guardians of the Galaxy - Mission Breakout!",
+            "FilmUrl": "https://www.imdb.com/title/tt7134278/?ref_=nm_flmg_act_23"
+        },
+        {
+            "CharacterName": "Drax",
+            "Aired": "2017",
+            "FilmTitle": "Guardians of the Galaxy Vol. 2",
+            "FilmUrl": "https://www.imdb.com/title/tt3896198/?ref_=nm_flmg_act_24"
+        },
+        {
+            "CharacterName": "Stupe",
+            "Aired": "2017",
+            "FilmTitle": "Bushwick",
+            "FilmUrl": "https://www.imdb.com/title/tt4720702/?ref_=nm_flmg_act_25"
+        },
+        {
+            "CharacterName": "Arun",
+            "Aired": "2016",
+            "FilmTitle": "Enter the Warriors Gate",
+            "FilmUrl": "https://www.imdb.com/title/tt4652532/?ref_=nm_flmg_act_26"
+        },
+        {
+            "CharacterName": "Dr. Jason Rush",
+            "Aired": "2016",
+            "FilmTitle": "The #Hashtagged Show",
+            "FilmUrl": "https://www.imdb.com/title/tt6151312/?ref_=nm_flmg_act_27"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2016",
+            "FilmTitle": "WWE 2K17",
+            "FilmUrl": "https://www.imdb.com/title/tt6183272/?ref_=nm_flmg_act_28"
+        },
+        {
+            "CharacterName": "Tong Po (as David Bautista)",
+            "Aired": "2016",
+            "FilmTitle": "Kickboxer: Vengeance",
+            "FilmUrl": "https://www.imdb.com/title/tt3082898/?ref_=nm_flmg_act_29"
+        },
+        {
+            "CharacterName": "Stockwell",
+            "Aired": "2016",
+            "FilmTitle": "Marauders",
+            "FilmUrl": "https://www.imdb.com/title/tt3963816/?ref_=nm_flmg_act_30"
+        },
+        {
+            "CharacterName": "Chad (uncredited)",
+            "Aired": "2016",
+            "FilmTitle": "The Boss",
+            "FilmUrl": "https://www.imdb.com/title/tt2702724/?ref_=nm_flmg_act_31"
+        },
+        {
+            "CharacterName": "Jason Cox",
+            "Aired": "2015/III",
+            "FilmTitle": "Heist",
+            "FilmUrl": "https://www.imdb.com/title/tt3276924/?ref_=nm_flmg_act_32"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2015",
+            "FilmTitle": "WWE 2K16",
+            "FilmUrl": "https://www.imdb.com/title/tt5297040/?ref_=nm_flmg_act_33"
+        },
+        {
+            "CharacterName": "Hinx",
+            "Aired": "2015/I",
+            "FilmTitle": "Spectre",
+            "FilmUrl": "https://www.imdb.com/title/tt2379713/?ref_=nm_flmg_act_34"
+        },
+        {
+            "CharacterName": "Delivery Guy",
+            "Aired": "2015",
+            "FilmTitle": "TripTank",
+            "FilmUrl": "https://www.imdb.com/title/tt2380303/?ref_=nm_flmg_act_35"
+        },
+        {
+            "CharacterName": "The Drug Dealer #1",
+            "Aired": "2015",
+            "FilmTitle": "L.A. Slasher",
+            "FilmUrl": "https://www.imdb.com/title/tt2735292/?ref_=nm_flmg_act_36"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2014",
+            "FilmTitle": "WWE Rivalries",
+            "FilmUrl": "https://www.imdb.com/title/tt4160542/?ref_=nm_flmg_act_37"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2014",
+            "FilmTitle": "WWE 2k15",
+            "FilmUrl": "https://www.imdb.com/title/tt3874594/?ref_=nm_flmg_act_38"
+        },
+        {
+            "CharacterName": "Drax",
+            "Aired": "2014",
+            "FilmTitle": "Guardians of the Galaxy",
+            "FilmUrl": "https://www.imdb.com/title/tt2015381/?ref_=nm_flmg_act_39"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2014",
+            "FilmTitle": "WrestleMania XXX",
+            "FilmUrl": "https://www.imdb.com/title/tt3058844/?ref_=nm_flmg_act_40"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2013",
+            "FilmTitle": "WWE 2k14",
+            "FilmUrl": "https://www.imdb.com/title/tt2794304/?ref_=nm_flmg_act_41"
+        },
+        {
+            "CharacterName": "Diaz",
+            "Aired": "2013",
+            "FilmTitle": "Riddick",
+            "FilmUrl": "https://www.imdb.com/title/tt1411250/?ref_=nm_flmg_act_42"
+        },
+        {
+            "CharacterName": "Brass Body",
+            "Aired": "2012",
+            "FilmTitle": "The Man with the Iron Fists",
+            "FilmUrl": "https://www.imdb.com/title/tt1258972/?ref_=nm_flmg_act_43"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2012",
+            "FilmTitle": "WWE Main Event",
+            "FilmUrl": "https://www.imdb.com/title/tt2659152/?ref_=nm_flmg_act_44"
+        },
+        {
+            "CharacterName": "Argomael",
+            "Aired": "2012",
+            "FilmTitle": "The Scorpion King 3: Battle for Redemption",
+            "FilmUrl": "https://www.imdb.com/title/tt1781896/?ref_=nm_flmg_act_45"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2011",
+            "FilmTitle": "WWE '12",
+            "FilmUrl": "https://www.imdb.com/title/tt1955053/?ref_=nm_flmg_act_46"
+        },
+        {
+            "CharacterName": "Ray",
+            "Aired": "2011",
+            "FilmTitle": "House of the Rising Sun",
+            "FilmUrl": "https://www.imdb.com/title/tt1788383/?ref_=nm_flmg_act_47"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "WWE: Top 50 Superstars of All Time",
+            "FilmUrl": "https://www.imdb.com/title/tt1778375/?ref_=nm_flmg_act_48"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2010",
+            "FilmTitle": "WWE SmackDown vs. RAW 2011",
+            "FilmUrl": "https://www.imdb.com/title/tt1674747/?ref_=nm_flmg_act_49"
+        },
+        {
+            "CharacterName": "T.I.",
+            "Aired": "2010",
+            "FilmTitle": "Chuck",
+            "FilmUrl": "https://www.imdb.com/title/tt0934814/?ref_=nm_flmg_act_50"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "WrestleMania XXVI",
+            "FilmUrl": "https://www.imdb.com/title/tt1602130/?ref_=nm_flmg_act_51"
+        },
+        {
+            "CharacterName": "Big Ronnie 'B.R.' (as David Bautista)",
+            "Aired": "2010",
+            "FilmTitle": "Wrong Side of Town",
+            "FilmUrl": "https://www.imdb.com/title/tt1431191/?ref_=nm_flmg_act_52"
+        },
+        {
+            "CharacterName": "Officer, San Diego Police Department S.W.A.T Team (as David Bautista)",
+            "Aired": "2009",
+            "FilmTitle": "My Son, My Son, What Have Ye Done",
+            "FilmUrl": "https://www.imdb.com/title/tt1233219/?ref_=nm_flmg_act_53"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE Live in the UK: April 2009",
+            "FilmUrl": "https://www.imdb.com/title/tt1491049/?ref_=nm_flmg_act_54"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE Live in the UK: November 2008",
+            "FilmUrl": "https://www.imdb.com/title/tt1491050/?ref_=nm_flmg_act_55"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2008",
+            "FilmTitle": "WWE SmackDown vs. RAW 2009",
+            "FilmUrl": "https://www.imdb.com/title/tt1230589/?ref_=nm_flmg_act_56"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Live in the UK: April 2008",
+            "FilmUrl": "https://www.imdb.com/title/tt1491048/?ref_=nm_flmg_act_57"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WrestleMania XXIV",
+            "FilmUrl": "https://www.imdb.com/title/tt0988810/?ref_=nm_flmg_act_58"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2007",
+            "FilmTitle": "WWE SmackDown vs. RAW 2008",
+            "FilmUrl": "https://www.imdb.com/title/tt1141278/?ref_=nm_flmg_act_59"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WrestleMania 23",
+            "FilmUrl": "https://www.imdb.com/title/tt0910978/?ref_=nm_flmg_act_60"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2006",
+            "FilmTitle": "WWE SmackDown vs. RAW 2007",
+            "FilmUrl": "https://www.imdb.com/title/tt0836714/?ref_=nm_flmg_act_61"
+        },
+        {
+            "CharacterName": "Aldar",
+            "Aired": "2006",
+            "FilmTitle": "Smallville",
+            "FilmUrl": "https://www.imdb.com/title/tt0279600/?ref_=nm_flmg_act_62"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006",
+            "FilmTitle": "ECW on Sci-Fi",
+            "FilmUrl": "https://www.imdb.com/title/tt0810614/?ref_=nm_flmg_act_63"
+        },
+        {
+            "CharacterName": "Wrestler (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "Relative Strangers",
+            "FilmUrl": "https://www.imdb.com/title/tt0425395/?ref_=nm_flmg_act_64"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006",
+            "FilmTitle": "WrestleMania 22",
+            "FilmUrl": "https://www.imdb.com/title/tt0476036/?ref_=nm_flmg_act_65"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2005",
+            "FilmTitle": "WWE SmackDown! vs. RAW 2006",
+            "FilmUrl": "https://www.imdb.com/title/tt0479207/?ref_=nm_flmg_act_66"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WrestleMania 21",
+            "FilmUrl": "https://www.imdb.com/title/tt0439335/?ref_=nm_flmg_act_67"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Byte This!",
+            "FilmUrl": "https://www.imdb.com/title/tt5859428/?ref_=nm_flmg_act_68"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2004",
+            "FilmTitle": "WWE Sunday Night Heat",
+            "FilmUrl": "https://www.imdb.com/title/tt0257324/?ref_=nm_flmg_act_69"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2004",
+            "FilmTitle": "WWE SmackDown! vs. RAW",
+            "FilmUrl": "https://www.imdb.com/title/tt0423500/?ref_=nm_flmg_act_70"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2004",
+            "FilmTitle": "WrestleMania XX",
+            "FilmUrl": "https://www.imdb.com/title/tt0403687/?ref_=nm_flmg_act_71"
+        },
+        {
+            "CharacterName": "Batista (voice)",
+            "Aired": "2003",
+            "FilmTitle": "WWE SmackDown! Here Comes the Pain",
+            "FilmUrl": "https://www.imdb.com/title/tt0376317/?ref_=nm_flmg_act_72"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2002",
+            "FilmTitle": "WWE Global Warning Tour: Melbourne",
+            "FilmUrl": "https://www.imdb.com/title/tt0406323/?ref_=nm_flmg_act_73"
+        },
+        {
+            "CharacterName": "Deacon Batista",
+            "Aired": "2002",
+            "FilmTitle": "WWE Velocity",
+            "FilmUrl": "https://www.imdb.com/title/tt0321013/?ref_=nm_flmg_act_74"
+        },
+        {
+            "CharacterName": "Leviathan",
+            "Aired": "2002",
+            "FilmTitle": "OVW: Wrestling's Future Stars",
+            "FilmUrl": "https://www.imdb.com/title/tt1598825/?ref_=nm_flmg_act_75"
+        },
+        {
+            "CharacterName": "Leviathan",
+            "Aired": "2001",
+            "FilmTitle": "OVW: Christmas Chaos",
+            "FilmUrl": "https://www.imdb.com/title/tt1618891/?ref_=nm_flmg_act_76"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2020",
+            "FilmTitle": "My Spy",
+            "FilmUrl": "https://www.imdb.com/title/tt8242084/?ref_=nm_flmg_prd_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2018",
+            "FilmTitle": "Master Z: The Ip Man Legacy",
+            "FilmUrl": "https://www.imdb.com/title/tt7262882/?ref_=nm_flmg_prd_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2018",
+            "FilmTitle": "Final Score",
+            "FilmUrl": "https://www.imdb.com/title/tt5254610/?ref_=nm_flmg_prd_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "Bushwick",
+            "FilmUrl": "https://www.imdb.com/title/tt4720702/?ref_=nm_flmg_prd_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2005",
+            "FilmTitle": "WrestleMania 21",
+            "FilmUrl": "https://www.imdb.com/title/tt0458527/?ref_=nm_flmg_msc_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2019",
+            "FilmTitle": "WWE 24",
+            "FilmUrl": "https://www.imdb.com/title/tt4662888/?ref_=nm_flmg_tk_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "The Talk",
+            "FilmUrl": "https://www.imdb.com/title/tt1740718/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2020",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "2018-2020",
+            "FilmTitle": "The IMDb Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7549864/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self / Batista",
+            "Aired": "2020",
+            "FilmTitle": "Undertaker: The Last Ride",
+            "FilmUrl": "https://www.imdb.com/title/tt12269504/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018-2020",
+            "FilmTitle": "Inside of You with Michael Rosenbaum",
+            "FilmUrl": "https://www.imdb.com/title/tt12239824/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "AFI Movie Club",
+            "FilmUrl": "https://www.imdb.com/title/tt12205920/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "WrestleMania 36",
+            "FilmUrl": "https://www.imdb.com/title/tt9363602/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2020",
+            "FilmTitle": "John Cena's Best WrestleMania Matches",
+            "FilmUrl": "https://www.imdb.com/title/tt12117372/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "The Kelly Clarkson Show",
+            "FilmUrl": "https://www.imdb.com/title/tt9022950/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "On the Scene with Lindalee",
+            "FilmUrl": "https://www.imdb.com/title/tt8300268/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "The Late Late Show with James Corden",
+            "FilmUrl": "https://www.imdb.com/title/tt4280606/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2020",
+            "FilmTitle": "51st NAACP Image Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt11591206/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "The Imagineering Story",
+            "FilmUrl": "https://www.imdb.com/title/tt9331982/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2019",
+            "FilmTitle": "Running Wild with Bear Grylls",
+            "FilmUrl": "https://www.imdb.com/title/tt3816666/?ref_=nm_flmg_slf_14"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_15"
+        },
+        {
+            "CharacterName": "Self / Marcus Fenix (voice)",
+            "Aired": "2019",
+            "FilmTitle": "Gears 5",
+            "FilmUrl": "https://www.imdb.com/title/tt8801880/?ref_=nm_flmg_slf_16"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "The View",
+            "FilmUrl": "https://www.imdb.com/title/tt0123366/?ref_=nm_flmg_slf_17"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012-2019",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_18"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_19"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Entertainment Tonight Canada",
+            "FilmUrl": "https://www.imdb.com/title/tt0482346/?ref_=nm_flmg_slf_20"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014-2019",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_21"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "The 2019 ESPY Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt10432944/?ref_=nm_flmg_slf_22"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018-2019",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_23"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2014-2019",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_24"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2015-2019",
+            "FilmTitle": "WWE 24",
+            "FilmUrl": "https://www.imdb.com/title/tt4662888/?ref_=nm_flmg_slf_25"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "2019 MTV Movie & TV Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt10228730/?ref_=nm_flmg_slf_26"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "2019 Billboard Music Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9154620/?ref_=nm_flmg_slf_27"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2019",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_28"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2019",
+            "FilmTitle": "WWE Day Of",
+            "FilmUrl": "https://www.imdb.com/title/tt11807738/?ref_=nm_flmg_slf_29"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2018",
+            "FilmTitle": "The Jonathan Ross Show",
+            "FilmUrl": "https://www.imdb.com/title/tt2049323/?ref_=nm_flmg_slf_30"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Steve",
+            "FilmUrl": "https://www.imdb.com/title/tt7364168/?ref_=nm_flmg_slf_31"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Blade Runner 2049: To Be Human: - Casting Blade Runner 2049",
+            "FilmUrl": "https://www.imdb.com/title/tt7879362/?ref_=nm_flmg_slf_32"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Designing the World of Blade Runner 2049",
+            "FilmUrl": "https://www.imdb.com/title/tt8151756/?ref_=nm_flmg_slf_33"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Guardians of the Galaxy: Inferno",
+            "FilmUrl": "https://www.imdb.com/title/tt7131308/?ref_=nm_flmg_slf_34"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Movie Surfers",
+            "FilmUrl": "https://www.imdb.com/title/tt0295122/?ref_=nm_flmg_slf_35"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Oh My Disney Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7954808/?ref_=nm_flmg_slf_36"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Noite com Danilo Gentili",
+            "FilmUrl": "https://www.imdb.com/title/tt3612488/?ref_=nm_flmg_slf_37"
+        },
+        {
+            "CharacterName": "Self (as David Bautista)",
+            "Aired": "2016",
+            "FilmTitle": "Spyfie: Heineken Global James Bond Sponsorship Activation",
+            "FilmUrl": "https://www.imdb.com/title/tt12299772/?ref_=nm_flmg_slf_38"
+        },
+        {
+            "CharacterName": "Self - Actor (uncredited)",
+            "Aired": "2016",
+            "FilmTitle": "Spectre: Bond's Biggest Opening Sequence",
+            "FilmUrl": "https://www.imdb.com/title/tt5467230/?ref_=nm_flmg_slf_39"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Spectre: Behind the Scenes in Austria",
+            "FilmUrl": "https://www.imdb.com/title/tt5659808/?ref_=nm_flmg_slf_40"
+        },
+        {
+            "CharacterName": "Self (as David Bautista)",
+            "Aired": "2015",
+            "FilmTitle": "Spyfie: A Q&A with David Bautista",
+            "FilmUrl": "https://www.imdb.com/title/tt12292336/?ref_=nm_flmg_slf_41"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Inside Spectre with Richard Wilkins",
+            "FilmUrl": "https://www.imdb.com/title/tt5204236/?ref_=nm_flmg_slf_42"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Spyfie: The First Selfie from Space",
+            "FilmUrl": "https://www.imdb.com/title/tt12292082/?ref_=nm_flmg_slf_43"
+        },
+        {
+            "CharacterName": "Self / Mr. Hinx",
+            "Aired": "2015",
+            "FilmTitle": "James Bond's Spectre with Jonathan Ross",
+            "FilmUrl": "https://www.imdb.com/title/tt5129552/?ref_=nm_flmg_slf_44"
+        },
+        {
+            "CharacterName": "Self - Actor",
+            "Aired": "2015",
+            "FilmTitle": "The Supercars of Spectre",
+            "FilmUrl": "https://www.imdb.com/title/tt10569464/?ref_=nm_flmg_slf_45"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "First Look at Spectre",
+            "FilmUrl": "https://www.imdb.com/title/tt10564288/?ref_=nm_flmg_slf_46"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Guide to the Galaxy with James Gunn",
+            "FilmUrl": "https://www.imdb.com/title/tt4311066/?ref_=nm_flmg_slf_47"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Bond24 Announcement",
+            "FilmUrl": "https://www.imdb.com/title/tt10551386/?ref_=nm_flmg_slf_48"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "The Victoria to Uyen Show",
+            "FilmUrl": "https://www.imdb.com/title/tt4344092/?ref_=nm_flmg_slf_49"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Unscripted",
+            "FilmUrl": "https://www.imdb.com/title/tt3524446/?ref_=nm_flmg_slf_50"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "WWE Batista: The Animal Unleashed",
+            "FilmUrl": "https://www.imdb.com/title/tt3798338/?ref_=nm_flmg_slf_51"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2014",
+            "FilmTitle": "WWE Payback",
+            "FilmUrl": "https://www.imdb.com/title/tt3742018/?ref_=nm_flmg_slf_52"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2014",
+            "FilmTitle": "WWE Extreme Rules",
+            "FilmUrl": "https://www.imdb.com/title/tt3668970/?ref_=nm_flmg_slf_53"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2014",
+            "FilmTitle": "WWE Elimination Chamber",
+            "FilmUrl": "https://www.imdb.com/title/tt3508724/?ref_=nm_flmg_slf_54"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2014",
+            "FilmTitle": "WWE Royal Rumble",
+            "FilmUrl": "https://www.imdb.com/title/tt3337240/?ref_=nm_flmg_slf_55"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Riddick: Meet the Mercs",
+            "FilmUrl": "https://www.imdb.com/title/tt5375012/?ref_=nm_flmg_slf_56"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Riddickian Tech",
+            "FilmUrl": "https://www.imdb.com/title/tt5375026/?ref_=nm_flmg_slf_57"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Vin's Riddick",
+            "FilmUrl": "https://www.imdb.com/title/tt5375038/?ref_=nm_flmg_slf_58"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2013",
+            "FilmTitle": "The History of WWE: 50 Years of Sports Entertainment",
+            "FilmUrl": "https://www.imdb.com/title/tt3304474/?ref_=nm_flmg_slf_59"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "WWE: Triple H - Thy Kingdom Come",
+            "FilmUrl": "https://www.imdb.com/title/tt3103128/?ref_=nm_flmg_slf_60"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Nerd HQ",
+            "FilmUrl": "https://www.imdb.com/title/tt3109382/?ref_=nm_flmg_slf_61"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Vivir de cine",
+            "FilmUrl": "https://www.imdb.com/title/tt3110888/?ref_=nm_flmg_slf_62"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Bautista MMA",
+            "FilmUrl": "https://www.imdb.com/title/tt2443086/?ref_=nm_flmg_slf_63"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "MMA Uncensored Live",
+            "FilmUrl": "https://www.imdb.com/title/tt2367475/?ref_=nm_flmg_slf_64"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2012",
+            "FilmTitle": "Undertaker: The Streak - 20-0",
+            "FilmUrl": "https://www.imdb.com/title/tt2382017/?ref_=nm_flmg_slf_65"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Comic Con 2012 Live",
+            "FilmUrl": "https://www.imdb.com/title/tt2270788/?ref_=nm_flmg_slf_66"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Machinima Comic-Con Live Stream 2012",
+            "FilmUrl": "https://www.imdb.com/title/tt3451022/?ref_=nm_flmg_slf_67"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2012",
+            "FilmTitle": "IC Places Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt2185933/?ref_=nm_flmg_slf_68"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2011",
+            "FilmTitle": "1st Look",
+            "FilmUrl": "https://www.imdb.com/title/tt2063020/?ref_=nm_flmg_slf_69"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "WWE Over the Limit",
+            "FilmUrl": "https://www.imdb.com/title/tt1667148/?ref_=nm_flmg_slf_70"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "WWE Extreme Rules",
+            "FilmUrl": "https://www.imdb.com/title/tt1672216/?ref_=nm_flmg_slf_71"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Batista Crump Kali",
+            "FilmUrl": "https://www.imdb.com/title/tt1617626/?ref_=nm_flmg_slf_72"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "WWE Elimination Chamber",
+            "FilmUrl": "https://www.imdb.com/title/tt1611215/?ref_=nm_flmg_slf_73"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE TLC: Tables, Ladders & Chairs",
+            "FilmUrl": "https://www.imdb.com/title/tt1706703/?ref_=nm_flmg_slf_74"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "Survivor Series",
+            "FilmUrl": "https://www.imdb.com/title/tt1706696/?ref_=nm_flmg_slf_75"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2009",
+            "FilmTitle": "MTV Europe Music Awards 2009",
+            "FilmUrl": "https://www.imdb.com/title/tt2152777/?ref_=nm_flmg_slf_76"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE Bragging Rights",
+            "FilmUrl": "https://www.imdb.com/title/tt1706673/?ref_=nm_flmg_slf_77"
+        },
+        {
+            "CharacterName": "Self (as Leviathan)",
+            "Aired": "2009",
+            "FilmTitle": "WWE: Batista - I Walk Alone",
+            "FilmUrl": "https://www.imdb.com/title/tt1515969/?ref_=nm_flmg_slf_78"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE Hell in a Cell",
+            "FilmUrl": "https://www.imdb.com/title/tt1706683/?ref_=nm_flmg_slf_79"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Neighbours",
+            "FilmUrl": "https://www.imdb.com/title/tt0088580/?ref_=nm_flmg_slf_80"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE: Extreme Rules",
+            "FilmUrl": "https://www.imdb.com/title/tt1438278/?ref_=nm_flmg_slf_81"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE Judgment Day",
+            "FilmUrl": "https://www.imdb.com/title/tt1428461/?ref_=nm_flmg_slf_82"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Head Case",
+            "FilmUrl": "https://www.imdb.com/title/tt0904627/?ref_=nm_flmg_slf_83"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE Backlash",
+            "FilmUrl": "https://www.imdb.com/title/tt1412366/?ref_=nm_flmg_slf_84"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "WWE Superstars",
+            "FilmUrl": "https://www.imdb.com/title/tt1401882/?ref_=nm_flmg_slf_85"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "WWE Hall of Fame 2009",
+            "FilmUrl": "https://www.imdb.com/title/tt1395079/?ref_=nm_flmg_slf_86"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Pacquiao vs. Hatton: The Battle of East and West",
+            "FilmUrl": "https://www.imdb.com/title/tt1418807/?ref_=nm_flmg_slf_87"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Tribute for the Troops",
+            "FilmUrl": "https://www.imdb.com/title/tt1343071/?ref_=nm_flmg_slf_88"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Armageddon",
+            "FilmUrl": "https://www.imdb.com/title/tt1330233/?ref_=nm_flmg_slf_89"
+        },
+        {
+            "CharacterName": "Batista (Team Batista)",
+            "Aired": "2008",
+            "FilmTitle": "Survivor Series",
+            "FilmUrl": "https://www.imdb.com/title/tt1315059/?ref_=nm_flmg_slf_90"
+        },
+        {
+            "CharacterName": "Self (as Batista)",
+            "Aired": "2008",
+            "FilmTitle": "Viva la Raza: The Legacy of Eddie Guerrero",
+            "FilmUrl": "https://www.imdb.com/title/tt1324035/?ref_=nm_flmg_slf_91"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "Quelli che... il calcio",
+            "FilmUrl": "https://www.imdb.com/title/tt0445135/?ref_=nm_flmg_slf_92"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Cyber Sunday",
+            "FilmUrl": "https://www.imdb.com/title/tt1305557/?ref_=nm_flmg_slf_93"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE No Mercy",
+            "FilmUrl": "https://www.imdb.com/title/tt1305558/?ref_=nm_flmg_slf_94"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "Why We Train",
+            "FilmUrl": "https://www.imdb.com/title/tt1288607/?ref_=nm_flmg_slf_95"
+        },
+        {
+            "CharacterName": "Self - Judge",
+            "Aired": "2008",
+            "FilmTitle": "Iron Chef America: The Series",
+            "FilmUrl": "https://www.imdb.com/title/tt0441718/?ref_=nm_flmg_slf_96"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Unforgiven",
+            "FilmUrl": "https://www.imdb.com/title/tt1305559/?ref_=nm_flmg_slf_97"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "Summerslam",
+            "FilmUrl": "https://www.imdb.com/title/tt1283957/?ref_=nm_flmg_slf_98"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006-2008",
+            "FilmTitle": "WWE Saturday Night's Main Event",
+            "FilmUrl": "https://www.imdb.com/title/tt0775405/?ref_=nm_flmg_slf_99"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Great American Bash",
+            "FilmUrl": "https://www.imdb.com/title/tt1272437/?ref_=nm_flmg_slf_100"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Night of Champions",
+            "FilmUrl": "https://www.imdb.com/title/tt1264119/?ref_=nm_flmg_slf_101"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE One Night Stand",
+            "FilmUrl": "https://www.imdb.com/title/tt1245915/?ref_=nm_flmg_slf_102"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2008",
+            "FilmTitle": "Wide World of Sports",
+            "FilmUrl": "https://www.imdb.com/title/tt1208645/?ref_=nm_flmg_slf_103"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Backlash",
+            "FilmUrl": "https://www.imdb.com/title/tt1227568/?ref_=nm_flmg_slf_104"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2008",
+            "FilmTitle": "El hormiguero",
+            "FilmUrl": "https://www.imdb.com/title/tt0870872/?ref_=nm_flmg_slf_105"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE No Way Out",
+            "FilmUrl": "https://www.imdb.com/title/tt1188759/?ref_=nm_flmg_slf_106"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Royal Rumble",
+            "FilmUrl": "https://www.imdb.com/title/tt1178664/?ref_=nm_flmg_slf_107"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE Armageddon",
+            "FilmUrl": "https://www.imdb.com/title/tt1224139/?ref_=nm_flmg_slf_108"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "Survivor Series",
+            "FilmUrl": "https://www.imdb.com/title/tt1130761/?ref_=nm_flmg_slf_109"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "Family Feud",
+            "FilmUrl": "https://www.imdb.com/title/tt0177440/?ref_=nm_flmg_slf_110"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE Cyber Sunday",
+            "FilmUrl": "https://www.imdb.com/title/tt1213885/?ref_=nm_flmg_slf_111"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE No Mercy",
+            "FilmUrl": "https://www.imdb.com/title/tt1213839/?ref_=nm_flmg_slf_112"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE Unforgiven",
+            "FilmUrl": "https://www.imdb.com/title/tt1210364/?ref_=nm_flmg_slf_113"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "Summerslam",
+            "FilmUrl": "https://www.imdb.com/title/tt1027214/?ref_=nm_flmg_slf_114"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE Great American Bash",
+            "FilmUrl": "https://www.imdb.com/title/tt1000762/?ref_=nm_flmg_slf_115"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE Vengeance",
+            "FilmUrl": "https://www.imdb.com/title/tt1059840/?ref_=nm_flmg_slf_116"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE Draft Special",
+            "FilmUrl": "https://www.imdb.com/title/tt1045247/?ref_=nm_flmg_slf_117"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE One Night Stand",
+            "FilmUrl": "https://www.imdb.com/title/tt1043874/?ref_=nm_flmg_slf_118"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE Judgment Day",
+            "FilmUrl": "https://www.imdb.com/title/tt1014782/?ref_=nm_flmg_slf_119"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE Backlash",
+            "FilmUrl": "https://www.imdb.com/title/tt0974665/?ref_=nm_flmg_slf_120"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "WWE Hall of Fame 2007",
+            "FilmUrl": "https://www.imdb.com/title/tt0983927/?ref_=nm_flmg_slf_121"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "TRL Italy",
+            "FilmUrl": "https://www.imdb.com/title/tt0913283/?ref_=nm_flmg_slf_122"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "WWE No Way Out",
+            "FilmUrl": "https://www.imdb.com/title/tt0950775/?ref_=nm_flmg_slf_123"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2007",
+            "FilmTitle": "Royal Rumble",
+            "FilmUrl": "https://www.imdb.com/title/tt0944177/?ref_=nm_flmg_slf_124"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "Extreme Makeover: Home Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt0388595/?ref_=nm_flmg_slf_125"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006",
+            "FilmTitle": "WWE Armageddon",
+            "FilmUrl": "https://www.imdb.com/title/tt0800259/?ref_=nm_flmg_slf_126"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006",
+            "FilmTitle": "Survivor Series",
+            "FilmUrl": "https://www.imdb.com/title/tt0791343/?ref_=nm_flmg_slf_127"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006",
+            "FilmTitle": "WWE No Mercy",
+            "FilmUrl": "https://www.imdb.com/title/tt0795503/?ref_=nm_flmg_slf_128"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006",
+            "FilmTitle": "Summerslam",
+            "FilmUrl": "https://www.imdb.com/title/tt0791340/?ref_=nm_flmg_slf_129"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006",
+            "FilmTitle": "WWE Great American Bash",
+            "FilmUrl": "https://www.imdb.com/title/tt0791354/?ref_=nm_flmg_slf_130"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "WWE Hall of Fame 2006",
+            "FilmUrl": "https://www.imdb.com/title/tt0775564/?ref_=nm_flmg_slf_131"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006",
+            "FilmTitle": "WWE No Way Out",
+            "FilmUrl": "https://www.imdb.com/title/tt0765483/?ref_=nm_flmg_slf_132"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Armageddon",
+            "FilmUrl": "https://www.imdb.com/title/tt0457193/?ref_=nm_flmg_slf_133"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "The Smackdown! Special",
+            "FilmUrl": "https://www.imdb.com/title/tt0498932/?ref_=nm_flmg_slf_134"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Survivor Series",
+            "FilmUrl": "https://www.imdb.com/title/tt0457151/?ref_=nm_flmg_slf_135"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Taboo Tuesday",
+            "FilmUrl": "https://www.imdb.com/title/tt0457197/?ref_=nm_flmg_slf_136"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE No Mercy",
+            "FilmUrl": "https://www.imdb.com/title/tt0457196/?ref_=nm_flmg_slf_137"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "Summerslam",
+            "FilmUrl": "https://www.imdb.com/title/tt0457150/?ref_=nm_flmg_slf_138"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE the Great American Bash",
+            "FilmUrl": "https://www.imdb.com/title/tt0457194/?ref_=nm_flmg_slf_139"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Vengeance",
+            "FilmUrl": "https://www.imdb.com/title/tt0457199/?ref_=nm_flmg_slf_140"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Backlash",
+            "FilmUrl": "https://www.imdb.com/title/tt0444704/?ref_=nm_flmg_slf_141"
+        },
+        {
+            "CharacterName": "Self (voice, as Batista)",
+            "Aired": "2005",
+            "FilmTitle": "WrestleMania 21",
+            "FilmUrl": "https://www.imdb.com/title/tt0458527/?ref_=nm_flmg_slf_142"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "WWE Hall of Fame 2005",
+            "FilmUrl": "https://www.imdb.com/title/tt0457195/?ref_=nm_flmg_slf_143"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE No Way Out",
+            "FilmUrl": "https://www.imdb.com/title/tt0442857/?ref_=nm_flmg_slf_144"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Royal Rumble",
+            "FilmUrl": "https://www.imdb.com/title/tt0442709/?ref_=nm_flmg_slf_145"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE New Year's Revolution",
+            "FilmUrl": "https://www.imdb.com/title/tt0430750/?ref_=nm_flmg_slf_146"
+        },
+        {
+            "CharacterName": "Batista - Team Triple H",
+            "Aired": "2004",
+            "FilmTitle": "WWE Survivor Series",
+            "FilmUrl": "https://www.imdb.com/title/tt0423501/?ref_=nm_flmg_slf_147"
+        },
+        {
+            "CharacterName": "Batista (as Batista)",
+            "Aired": "2004",
+            "FilmTitle": "WWE Taboo Tuesday",
+            "FilmUrl": "https://www.imdb.com/title/tt0424547/?ref_=nm_flmg_slf_148"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2004",
+            "FilmTitle": "WWE Unforgiven",
+            "FilmUrl": "https://www.imdb.com/title/tt0423502/?ref_=nm_flmg_slf_149"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2004",
+            "FilmTitle": "Summerslam",
+            "FilmUrl": "https://www.imdb.com/title/tt0417176/?ref_=nm_flmg_slf_150"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2004",
+            "FilmTitle": "WWE Vengeance",
+            "FilmUrl": "https://www.imdb.com/title/tt0417251/?ref_=nm_flmg_slf_151"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2004",
+            "FilmTitle": "WWE Bad Blood",
+            "FilmUrl": "https://www.imdb.com/title/tt0417248/?ref_=nm_flmg_slf_152"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2004",
+            "FilmTitle": "WWE Backlash",
+            "FilmUrl": "https://www.imdb.com/title/tt0407301/?ref_=nm_flmg_slf_153"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "10 Things Every Guy Should Experience",
+            "FilmUrl": "https://www.imdb.com/title/tt0397754/?ref_=nm_flmg_slf_154"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2004",
+            "FilmTitle": "Royal Rumble",
+            "FilmUrl": "https://www.imdb.com/title/tt0403465/?ref_=nm_flmg_slf_155"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2003",
+            "FilmTitle": "WWE Armageddon",
+            "FilmUrl": "https://www.imdb.com/title/tt0406322/?ref_=nm_flmg_slf_156"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2003",
+            "FilmTitle": "Survivor Series",
+            "FilmUrl": "https://www.imdb.com/title/tt0403578/?ref_=nm_flmg_slf_157"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2003",
+            "FilmTitle": "WWE No Way Out",
+            "FilmUrl": "https://www.imdb.com/title/tt0352989/?ref_=nm_flmg_slf_158"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2003",
+            "FilmTitle": "Royal Rumble",
+            "FilmUrl": "https://www.imdb.com/title/tt0350067/?ref_=nm_flmg_slf_159"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2002",
+            "FilmTitle": "WWE Armageddon",
+            "FilmUrl": "https://www.imdb.com/title/tt0344537/?ref_=nm_flmg_slf_160"
+        },
+        {
+            "CharacterName": "Self (2002) (as Deacon Batista)",
+            "Aired": "1998",
+            "FilmTitle": "WWE Metal",
+            "FilmUrl": "https://www.imdb.com/title/tt0287897/?ref_=nm_flmg_slf_161"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1996",
+            "FilmTitle": "WXW Rage TV",
+            "FilmUrl": "https://www.imdb.com/title/tt0397843/?ref_=nm_flmg_slf_162"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2020",
+            "FilmTitle": "The Best of Backlash",
+            "FilmUrl": "https://www.imdb.com/title/tt12478118/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2020",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_arf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "30 for 30",
+            "FilmUrl": "https://www.imdb.com/title/tt1408430/?ref_=nm_flmg_arf_3"
+        },
+        {
+            "CharacterName": "Mr. Hinx",
+            "Aired": "2015",
+            "FilmTitle": "Omega 'Spectre' Television Commercial",
+            "FilmUrl": "https://www.imdb.com/title/tt11968390/?ref_=nm_flmg_arf_4"
+        },
+        {
+            "CharacterName": "Mr. Hinx",
+            "Aired": "2015",
+            "FilmTitle": "Land Rover 'Spectre' Television Commercial",
+            "FilmUrl": "https://www.imdb.com/title/tt12127056/?ref_=nm_flmg_arf_5"
+        },
+        {
+            "CharacterName": "Hinx",
+            "Aired": "2015",
+            "FilmTitle": "The Music of Spectre",
+            "FilmUrl": "https://www.imdb.com/title/tt10579884/?ref_=nm_flmg_arf_6"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2015",
+            "FilmTitle": "Daniel Bryan: Just Say Yes! Yes! Yes!",
+            "FilmUrl": "https://www.imdb.com/title/tt4709580/?ref_=nm_flmg_arf_7"
+        },
+        {
+            "CharacterName": "Bautista",
+            "Aired": "2015",
+            "FilmTitle": "WWE Hall of Fame",
+            "FilmUrl": "https://www.imdb.com/title/tt4352548/?ref_=nm_flmg_arf_8"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2006-2014",
+            "FilmTitle": "WWE Raw",
+            "FilmUrl": "https://www.imdb.com/title/tt0185103/?ref_=nm_flmg_arf_9"
+        },
+        {
+            "CharacterName": "Batista / Leviathan",
+            "Aired": "2014",
+            "FilmTitle": "John Cena: Greatest Rivalries",
+            "FilmUrl": "https://www.imdb.com/title/tt4567790/?ref_=nm_flmg_arf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Journey to SummerSlam: The Destruction of the Shield",
+            "FilmUrl": "https://www.imdb.com/title/tt3979660/?ref_=nm_flmg_arf_11"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2014",
+            "FilmTitle": "Best of Raw After the Show",
+            "FilmUrl": "https://www.imdb.com/title/tt3728402/?ref_=nm_flmg_arf_12"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2013",
+            "FilmTitle": "WWE for All Mankind: Life & Career of Mick Foley",
+            "FilmUrl": "https://www.imdb.com/title/tt2737302/?ref_=nm_flmg_arf_13"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2012",
+            "FilmTitle": "The Top 100 Moments in Raw History",
+            "FilmUrl": "https://www.imdb.com/title/tt2515268/?ref_=nm_flmg_arf_14"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2012",
+            "FilmTitle": "Rock vs. Cena: Once in a Lifetime",
+            "FilmUrl": "https://www.imdb.com/title/tt2720954/?ref_=nm_flmg_arf_15"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2012",
+            "FilmTitle": "The 50 Greatest Finishing Moves in WWE History",
+            "FilmUrl": "https://www.imdb.com/title/tt2222806/?ref_=nm_flmg_arf_16"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2011",
+            "FilmTitle": "Shawn Michaels vs. Bret Hart",
+            "FilmUrl": "https://www.imdb.com/title/tt2043987/?ref_=nm_flmg_arf_17"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2011",
+            "FilmTitle": "Randy Orton: The Evolution of a Predator",
+            "FilmUrl": "https://www.imdb.com/title/tt2011200/?ref_=nm_flmg_arf_18"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2011",
+            "FilmTitle": "WWE: OMG! - The Top 50 Incidents in WWE History",
+            "FilmUrl": "https://www.imdb.com/title/tt1992233/?ref_=nm_flmg_arf_19"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2011",
+            "FilmTitle": "WWE: Greatest Stars of the New Millenium",
+            "FilmUrl": "https://www.imdb.com/title/tt1978586/?ref_=nm_flmg_arf_20"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2011",
+            "FilmTitle": "WWE: Rey Mysterio - The Life of a Masked Man",
+            "FilmUrl": "https://www.imdb.com/title/tt1959604/?ref_=nm_flmg_arf_21"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2011",
+            "FilmTitle": "WWE: Best Cage Matches",
+            "FilmUrl": "https://www.imdb.com/title/tt1942125/?ref_=nm_flmg_arf_22"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2011",
+            "FilmTitle": "The Big Show: A Giant's World",
+            "FilmUrl": "https://www.imdb.com/title/tt1827370/?ref_=nm_flmg_arf_23"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2011",
+            "FilmTitle": "Raw the Best of 2010",
+            "FilmUrl": "https://www.imdb.com/title/tt1813578/?ref_=nm_flmg_arf_24"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "The John Cena Experience",
+            "FilmUrl": "https://www.imdb.com/title/tt1754645/?ref_=nm_flmg_arf_25"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "Smackdown: The Best of 2009-2010",
+            "FilmUrl": "https://www.imdb.com/title/tt1744859/?ref_=nm_flmg_arf_26"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "Breaking the Code: Behind the Walls of Chris Jericho",
+            "FilmUrl": "https://www.imdb.com/title/tt1712167/?ref_=nm_flmg_arf_27"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "WrestleMania XXVI: The World Television Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt1705142/?ref_=nm_flmg_arf_28"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "WWE: The Undertaker's Deadliest Matches",
+            "FilmUrl": "https://www.imdb.com/title/tt1651967/?ref_=nm_flmg_arf_29"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2010",
+            "FilmTitle": "WWE: The Best of RAW 2009",
+            "FilmUrl": "https://www.imdb.com/title/tt1588435/?ref_=nm_flmg_arf_30"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2009",
+            "FilmTitle": "WWE: The Best of SmackDown - 10th Anniversary 1999-2009",
+            "FilmUrl": "https://www.imdb.com/title/tt1496906/?ref_=nm_flmg_arf_31"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "ECW on Sci-Fi",
+            "FilmUrl": "https://www.imdb.com/title/tt0810614/?ref_=nm_flmg_arf_32"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE: Hell in a Cell - The Greatest Hell in a Cell Matches of All Time",
+            "FilmUrl": "https://www.imdb.com/title/tt1340476/?ref_=nm_flmg_arf_33"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Summerslam: The Complete Anthology, Vol. 4",
+            "FilmUrl": "https://www.imdb.com/title/tt1864571/?ref_=nm_flmg_arf_34"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "Triple H: King of Kings",
+            "FilmUrl": "https://www.imdb.com/title/tt1319742/?ref_=nm_flmg_arf_35"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE - Undertaker 15-0",
+            "FilmUrl": "https://www.imdb.com/title/tt1410070/?ref_=nm_flmg_arf_36"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2008",
+            "FilmTitle": "WWE Royal Rumble: The Complete Anthology, Vol. 4",
+            "FilmUrl": "https://www.imdb.com/title/tt1869813/?ref_=nm_flmg_arf_37"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005-2007",
+            "FilmTitle": "WWE Smackdown!",
+            "FilmUrl": "https://www.imdb.com/title/tt0227972/?ref_=nm_flmg_arf_38"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE WrestleMania: The Complete Anthology, Vol. 4",
+            "FilmUrl": "https://www.imdb.com/title/tt1789981/?ref_=nm_flmg_arf_39"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Velocity",
+            "FilmUrl": "https://www.imdb.com/title/tt0321013/?ref_=nm_flmg_arf_40"
+        },
+        {
+            "CharacterName": "Batista",
+            "Aired": "2005",
+            "FilmTitle": "WWE Sunday Night Heat",
+            "FilmUrl": "https://www.imdb.com/title/tt0257324/?ref_=nm_flmg_arf_41"
+        },
+        {
+            "CharacterName": "Leviathan / Batista",
+            "Aired": "2003",
+            "FilmTitle": "WWE: Brock Lesnar: Here Comes the Pain",
+            "FilmUrl": "https://www.imdb.com/title/tt0378997/?ref_=nm_flmg_arf_42"
+        }
+    ],
+    "AwardsWins": 3,
+    "AwardNominations": 2
+}

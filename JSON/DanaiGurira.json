@@ -1,0 +1,568 @@
+{
+    "Rank": 60,
+    "FullName": "Danai Gurira",
+    "DomesticBoxOfficeRevenue": 2237248048,
+    "AverageDomesticBoxOfficeRevenue": 745749349,
+    "LocalDataSourcePath": "./html/imdb_profiles/DanaiGurira.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BNjYyNjg1OTU1M15BMl5BanBnXkFtZTgwNzYyNTkzMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "DOB": "1978-2-14",
+    "BornIn": "Grinnell, Iowa, USA",
+    "Gender": "Female",
+    "Height": 1.7,
+    "AstrologicalSign": "Aquarius",
+    "Roles": [
+        {
+            "Aired": "2021",
+            "FilmTitle": "Godzilla vs. Kong",
+            "FilmUrl": "https://www.imdb.com/title/tt5034838/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "Michonne",
+            "Aired": "2012-2020",
+            "FilmTitle": "The Walking Dead",
+            "FilmUrl": "https://www.imdb.com/title/tt1520211/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "Okoye",
+            "Aired": "2019",
+            "FilmTitle": "Avengers: Endgame",
+            "FilmUrl": "https://www.imdb.com/title/tt4154796/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "Okoye",
+            "Aired": "2018",
+            "FilmTitle": "Avengers: Infinity War",
+            "FilmUrl": "https://www.imdb.com/title/tt4154756/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "Okoye",
+            "Aired": "2018",
+            "FilmTitle": "Black Panther",
+            "FilmUrl": "https://www.imdb.com/title/tt1825683/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Michonne",
+            "Aired": "2017",
+            "FilmTitle": "Robot Chicken",
+            "FilmUrl": "https://www.imdb.com/title/tt0437745/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "Afeni Shakur",
+            "Aired": "2017",
+            "FilmTitle": "All Eyez on Me",
+            "FilmUrl": "https://www.imdb.com/title/tt1666185/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Fury (voice)",
+            "Aired": "2014",
+            "FilmTitle": "Tinker Bell and the Legend of the NeverBeast",
+            "FilmUrl": "https://www.imdb.com/title/tt3120408/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Adenike Balogun",
+            "Aired": "2013",
+            "FilmTitle": "Mother of George",
+            "FilmUrl": "https://www.imdb.com/title/tt2094890/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "Jill",
+            "Aired": "2010-2011",
+            "FilmTitle": "Treme",
+            "FilmUrl": "https://www.imdb.com/title/tt1279972/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Sisi",
+            "Aired": "2011",
+            "FilmTitle": "Restless City",
+            "FilmUrl": "https://www.imdb.com/title/tt1545464/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Jeanne-Baptiste",
+            "Aired": "2010",
+            "FilmTitle": "My Soul to Take",
+            "FilmUrl": "https://www.imdb.com/title/tt0872230/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Michelle Russo",
+            "Aired": "2010",
+            "FilmTitle": "Lie to Me",
+            "FilmUrl": "https://www.imdb.com/title/tt1235099/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Sarah Steward",
+            "Aired": "2010",
+            "FilmTitle": "American Experience",
+            "FilmUrl": "https://www.imdb.com/title/tt0094416/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Woman in Blue Dress",
+            "Aired": "2010",
+            "FilmTitle": "3 Backyards",
+            "FilmUrl": "https://www.imdb.com/title/tt1314190/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Courtney Owens",
+            "Aired": "2009",
+            "FilmTitle": "Law & Order",
+            "FilmUrl": "https://www.imdb.com/title/tt0098844/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Angela",
+            "Aired": "2009",
+            "FilmTitle": "Life on Mars",
+            "FilmUrl": "https://www.imdb.com/title/tt0787490/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Assorted Ghost",
+            "Aired": "2008/I",
+            "FilmTitle": "Ghost Town",
+            "FilmUrl": "https://www.imdb.com/title/tt0995039/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Zainab",
+            "Aired": "2007/I",
+            "FilmTitle": "The Visitor",
+            "FilmUrl": "https://www.imdb.com/title/tt0857191/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "Marei Rosa Rumbidzai",
+            "Aired": "2004",
+            "FilmTitle": "Law & Order: Criminal Intent",
+            "FilmUrl": "https://www.imdb.com/title/tt0275140/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "Americanah",
+            "FilmUrl": "https://www.imdb.com/title/tt3781380/?ref_=nm_flmg_prd_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "Americanah",
+            "FilmUrl": "https://www.imdb.com/title/tt3781380/?ref_=nm_flmg_wr_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2019",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2016",
+            "FilmTitle": "The Walking Dead: The Journey So Far",
+            "FilmUrl": "https://www.imdb.com/title/tt6128602/?ref_=nm_flmg_tk_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2013",
+            "FilmTitle": "Kuhani",
+            "FilmUrl": "https://www.imdb.com/title/tt3104562/?ref_=nm_flmg_tk_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "Hollywood Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt8638066/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019-2020",
+            "FilmTitle": "The Daily Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115147/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "One World: Together at Home",
+            "FilmUrl": "https://www.imdb.com/title/tt12144858/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self / Self - Guest / Self - 'Michonne' / ...",
+            "Aired": "2012-2020",
+            "FilmTitle": "Talking Dead",
+            "FilmUrl": "https://www.imdb.com/title/tt2089467/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2020",
+            "FilmTitle": "The 26th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt10751088/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "BuzzFeed Celeb",
+            "FilmUrl": "https://www.imdb.com/title/tt9793886/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "IMDb at San Diego Comic-Con",
+            "FilmUrl": "https://www.imdb.com/title/tt5831312/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Close Up with the Hollywood Reporter",
+            "FilmUrl": "https://www.imdb.com/title/tt4931888/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "The 73rd Annual Tony Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt10048654/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self / Self - The Walking Dead",
+            "Aired": "2014-2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Red Carpet Report",
+            "FilmUrl": "https://www.imdb.com/title/tt5611414/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Marvel Studios' Avengers: Endgame LIVE Red Carpet World Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10240638/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self / Self - Performer",
+            "Aired": "2015-2019",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2014-2019",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_14"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "50th NAACP Image Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9542590/?ref_=nm_flmg_slf_15"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "The Oscars",
+            "FilmUrl": "https://www.imdb.com/title/tt9168816/?ref_=nm_flmg_slf_16"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "BAFTAs 2019",
+            "FilmUrl": "https://www.imdb.com/title/tt9744630/?ref_=nm_flmg_slf_17"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2015-2019",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_18"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "The 25th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9424718/?ref_=nm_flmg_slf_19"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2019",
+            "FilmTitle": "2019 Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9000560/?ref_=nm_flmg_slf_20"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018-2019",
+            "FilmTitle": "E! Live from the Red Carpet",
+            "FilmUrl": "https://www.imdb.com/title/tt4346344/?ref_=nm_flmg_slf_21"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_22"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "The 12th Annual CNN Heroes: An All-Star Tribute",
+            "FilmUrl": "https://www.imdb.com/title/tt9383698/?ref_=nm_flmg_slf_23"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Global Citizen Festival Mandela 100",
+            "FilmUrl": "https://www.imdb.com/title/tt9357938/?ref_=nm_flmg_slf_24"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Made in Hollywood: Teen Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt1245693/?ref_=nm_flmg_slf_25"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Breaking Big",
+            "FilmUrl": "https://www.imdb.com/title/tt8571462/?ref_=nm_flmg_slf_26"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Black Panther: Crowning of a New King",
+            "FilmUrl": "https://www.imdb.com/title/tt8425650/?ref_=nm_flmg_slf_27"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Black Panther: The Warriors Within",
+            "FilmUrl": "https://www.imdb.com/title/tt8429800/?ref_=nm_flmg_slf_28"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014-2018",
+            "FilmTitle": "Conan",
+            "FilmUrl": "https://www.imdb.com/title/tt1637574/?ref_=nm_flmg_slf_29"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2018",
+            "FilmTitle": "The IMDb Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7549864/?ref_=nm_flmg_slf_30"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_31"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "#TeamG1, la quotidienne",
+            "FilmUrl": "https://www.imdb.com/title/tt8235530/?ref_=nm_flmg_slf_32"
+        },
+        {
+            "CharacterName": "Self - Guest / Self / Self - The Walking Dead",
+            "Aired": "2014-2018",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_33"
+        },
+        {
+            "CharacterName": "Audience Member",
+            "Aired": "2018",
+            "FilmTitle": "The Oscars",
+            "FilmUrl": "https://www.imdb.com/title/tt7235270/?ref_=nm_flmg_slf_34"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2018",
+            "FilmTitle": "33rd Film Independent Spirit Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt7635548/?ref_=nm_flmg_slf_35"
+        },
+        {
+            "CharacterName": "Self - Honoree",
+            "Aired": "2018",
+            "FilmTitle": "Essence 11th Annual Black Women in Hollywood Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt8358926/?ref_=nm_flmg_slf_36"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2013-2018",
+            "FilmTitle": "The View",
+            "FilmUrl": "https://www.imdb.com/title/tt0123366/?ref_=nm_flmg_slf_37"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_38"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Last Week",
+            "FilmUrl": "https://www.imdb.com/title/tt8527880/?ref_=nm_flmg_slf_39"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Off Camera with Sam Jones",
+            "FilmUrl": "https://www.imdb.com/title/tt3473134/?ref_=nm_flmg_slf_40"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2018",
+            "FilmTitle": "The One Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0844203/?ref_=nm_flmg_slf_41"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "49th NAACP Image Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt7913148/?ref_=nm_flmg_slf_42"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2013-2017",
+            "FilmTitle": "Tavis Smiley",
+            "FilmUrl": "https://www.imdb.com/title/tt0403813/?ref_=nm_flmg_slf_43"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Walking Dead: Behind the Dead",
+            "FilmUrl": "https://www.imdb.com/title/tt7584924/?ref_=nm_flmg_slf_44"
+        },
+        {
+            "CharacterName": "Afeni",
+            "Aired": "2017",
+            "FilmTitle": "HBO First Look: All Eyez on Me",
+            "FilmUrl": "https://www.imdb.com/title/tt9066158/?ref_=nm_flmg_slf_45"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Behind the Curtain: Eclipsed",
+            "FilmUrl": "https://www.imdb.com/title/tt6603042/?ref_=nm_flmg_slf_46"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "The Chew",
+            "FilmUrl": "https://www.imdb.com/title/tt2071236/?ref_=nm_flmg_slf_47"
+        },
+        {
+            "CharacterName": "Self / Michonne",
+            "Aired": "2016",
+            "FilmTitle": "The Walking Dead: The Journey So Far",
+            "FilmUrl": "https://www.imdb.com/title/tt6128602/?ref_=nm_flmg_slf_48"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Live from the Red Carpet: The 2016 Tony Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt6043228/?ref_=nm_flmg_slf_49"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2016",
+            "FilmTitle": "Theater Talk",
+            "FilmUrl": "https://www.imdb.com/title/tt0817467/?ref_=nm_flmg_slf_50"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Black Girls Rock!",
+            "FilmUrl": "https://www.imdb.com/title/tt5722256/?ref_=nm_flmg_slf_51"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "The Late Show with Stephen Colbert",
+            "FilmUrl": "https://www.imdb.com/title/tt3697842/?ref_=nm_flmg_slf_52"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "PBS NewsHour",
+            "FilmUrl": "https://www.imdb.com/title/tt0247880/?ref_=nm_flmg_slf_53"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "The Meredith Vieira Show",
+            "FilmUrl": "https://www.imdb.com/title/tt3097772/?ref_=nm_flmg_slf_54"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2014",
+            "FilmTitle": "American Music Awards 2014",
+            "FilmUrl": "https://www.imdb.com/title/tt4236242/?ref_=nm_flmg_slf_55"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2014",
+            "FilmTitle": "BELLOmag Presents: A Conversation with Danai Gurira",
+            "FilmUrl": "https://www.imdb.com/title/tt4396730/?ref_=nm_flmg_slf_56"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "StuTV",
+            "FilmUrl": "https://www.imdb.com/title/tt4297442/?ref_=nm_flmg_slf_57"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "24 Hours of Reality: The Cost of Carbon",
+            "FilmUrl": "https://www.imdb.com/title/tt3336512/?ref_=nm_flmg_slf_58"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Katie",
+            "FilmUrl": "https://www.imdb.com/title/tt2354136/?ref_=nm_flmg_slf_59"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "The Walking Dead: A Decade of Dead",
+            "FilmUrl": "https://www.imdb.com/title/tt3353148/?ref_=nm_flmg_slf_60"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "Larry King Now",
+            "FilmUrl": "https://www.imdb.com/title/tt2322438/?ref_=nm_flmg_slf_61"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "The 17th Annual Satellite Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt6711570/?ref_=nm_flmg_slf_62"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2012",
+            "FilmTitle": "Last Call with Carson Daly",
+            "FilmUrl": "https://www.imdb.com/title/tt0305056/?ref_=nm_flmg_slf_63"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Moving Pictures Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt1552185/?ref_=nm_flmg_slf_64"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016-2017",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_arf_3"
+        }
+    ],
+    "AwardsWins": 12,
+    "AwardNominations": 21
+}

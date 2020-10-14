@@ -20,19 +20,7 @@ class CelebSpyder():
         ```
     """
 
-    def __init__(self, celeb_list_url: str, page_num: int = 1, debug: bool=False):
-        """
-        Entry point for class. Init local vars here.
-        """
-        self._celeb_list_url: str = celeb_list_url
-        self._start_page_path = str.format('./html/celebs_{0}.html', str(page_num))
-        self.celeb_list: List[Celeb] = []
-        self.debug = debug
-
-    def __log(self, msg: str):
-        if self.debug:
-            print(msg)
-
+    # Controller function.
     def get_data(self) -> List[Celeb]:
         """
         Get list of celebrity objects.
@@ -72,6 +60,22 @@ class CelebSpyder():
         except Exception as e:
             raise e
 
+    # region helper functions
+
+    def __init__(self, celeb_list_url: str, page_num: int = 1, debug: bool=False):
+        """
+        Entry point for class. Init local vars here.
+        """
+        self._celeb_list_url: str = celeb_list_url
+        self._start_page_path = str.format('./html/celebs_{0}.html', str(page_num))
+        self.celeb_list: List[Celeb] = []
+        self.debug = debug
+        self._imdb_url = "https://www.imdb.com"
+
+    def __log(self, msg: str):
+        if self.debug:
+            print(msg)
+
     def __save_file(self, contents: str, output_path: str) -> str:
         """
         Writes text contents to a file path.
@@ -108,7 +112,7 @@ class CelebSpyder():
         @param s (str)
         @returns str
         """
-        return re.sub(r'(^\s+|\s+$|\r\n+|\n+|\&nbsp\;+)', '', s)
+        return re.sub(r'\s+', ' ', re.sub(r'(^\s+|\s+$|\r\n+|\n+|\&nbsp\;+)', '', s))
 
     def __to_num(self, s: str) -> str:
         """
@@ -117,6 +121,10 @@ class CelebSpyder():
         @returns int
         """
         return int(re.sub(r'\D', '', self.__trim(s)))
+
+    # endregion
+
+    # region HTML functions
 
     def _parse_celeb_list_html(self, path: str) -> List[Tag]:
         """
@@ -148,7 +156,6 @@ class CelebSpyder():
         celeb.Rank = self.__to_num(cells[0].text)
         celeb.FullName = self.__trim(cells[1].find('a').text) 
         celeb.DomesticBoxOfficeRevenue = self.__to_num(cells[2].text)
-        celeb.NumMovies = self.__to_num(cells[3].text)
         celeb.AverageDomesticBoxOfficeRevenue = self.__to_num(cells[4].text)
         
         self.__log(str.format('Created Celeb object for {0}.', celeb.FullName))
@@ -167,7 +174,7 @@ class CelebSpyder():
 
         if not os.path.exists(output_path):
             self.__log(str.format('Downloading HTML from IMDB for {0}...', celeb.FullName))
-            imdb_base_url: str = "https://www.imdb.com"
+            imdb_base_url: str = self._imdb_url
             celeb_name_param: str = re.sub(r'\s', '+', celeb.FullName)
             imdb_search_url = str.format("{0}/find?s=nm&q={1}&ref_=nv_sr_sm", imdb_base_url, celeb_name_param)
             search_results_html: str = self.__get_html(imdb_search_url)
@@ -197,24 +204,30 @@ class CelebSpyder():
         with open(celeb.LocalDataSourcePath, 'r', encoding='utf-8') as profile_html:    
             soup = BeautifulSoup(profile_html, 'html.parser')
 
+            # Photo Url
             img: Tag = soup.select_one("img#name-poster")
             if img:
                 celeb.PhotoUrl = img['src']
 
+            # Date of Birth
             dob: Tag = soup.select_one("div#name-born-info > time")
             if dob:
                 celeb.DOB = dob['datetime']
 
+            # Born in
             born_in: Tag = soup.select_one("div#name-born-info > a")
             if born_in:
                 celeb.BornIn = born_in.text
 
+            # Date of Death
             dod: Tag = soup.select_one("div#name-death-info > time")
             if dod:
                 celeb.DOD = dod['datetime']
 
+            # Gender
             celeb.Gender = 'Male' if len(soup.select("a[href='#actor']")) > 0 else 'Female'
 
+            # Height
             height: Tag = soup.select_one("div#details-height")
             if height:
                 ht = self.__trim( height.text )
@@ -222,44 +235,84 @@ class CelebSpyder():
                 if len(htm) > 0:
                     celeb.Height = float(re.sub(r'[^0-9\.]', '', htm[0]))
 
+            # Atrological Sign
             sign = soup.select_one("div#dyk-star-sign > a")
             if sign:
                 celeb.AstrologicalSign = self.__trim( sign.text )
 
+            # Trademark
             trademark = soup.select_one("div#dyk-trademark")
             if trademark:
-                celeb.Trademark = self.__trim( trademark.text )
+                tm = re.findall(r'(?<=\</h4\>)(.*)(?=\<span)', str(trademark).replace('\n', ''))
+                if len(tm) > 0:
+                    celeb.Trademark = self.__trim( tm[0] )
 
+            # Roles
             celeb.Roles = list(map(lambda row: self._parse_film_html(row), soup.select("div#filmography div.filmo-row"))) 
 
-            celeb.MaritalStatus = None
-            celeb.Location = None
+            # Awards
+            awards = [span for span in soup.select("span.awards-blurb") if re.search(r'(wins|nominations)', span.text)]
+            if len(awards) > 0:
+                wins = re.findall(r'\d+(?=\swins)', awards[0].text)
+                if len(wins) > 0:
+                    celeb.AwardsWins = int(wins[0])
+
+                nominations = re.findall(r'\d+(?=\snominations)', awards[0].text)
+                if len(nominations) > 0:
+                    celeb.AwardNominations = int(nominations[0])
 
             profile_html.close()
 
         self.__log(str.format('Parsed HTML prodile for {0}.', celeb.FullName))
+
         return celeb
 
-
     def _parse_film_html(self, row: Tag) -> CelebRole:
-
         role = CelebRole()
-        yr = row.select_one("span.year_column")
-        if yr:
-            role.Year = self.__to_num(yr.text)
 
+        # Use Regex look behind and look ahead to get all characters between <br/> and <div>
+        role_el = re.findall(r'(?<=\<br/\>)(.*)(?=\<)', str(row).replace('\n', ''))
+        if len(role_el) > 0:
+            role_name = role_el[0]
+            if len(re.findall(r'\<div', role_name)) > 0:
+                role_name = role_name.split('<div')[0]          
+            role.CharacterName = self.__trim(role_name)
+
+        yr: Tag = row.select_one("span.year_column")
+        if yr:
+            role.Year = self.__trim(yr.text)
+
+        title: Tag = row.select_one("b > a")
+        if title:
+            role.FilmTitle = self.__trim( title.text )
+            role.FilmUrl = str.format("{0}{1}", self._imdb_url, self.__trim( title['href']))
+            film_html = self.__get_html(role.FilmUrl)
+            film_path = str.format('./html/imdb_films/{0}.html', re.sub(r'[^a-zA-Z0-9]', '', role.FilmTitle))
+
+            if not os.path.exists(film_path):
+                self.__save_file(film_html, film_path)
+
+        return role
+
+
+    # endregion
 
 
 start_url="https://www.the-numbers.com/box-office-star-records/domestic/lifetime-acting/top-grossing-leading-stars"
 celeb_list: List[Celeb] = []
-# Gets first 5 pages of celebritys (500)
-for page_num in range(0, 5):
+for page_num in range(0, 1):
     url = start_url if page_num < 1 else str.format('{0}/{1}01', start_url, page_num)
     print(url)
     spyder = CelebSpyder(celeb_list_url=url, page_num=page_num, debug=False)
     celeb_list.extend(spyder.get_data())
 
 print(str.format('Retreived {0} celebrity profiles.', len(celeb_list)))
+
+for celeb in celeb_list:
+    filename = str.format('./JSON/{0}.json', re.sub(r'[^a-zA-Z]', '', celeb.FullName))
+    with open(filename, 'w', encoding='utf-8') as file:
+        file.write(celeb.toJson(indent=4))
+        file.close() 
 
 
 

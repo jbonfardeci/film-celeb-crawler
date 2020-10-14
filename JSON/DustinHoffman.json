@@ -1,0 +1,2831 @@
+{
+    "Rank": 91,
+    "FullName": "Dustin Hoffman",
+    "DomesticBoxOfficeRevenue": 1697122428,
+    "AverageDomesticBoxOfficeRevenue": 54745885,
+    "LocalDataSourcePath": "./html/imdb_profiles/DustinHoffman.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMTc3NzU0ODczMF5BMl5BanBnXkFtZTcwODEyMDY5Mg@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "DOB": "1937-8-8",
+    "BornIn": "Los Angeles, California, USA",
+    "Gender": "Male",
+    "Height": 1.67,
+    "AstrologicalSign": "Leo",
+    "Trademark": "His deep nasal voice, which has a unique \"honking\" timbre",
+    "Roles": [
+        {
+            "CharacterName": "Eugene",
+            "Aired": "",
+            "FilmTitle": "As Sick as They Made Us",
+            "FilmUrl": "https://www.imdb.com/title/tt10949028/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "Dottor Green",
+            "Aired": "2019",
+            "FilmTitle": "Into the Labyrinth",
+            "FilmUrl": "https://www.imdb.com/title/tt8594376/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "Harold",
+            "Aired": "2017",
+            "FilmTitle": "The Meyerowitz Stories",
+            "FilmUrl": "https://www.imdb.com/title/tt5536736/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "Giovanni",
+            "Aired": "2016",
+            "FilmTitle": "Medici",
+            "FilmUrl": "https://www.imdb.com/title/tt5057130/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "Shifu (voice)",
+            "Aired": "2016",
+            "FilmTitle": "Kung Fu Panda 3",
+            "FilmUrl": "https://www.imdb.com/title/tt2267968/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Shifu / Warrior (voice)",
+            "Aired": "2016",
+            "FilmTitle": "Kung Fu Panda: Secrets of the Scroll",
+            "FilmUrl": "https://www.imdb.com/title/tt5513770/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "Bob Hamman",
+            "Aired": "2015/II",
+            "FilmTitle": "The Program",
+            "FilmUrl": "https://www.imdb.com/title/tt3083008/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Mr. Hoppy",
+            "Aired": "2015",
+            "FilmTitle": "Roald Dahl's Esio Trot",
+            "FilmUrl": "https://www.imdb.com/title/tt3205394/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Mr. Hoppy",
+            "Aired": "2014",
+            "FilmTitle": "Roald Dahl's Esio Trot: Deleted Scenes",
+            "FilmUrl": "https://www.imdb.com/title/tt5241256/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "Abraham Simkin",
+            "Aired": "2014",
+            "FilmTitle": "The Cobbler",
+            "FilmUrl": "https://www.imdb.com/title/tt3203616/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Carvelle",
+            "Aired": "2014",
+            "FilmTitle": "Boychoir",
+            "FilmUrl": "https://www.imdb.com/title/tt3302706/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Riva",
+            "Aired": "2014",
+            "FilmTitle": "Chef",
+            "FilmUrl": "https://www.imdb.com/title/tt2883512/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Chester Bernstein",
+            "Aired": "2011-2012",
+            "FilmTitle": "Luck",
+            "FilmUrl": "https://www.imdb.com/title/tt1578887/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Shifu (voice)",
+            "Aired": "2011",
+            "FilmTitle": "Kung Fu Panda: Secrets of the Masters",
+            "FilmUrl": "https://www.imdb.com/title/tt1980162/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Shifu (voice)",
+            "Aired": "2011",
+            "FilmTitle": "Kung Fu Panda 2",
+            "FilmUrl": "https://www.imdb.com/title/tt1302011/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Bernie Focker (uncredited)",
+            "Aired": "2011",
+            "FilmTitle": "Little Fockers: Deleted Scenes",
+            "FilmUrl": "https://www.imdb.com/title/tt6779974/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Bernie Focker",
+            "Aired": "2010",
+            "FilmTitle": "Little Fockers",
+            "FilmUrl": "https://www.imdb.com/title/tt0970866/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Shifu (voice)",
+            "Aired": "2010",
+            "FilmTitle": "Kung Fu Panda Holiday",
+            "FilmUrl": "https://www.imdb.com/title/tt1702433/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Izzy Panofsky",
+            "Aired": "2010",
+            "FilmTitle": "Barney's Version",
+            "FilmUrl": "https://www.imdb.com/title/tt1423894/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "Roscuro (voice)",
+            "Aired": "2008",
+            "FilmTitle": "The Tale of Despereaux",
+            "FilmUrl": "https://www.imdb.com/title/tt0420238/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "Shifu (voice)",
+            "Aired": "2008",
+            "FilmTitle": "Kung Fu Panda: Secrets of the Furious Five",
+            "FilmUrl": "https://www.imdb.com/title/tt1287845/?ref_=nm_flmg_act_21"
+        },
+        {
+            "CharacterName": "Harvey Shine",
+            "Aired": "2008",
+            "FilmTitle": "Last Chance Harvey",
+            "FilmUrl": "https://www.imdb.com/title/tt1046947/?ref_=nm_flmg_act_22"
+        },
+        {
+            "CharacterName": "Shifu (voice)",
+            "Aired": "2008",
+            "FilmTitle": "Kung Fu Panda",
+            "FilmUrl": "https://www.imdb.com/title/tt0441773/?ref_=nm_flmg_act_23"
+        },
+        {
+            "CharacterName": "Mr. Edward Magorium, Avid Shoe-Wearer",
+            "Aired": "2007",
+            "FilmTitle": "Mr. Magorium's Wonder Emporium",
+            "FilmUrl": "https://www.imdb.com/title/tt0457419/?ref_=nm_flmg_act_24"
+        },
+        {
+            "CharacterName": "Dustin Hoffman (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "The Holiday",
+            "FilmUrl": "https://www.imdb.com/title/tt0457939/?ref_=nm_flmg_act_25"
+        },
+        {
+            "CharacterName": "Professor Jules Hilbert",
+            "Aired": "2006",
+            "FilmTitle": "Stranger Than Fiction",
+            "FilmUrl": "https://www.imdb.com/title/tt0420223/?ref_=nm_flmg_act_26"
+        },
+        {
+            "CharacterName": "Giuseppe Baldini",
+            "Aired": "2006",
+            "FilmTitle": "Perfume: The Story of a Murderer",
+            "FilmUrl": "https://www.imdb.com/title/tt0396171/?ref_=nm_flmg_act_27"
+        },
+        {
+            "CharacterName": "Larry's Guide #1",
+            "Aired": "2005",
+            "FilmTitle": "Curb Your Enthusiasm",
+            "FilmUrl": "https://www.imdb.com/title/tt0264235/?ref_=nm_flmg_act_28"
+        },
+        {
+            "CharacterName": "Meyer Lansky",
+            "Aired": "2005",
+            "FilmTitle": "The Lost City",
+            "FilmUrl": "https://www.imdb.com/title/tt0343996/?ref_=nm_flmg_act_29"
+        },
+        {
+            "CharacterName": "Tucker (voice)",
+            "Aired": "2005",
+            "FilmTitle": "Racing Stripes",
+            "FilmUrl": "https://www.imdb.com/title/tt0376105/?ref_=nm_flmg_act_30"
+        },
+        {
+            "CharacterName": "The Critic (uncredited)",
+            "Aired": "2004",
+            "FilmTitle": "A Series of Unfortunate Events",
+            "FilmUrl": "https://www.imdb.com/title/tt0339291/?ref_=nm_flmg_act_31"
+        },
+        {
+            "CharacterName": "Bernie Focker",
+            "Aired": "2004",
+            "FilmTitle": "Meet the Fockers",
+            "FilmUrl": "https://www.imdb.com/title/tt0290002/?ref_=nm_flmg_act_32"
+        },
+        {
+            "CharacterName": "Bernard",
+            "Aired": "2004",
+            "FilmTitle": "I Heart Huckabees",
+            "FilmUrl": "https://www.imdb.com/title/tt0356721/?ref_=nm_flmg_act_33"
+        },
+        {
+            "CharacterName": "Charles Frohman",
+            "Aired": "2004",
+            "FilmTitle": "Finding Neverland",
+            "FilmUrl": "https://www.imdb.com/title/tt0308644/?ref_=nm_flmg_act_34"
+        },
+        {
+            "CharacterName": "Wendell Rohr",
+            "Aired": "2003",
+            "FilmTitle": "Runaway Jury",
+            "FilmUrl": "https://www.imdb.com/title/tt0313542/?ref_=nm_flmg_act_35"
+        },
+        {
+            "CharacterName": "Benedict Arnold",
+            "Aired": "2002-2003",
+            "FilmTitle": "Liberty's Kids: Est. 1776",
+            "FilmUrl": "https://www.imdb.com/title/tt0337550/?ref_=nm_flmg_act_36"
+        },
+        {
+            "CharacterName": "King",
+            "Aired": "2003",
+            "FilmTitle": "Confidence",
+            "FilmUrl": "https://www.imdb.com/title/tt0310910/?ref_=nm_flmg_act_37"
+        },
+        {
+            "CharacterName": "Ben Floss",
+            "Aired": "2002",
+            "FilmTitle": "Moonlight Mile",
+            "FilmUrl": "https://www.imdb.com/title/tt0179098/?ref_=nm_flmg_act_38"
+        },
+        {
+            "Aired": "2001",
+            "FilmTitle": "Tuesday",
+            "FilmUrl": "https://www.imdb.com/title/tt0306157/?ref_=nm_flmg_act_39"
+        },
+        {
+            "CharacterName": "The Conscience",
+            "Aired": "1999",
+            "FilmTitle": "The Messenger: The Story of Joan of Arc",
+            "FilmUrl": "https://www.imdb.com/title/tt0151137/?ref_=nm_flmg_act_40"
+        },
+        {
+            "CharacterName": "Norman",
+            "Aired": "1998",
+            "FilmTitle": "Sphere",
+            "FilmUrl": "https://www.imdb.com/title/tt0120184/?ref_=nm_flmg_act_41"
+        },
+        {
+            "CharacterName": "Stanley Motss",
+            "Aired": "1997",
+            "FilmTitle": "Wag the Dog",
+            "FilmUrl": "https://www.imdb.com/title/tt0120885/?ref_=nm_flmg_act_42"
+        },
+        {
+            "CharacterName": "Brackett",
+            "Aired": "1997",
+            "FilmTitle": "Mad City",
+            "FilmUrl": "https://www.imdb.com/title/tt0119592/?ref_=nm_flmg_act_43"
+        },
+        {
+            "CharacterName": "Teach",
+            "Aired": "1996",
+            "FilmTitle": "American Buffalo",
+            "FilmUrl": "https://www.imdb.com/title/tt0115530/?ref_=nm_flmg_act_44"
+        },
+        {
+            "CharacterName": "Danny Snyder",
+            "Aired": "1996",
+            "FilmTitle": "Sleepers",
+            "FilmUrl": "https://www.imdb.com/title/tt0117665/?ref_=nm_flmg_act_45"
+        },
+        {
+            "CharacterName": "Sam Daniels",
+            "Aired": "1995",
+            "FilmTitle": "Outbreak",
+            "FilmUrl": "https://www.imdb.com/title/tt0114069/?ref_=nm_flmg_act_46"
+        },
+        {
+            "CharacterName": "Bernie LaPlante",
+            "Aired": "1992/I",
+            "FilmTitle": "Hero",
+            "FilmUrl": "https://www.imdb.com/title/tt0104412/?ref_=nm_flmg_act_47"
+        },
+        {
+            "CharacterName": "Milquetoast the Cross-Dressing Cockroach (voice, uncredited)",
+            "Aired": "1991",
+            "FilmTitle": "A Wish for Wings That Work",
+            "FilmUrl": "https://www.imdb.com/title/tt0103272/?ref_=nm_flmg_act_48"
+        },
+        {
+            "CharacterName": "Captain Hook",
+            "Aired": "1991",
+            "FilmTitle": "Hook",
+            "FilmUrl": "https://www.imdb.com/title/tt0102057/?ref_=nm_flmg_act_49"
+        },
+        {
+            "CharacterName": "Dutch Schultz",
+            "Aired": "1991",
+            "FilmTitle": "Billy Bathgate",
+            "FilmUrl": "https://www.imdb.com/title/tt0101453/?ref_=nm_flmg_act_50"
+        },
+        {
+            "CharacterName": "Mr. Bergstrom",
+            "Aired": "1991",
+            "FilmTitle": "The Simpsons",
+            "FilmUrl": "https://www.imdb.com/title/tt0096697/?ref_=nm_flmg_act_51"
+        },
+        {
+            "CharacterName": "Mumbles",
+            "Aired": "1990",
+            "FilmTitle": "Dick Tracy",
+            "FilmUrl": "https://www.imdb.com/title/tt0099422/?ref_=nm_flmg_act_52"
+        },
+        {
+            "CharacterName": "Every Lawyer",
+            "Aired": "1990",
+            "FilmTitle": "The Earth Day Special",
+            "FilmUrl": "https://www.imdb.com/title/tt0255132/?ref_=nm_flmg_act_53"
+        },
+        {
+            "CharacterName": "Vito",
+            "Aired": "1989",
+            "FilmTitle": "Family Business",
+            "FilmUrl": "https://www.imdb.com/title/tt0097328/?ref_=nm_flmg_act_54"
+        },
+        {
+            "CharacterName": "Raymond Babbitt",
+            "Aired": "1988",
+            "FilmTitle": "Rain Man",
+            "FilmUrl": "https://www.imdb.com/title/tt0095953/?ref_=nm_flmg_act_55"
+        },
+        {
+            "CharacterName": "Chuck Clarke",
+            "Aired": "1987",
+            "FilmTitle": "Ishtar",
+            "FilmUrl": "https://www.imdb.com/title/tt0093278/?ref_=nm_flmg_act_56"
+        },
+        {
+            "CharacterName": "William 'Willy' Loman",
+            "Aired": "1985",
+            "FilmTitle": "Death of a Salesman",
+            "FilmUrl": "https://www.imdb.com/title/tt0089006/?ref_=nm_flmg_act_57"
+        },
+        {
+            "CharacterName": "Michael Dorsey / Dorothy Michaels",
+            "Aired": "1982",
+            "FilmTitle": "Tootsie",
+            "FilmUrl": "https://www.imdb.com/title/tt0084805/?ref_=nm_flmg_act_58"
+        },
+        {
+            "CharacterName": "Ted Kramer",
+            "Aired": "1979",
+            "FilmTitle": "Kramer vs. Kramer",
+            "FilmUrl": "https://www.imdb.com/title/tt0079417/?ref_=nm_flmg_act_59"
+        },
+        {
+            "CharacterName": "Wally Stanton",
+            "Aired": "1979",
+            "FilmTitle": "Agatha",
+            "FilmUrl": "https://www.imdb.com/title/tt0078736/?ref_=nm_flmg_act_60"
+        },
+        {
+            "CharacterName": "Max Dembo",
+            "Aired": "1978",
+            "FilmTitle": "Straight Time",
+            "FilmUrl": "https://www.imdb.com/title/tt0078326/?ref_=nm_flmg_act_61"
+        },
+        {
+            "CharacterName": "Thomas Babbington Levy aka Babe",
+            "Aired": "1976",
+            "FilmTitle": "Marathon Man",
+            "FilmUrl": "https://www.imdb.com/title/tt0074860/?ref_=nm_flmg_act_62"
+        },
+        {
+            "CharacterName": "Carl Bernstein",
+            "Aired": "1976",
+            "FilmTitle": "All the President's Men",
+            "FilmUrl": "https://www.imdb.com/title/tt0074119/?ref_=nm_flmg_act_63"
+        },
+        {
+            "CharacterName": "Lenny Bruce",
+            "Aired": "1974",
+            "FilmTitle": "Lenny",
+            "FilmUrl": "https://www.imdb.com/title/tt0071746/?ref_=nm_flmg_act_64"
+        },
+        {
+            "CharacterName": "Louis Dega",
+            "Aired": "1973",
+            "FilmTitle": "Papillon",
+            "FilmUrl": "https://www.imdb.com/title/tt0070511/?ref_=nm_flmg_act_65"
+        },
+        {
+            "CharacterName": "Alfredo Sbis\u00e0",
+            "Aired": "1972",
+            "FilmTitle": "Alfredo, Alfredo",
+            "FilmUrl": "https://www.imdb.com/title/tt0068189/?ref_=nm_flmg_act_66"
+        },
+        {
+            "CharacterName": "David Sumner",
+            "Aired": "1971",
+            "FilmTitle": "Straw Dogs",
+            "FilmUrl": "https://www.imdb.com/title/tt0067800/?ref_=nm_flmg_act_67"
+        },
+        {
+            "CharacterName": "Georgie Soloway",
+            "Aired": "1971",
+            "FilmTitle": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",
+            "FilmUrl": "https://www.imdb.com/title/tt0067980/?ref_=nm_flmg_act_68"
+        },
+        {
+            "CharacterName": "Narrator / Father (First Telecast)",
+            "Aired": "1971",
+            "FilmTitle": "The Point",
+            "FilmUrl": "https://www.imdb.com/title/tt0067595/?ref_=nm_flmg_act_69"
+        },
+        {
+            "CharacterName": "Jack Crabb",
+            "Aired": "1970",
+            "FilmTitle": "Little Big Man",
+            "FilmUrl": "https://www.imdb.com/title/tt0065988/?ref_=nm_flmg_act_70"
+        },
+        {
+            "CharacterName": "John",
+            "Aired": "1969",
+            "FilmTitle": "John and Mary",
+            "FilmUrl": "https://www.imdb.com/title/tt0064513/?ref_=nm_flmg_act_71"
+        },
+        {
+            "CharacterName": "Ratso",
+            "Aired": "1969",
+            "FilmTitle": "Midnight Cowboy",
+            "FilmUrl": "https://www.imdb.com/title/tt0064665/?ref_=nm_flmg_act_72"
+        },
+        {
+            "CharacterName": "A 'Sunday Father'",
+            "Aired": "1969",
+            "FilmTitle": "Sunday Father",
+            "FilmUrl": "https://www.imdb.com/title/tt0372545/?ref_=nm_flmg_act_73"
+        },
+        {
+            "CharacterName": "Arthur Greene",
+            "Aired": "1968",
+            "FilmTitle": "Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt0062599/?ref_=nm_flmg_act_74"
+        },
+        {
+            "CharacterName": "Jason Fister",
+            "Aired": "1968",
+            "FilmTitle": "Madigan's Millions",
+            "FilmUrl": "https://www.imdb.com/title/tt0063303/?ref_=nm_flmg_act_75"
+        },
+        {
+            "CharacterName": "Ben Braddock",
+            "Aired": "1967",
+            "FilmTitle": "The Graduate",
+            "FilmUrl": "https://www.imdb.com/title/tt0061722/?ref_=nm_flmg_act_76"
+        },
+        {
+            "CharacterName": "Hap",
+            "Aired": "1967",
+            "FilmTitle": "The Tiger Makes Out",
+            "FilmUrl": "https://www.imdb.com/title/tt0062369/?ref_=nm_flmg_act_77"
+        },
+        {
+            "CharacterName": "J.J. Semmons",
+            "Aired": "1967",
+            "FilmTitle": "ABC Stage 67",
+            "FilmUrl": "https://www.imdb.com/title/tt0233023/?ref_=nm_flmg_act_78"
+        },
+        {
+            "CharacterName": "The Dragon",
+            "Aired": "1966",
+            "FilmTitle": "A Christmas Masque",
+            "FilmUrl": "https://www.imdb.com/title/tt0595252/?ref_=nm_flmg_act_79"
+        },
+        {
+            "CharacterName": "Hanus Wicks",
+            "Aired": "1966",
+            "FilmTitle": "The Star Wagon",
+            "FilmUrl": "https://www.imdb.com/title/tt0062304/?ref_=nm_flmg_act_80"
+        },
+        {
+            "CharacterName": "Zoditch",
+            "Aired": "1966",
+            "FilmTitle": "The Journey of the Fifth Horse",
+            "FilmUrl": "https://www.imdb.com/title/tt0198583/?ref_=nm_flmg_act_81"
+        },
+        {
+            "CharacterName": "Larson",
+            "Aired": "1965",
+            "FilmTitle": "The Doctors and the Nurses",
+            "FilmUrl": "https://www.imdb.com/title/tt0055694/?ref_=nm_flmg_act_82"
+        },
+        {
+            "CharacterName": "Buddy / Robert Burke",
+            "Aired": "1962-1965",
+            "FilmTitle": "The Defenders",
+            "FilmUrl": "https://www.imdb.com/title/tt0054531/?ref_=nm_flmg_act_83"
+        },
+        {
+            "CharacterName": "Finney / Lester Stenton",
+            "Aired": "1961-1963",
+            "FilmTitle": "Naked City",
+            "FilmUrl": "https://www.imdb.com/title/tt0051297/?ref_=nm_flmg_act_84"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "The Meyerowitz Stories",
+            "FilmUrl": "https://www.imdb.com/title/tt5536736/?ref_=_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2017",
+            "FilmTitle": "Quick Reviews with Maverick",
+            "FilmUrl": "https://www.imdb.com/title/tt5651280/?ref_=_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "Welcome to the Basement",
+            "FilmUrl": "https://www.imdb.com/title/tt4416750/?ref_=_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2008",
+            "FilmTitle": "Last Chance Harvey",
+            "FilmUrl": "https://www.imdb.com/title/tt1046947/?ref_=_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1991",
+            "FilmTitle": "The Simpsons",
+            "FilmUrl": "https://www.imdb.com/title/tt0096697/?ref_=_5"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1987",
+            "FilmTitle": "Ishtar",
+            "FilmUrl": "https://www.imdb.com/title/tt0093278/?ref_=_6"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1982",
+            "FilmTitle": "Tootsie",
+            "FilmUrl": "https://www.imdb.com/title/tt0084805/?ref_=_7"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1980",
+            "FilmTitle": "V.I.P.-Schaukel",
+            "FilmUrl": "https://www.imdb.com/title/tt0344743/?ref_=_8"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1977",
+            "FilmTitle": "Bette Midler: Ol' Red Hair Is Back",
+            "FilmUrl": "https://www.imdb.com/title/tt0326758/?ref_=_9"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1971",
+            "FilmTitle": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",
+            "FilmUrl": "https://www.imdb.com/title/tt0067980/?ref_=_10"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2019",
+            "FilmTitle": "Into the Labyrinth",
+            "FilmUrl": "https://www.imdb.com/title/tt8594376/?ref_=nm_flmg_prd_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2011-2012",
+            "FilmTitle": "Luck",
+            "FilmUrl": "https://www.imdb.com/title/tt1578887/?ref_=nm_flmg_prd_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1999",
+            "FilmTitle": "The Furies",
+            "FilmUrl": "https://www.imdb.com/title/tt0145788/?ref_=nm_flmg_prd_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1999",
+            "FilmTitle": "The Devil's Arithmetic",
+            "FilmUrl": "https://www.imdb.com/title/tt0179148/?ref_=nm_flmg_prd_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1999",
+            "FilmTitle": "A Walk on the Moon",
+            "FilmUrl": "https://www.imdb.com/title/tt0120613/?ref_=nm_flmg_prd_5"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1998",
+            "FilmTitle": "Tarzan and the Lost City",
+            "FilmUrl": "https://www.imdb.com/title/tt0120856/?ref_=nm_flmg_prd_6"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1979",
+            "FilmTitle": "Agatha",
+            "FilmUrl": "https://www.imdb.com/title/tt0078736/?ref_=nm_flmg_prd_7"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1978",
+            "FilmTitle": "Straight Time",
+            "FilmUrl": "https://www.imdb.com/title/tt0078326/?ref_=nm_flmg_prd_8"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2012",
+            "FilmTitle": "Quartet",
+            "FilmUrl": "https://www.imdb.com/title/tt1441951/?ref_=nm_flmg_dr_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1978",
+            "FilmTitle": "Straight Time",
+            "FilmUrl": "https://www.imdb.com/title/tt0078326/?ref_=nm_flmg_dr_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2010",
+            "FilmTitle": "Jews and Baseball: An American Love Story",
+            "FilmUrl": "https://www.imdb.com/title/tt1583743/?ref_=nm_flmg_msc_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2015",
+            "FilmTitle": "Brooklyn",
+            "FilmUrl": "https://www.imdb.com/title/tt2381111/?ref_=nm_flmg_tk_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2011",
+            "FilmTitle": "The Making of a Godfocker: Behind the Scenes of 'Little Fockers'",
+            "FilmUrl": "https://www.imdb.com/title/tt5310746/?ref_=nm_flmg_tk_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2011",
+            "FilmTitle": "Broadcast News: James L. Brooks - A Singular Voice",
+            "FilmUrl": "https://www.imdb.com/title/tt4361240/?ref_=nm_flmg_tk_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2010",
+            "FilmTitle": "Dick Tracy Special",
+            "FilmUrl": "https://www.imdb.com/title/tt1398021/?ref_=nm_flmg_tk_4"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2008",
+            "FilmTitle": "Visual Acoustics",
+            "FilmUrl": "https://www.imdb.com/title/tt1233611/?ref_=nm_flmg_tk_5"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2008",
+            "FilmTitle": "Synecdoche, New York",
+            "FilmUrl": "https://www.imdb.com/title/tt0383028/?ref_=nm_flmg_tk_6"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2007",
+            "FilmTitle": "Dangerous Days: Making Blade Runner",
+            "FilmUrl": "https://www.imdb.com/title/tt1080585/?ref_=nm_flmg_tk_7"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2006",
+            "FilmTitle": "Telling the Truth About Lies: The Making of 'All the President's Men'",
+            "FilmUrl": "https://www.imdb.com/title/tt0778867/?ref_=nm_flmg_tk_8"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2006",
+            "FilmTitle": "After Midnight: Reflecting on a Classic 35 Years Later",
+            "FilmUrl": "https://www.imdb.com/title/tt0810020/?ref_=nm_flmg_tk_9"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2006",
+            "FilmTitle": "Celebrating Schlesinger",
+            "FilmUrl": "https://www.imdb.com/title/tt0834515/?ref_=nm_flmg_tk_10"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2006",
+            "FilmTitle": "Controversy and Acclaim",
+            "FilmUrl": "https://www.imdb.com/title/tt0834516/?ref_=nm_flmg_tk_11"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2002",
+            "FilmTitle": "Moonlight Mile: A Journey to Screen",
+            "FilmUrl": "https://www.imdb.com/title/tt0383844/?ref_=nm_flmg_tk_12"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2001",
+            "FilmTitle": "Going the Distance: Remembering 'Marathon Man'",
+            "FilmUrl": "https://www.imdb.com/title/tt0387262/?ref_=nm_flmg_tk_13"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1999",
+            "FilmTitle": "Being John Malkovich",
+            "FilmUrl": "https://www.imdb.com/title/tt0120601/?ref_=nm_flmg_tk_14"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1998",
+            "FilmTitle": "Beneath the Surface: The Making of 'Sphere'",
+            "FilmUrl": "https://www.imdb.com/title/tt0482464/?ref_=nm_flmg_tk_15"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1988",
+            "FilmTitle": "'Rain Man' Featurette",
+            "FilmUrl": "https://www.imdb.com/title/tt0880664/?ref_=nm_flmg_tk_16"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Alan Pakula: Going for Truth",
+            "FilmUrl": "https://www.imdb.com/title/tt7742108/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "And the Winners Are!",
+            "FilmUrl": "https://www.imdb.com/title/tt10059530/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Hal",
+            "FilmUrl": "https://www.imdb.com/title/tt5844196/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Variety Studio: Actors on Actors",
+            "FilmUrl": "https://www.imdb.com/title/tt4267324/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Late Late Show with James Corden",
+            "FilmUrl": "https://www.imdb.com/title/tt4280606/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1985-2017",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Self - Actor",
+            "Aired": "2017",
+            "FilmTitle": "Spielberg",
+            "FilmUrl": "https://www.imdb.com/title/tt7133092/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Aired": "2013-2017",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self - Actor",
+            "Aired": "2016",
+            "FilmTitle": "Finding Your Roots with Henry Louis Gates, Jr.",
+            "FilmUrl": "https://www.imdb.com/title/tt2326517/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Dustin Hoffman on 'The Graduate'",
+            "FilmUrl": "https://www.imdb.com/title/tt5526998/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self / Self - Narrator / Willy Loman",
+            "Aired": "1985-2016",
+            "FilmTitle": "American Masters",
+            "FilmUrl": "https://www.imdb.com/title/tt0364151/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1989-2016",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_14"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2016",
+            "FilmTitle": "National Television Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5350582/?ref_=nm_flmg_slf_15"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2007-2014",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_slf_16"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2014",
+            "FilmTitle": "BAFTA Britannia Awards Special 2014",
+            "FilmUrl": "https://www.imdb.com/title/tt4312856/?ref_=nm_flmg_slf_17"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Steve Schapiro et les ic\u00f4nes am\u00e9ricaines",
+            "FilmUrl": "https://www.imdb.com/title/tt3754642/?ref_=nm_flmg_slf_18"
+        },
+        {
+            "CharacterName": "Self - Director (uncredited)",
+            "Aired": "2013",
+            "FilmTitle": "Quartet: Behind the Scenes Featurettes: Dustin",
+            "FilmUrl": "https://www.imdb.com/title/tt6381714/?ref_=nm_flmg_slf_19"
+        },
+        {
+            "CharacterName": "Self - Director (uncredited)",
+            "Aired": "2013",
+            "FilmTitle": "Quartet: Behind the Scenes Featurettes: Salsa",
+            "FilmUrl": "https://www.imdb.com/title/tt6381794/?ref_=nm_flmg_slf_20"
+        },
+        {
+            "CharacterName": "Self - Director",
+            "Aired": "2013",
+            "FilmTitle": "Quartet: Making Quartet",
+            "FilmUrl": "https://www.imdb.com/title/tt6381690/?ref_=nm_flmg_slf_21"
+        },
+        {
+            "CharacterName": "Self - Director (uncredited)",
+            "Aired": "2013",
+            "FilmTitle": "Quartet: Behind the Scenes Featurettes: Stairlift",
+            "FilmUrl": "https://www.imdb.com/title/tt6381812/?ref_=nm_flmg_slf_22"
+        },
+        {
+            "CharacterName": "Self - Director",
+            "Aired": "2013",
+            "FilmTitle": "Quartet: Behind the Scenes Featurettes: Story",
+            "FilmUrl": "https://www.imdb.com/title/tt6381836/?ref_=nm_flmg_slf_23"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "All the President's Men Revisited",
+            "FilmUrl": "https://www.imdb.com/title/tt2189106/?ref_=nm_flmg_slf_24"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Tetsuko no heya",
+            "FilmUrl": "https://www.imdb.com/title/tt1147366/?ref_=nm_flmg_slf_25"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "C \u00e0 vous",
+            "FilmUrl": "https://www.imdb.com/title/tt2190581/?ref_=nm_flmg_slf_26"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Th\u00e9 ou caf\u00e9",
+            "FilmUrl": "https://www.imdb.com/title/tt0361246/?ref_=nm_flmg_slf_27"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007-2013",
+            "FilmTitle": "Le grand journal de Canal+",
+            "FilmUrl": "https://www.imdb.com/title/tt0426701/?ref_=nm_flmg_slf_28"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "Sidewalks Entertainment",
+            "FilmUrl": "https://www.imdb.com/title/tt0094547/?ref_=nm_flmg_slf_29"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "Good Day L.A.",
+            "FilmUrl": "https://www.imdb.com/title/tt0197153/?ref_=nm_flmg_slf_30"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2013",
+            "FilmTitle": "The Oscars",
+            "FilmUrl": "https://www.imdb.com/title/tt2461862/?ref_=nm_flmg_slf_31"
+        },
+        {
+            "CharacterName": "Self - Actor (segment \"Dame Maggie\") / Self - Actor (segment \"Dustin Hoffman\")",
+            "Aired": "2004-2013",
+            "FilmTitle": "60 Minutes",
+            "FilmUrl": "https://www.imdb.com/title/tt0123338/?ref_=nm_flmg_slf_32"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Aired": "1999-2013",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_33"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1999-2013",
+            "FilmTitle": "Charlie Rose",
+            "FilmUrl": "https://www.imdb.com/title/tt0270116/?ref_=nm_flmg_slf_34"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2013",
+            "FilmTitle": "Cinema 3",
+            "FilmUrl": "https://www.imdb.com/title/tt0111920/?ref_=nm_flmg_slf_35"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2013",
+            "FilmTitle": "D\u00edas de cine",
+            "FilmUrl": "https://www.imdb.com/title/tt0390699/?ref_=nm_flmg_slf_36"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1992-2013",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_37"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2013",
+            "FilmTitle": "The Colbert Report",
+            "FilmUrl": "https://www.imdb.com/title/tt0458254/?ref_=nm_flmg_slf_38"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2013",
+            "FilmTitle": "70th Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2604420/?ref_=nm_flmg_slf_39"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2013",
+            "FilmTitle": "Loose Women",
+            "FilmUrl": "https://www.imdb.com/title/tt0217211/?ref_=nm_flmg_slf_40"
+        },
+        {
+            "CharacterName": "Self - Honoree",
+            "Aired": "2012",
+            "FilmTitle": "The 35th Annual Kennedy Center Honors",
+            "FilmUrl": "https://www.imdb.com/title/tt2624860/?ref_=nm_flmg_slf_41"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1999-2012",
+            "FilmTitle": "Late Show with David Letterman",
+            "FilmUrl": "https://www.imdb.com/title/tt0106053/?ref_=nm_flmg_slf_42"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2012",
+            "FilmTitle": "Close Up",
+            "FilmUrl": "https://www.imdb.com/title/tt2132638/?ref_=nm_flmg_slf_43"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "La classe am\u00e9ricaine",
+            "FilmUrl": "https://www.imdb.com/title/tt2936414/?ref_=nm_flmg_slf_44"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Close Up",
+            "FilmUrl": "https://www.imdb.com/title/tt3984388/?ref_=nm_flmg_slf_45"
+        },
+        {
+            "CharacterName": "Self - Honoree",
+            "Aired": "2012",
+            "FilmTitle": "Gala de clausura - 60 Festival Internacional de cine de San Sebasti\u00e1n",
+            "FilmUrl": "https://www.imdb.com/title/tt2424688/?ref_=nm_flmg_slf_46"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2012",
+            "FilmTitle": "The 69th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2125640/?ref_=nm_flmg_slf_47"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "17th Annual Critics' Choice Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2184093/?ref_=nm_flmg_slf_48"
+        },
+        {
+            "CharacterName": "Self / Bernie Focker (uncredited)",
+            "Aired": "2011",
+            "FilmTitle": "The Making of a Godfocker: Behind the Scenes of 'Little Fockers'",
+            "FilmUrl": "https://www.imdb.com/title/tt5310746/?ref_=nm_flmg_slf_49"
+        },
+        {
+            "CharacterName": "Self - Comedian",
+            "Aired": "2011",
+            "FilmTitle": "JacK Waltzer: On the Craft of Acting",
+            "FilmUrl": "https://www.imdb.com/title/tt1861355/?ref_=nm_flmg_slf_50"
+        },
+        {
+            "CharacterName": "Narrator",
+            "Aired": "2010",
+            "FilmTitle": "Jews and Baseball: An American Love Story",
+            "FilmUrl": "https://www.imdb.com/title/tt1583743/?ref_=nm_flmg_slf_51"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "AFI Life Achievement Award: A Tribute to Mike Nichols",
+            "FilmUrl": "https://www.imdb.com/title/tt1679527/?ref_=nm_flmg_slf_52"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "2009 Golden Globe Awards Red Carpet Special",
+            "FilmUrl": "https://www.imdb.com/title/tt1468820/?ref_=nm_flmg_slf_53"
+        },
+        {
+            "CharacterName": "Narrator (voice)",
+            "Aired": "2009/II",
+            "FilmTitle": "Against the Tide",
+            "FilmUrl": "https://www.imdb.com/title/tt1727479/?ref_=nm_flmg_slf_54"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2009",
+            "FilmTitle": "Friday Night with Jonathan Ross",
+            "FilmUrl": "https://www.imdb.com/title/tt0299302/?ref_=nm_flmg_slf_55"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Xpos\u00e9",
+            "FilmUrl": "https://www.imdb.com/title/tt1016283/?ref_=nm_flmg_slf_56"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "An Unconventional Love Story: The Making of Last Chance Harvey",
+            "FilmUrl": "https://www.imdb.com/title/tt2043778/?ref_=nm_flmg_slf_57"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "The Making of 'The Tale of Despereaux'",
+            "FilmUrl": "https://www.imdb.com/title/tt1543261/?ref_=nm_flmg_slf_58"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008-2009",
+            "FilmTitle": "Rencontres de cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt5123584/?ref_=nm_flmg_slf_59"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Vivement dimanche prochain",
+            "FilmUrl": "https://www.imdb.com/title/tt0461732/?ref_=nm_flmg_slf_60"
+        },
+        {
+            "CharacterName": "Self - C\u00e9sar d'honneur",
+            "Aired": "2009",
+            "FilmTitle": "La nuit des C\u00e9sars",
+            "FilmUrl": "https://www.imdb.com/title/tt0341901/?ref_=nm_flmg_slf_61"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2009",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_62"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2005-2009",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_63"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Presenter",
+            "Aired": "2009",
+            "FilmTitle": "The 66th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1222814/?ref_=nm_flmg_slf_64"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2009",
+            "FilmTitle": "The 14th Annual Critics' Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1264979/?ref_=nm_flmg_slf_65"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2009",
+            "FilmTitle": "Tavis Smiley",
+            "FilmUrl": "https://www.imdb.com/title/tt0403813/?ref_=nm_flmg_slf_66"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000-2008",
+            "FilmTitle": "The Directors",
+            "FilmUrl": "https://www.imdb.com/title/tt0224861/?ref_=nm_flmg_slf_67"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "Private Sessions",
+            "FilmUrl": "https://www.imdb.com/title/tt1186569/?ref_=nm_flmg_slf_68"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "Michael Ballhaus - Eine Reise durch mein Leben",
+            "FilmUrl": "https://www.imdb.com/title/tt1330207/?ref_=nm_flmg_slf_69"
+        },
+        {
+            "CharacterName": "Narrator",
+            "Aired": "2008/II",
+            "FilmTitle": "Belonging",
+            "FilmUrl": "https://www.imdb.com/title/tt1470016/?ref_=nm_flmg_slf_70"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "Miradas 2",
+            "FilmUrl": "https://www.imdb.com/title/tt0454730/?ref_=nm_flmg_slf_71"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "AFI Life Achievement Award: A Tribute to Warren Beatty",
+            "FilmUrl": "https://www.imdb.com/title/tt1249292/?ref_=nm_flmg_slf_72"
+        },
+        {
+            "CharacterName": "Self - Narrator",
+            "Aired": "2008",
+            "FilmTitle": "Visual Acoustics",
+            "FilmUrl": "https://www.imdb.com/title/tt1233611/?ref_=nm_flmg_slf_73"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1995-2008",
+            "FilmTitle": "HBO First Look",
+            "FilmUrl": "https://www.imdb.com/title/tt0318220/?ref_=nm_flmg_slf_74"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "Piilokamerap\u00e4\u00e4llik\u00f6t",
+            "FilmUrl": "https://www.imdb.com/title/tt1719349/?ref_=nm_flmg_slf_75"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008",
+            "FilmTitle": "New York Fashion Week: America's Greatest Festivals",
+            "FilmUrl": "https://www.imdb.com/title/tt2435838/?ref_=nm_flmg_slf_76"
+        },
+        {
+            "CharacterName": "Self / Michael Dorsey / Dorothy Michaels",
+            "Aired": "2008",
+            "FilmTitle": "A Better Man: The Making of Tootsie",
+            "FilmUrl": "https://www.imdb.com/title/tt2351141/?ref_=nm_flmg_slf_77"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2007",
+            "FilmTitle": "Rachael Ray",
+            "FilmUrl": "https://www.imdb.com/title/tt0827947/?ref_=nm_flmg_slf_78"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2007",
+            "FilmTitle": "Trumbo",
+            "FilmUrl": "https://www.imdb.com/title/tt0889671/?ref_=nm_flmg_slf_79"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "The Story of 'Perfume'",
+            "FilmUrl": "https://www.imdb.com/title/tt1092545/?ref_=nm_flmg_slf_80"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "Passion & Poetry: Sam Peckinpah's Straw Dogs",
+            "FilmUrl": "https://www.imdb.com/title/tt1046187/?ref_=nm_flmg_slf_81"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "AFI's 100 Years... 100 Movies: 10th Anniversary Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt1025011/?ref_=nm_flmg_slf_82"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2007",
+            "FilmTitle": "The 64th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0914790/?ref_=nm_flmg_slf_83"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1971-2006",
+            "FilmTitle": "Film '72",
+            "FilmUrl": "https://www.imdb.com/title/tt0192897/?ref_=nm_flmg_slf_84"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1975-2006",
+            "FilmTitle": "Parkinson",
+            "FilmUrl": "https://www.imdb.com/title/tt0168358/?ref_=nm_flmg_slf_85"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "2006 BAFTA/LA Cunard Britannia Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1079953/?ref_=nm_flmg_slf_86"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2006",
+            "FilmTitle": "The Daily Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115147/?ref_=nm_flmg_slf_87"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "The Bigger Picture",
+            "FilmUrl": "https://www.imdb.com/title/tt0476914/?ref_=nm_flmg_slf_88"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2006",
+            "FilmTitle": "Inside the Actors Studio",
+            "FilmUrl": "https://www.imdb.com/title/tt0169455/?ref_=nm_flmg_slf_89"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "The Reichen Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0780409/?ref_=nm_flmg_slf_90"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2006",
+            "FilmTitle": "The 78th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0497318/?ref_=nm_flmg_slf_91"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Telling the Truth About Lies: The Making of 'All the President's Men'",
+            "FilmUrl": "https://www.imdb.com/title/tt0778867/?ref_=nm_flmg_slf_92"
+        },
+        {
+            "CharacterName": "Self / Ratso Rizzo",
+            "Aired": "2006",
+            "FilmTitle": "After Midnight: Reflecting on a Classic 35 Years Later",
+            "FilmUrl": "https://www.imdb.com/title/tt0810020/?ref_=nm_flmg_slf_93"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Celebrating Schlesinger",
+            "FilmUrl": "https://www.imdb.com/title/tt0834515/?ref_=nm_flmg_slf_94"
+        },
+        {
+            "CharacterName": "Self / Ratso Rizzo",
+            "Aired": "2006",
+            "FilmTitle": "Controversy and Acclaim",
+            "FilmUrl": "https://www.imdb.com/title/tt0834516/?ref_=nm_flmg_slf_95"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "2005 BAFTA/LA Cunard Britannia Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0498756/?ref_=nm_flmg_slf_96"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Earth to America",
+            "FilmUrl": "https://www.imdb.com/title/tt0493412/?ref_=nm_flmg_slf_97"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "2005",
+            "FilmTitle": "2005 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0463853/?ref_=nm_flmg_slf_98"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Fockers' Family Portrait",
+            "FilmUrl": "https://www.imdb.com/title/tt5329530/?ref_=nm_flmg_slf_99"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Matt Lauer Meets the Fockers",
+            "FilmUrl": "https://www.imdb.com/title/tt5329534/?ref_=nm_flmg_slf_100"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Finding Neverland: On the Red Carpet",
+            "FilmUrl": "https://www.imdb.com/title/tt0471701/?ref_=nm_flmg_slf_101"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "The Magic of 'Finding Neverland'",
+            "FilmUrl": "https://www.imdb.com/title/tt0471702/?ref_=nm_flmg_slf_102"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2005",
+            "FilmTitle": "The 77th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0429487/?ref_=nm_flmg_slf_103"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "I Heart Huckabees: Production Surveillance",
+            "FilmUrl": "https://www.imdb.com/title/tt0463357/?ref_=nm_flmg_slf_104"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "20h10 p\u00e9tantes",
+            "FilmUrl": "https://www.imdb.com/title/tt0379078/?ref_=nm_flmg_slf_105"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2005",
+            "FilmTitle": "La azotea de Wyoming",
+            "FilmUrl": "https://www.imdb.com/title/tt0442867/?ref_=nm_flmg_slf_106"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2005",
+            "FilmTitle": "This Morning",
+            "FilmUrl": "https://www.imdb.com/title/tt0181261/?ref_=nm_flmg_slf_107"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "GMTV",
+            "FilmUrl": "https://www.imdb.com/title/tt0222560/?ref_=nm_flmg_slf_108"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2005",
+            "FilmTitle": "The 62nd Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0429486/?ref_=nm_flmg_slf_109"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Happy Birthday, Peter Pan",
+            "FilmUrl": "https://www.imdb.com/title/tt0442675/?ref_=nm_flmg_slf_110"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2004",
+            "FilmTitle": "A Terrible Tragedy: Alarming Evidence from the Making of the Film - Costumes and Other Suspicious Disguises",
+            "FilmUrl": "https://www.imdb.com/title/tt0853005/?ref_=nm_flmg_slf_111"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Arena",
+            "FilmUrl": "https://www.imdb.com/title/tt0199184/?ref_=nm_flmg_slf_112"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Hollywood Greats",
+            "FilmUrl": "https://www.imdb.com/title/tt0261475/?ref_=nm_flmg_slf_113"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Festival di Sanremo",
+            "FilmUrl": "https://www.imdb.com/title/tt0420400/?ref_=nm_flmg_slf_114"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003-2004",
+            "FilmTitle": "Shootout",
+            "FilmUrl": "https://www.imdb.com/title/tt0390776/?ref_=nm_flmg_slf_115"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Exploring the Scene: Hackman & Hoffman Together",
+            "FilmUrl": "https://www.imdb.com/title/tt5425052/?ref_=nm_flmg_slf_116"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "Off the Cuff: Hackman & Hoffman",
+            "FilmUrl": "https://www.imdb.com/title/tt5425696/?ref_=nm_flmg_slf_117"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "The Making of 'Runaway Jury'",
+            "FilmUrl": "https://www.imdb.com/title/tt0425220/?ref_=nm_flmg_slf_118"
+        },
+        {
+            "CharacterName": "Self - Actor, USA",
+            "Aired": "2004",
+            "FilmTitle": "Freedom2speak v2.0",
+            "FilmUrl": "https://www.imdb.com/title/tt0434958/?ref_=nm_flmg_slf_119"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2004",
+            "FilmTitle": "The 61st Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0395093/?ref_=nm_flmg_slf_120"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "The Shakespeare Sessions",
+            "FilmUrl": "https://www.imdb.com/title/tt0418152/?ref_=nm_flmg_slf_121"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "Tinseltown TV",
+            "FilmUrl": "https://www.imdb.com/title/tt0376434/?ref_=nm_flmg_slf_122"
+        },
+        {
+            "CharacterName": "Host",
+            "Aired": "2003",
+            "FilmTitle": "Now Showing: Unforgettable Moments from the Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt0907655/?ref_=nm_flmg_slf_123"
+        },
+        {
+            "CharacterName": "Self - Presenter &amp; Past Winner",
+            "Aired": "2003",
+            "FilmTitle": "The 75th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0346468/?ref_=nm_flmg_slf_124"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "2003",
+            "FilmTitle": "75 Years of the Academy Awards: An Unofficial History",
+            "FilmUrl": "https://www.imdb.com/title/tt0358906/?ref_=nm_flmg_slf_125"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2003",
+            "FilmTitle": "The 14th Annual Producers Guild of America Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2174102/?ref_=nm_flmg_slf_126"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "Once Upon a Time in Utah, Sundance",
+            "FilmUrl": "https://www.imdb.com/title/tt0452835/?ref_=nm_flmg_slf_127"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "The 45th Annual Grammy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0357405/?ref_=nm_flmg_slf_128"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2002-2003",
+            "FilmTitle": "V Graham Norton",
+            "FilmUrl": "https://www.imdb.com/title/tt0317028/?ref_=nm_flmg_slf_129"
+        },
+        {
+            "CharacterName": "Self / Ben Floss",
+            "Aired": "2002",
+            "FilmTitle": "Moonlight Mile: A Journey to Screen",
+            "FilmUrl": "https://www.imdb.com/title/tt0383844/?ref_=nm_flmg_slf_130"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Graham Norton: For Your Pleasure",
+            "FilmUrl": "https://www.imdb.com/title/tt0345348/?ref_=nm_flmg_slf_131"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Festival Pass with Chris Gore",
+            "FilmUrl": "https://www.imdb.com/title/tt0361181/?ref_=nm_flmg_slf_132"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "La semaine du cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt0437724/?ref_=nm_flmg_slf_133"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "There's Only One Paul McCartney",
+            "FilmUrl": "https://www.imdb.com/title/tt0331674/?ref_=nm_flmg_slf_134"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998-2002",
+            "FilmTitle": "Biography",
+            "FilmUrl": "https://www.imdb.com/title/tt0092322/?ref_=nm_flmg_slf_135"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2002",
+            "FilmTitle": "Wetten, dass..?",
+            "FilmUrl": "https://www.imdb.com/title/tt0081961/?ref_=nm_flmg_slf_136"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "The Orange British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0314469/?ref_=nm_flmg_slf_137"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Playboy: Inside the Playboy Mansion",
+            "FilmUrl": "https://www.imdb.com/title/tt0355570/?ref_=nm_flmg_slf_138"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "Come Together: A Night for John Lennon's Words and Music",
+            "FilmUrl": "https://www.imdb.com/title/tt0321744/?ref_=nm_flmg_slf_139"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "Going the Distance: Remembering 'Marathon Man'",
+            "FilmUrl": "https://www.imdb.com/title/tt0387262/?ref_=nm_flmg_slf_140"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "AFI Life Achievement Award: A Tribute to Barbra Streisand",
+            "FilmUrl": "https://www.imdb.com/title/tt0304848/?ref_=nm_flmg_slf_141"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "MADtv",
+            "FilmUrl": "https://www.imdb.com/title/tt0112056/?ref_=nm_flmg_slf_142"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2001",
+            "FilmTitle": "2001 Blockbuster Entertainment Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0290120/?ref_=nm_flmg_slf_143"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "2001",
+            "FilmTitle": "The 73rd Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0280387/?ref_=nm_flmg_slf_144"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "Nulle part ailleurs",
+            "FilmUrl": "https://www.imdb.com/title/tt0196277/?ref_=nm_flmg_slf_145"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2001",
+            "FilmTitle": "Finding the Truth: The Making of 'Kramer vs. Kramer'",
+            "FilmUrl": "https://www.imdb.com/title/tt0305575/?ref_=nm_flmg_slf_146"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2000",
+            "FilmTitle": "Howard Stern",
+            "FilmUrl": "https://www.imdb.com/title/tt0159879/?ref_=nm_flmg_slf_147"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000",
+            "FilmTitle": "AFI's 100 Years... 100 Laughs: America's Funniest Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt0250182/?ref_=nm_flmg_slf_148"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000",
+            "FilmTitle": "The Orange British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0314467/?ref_=nm_flmg_slf_149"
+        },
+        {
+            "CharacterName": "Self - Discussing Warren Beatty (uncredited)",
+            "Aired": "2000",
+            "FilmTitle": "The 72nd Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0266222/?ref_=nm_flmg_slf_150"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000",
+            "FilmTitle": "In Action",
+            "FilmUrl": "https://www.imdb.com/title/tt1486737/?ref_=nm_flmg_slf_151"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1999",
+            "FilmTitle": "Billy Connolly: Erect for 30 Years",
+            "FilmUrl": "https://www.imdb.com/title/tt0231542/?ref_=nm_flmg_slf_152"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1999",
+            "FilmTitle": "Film-Fest DVD: Issue 1 - Sundance",
+            "FilmUrl": "https://www.imdb.com/title/tt0500203/?ref_=nm_flmg_slf_153"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1999",
+            "FilmTitle": "The Mike & Ben Show",
+            "FilmUrl": "https://www.imdb.com/title/tt3170054/?ref_=nm_flmg_slf_154"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1999",
+            "FilmTitle": "AFI's 100 Years... 100 Stars: America's Greatest Screen Legends",
+            "FilmUrl": "https://www.imdb.com/title/tt0251566/?ref_=nm_flmg_slf_155"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1999",
+            "FilmTitle": "The 53rd Annual Tony Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0415471/?ref_=nm_flmg_slf_156"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1999",
+            "FilmTitle": "The Rosie O'Donnell Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115338/?ref_=nm_flmg_slf_157"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1999",
+            "FilmTitle": "AFI Life Achievement Award: A Tribute to Dustin Hoffman",
+            "FilmUrl": "https://www.imdb.com/title/tt0196922/?ref_=nm_flmg_slf_158"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1999",
+            "FilmTitle": "Life and Times",
+            "FilmUrl": "https://www.imdb.com/title/tt0348811/?ref_=nm_flmg_slf_159"
+        },
+        {
+            "CharacterName": "Self (Introduces Film) (uncredited)",
+            "Aired": "1999",
+            "FilmTitle": "The Devil's Arithmetic",
+            "FilmUrl": "https://www.imdb.com/title/tt0179148/?ref_=nm_flmg_slf_160"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998",
+            "FilmTitle": "30 Years of Billy Connolly",
+            "FilmUrl": "https://www.imdb.com/title/tt0175379/?ref_=nm_flmg_slf_161"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "1998",
+            "FilmTitle": "Beneath the Surface: The Making of 'Sphere'",
+            "FilmUrl": "https://www.imdb.com/title/tt0482464/?ref_=nm_flmg_slf_162"
+        },
+        {
+            "CharacterName": "Self - Host (segment \"75 Years of Award Winners\")",
+            "Aired": "1998",
+            "FilmTitle": "Warner Bros. 75th Anniversary: No Guts, No Glory",
+            "FilmUrl": "https://www.imdb.com/title/tt0310339/?ref_=nm_flmg_slf_163"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998",
+            "FilmTitle": "Wag the Dog: On the Set",
+            "FilmUrl": "https://www.imdb.com/title/tt6332938/?ref_=nm_flmg_slf_164"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998",
+            "FilmTitle": "AFI's 100 Years... 100 Movies: America's Greatest Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt0192952/?ref_=nm_flmg_slf_165"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998",
+            "FilmTitle": "To Life! America Celebrates Israel's 50th",
+            "FilmUrl": "https://www.imdb.com/title/tt0326287/?ref_=nm_flmg_slf_166"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Past Winner (uncredited)",
+            "Aired": "1998",
+            "FilmTitle": "The 70th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0284808/?ref_=nm_flmg_slf_167"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "1998",
+            "FilmTitle": "4th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0461453/?ref_=nm_flmg_slf_168"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998",
+            "FilmTitle": "Bravo Profiles: The Entertainment Business",
+            "FilmUrl": "https://www.imdb.com/title/tt0773260/?ref_=nm_flmg_slf_169"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "1998",
+            "FilmTitle": "The Making of 'Sphere'",
+            "FilmUrl": "https://www.imdb.com/title/tt0369692/?ref_=nm_flmg_slf_170"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "1998",
+            "FilmTitle": "The 55th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0859588/?ref_=nm_flmg_slf_171"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "1998",
+            "FilmTitle": "The 24th Annual People's Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1369435/?ref_=nm_flmg_slf_172"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1997",
+            "FilmTitle": "Antenas no Ar",
+            "FilmUrl": "https://www.imdb.com/title/tt1373486/?ref_=nm_flmg_slf_173"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1997",
+            "FilmTitle": "Very Important Pennis",
+            "FilmUrl": "https://www.imdb.com/title/tt0246354/?ref_=nm_flmg_slf_174"
+        },
+        {
+            "CharacterName": "Self - Cecil B. DeMille Award Recipient",
+            "Aired": "1997",
+            "FilmTitle": "The 54th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1800384/?ref_=nm_flmg_slf_175"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1996",
+            "FilmTitle": "Very Important Pennis: Uncut",
+            "FilmUrl": "https://www.imdb.com/title/tt11281262/?ref_=nm_flmg_slf_176"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1996",
+            "FilmTitle": "Domenica in",
+            "FilmUrl": "https://www.imdb.com/title/tt0490719/?ref_=nm_flmg_slf_177"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1996",
+            "FilmTitle": "AFI Life Achievement Award: A Tribute to Clint Eastwood",
+            "FilmUrl": "https://www.imdb.com/title/tt0156039/?ref_=nm_flmg_slf_178"
+        },
+        {
+            "CharacterName": "Self - Concert Attendee (uncredited)",
+            "Aired": "1995",
+            "FilmTitle": "Barbra: The Concert",
+            "FilmUrl": "https://www.imdb.com/title/tt0112456/?ref_=nm_flmg_slf_179"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1995",
+            "FilmTitle": "The First 100 Years: A Celebration of American Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt0113068/?ref_=nm_flmg_slf_180"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1995",
+            "FilmTitle": "CBS This Morning",
+            "FilmUrl": "https://www.imdb.com/title/tt0355070/?ref_=nm_flmg_slf_181"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "1994",
+            "FilmTitle": "'Midnight Cowboy' Revisited",
+            "FilmUrl": "https://www.imdb.com/title/tt0318444/?ref_=nm_flmg_slf_182"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1994",
+            "FilmTitle": "AFI Life Achievement Award: A Tribute to Jack Nicholson",
+            "FilmUrl": "https://www.imdb.com/title/tt0156040/?ref_=nm_flmg_slf_183"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1994",
+            "FilmTitle": "Jonas in the Desert",
+            "FilmUrl": "https://www.imdb.com/title/tt0110205/?ref_=nm_flmg_slf_184"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1994",
+            "FilmTitle": "Comic Relief VI",
+            "FilmUrl": "https://www.imdb.com/title/tt0321747/?ref_=nm_flmg_slf_185"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1993",
+            "FilmTitle": "Aretha Franklin: Duets",
+            "FilmUrl": "https://www.imdb.com/title/tt0319003/?ref_=nm_flmg_slf_186"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "1993",
+            "FilmTitle": "The 65th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0266220/?ref_=nm_flmg_slf_187"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1993",
+            "FilmTitle": "Le cercle de minuit",
+            "FilmUrl": "https://www.imdb.com/title/tt2314629/?ref_=nm_flmg_slf_188"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1993",
+            "FilmTitle": "Coucou c'est nous!",
+            "FilmUrl": "https://www.imdb.com/title/tt0366002/?ref_=nm_flmg_slf_189"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1993",
+            "FilmTitle": "Sacr\u00e9e soir\u00e9e",
+            "FilmUrl": "https://www.imdb.com/title/tt0375439/?ref_=nm_flmg_slf_190"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1992",
+            "FilmTitle": "The Graduate: One on One with Dustin Hoffman",
+            "FilmUrl": "https://www.imdb.com/title/tt0857218/?ref_=nm_flmg_slf_191"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1992",
+            "FilmTitle": "The Graduate at 25",
+            "FilmUrl": "https://www.imdb.com/title/tt0857217/?ref_=nm_flmg_slf_192"
+        },
+        {
+            "CharacterName": "Reader (voice)",
+            "Aired": "1992",
+            "FilmTitle": "Earth and the American Dream",
+            "FilmUrl": "https://www.imdb.com/title/tt0289172/?ref_=nm_flmg_slf_193"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1992",
+            "FilmTitle": "In a New Light: A Call to Action in the War Against AIDS",
+            "FilmUrl": "https://www.imdb.com/title/tt0325612/?ref_=nm_flmg_slf_194"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1992",
+            "FilmTitle": "Wogan",
+            "FilmUrl": "https://www.imdb.com/title/tt0083504/?ref_=nm_flmg_slf_195"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1992",
+            "FilmTitle": "Muhammad Ali's 50th Birthday Celebration",
+            "FilmUrl": "https://www.imdb.com/title/tt0358603/?ref_=nm_flmg_slf_196"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "1992",
+            "FilmTitle": "The 49th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1800383/?ref_=nm_flmg_slf_197"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "1991",
+            "FilmTitle": "The 63rd Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0266218/?ref_=nm_flmg_slf_198"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Presenter",
+            "Aired": "1990",
+            "FilmTitle": "The 44th Annual Tony Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0407492/?ref_=nm_flmg_slf_199"
+        },
+        {
+            "CharacterName": "Narrator (voice)",
+            "Aired": "1989",
+            "FilmTitle": "Common Threads: Stories from the Quilt",
+            "FilmUrl": "https://www.imdb.com/title/tt0097099/?ref_=nm_flmg_slf_200"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1989",
+            "FilmTitle": "The South Bank Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0077082/?ref_=nm_flmg_slf_201"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Accepting Award for Favourite Dramatic Motion Picture",
+            "Aired": "1989",
+            "FilmTitle": "The 15th Annual People's Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0446643/?ref_=nm_flmg_slf_202"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "1989",
+            "FilmTitle": "The 61st Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0353140/?ref_=nm_flmg_slf_203"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1989",
+            "FilmTitle": "Champs-Elys\u00e9es",
+            "FilmUrl": "https://www.imdb.com/title/tt0353048/?ref_=nm_flmg_slf_204"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "1989",
+            "FilmTitle": "The 46th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1693966/?ref_=nm_flmg_slf_205"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1988",
+            "FilmTitle": "'Rain Man' Featurette",
+            "FilmUrl": "https://www.imdb.com/title/tt0880664/?ref_=nm_flmg_slf_206"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1988",
+            "FilmTitle": "Aspel & Company",
+            "FilmUrl": "https://www.imdb.com/title/tt0189240/?ref_=nm_flmg_slf_207"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "1987",
+            "FilmTitle": "The 59th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0331410/?ref_=nm_flmg_slf_208"
+        },
+        {
+            "CharacterName": "Self - Speaker",
+            "Aired": "1987",
+            "FilmTitle": "Moving Image Salutes Elia Kazan",
+            "FilmUrl": "https://www.imdb.com/title/tt6649262/?ref_=nm_flmg_slf_209"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Nominee",
+            "Aired": "1986",
+            "FilmTitle": "The 38th Annual Primetime Emmy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1044990/?ref_=nm_flmg_slf_210"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1985",
+            "FilmTitle": "Night of 100 Stars II",
+            "FilmUrl": "https://www.imdb.com/title/tt0846718/?ref_=nm_flmg_slf_211"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "1984",
+            "FilmTitle": "The 38th Annual Tony Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1047437/?ref_=nm_flmg_slf_212"
+        },
+        {
+            "CharacterName": "Self - Host",
+            "Aired": "1984",
+            "FilmTitle": "Strokes of Genius",
+            "FilmUrl": "https://www.imdb.com/title/tt0249321/?ref_=nm_flmg_slf_213"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "1983",
+            "FilmTitle": "The 55th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0353135/?ref_=nm_flmg_slf_214"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1983",
+            "FilmTitle": "Your Choice for the Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0262924/?ref_=nm_flmg_slf_215"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "1983",
+            "FilmTitle": "The 40th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1799579/?ref_=nm_flmg_slf_216"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1982",
+            "FilmTitle": "Night of 100 Stars",
+            "FilmUrl": "https://www.imdb.com/title/tt0355825/?ref_=nm_flmg_slf_217"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "1981",
+            "FilmTitle": "The 53rd Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0343339/?ref_=nm_flmg_slf_218"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1980",
+            "FilmTitle": "An Interview with Dustin Hoffman: The Making Moments of Kramer vs. Kramer",
+            "FilmUrl": "https://www.imdb.com/title/tt6329414/?ref_=nm_flmg_slf_219"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1972-1980",
+            "FilmTitle": "V.I.P.-Schaukel",
+            "FilmUrl": "https://www.imdb.com/title/tt0344743/?ref_=nm_flmg_slf_220"
+        },
+        {
+            "CharacterName": "Self - Winner &amp; Presenter",
+            "Aired": "1980",
+            "FilmTitle": "The 52nd Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0331409/?ref_=nm_flmg_slf_221"
+        },
+        {
+            "CharacterName": "Self - Speaker (uncredited)",
+            "Aired": "1980",
+            "FilmTitle": "AFI Life Achievement Award: A Tribute to James Stewart",
+            "FilmUrl": "https://www.imdb.com/title/tt0268606/?ref_=nm_flmg_slf_222"
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Aired": "1980",
+            "FilmTitle": "The 37th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0450954/?ref_=nm_flmg_slf_223"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1978",
+            "FilmTitle": "Straight Time: He Wrote It for Criminals",
+            "FilmUrl": "https://www.imdb.com/title/tt2678930/?ref_=nm_flmg_slf_224"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Aired": "1978",
+            "FilmTitle": "Hollywood's Diamond Jubilee",
+            "FilmUrl": "https://www.imdb.com/title/tt3007134/?ref_=nm_flmg_slf_225"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1977",
+            "FilmTitle": "Bette Midler: Ol' Red Hair Is Back",
+            "FilmUrl": "https://www.imdb.com/title/tt0326758/?ref_=nm_flmg_slf_226"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1977",
+            "FilmTitle": "Camera Three",
+            "FilmUrl": "https://www.imdb.com/title/tt0271280/?ref_=nm_flmg_slf_227"
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Aired": "1977",
+            "FilmTitle": "The 34th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0881175/?ref_=nm_flmg_slf_228"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1976",
+            "FilmTitle": "Pressure and the Press: The Making of 'All the President's Men'",
+            "FilmUrl": "https://www.imdb.com/title/tt0778812/?ref_=nm_flmg_slf_229"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1976",
+            "FilmTitle": "The Magic of Hollywood... Is the Magic of People",
+            "FilmUrl": "https://www.imdb.com/title/tt0387369/?ref_=nm_flmg_slf_230"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1976",
+            "FilmTitle": "Ihr braucht Narren wie mich",
+            "FilmUrl": "https://www.imdb.com/title/tt0458758/?ref_=nm_flmg_slf_231"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1976",
+            "FilmTitle": "Dick Smith Make Up Artist",
+            "FilmUrl": "https://www.imdb.com/title/tt8975378/?ref_=nm_flmg_slf_232"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1975",
+            "FilmTitle": "Lost in the Garden of the World",
+            "FilmUrl": "https://www.imdb.com/title/tt8187430/?ref_=nm_flmg_slf_233"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1975",
+            "FilmTitle": "Academy of TV Arts and Sciences Salute to Robert Evans",
+            "FilmUrl": "https://www.imdb.com/title/tt2093937/?ref_=nm_flmg_slf_234"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1975",
+            "FilmTitle": "Pour le cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt7818134/?ref_=nm_flmg_slf_235"
+        },
+        {
+            "CharacterName": "Self (scenes deleted)",
+            "Aired": "1974",
+            "FilmTitle": "Free to Be... You & Me",
+            "FilmUrl": "https://www.imdb.com/title/tt0194897/?ref_=nm_flmg_slf_236"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1973",
+            "FilmTitle": "The Magnificent Rebel",
+            "FilmUrl": "https://www.imdb.com/title/tt0962770/?ref_=nm_flmg_slf_237"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1973",
+            "FilmTitle": "Violence: Will It Ever End?",
+            "FilmUrl": "https://www.imdb.com/title/tt8060340/?ref_=nm_flmg_slf_238"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1972",
+            "FilmTitle": "The 14th Annual Grammy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0387002/?ref_=nm_flmg_slf_239"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1971",
+            "FilmTitle": "On Location: Dustin Hoffman",
+            "FilmUrl": "https://www.imdb.com/title/tt0392562/?ref_=nm_flmg_slf_240"
+        },
+        {
+            "CharacterName": "Self - Actor / Self - Guest",
+            "Aired": "1968-1971",
+            "FilmTitle": "The Mike Douglas Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0170980/?ref_=nm_flmg_slf_241"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1970-1971",
+            "FilmTitle": "The Tonight Show Starring Johnny Carson",
+            "FilmUrl": "https://www.imdb.com/title/tt0055708/?ref_=nm_flmg_slf_242"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "1971",
+            "FilmTitle": "The David Frost Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0063890/?ref_=nm_flmg_slf_243"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1971",
+            "FilmTitle": "Telescope",
+            "FilmUrl": "https://www.imdb.com/title/tt0243730/?ref_=nm_flmg_slf_244"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1971",
+            "FilmTitle": "Treffpunkte",
+            "FilmUrl": "https://www.imdb.com/title/tt1957808/?ref_=nm_flmg_slf_245"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1971",
+            "FilmTitle": "Cinema",
+            "FilmUrl": "https://www.imdb.com/title/tt0310432/?ref_=nm_flmg_slf_246"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1971",
+            "FilmTitle": "The British Screen Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2298487/?ref_=nm_flmg_slf_247"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1970",
+            "FilmTitle": "Arthur Penn: The Director",
+            "FilmUrl": "https://www.imdb.com/title/tt0488705/?ref_=nm_flmg_slf_248"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1970",
+            "FilmTitle": "Arthur Penn, 1922-: Themes and Variants",
+            "FilmUrl": "https://www.imdb.com/title/tt0404786/?ref_=nm_flmg_slf_249"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Aired": "1969",
+            "FilmTitle": "The 23rd Annual Tony Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0324950/?ref_=nm_flmg_slf_250"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1967-1969",
+            "FilmTitle": "The Merv Griffin Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0055691/?ref_=nm_flmg_slf_251"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1968",
+            "FilmTitle": "The New Cinema",
+            "FilmUrl": "https://www.imdb.com/title/tt1777001/?ref_=nm_flmg_slf_252"
+        },
+        {
+            "CharacterName": "Self - Mystery Guest",
+            "Aired": "1968",
+            "FilmTitle": "What's My Line?",
+            "FilmUrl": "https://www.imdb.com/title/tt0133323/?ref_=nm_flmg_slf_253"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1968",
+            "FilmTitle": "Personality",
+            "FilmUrl": "https://www.imdb.com/title/tt0198204/?ref_=nm_flmg_slf_254"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Presenter",
+            "Aired": "1968",
+            "FilmTitle": "The 40th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0353126/?ref_=nm_flmg_slf_255"
+        },
+        {
+            "CharacterName": "Self - Team Captain",
+            "Aired": "1968",
+            "FilmTitle": "The Match Game",
+            "FilmUrl": "https://www.imdb.com/title/tt0055688/?ref_=nm_flmg_slf_256"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "",
+            "FilmTitle": "The Orson Bean Show",
+            "FilmUrl": "https://www.imdb.com/title/tt8696742/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016-2020",
+            "FilmTitle": "Les Chroniques du Mea",
+            "FilmUrl": "https://www.imdb.com/title/tt11635416/?ref_=nm_flmg_arf_2"
+        },
+        {
+            "CharacterName": "Self / Captain Hook",
+            "Aired": "2009-2020",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_3"
+        },
+        {
+            "CharacterName": "Michael Dorsey / Dorothy Michaels",
+            "Aired": "2020",
+            "FilmTitle": "Disclosure",
+            "FilmUrl": "https://www.imdb.com/title/tt8637504/?ref_=nm_flmg_arf_4"
+        },
+        {
+            "CharacterName": "Ben Braddock / Ratso / Self - Actor / ...",
+            "Aired": "2019",
+            "FilmTitle": "The Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt10468676/?ref_=nm_flmg_arf_5"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2019",
+            "FilmTitle": "What's My Name: Muhammad Ali",
+            "FilmUrl": "https://www.imdb.com/title/tt6328046/?ref_=nm_flmg_arf_6"
+        },
+        {
+            "CharacterName": "Ben Braddock",
+            "Aired": "2018",
+            "FilmTitle": "1968: The Year That Changed America",
+            "FilmUrl": "https://www.imdb.com/title/tt6903222/?ref_=nm_flmg_arf_7"
+        },
+        {
+            "CharacterName": "Ben Braddock",
+            "Aired": "2018",
+            "FilmTitle": "Hollywood, No Sex Please!",
+            "FilmUrl": "https://www.imdb.com/title/tt8389532/?ref_=nm_flmg_arf_8"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Six Sides of Katharine Hepburn",
+            "FilmUrl": "https://www.imdb.com/title/tt8219204/?ref_=nm_flmg_arf_9"
+        },
+        {
+            "CharacterName": "Carl Bernstein",
+            "Aired": "2017",
+            "FilmTitle": "20/20",
+            "FilmUrl": "https://www.imdb.com/title/tt0124932/?ref_=nm_flmg_arf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "Blow up",
+            "FilmUrl": "https://www.imdb.com/title/tt9253782/?ref_=nm_flmg_arf_11"
+        },
+        {
+            "CharacterName": "Carl Bernstein",
+            "Aired": "2016",
+            "FilmTitle": "All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",
+            "FilmUrl": "https://www.imdb.com/title/tt5937962/?ref_=nm_flmg_arf_12"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2016",
+            "FilmTitle": "That's So...",
+            "FilmUrl": "https://www.imdb.com/title/tt5368694/?ref_=nm_flmg_arf_13"
+        },
+        {
+            "CharacterName": "Ben Braddock",
+            "Aired": "2016",
+            "FilmTitle": "Becoming Mike Nichols",
+            "FilmUrl": "https://www.imdb.com/title/tt5278964/?ref_=nm_flmg_arf_14"
+        },
+        {
+            "CharacterName": "Carl Bernstein",
+            "Aired": "2016",
+            "FilmTitle": "Democracy Now!",
+            "FilmUrl": "https://www.imdb.com/title/tt0400998/?ref_=nm_flmg_arf_15"
+        },
+        {
+            "CharacterName": "Chuck Clarke / Michael Dorsey / Lenny / ...",
+            "Aired": "2015-2016",
+            "FilmTitle": "Welcome to the Basement",
+            "FilmUrl": "https://www.imdb.com/title/tt4416750/?ref_=nm_flmg_arf_16"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2015",
+            "FilmTitle": "A Word on Westerns",
+            "FilmUrl": "https://www.imdb.com/title/tt10550724/?ref_=nm_flmg_arf_17"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2015",
+            "FilmTitle": "Warren Beatty, une obsession hollywoodienne",
+            "FilmUrl": "https://www.imdb.com/title/tt5085596/?ref_=nm_flmg_arf_18"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "Led Zeppelin Played Here",
+            "FilmUrl": "https://www.imdb.com/title/tt2717632/?ref_=nm_flmg_arf_19"
+        },
+        {
+            "CharacterName": "Louis Dega (in 'Papillon')",
+            "Aired": "2014",
+            "FilmTitle": "I Am Steve McQueen",
+            "FilmUrl": "https://www.imdb.com/title/tt2649194/?ref_=nm_flmg_arf_20"
+        },
+        {
+            "CharacterName": "Self (1983)",
+            "Aired": "2014",
+            "FilmTitle": "The Greatest 80s Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt3792876/?ref_=nm_flmg_arf_21"
+        },
+        {
+            "CharacterName": "Raymond Babbitt",
+            "Aired": "2014",
+            "FilmTitle": "Shaun Micallef's Mad as Hell",
+            "FilmUrl": "https://www.imdb.com/title/tt2155043/?ref_=nm_flmg_arf_22"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2014",
+            "FilmTitle": "And the Oscar Goes To...",
+            "FilmUrl": "https://www.imdb.com/title/tt3481232/?ref_=nm_flmg_arf_23"
+        },
+        {
+            "CharacterName": "Self - Actor (segment \"Dame Maggie\") / Self - Actor (segment \"Dustin Hoffman\") / Self - Actor",
+            "Aired": "1993-2013",
+            "FilmTitle": "60 Minutes",
+            "FilmUrl": "https://www.imdb.com/title/tt0123338/?ref_=nm_flmg_arf_24"
+        },
+        {
+            "CharacterName": "David Sumner / Captain Hook",
+            "Aired": "2010-2013",
+            "FilmTitle": "Edici\u00f3n Especial Coleccionista",
+            "FilmUrl": "https://www.imdb.com/title/tt1749539/?ref_=nm_flmg_arf_25"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2008-2013",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_arf_26"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2012",
+            "FilmTitle": "3615 Usul",
+            "FilmUrl": "https://www.imdb.com/title/tt5787598/?ref_=nm_flmg_arf_27"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2012",
+            "FilmTitle": "Casting By",
+            "FilmUrl": "https://www.imdb.com/title/tt1293751/?ref_=nm_flmg_arf_28"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Paul Williams Still Alive",
+            "FilmUrl": "https://www.imdb.com/title/tt1956594/?ref_=nm_flmg_arf_29"
+        },
+        {
+            "CharacterName": "Michael Dorsey / Dorothy Michaels (clip from Tootsie (1982)) (uncredited)",
+            "Aired": "2011",
+            "FilmTitle": "These Amazing Shadows",
+            "FilmUrl": "https://www.imdb.com/title/tt1273222/?ref_=nm_flmg_arf_30"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "Who Is Harry Nilsson (And Why Is Everybody Talkin' About Him?)",
+            "FilmUrl": "https://www.imdb.com/title/tt0756727/?ref_=nm_flmg_arf_31"
+        },
+        {
+            "CharacterName": "Ben Braddock",
+            "Aired": "2010",
+            "FilmTitle": "Moguls & Movie Stars: A History of Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt1759310/?ref_=nm_flmg_arf_32"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2010",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_arf_33"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2010",
+            "FilmTitle": "Cameraman: The Life and Work of Jack Cardiff",
+            "FilmUrl": "https://www.imdb.com/title/tt1626811/?ref_=nm_flmg_arf_34"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2009",
+            "FilmTitle": "A Night at the Movies: The Suspenseful World of Thrillers",
+            "FilmUrl": "https://www.imdb.com/title/tt1534380/?ref_=nm_flmg_arf_35"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2009",
+            "FilmTitle": "Eiga no tatsujin 2: End Credits",
+            "FilmUrl": "https://www.imdb.com/title/tt1418456/?ref_=nm_flmg_arf_36"
+        },
+        {
+            "CharacterName": "Ted Kramer",
+            "Aired": "2009",
+            "FilmTitle": "This Morning",
+            "FilmUrl": "https://www.imdb.com/title/tt0181261/?ref_=nm_flmg_arf_37"
+        },
+        {
+            "CharacterName": "Ted Kramer",
+            "Aired": "2008",
+            "FilmTitle": "Premio Donostia a Meryl Streep",
+            "FilmUrl": "https://www.imdb.com/title/tt1300281/?ref_=nm_flmg_arf_38"
+        },
+        {
+            "CharacterName": "Ted Kramer",
+            "Aired": "2008",
+            "FilmTitle": "Ceremonia de inauguraci\u00f3n - 56\u00ba Festival internacional de cine de San Sebasti\u00e1n",
+            "FilmUrl": "https://www.imdb.com/title/tt1296547/?ref_=nm_flmg_arf_39"
+        },
+        {
+            "CharacterName": "Stanley Motss (uncredited)",
+            "Aired": "2008",
+            "FilmTitle": "President Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt1297342/?ref_=nm_flmg_arf_40"
+        },
+        {
+            "CharacterName": "Raymond Babbitt / Captain Hook",
+            "Aired": "2008",
+            "FilmTitle": "5 Second Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt1566050/?ref_=nm_flmg_arf_41"
+        },
+        {
+            "CharacterName": "Self - Audience Member",
+            "Aired": "2008",
+            "FilmTitle": "Geoffrey Rush: Golden Globe Acceptance Speech",
+            "FilmUrl": "https://www.imdb.com/title/tt7058736/?ref_=nm_flmg_arf_42"
+        },
+        {
+            "CharacterName": "Raymond Babbitt (uncredited)",
+            "Aired": "2008",
+            "FilmTitle": "Oscar, que empiece el espect\u00e1culo",
+            "FilmUrl": "https://www.imdb.com/title/tt1183149/?ref_=nm_flmg_arf_43"
+        },
+        {
+            "CharacterName": "Ben Braddock",
+            "Aired": "2007",
+            "FilmTitle": "20 to 1",
+            "FilmUrl": "https://www.imdb.com/title/tt0800968/?ref_=nm_flmg_arf_44"
+        },
+        {
+            "CharacterName": "Benjamin Braddock",
+            "Aired": "2007",
+            "FilmTitle": "Memoirs of a Cigarette",
+            "FilmUrl": "https://www.imdb.com/title/tt1062316/?ref_=nm_flmg_arf_45"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2007",
+            "FilmTitle": "Constantine's Sword",
+            "FilmUrl": "https://www.imdb.com/title/tt0902270/?ref_=nm_flmg_arf_46"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2007",
+            "FilmTitle": "Pen\u00e9lope, camino a los Oscar",
+            "FilmUrl": "https://www.imdb.com/title/tt0969315/?ref_=nm_flmg_arf_47"
+        },
+        {
+            "CharacterName": "Michael Dorsey / Dorothy Michaels (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "Boffo! Tinseltown's Bombs and Blockbusters",
+            "FilmUrl": "https://www.imdb.com/title/tt0805497/?ref_=nm_flmg_arf_48"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2006",
+            "FilmTitle": "Ban the Sadist Videos! Part 2",
+            "FilmUrl": "https://www.imdb.com/title/tt0962751/?ref_=nm_flmg_arf_49"
+        },
+        {
+            "CharacterName": "Self - Carl Bernstein (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "Out of the Shadows: The Man Who Was Deep Throat",
+            "FilmUrl": "https://www.imdb.com/title/tt0778800/?ref_=nm_flmg_arf_50"
+        },
+        {
+            "CharacterName": "Self - Carl Bernstein (uncredited)",
+            "Aired": "2006",
+            "FilmTitle": "Woodward and Bernstein: Lighting the Fire",
+            "FilmUrl": "https://www.imdb.com/title/tt0778902/?ref_=nm_flmg_arf_51"
+        },
+        {
+            "CharacterName": "Benjamin Braddock (uncredited)",
+            "Aired": "2005",
+            "FilmTitle": "Rumor Has It...",
+            "FilmUrl": "https://www.imdb.com/title/tt0398375/?ref_=nm_flmg_arf_52"
+        },
+        {
+            "CharacterName": "Ted Kramer / Raymond Babbitt",
+            "Aired": "2005",
+            "FilmTitle": "80s",
+            "FilmUrl": "https://www.imdb.com/title/tt0480953/?ref_=nm_flmg_arf_53"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Los m\u00e1s",
+            "FilmUrl": "https://www.imdb.com/title/tt0471054/?ref_=nm_flmg_arf_54"
+        },
+        {
+            "CharacterName": "Dwight Schultz / Thomas Babington Levy",
+            "Aired": "2005",
+            "FilmTitle": "Cinema mil",
+            "FilmUrl": "https://www.imdb.com/title/tt0470644/?ref_=nm_flmg_arf_55"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2005",
+            "FilmTitle": "Midnight Movies: From the Margin to the Mainstream",
+            "FilmUrl": "https://www.imdb.com/title/tt0457414/?ref_=nm_flmg_arf_56"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2004",
+            "FilmTitle": "The Best of 'So Graham Norton'",
+            "FilmUrl": "https://www.imdb.com/title/tt0279686/?ref_=nm_flmg_arf_57"
+        },
+        {
+            "CharacterName": "Pitchman - for Volkswagon",
+            "Aired": "2004",
+            "FilmTitle": "Hit Celebrity TV Commercials",
+            "FilmUrl": "https://www.imdb.com/title/tt10502120/?ref_=nm_flmg_arf_58"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "The Award Show Awards Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0397037/?ref_=nm_flmg_arf_59"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2003",
+            "FilmTitle": "Sex at 24 Frames Per Second",
+            "FilmUrl": "https://www.imdb.com/title/tt0383630/?ref_=nm_flmg_arf_60"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2002",
+            "FilmTitle": "The Weather Underground",
+            "FilmUrl": "https://www.imdb.com/title/tt0343168/?ref_=nm_flmg_arf_61"
+        },
+        {
+            "CharacterName": "David Sumner",
+            "Aired": "2002",
+            "FilmTitle": "Straw Dogs: Susan George",
+            "FilmUrl": "https://www.imdb.com/title/tt7335046/?ref_=nm_flmg_arf_62"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2002",
+            "FilmTitle": "Histoires de festival",
+            "FilmUrl": "https://www.imdb.com/title/tt0488301/?ref_=nm_flmg_arf_63"
+        },
+        {
+            "CharacterName": "Self (1975 BBC interview) (uncredited)",
+            "Aired": "2002",
+            "FilmTitle": "Reel Radicals: The Sixties Revolution in Film",
+            "FilmUrl": "https://www.imdb.com/title/tt0320355/?ref_=nm_flmg_arf_64"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "2002",
+            "FilmTitle": "The Kid Stays in the Picture",
+            "FilmUrl": "https://www.imdb.com/title/tt0303353/?ref_=nm_flmg_arf_65"
+        },
+        {
+            "CharacterName": "Self / Shylock",
+            "Aired": "2001",
+            "FilmTitle": "Shylock",
+            "FilmUrl": "https://www.imdb.com/title/tt0226448/?ref_=nm_flmg_arf_66"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2000",
+            "FilmTitle": "Hollywood Remembers",
+            "FilmUrl": "https://www.imdb.com/title/tt5701572/?ref_=nm_flmg_arf_67"
+        },
+        {
+            "CharacterName": "Self / Various Roles",
+            "Aired": "2000",
+            "FilmTitle": "Hollywood Remembers Dustin Hoffman",
+            "FilmUrl": "https://www.imdb.com/title/tt2475474/?ref_=nm_flmg_arf_68"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2000",
+            "FilmTitle": "Twentieth Century Fox: The Blockbuster Years",
+            "FilmUrl": "https://www.imdb.com/title/tt0320996/?ref_=nm_flmg_arf_69"
+        },
+        {
+            "CharacterName": "Self - Screen Test",
+            "Aired": "2000",
+            "FilmTitle": "Biography",
+            "FilmUrl": "https://www.imdb.com/title/tt0092322/?ref_=nm_flmg_arf_70"
+        },
+        {
+            "CharacterName": "Self (uncredited)",
+            "Aired": "1999",
+            "FilmTitle": "Hollywood Screen Tests: Take 1",
+            "FilmUrl": "https://www.imdb.com/title/tt0447998/?ref_=nm_flmg_arf_71"
+        },
+        {
+            "CharacterName": "Willy Loman (uncredited)",
+            "Aired": "1999",
+            "FilmTitle": "Being John Malkovich",
+            "FilmUrl": "https://www.imdb.com/title/tt0120601/?ref_=nm_flmg_arf_72"
+        },
+        {
+            "CharacterName": "Self - Stanley Motss",
+            "Aired": "1998",
+            "FilmTitle": "From Washington to Hollywood ...And Back",
+            "FilmUrl": "https://www.imdb.com/title/tt6270522/?ref_=nm_flmg_arf_73"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1998",
+            "FilmTitle": "Antes de ser famosos",
+            "FilmUrl": "https://www.imdb.com/title/tt0836635/?ref_=nm_flmg_arf_74"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1997",
+            "FilmTitle": "Before They Were Famous",
+            "FilmUrl": "https://www.imdb.com/title/tt0118267/?ref_=nm_flmg_arf_75"
+        },
+        {
+            "CharacterName": "Benjamin Braddock",
+            "Aired": "1997",
+            "FilmTitle": "Comic Relief",
+            "FilmUrl": "https://www.imdb.com/title/tt0274438/?ref_=nm_flmg_arf_76"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1996",
+            "FilmTitle": "Parkinson: The Interviews",
+            "FilmUrl": "https://www.imdb.com/title/tt7146712/?ref_=nm_flmg_arf_77"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1995",
+            "FilmTitle": "Empire of the Censors",
+            "FilmUrl": "https://www.imdb.com/title/tt0294070/?ref_=nm_flmg_arf_78"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1995",
+            "FilmTitle": "The Greatest Commercials Ever Made",
+            "FilmUrl": "https://www.imdb.com/title/tt0458382/?ref_=nm_flmg_arf_79"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1994",
+            "FilmTitle": "100 Years at the Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt0179624/?ref_=nm_flmg_arf_80"
+        },
+        {
+            "CharacterName": "Jack Crabb",
+            "Aired": "1994",
+            "FilmTitle": "Im\u00e1genes prohibidas",
+            "FilmUrl": "https://www.imdb.com/title/tt1151438/?ref_=nm_flmg_arf_81"
+        },
+        {
+            "CharacterName": "Peter",
+            "Aired": "1993",
+            "FilmTitle": "La Classe am\u00e9ricaine",
+            "FilmUrl": "https://www.imdb.com/title/tt0321715/?ref_=nm_flmg_arf_82"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1992",
+            "FilmTitle": "Oscar's Greatest Moments",
+            "FilmUrl": "https://www.imdb.com/title/tt0265471/?ref_=nm_flmg_arf_83"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1991",
+            "FilmTitle": "Memories of 1970-1991",
+            "FilmUrl": "https://www.imdb.com/title/tt5617594/?ref_=nm_flmg_arf_84"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1991",
+            "FilmTitle": "The Secrets of Dick Smith",
+            "FilmUrl": "https://www.imdb.com/title/tt0339645/?ref_=nm_flmg_arf_85"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1987",
+            "FilmTitle": "The Ultimate Stuntman: A Tribute to Dar Robinson",
+            "FilmUrl": "https://www.imdb.com/title/tt0297444/?ref_=nm_flmg_arf_86"
+        },
+        {
+            "CharacterName": "Thomas 'Babe' Levy (in 'Marathon Man') (uncredited)",
+            "Aired": "1984",
+            "FilmTitle": "Terror in the Aisles",
+            "FilmUrl": "https://www.imdb.com/title/tt0088249/?ref_=nm_flmg_arf_87"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1981",
+            "FilmTitle": "Margret D\u00fcnser, auf der Suche nach den Besonderen",
+            "FilmUrl": "https://www.imdb.com/title/tt0355749/?ref_=nm_flmg_arf_88"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "1980",
+            "FilmTitle": "Sensational Shocking Wonderful Wacky 70's",
+            "FilmUrl": "https://www.imdb.com/title/tt10115978/?ref_=nm_flmg_arf_89"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "1976",
+            "FilmTitle": "The Mike Douglas Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0170980/?ref_=nm_flmg_arf_90"
+        },
+        {
+            "CharacterName": "Benjamin Braddock",
+            "Aired": "1976",
+            "FilmTitle": "America at the Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt0197229/?ref_=nm_flmg_arf_91"
+        },
+        {
+            "CharacterName": "Jack Crabb",
+            "Aired": "1973",
+            "FilmTitle": "V.I.P.-Schaukel",
+            "FilmUrl": "https://www.imdb.com/title/tt0344743/?ref_=nm_flmg_arf_92"
+        }
+    ],
+    "AwardsWins": 61,
+    "AwardNominations": 53
+}

@@ -1,0 +1,339 @@
+{
+    "Rank": 77,
+    "FullName": "Pom Klementieff",
+    "DomesticBoxOfficeRevenue": 1930022716,
+    "AverageDomesticBoxOfficeRevenue": 482505679,
+    "LocalDataSourcePath": "./html/imdb_profiles/PomKlementieff.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMTkzNjE5MzY5M15BMl5BanBnXkFtZTgwMDI5ODMxODE@._V1_UY317_CR121,0,214,317_AL_.jpg",
+    "DOB": "1986-5-3",
+    "BornIn": "Quebec City, Quebec, Canada",
+    "Gender": "Female",
+    "Height": 1.7,
+    "AstrologicalSign": "Taurus",
+    "Roles": [
+        {
+            "CharacterName": "Mantis",
+            "Aired": "2021",
+            "FilmTitle": "Guardians of the Galaxy Vol. 3",
+            "FilmUrl": "https://www.imdb.com/title/tt6791350/?ref_=nm_flmg_act_1"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2022",
+            "FilmTitle": "Mission: Impossible 8",
+            "FilmUrl": "https://www.imdb.com/title/tt9603208/?ref_=nm_flmg_act_2"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2021",
+            "FilmTitle": "Mission: Impossible 7",
+            "FilmUrl": "https://www.imdb.com/title/tt9603212/?ref_=nm_flmg_act_3"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "",
+            "FilmTitle": "Thunder Force",
+            "FilmUrl": "https://www.imdb.com/title/tt10121392/?ref_=nm_flmg_act_4"
+        },
+        {
+            "CharacterName": "Alex Goran",
+            "Aired": "2020",
+            "FilmTitle": "Acting for a Cause",
+            "FilmUrl": "https://www.imdb.com/title/tt12014962/?ref_=nm_flmg_act_5"
+        },
+        {
+            "CharacterName": "Martel",
+            "Aired": "2020",
+            "FilmTitle": "Westworld",
+            "FilmUrl": "https://www.imdb.com/title/tt0475784/?ref_=nm_flmg_act_6"
+        },
+        {
+            "CharacterName": "Cat",
+            "Aired": "2019",
+            "FilmTitle": "A.I. Tales",
+            "FilmUrl": "https://www.imdb.com/title/tt8773700/?ref_=nm_flmg_act_7"
+        },
+        {
+            "CharacterName": "Layla &amp; Kayla (voice)",
+            "Aired": "2019",
+            "FilmTitle": "The Addams Family",
+            "FilmUrl": "https://www.imdb.com/title/tt1620981/?ref_=nm_flmg_act_8"
+        },
+        {
+            "CharacterName": "Lexis",
+            "Aired": "2019",
+            "FilmTitle": "Uncut Gems",
+            "FilmUrl": "https://www.imdb.com/title/tt5727208/?ref_=nm_flmg_act_9"
+        },
+        {
+            "CharacterName": "Roxette",
+            "Aired": "2019",
+            "FilmTitle": "Black Mirror",
+            "FilmUrl": "https://www.imdb.com/title/tt2085059/?ref_=nm_flmg_act_10"
+        },
+        {
+            "CharacterName": "Mantis",
+            "Aired": "2019",
+            "FilmTitle": "Avengers: Endgame",
+            "FilmUrl": "https://www.imdb.com/title/tt4154796/?ref_=nm_flmg_act_11"
+        },
+        {
+            "CharacterName": "Pom Klementieff",
+            "Aired": "2018",
+            "FilmTitle": "Time of Day",
+            "FilmUrl": "https://www.imdb.com/title/tt8977372/?ref_=nm_flmg_act_12"
+        },
+        {
+            "CharacterName": "Mantis",
+            "Aired": "2018",
+            "FilmTitle": "Avengers: Infinity War",
+            "FilmUrl": "https://www.imdb.com/title/tt4154756/?ref_=nm_flmg_act_13"
+        },
+        {
+            "CharacterName": "Loise",
+            "Aired": "2018",
+            "FilmTitle": "Hacker's Game redux",
+            "FilmUrl": "https://www.imdb.com/title/tt10322172/?ref_=nm_flmg_act_14"
+        },
+        {
+            "CharacterName": "Mantis",
+            "Aired": "2017",
+            "FilmTitle": "Disneyland Resort: Guardians of the Galaxy - Mission Breakout!",
+            "FilmUrl": "https://www.imdb.com/title/tt7134278/?ref_=nm_flmg_act_15"
+        },
+        {
+            "CharacterName": "Elsa",
+            "Aired": "2017",
+            "FilmTitle": "Alteration",
+            "FilmUrl": "https://www.imdb.com/title/tt6682676/?ref_=nm_flmg_act_16"
+        },
+        {
+            "CharacterName": "Mantis",
+            "Aired": "2017",
+            "FilmTitle": "Guardians of the Galaxy Vol. 2",
+            "FilmUrl": "https://www.imdb.com/title/tt3896198/?ref_=nm_flmg_act_17"
+        },
+        {
+            "CharacterName": "Bethany",
+            "Aired": "2017",
+            "FilmTitle": "Newness",
+            "FilmUrl": "https://www.imdb.com/title/tt6408226/?ref_=nm_flmg_act_18"
+        },
+        {
+            "CharacterName": "Harley Chung",
+            "Aired": "2017",
+            "FilmTitle": "Ingrid Goes West",
+            "FilmUrl": "https://www.imdb.com/title/tt5962210/?ref_=nm_flmg_act_19"
+        },
+        {
+            "CharacterName": "Cat",
+            "Aired": "2016/II",
+            "FilmTitle": "Seed",
+            "FilmUrl": "https://www.imdb.com/title/tt6815638/?ref_=nm_flmg_act_20"
+        },
+        {
+            "CharacterName": "Loise",
+            "Aired": "2015",
+            "FilmTitle": "Hacker's Game",
+            "FilmUrl": "https://www.imdb.com/title/tt3140724/?ref_=nm_flmg_act_21"
+        },
+        {
+            "CharacterName": "",
+            "Aired": "2014",
+            "FilmTitle": "RossFit",
+            "FilmUrl": "https://www.imdb.com/title/tt4212612/?ref_=nm_flmg_act_22"
+        },
+        {
+            "CharacterName": "Haeng-Bok",
+            "Aired": "2013",
+            "FilmTitle": "Oldboy",
+            "FilmUrl": "https://www.imdb.com/title/tt1321511/?ref_=nm_flmg_act_23"
+        },
+        {
+            "CharacterName": "Jess",
+            "Aired": "2013",
+            "FilmTitle": "Paris \u00e0 tout prix",
+            "FilmUrl": "https://www.imdb.com/title/tt2420886/?ref_=nm_flmg_act_24"
+        },
+        {
+            "CharacterName": "Le mod\u00e8le",
+            "Aired": "2012",
+            "FilmTitle": "\u00c0 l'ombre du palmier",
+            "FilmUrl": "https://www.imdb.com/title/tt2911524/?ref_=nm_flmg_act_25"
+        },
+        {
+            "CharacterName": "Pom",
+            "Aired": "2012",
+            "FilmTitle": "El Turrrf",
+            "FilmUrl": "https://www.imdb.com/title/tt4355836/?ref_=nm_flmg_act_26"
+        },
+        {
+            "CharacterName": "Tia",
+            "Aired": "2012",
+            "FilmTitle": "Les Ka\u00efra",
+            "FilmUrl": "https://www.imdb.com/title/tt2282849/?ref_=nm_flmg_act_27"
+        },
+        {
+            "CharacterName": "La pizza-girl",
+            "Aired": "2012",
+            "FilmTitle": "Radiostars",
+            "FilmUrl": "https://www.imdb.com/title/tt2104080/?ref_=nm_flmg_act_28"
+        },
+        {
+            "CharacterName": "Valerie",
+            "Aired": "2011",
+            "FilmTitle": "Silhouettes",
+            "FilmUrl": "https://www.imdb.com/title/tt1988785/?ref_=nm_flmg_act_29"
+        },
+        {
+            "CharacterName": "Fianc\u00e9e du p\u00e8re",
+            "Aired": "2011",
+            "FilmTitle": "L'amour dure trois ans",
+            "FilmUrl": "https://www.imdb.com/title/tt1638328/?ref_=nm_flmg_act_30"
+        },
+        {
+            "CharacterName": "Serveuse restaurant Charles",
+            "Aired": "2011",
+            "FilmTitle": "La d\u00e9licatesse",
+            "FilmUrl": "https://www.imdb.com/title/tt1828995/?ref_=nm_flmg_act_31"
+        },
+        {
+            "CharacterName": "Lucy",
+            "Aired": "2011/I",
+            "FilmTitle": "Nuit blanche",
+            "FilmUrl": "https://www.imdb.com/title/tt1683921/?ref_=nm_flmg_act_32"
+        },
+        {
+            "CharacterName": "Naomi",
+            "Aired": "2011",
+            "FilmTitle": "Une pure affaire",
+            "FilmUrl": "https://www.imdb.com/title/tt1669694/?ref_=nm_flmg_act_33"
+        },
+        {
+            "CharacterName": "Femme 2",
+            "Aired": "2010",
+            "FilmTitle": "Qu'est-ce qu'on fait?",
+            "FilmUrl": "https://www.imdb.com/title/tt4391370/?ref_=nm_flmg_act_34"
+        },
+        {
+            "CharacterName": "Sandra",
+            "Aired": "2009",
+            "FilmTitle": "Pigalle, la nuit",
+            "FilmUrl": "https://www.imdb.com/title/tt1330143/?ref_=nm_flmg_act_35"
+        },
+        {
+            "CharacterName": "Nastazya",
+            "Aired": "2009",
+            "FilmTitle": "Loup",
+            "FilmUrl": "https://www.imdb.com/title/tt1535103/?ref_=nm_flmg_act_36"
+        },
+        {
+            "CharacterName": "NHI",
+            "Aired": "2008",
+            "FilmTitle": "Sans arme, ni haine, ni violence",
+            "FilmUrl": "https://www.imdb.com/title/tt1139806/?ref_=nm_flmg_act_37"
+        },
+        {
+            "CharacterName": "Emilie",
+            "Aired": "2007",
+            "FilmTitle": "Apr\u00e8s lui",
+            "FilmUrl": "https://www.imdb.com/title/tt0922354/?ref_=nm_flmg_act_38"
+        },
+        {
+            "CharacterName": "Shy girl",
+            "Aired": "2006",
+            "FilmTitle": "Des Mots",
+            "FilmUrl": "https://www.imdb.com/title/tt2322417/?ref_=nm_flmg_act_39"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "20/20",
+            "FilmUrl": "https://www.imdb.com/title/tt0124932/?ref_=nm_flmg_slf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2020",
+            "FilmTitle": "The Decameron 2020",
+            "FilmUrl": "https://www.imdb.com/title/tt12287656/?ref_=nm_flmg_slf_2"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_3"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2019",
+            "FilmTitle": "Marvel Studios' Avengers: Endgame LIVE Red Carpet World Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10240638/?ref_=nm_flmg_slf_4"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Marvel: Earth's Mightiest Show",
+            "FilmUrl": "https://www.imdb.com/title/tt9853102/?ref_=nm_flmg_slf_5"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Aired": "2018",
+            "FilmTitle": "The IMDb Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7549864/?ref_=nm_flmg_slf_6"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017-2018",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_7"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_8"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2018",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_9"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Extraordinary: Stan Lee",
+            "FilmUrl": "https://www.imdb.com/title/tt7137038/?ref_=nm_flmg_slf_10"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Guardians of the Galaxy: Inferno",
+            "FilmUrl": "https://www.imdb.com/title/tt7131308/?ref_=nm_flmg_slf_11"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Last Call with Carson Daly",
+            "FilmUrl": "https://www.imdb.com/title/tt0305056/?ref_=nm_flmg_slf_12"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2011",
+            "FilmTitle": "Wolves Unleashed",
+            "FilmUrl": "https://www.imdb.com/title/tt2079615/?ref_=nm_flmg_slf_13"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "La petite histoire des super-h\u00e9ros",
+            "FilmUrl": "https://www.imdb.com/title/tt8081532/?ref_=nm_flmg_arf_1"
+        },
+        {
+            "CharacterName": "Self",
+            "Aired": "2017",
+            "FilmTitle": "Mornings with Maria Bartiromo",
+            "FilmUrl": "https://www.imdb.com/title/tt3608508/?ref_=nm_flmg_arf_2"
+        }
+    ]
+}
