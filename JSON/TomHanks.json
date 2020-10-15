@@ -1,9 +1,0 @@
-{
-    "Rank": 3,
-    "FullName": "Tom Hanks",
-    "DomesticBoxOfficeRevenue": 5021263837,
-    "AverageDomesticBoxOfficeRevenue": 98456154,
-    "LocalDataSourcePath": "./html/imdb_profiles/TomHanks.html",
-    "Gender": "Female",
-    "Roles": []
-}

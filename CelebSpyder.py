@@ -51,11 +51,16 @@ class CelebSpyder():
 
         # Split workload into N processes
         n = 25
-        chunks = [celeb_list[i:i + n] for i in range(0, len(celeb_list), n)]  
+        chunks = [celeb_list[i:i + n] for i in range(0, len(celeb_list), n)]
+        procs = [] 
         for chunk in chunks:
             p = Process(target=self._process_chunk, args=(chunk,))
+            procs.append(p)
             p.start()
-            p.join()
+
+        for proc in procs:
+            proc.join()
+        
             
         self.__log(str.format('Completed retreiving celebrity profiles from {0}.', self._celeb_list_url))
 
@@ -433,7 +438,7 @@ class CelebSpyder():
 
 if __name__ == '__main__':
     start_url="https://www.the-numbers.com/box-office-star-records/domestic/lifetime-acting/top-grossing-leading-stars"
-    for page_num in range(0, 1):
+    for page_num in range(1, 2):
         url = start_url if page_num < 1 else str.format('{0}/{1}01', start_url, page_num)
         print(url)
         spyder = CelebSpyder(celeb_list_url=url, page_num=page_num, debug=True)
