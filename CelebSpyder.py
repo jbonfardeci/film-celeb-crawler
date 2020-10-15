@@ -30,7 +30,6 @@ class CelebSpyder():
         """
         Get list of celebrity objects.
         @param num_processes (int) the number of processors to use. If '0', uses all available CPUs.
-        @return List[Celeb]
         """
 
         self.__log('Getting celebrity profiles...')
