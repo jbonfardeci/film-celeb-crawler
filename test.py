@@ -1,14 +1,17 @@
 from bs4 import BeautifulSoup
 import re
+from models import CelebRole, Celeb
+import json
 
-with open("C:/Users/bonfardeci-j/source/repos/dl_repos/hello-world-2-spider/html/imdb_profiles/AdamDriver.html", encoding="utf-8") as html:
-    soup = BeautifulSoup(html, 'html.parser')
-    awards = [span for span in soup.select("span.awards-blurb") if re.search(r'(wins|nominations)', span.text)]
-    if len(awards) > 0:
-        wins = re.findall(r'\d+(?=\swins)', awards[0].text)
-        print(int(wins[0]))
-
-
+l = [1, 2, 3, 4, 5, 6, 7, 8, 9]  
+   
+# How many elements each  
+# list should have  
+n = 4
+   
+# using list comprehension  
+chunks = [l[i:i + n] for i in range(0, len(l), n)]  
+print(len(chunks)) 
     
     
         

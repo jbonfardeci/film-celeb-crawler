@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from bs4.element import Tag
-from models import Celeb, CelebAward, CelebRole, Film
+from models import Celeb, CelebRole
 from urllib3 import PoolManager
 from urllib3.response import HTTPResponse
 import urllib3 as urllib
@@ -8,6 +8,7 @@ import re
 import json
 from typing import List, Dict
 import os
+from multiprocessing import Process, Pool
 
 class CelebSpyder():
     """
@@ -20,45 +21,43 @@ class CelebSpyder():
         ```
     """
 
+    def _process_chunk(self, celebs: List[Celeb]):
+        return list(map(lambda celeb: self._parse_celeb(celeb), celebs))
+
     # Controller function.
-    def get_data(self) -> List[Celeb]:
+    def get_data(self):
         """
         Get list of celebrity objects.
         @return List[Celeb]
         """
-        try:
-            self.__log('Getting celebrity profiles...')
 
-            # 1. Get list of celebs from HTML.
-            if not os.path.exists(self._start_page_path):
-                html_page = self.__get_html(url=self._celeb_list_url)
-                self._start_page_path = self.__save_file(html_page, self._start_page_path)
+        self.__log('Getting celebrity profiles...')
 
-            celeb_rows_html: List[Tag] = self._parse_celeb_list_html(path=self._start_page_path)
+        # 1. Get list of celebs from HTML.
+        if not os.path.exists(self._start_page_path):
+            html_page = self.__get_html(url=self._celeb_list_url)
+            self._start_page_path = self.__save_file(html_page, self._start_page_path)
 
-            if len(celeb_rows_html) == 0:
-                raise Exception("Error getting list of celebrities from HTML.")
+        celeb_rows_html: List[Tag] = self._parse_celeb_list_html(path=self._start_page_path)
+
+        if len(celeb_rows_html) == 0:
+            raise Exception("Error getting list of celebrities from HTML.")
+
+        # 2. Create list of celeb objects.
+        celeb_list: List[Celeb] = list(map(lambda row: self._create_celeb(row), celeb_rows_html))
+
+        if len(celeb_list) == 0:
+            raise Exception("Error creating list of celebrity objects.")
+
+        # Split workload into N processes
+        n = 25
+        chunks = [celeb_list[i:i + n] for i in range(0, len(celeb_list), n)]  
+        for chunk in chunks:
+            p = Process(target=self._process_chunk, args=(chunk,))
+            p.start()
+            p.join()
             
-            # 2. Create list of celeb objects.
-            self.celeb_list = list(map(lambda celeb: self._create_celeb(celeb), celeb_rows_html))
-
-            if len(self.celeb_list) == 0:
-                raise Exception("Error creating list of celebrity objects.")
-
-            # 3. Search and obtain HTML celeb profiles from IMDB.
-            celeb_html_paths: List[str] = list(map(lambda celeb: self._search_imdb(celeb), self.celeb_list))
-
-            if len(celeb_html_paths) == 0:
-                raise Exception("Error searching IMDB for celebtrity profiles.")
-
-            # 4. Parse celeb profile HTML.
-            self.celeb_list = list(map(lambda celeb: self._parse_celeb_profile_html(celeb), self.celeb_list))
-
-            self.__log(str.format('Completed retreiving celebrity profiles from {0}.', self._celeb_list_url))
-            
-            return self.celeb_list
-        except Exception as e:
-            raise e
+        self.__log(str.format('Completed retreiving celebrity profiles from {0}.', self._celeb_list_url))
 
     # region helper functions
 
@@ -146,22 +145,35 @@ class CelebSpyder():
             raise e
 
     def _create_celeb(self, tr: Tag) -> Celeb:
-        """
-        Create instance of Celeb from parsed HTML.
-        @param tr (Tag)
-        @returns (Celeb)
-        """
         cells = tr.find_all('td')
         celeb = Celeb()
         celeb.Rank = self.__to_num(cells[0].text)
         celeb.FullName = self.__trim(cells[1].find('a').text) 
         celeb.DomesticBoxOfficeRevenue = self.__to_num(cells[2].text)
         celeb.AverageDomesticBoxOfficeRevenue = self.__to_num(cells[4].text)
-        
+        return celeb
+
+    def _parse_celeb(self, celeb: Celeb) -> Celeb:
+        """
+        Create instance of Celeb from parsed HTML.
+        @param tr (Tag)
+        @returns (Celeb)
+        """
+        def _export_json(celeb_obj: Celeb):
+            # Export to JSON
+            filename = str.format('./JSON/{0}.json', re.sub(r'[^a-zA-Z]', '', celeb_obj.FullName))
+            with open(filename, 'w', encoding='utf-8') as file:
+                file.write(celeb_obj.toJson(indent=4))
+                file.close()
+
+        self._search_imdb(celeb)
+        self._parse_celeb_profile_html(celeb)
+        _export_json(celeb)
+
         self.__log(str.format('Created Celeb object for {0}.', celeb.FullName))
         return celeb
 
-    def _search_imdb(self, celeb: Celeb) -> str:
+    def _search_imdb(self, celeb: Celeb) -> Celeb:
         """
         Search IMDB by celebrity's full name if result doesn't already exist locally. 
         Return first result.
@@ -177,6 +189,7 @@ class CelebSpyder():
             imdb_base_url: str = self._imdb_url
             celeb_name_param: str = re.sub(r'\s', '+', celeb.FullName)
             imdb_search_url = str.format("{0}/find?s=nm&q={1}&ref_=nv_sr_sm", imdb_base_url, celeb_name_param)
+            celeb.DataSourceUrl = imdb_search_url
             search_results_html: str = self.__get_html(imdb_search_url)
             soup = BeautifulSoup(search_results_html, 'html.parser')
             celeb_url_list: List[Tag] = soup.select("div#main table.findList > tr.findResult:first-child > td.result_text > a:first-child")
@@ -192,7 +205,7 @@ class CelebSpyder():
                 
         self.__log(str.format('Retrieved IMDB HTML for {0} at {1}.', celeb.FullName, output_path))  
         celeb.LocalDataSourcePath = output_path    
-        return output_path
+        return celeb
 
     def _parse_celeb_profile_html(self, celeb: Celeb) -> Celeb:
         """
@@ -200,7 +213,8 @@ class CelebSpyder():
         @param celeb (Celeb)
         @param profile_html (str)
         @returns Celeb
-        """        
+        """  
+
         with open(celeb.LocalDataSourcePath, 'r', encoding='utf-8') as profile_html:    
             soup = BeautifulSoup(profile_html, 'html.parser')
 
@@ -225,7 +239,12 @@ class CelebSpyder():
                 celeb.DOD = dod['datetime']
 
             # Gender
-            celeb.Gender = 'Male' if len(soup.select("a[href='#actor']")) > 0 else 'Female'
+            actor = soup.select_one("a[href='#actor']")
+            actress = soup.select_one("a[href='#actress']")
+            if actor:
+                celeb.Gender = 'Male'
+            elif actress:
+                celeb.Gender = 'Female'
 
             # Height
             height: Tag = soup.select_one("div#details-height")
@@ -246,10 +265,7 @@ class CelebSpyder():
                 tm = re.findall(r'(?<=\</h4\>)(.*)(?=\<span)', str(trademark).replace('\n', ''))
                 if len(tm) > 0:
                     celeb.Trademark = self.__trim( tm[0] )
-
-            # Roles
-            celeb.Roles = list(map(lambda row: self._parse_film_html(row), soup.select("div#filmography div.filmo-row"))) 
-
+            
             # Awards
             awards = [span for span in soup.select("span.awards-blurb") if re.search(r'(wins|nominations)', span.text)]
             if len(awards) > 0:
@@ -261,15 +277,22 @@ class CelebSpyder():
                 if len(nominations) > 0:
                     celeb.AwardNominations = int(nominations[0])
 
+            # Roles
+            celeb.Roles = []
+            for row in soup.select("div#filmography div.filmo-row"):
+                celeb.Roles.append(self._parse_film_html(row))
+
+            # celeb.Roles = list(map(lambda row: self._parse_film_html(row), soup.select("div#filmography div.filmo-row"))) 
+
+            self.__log(str.format('Parsed HTML profile for {0}.', celeb.FullName))
             profile_html.close()
-
-        self.__log(str.format('Parsed HTML prodile for {0}.', celeb.FullName))
-
+            
         return celeb
 
     def _parse_film_html(self, row: Tag) -> CelebRole:
         role = CelebRole()
 
+        # CharacterName
         # Use Regex look behind and look ahead to get all characters between <br/> and <div>
         role_el = re.findall(r'(?<=\<br/\>)(.*)(?=\<)', str(row).replace('\n', ''))
         if len(role_el) > 0:
@@ -278,42 +301,142 @@ class CelebSpyder():
                 role_name = role_name.split('<div')[0]          
             role.CharacterName = self.__trim(role_name)
 
+        # Year
         yr: Tag = row.select_one("span.year_column")
         if yr:
             role.Year = self.__trim(yr.text)
 
+        # FilmTitle
         title: Tag = row.select_one("b > a")
-        if title:
-            role.FilmTitle = self.__trim( title.text )
-            role.FilmUrl = str.format("{0}{1}", self._imdb_url, self.__trim( title['href']))
-            film_html = self.__get_html(role.FilmUrl)
-            film_path = str.format('./html/imdb_films/{0}.html', re.sub(r'[^a-zA-Z0-9]', '', role.FilmTitle))
+        if not title:
+            return role
 
-            if not os.path.exists(film_path):
-                self.__save_file(film_html, film_path)
+        role.FilmTitle = self.__trim( title.text )
+        self.__log(str.format("Parsing Film Details for {0}...", role.FilmTitle))
+
+        # FilmUrl
+        role.FilmUrl = str.format("{0}{1}", self._imdb_url, self.__trim(title['href']))
+
+        # Get film details from IMDB URL       
+        film_path = str.format('./html/imdb_films/{0}.html', re.sub(r'[^a-zA-Z0-9]', '', role.FilmTitle))
+
+        if not os.path.exists(film_path):
+            film_html = self.__get_html(role.FilmUrl)
+            self.__save_file(film_html, film_path)
+        
+        with open(film_path, 'r', encoding='utf-8') as html:
+            soup = BeautifulSoup(html, 'html.parser')
+            role.Directors = []
+            role.Writers = []
+            role.Stars = []
+            role.Genres = []
+            role.ProductionCompanies = []
+            role.PlotKeywords = []
+
+            for item in soup.select("div.plot_summary div.credit_summary_item"):
+                h4 = item.select_one("h4")
+
+                # Directors
+                if h4 and re.search(r'^Director', h4.text):
+                    for director in item.select("a"):
+                        role.Directors.append(director.text)
+                # Writers
+                elif h4 and re.search(r'^Writer', h4.text):
+                    for writer in item.select("a"):
+                        role.Writers.append(writer.text)
+                # Stars
+                elif h4 and re.search(r'^Star', h4.text):
+                    for star in item.select("a"):
+                        if not re.search(r'^See\s', star.text):
+                            role.Stars.append(star.text)
+
+                # Metascore
+                metascore = soup.select_one("div.metacriticScore > span")
+                if metascore:
+                    role.Metascore = int(metascore.text)
+            
+                for review in soup.select("div.titleReviewBarItem span.subText > a"):
+                # UserReviews
+                    if re.search(r'\d+\suser', review.text):
+                        role.UserReviews = int(re.sub(r'\D', '', review.text))
+
+                # CriticReviews
+                    if re.search(r'\d+\scritic', review.text):
+                        role.CriticReviews = int(re.sub(r'\D', '', review.text))
+
+                # Popularity
+                for item in soup.select("div.titleReviewBarSubItem"):
+                    for div in item.select("div"):
+                        if re.search(r'Popularity', div.text):
+                            popularity = item.select_one("div span.subText")
+                            if popularity:
+                                role.Popularity = int(re.sub(r'\D', '', re.findall(r'\d+\n', popularity.text)[0] ))
+                
+                # PlotKeywords
+                for item in soup.select("div#titleStoryLine > div > a > span.itemprop"):
+                    role.PlotKeywords.append(re.sub(r'\s+', ' ', re.sub(r'(\n)', '', item.text)))
+
+                # Genres
+                for item in soup.select("div#titleStoryLine > div"):
+                    h4 = item.select_one("h4")
+                    if h4 and re.search(r'Genre', h4.text):
+                        for genre in item.select("a"):
+                            role.Genres.append(re.sub(r'(^\s+|\s+$)', '', genre.text))
+                # MotionPictureRating
+                    elif h4 and re.search(r'^Motion Picture Rating', h4.text):
+                        rating = item.select_one("span")
+                        if rating:
+                            role.MotionPictureRating = rating.text
+
+                # ReleaseDate
+                for item in soup.select("div#titleDetails > div"):
+                    h4 = item.select_one("h4")
+                    if h4 and re.search(r'^Release Date', h4.text):
+                        release_date = re.findall(r'\d{1,2}\s.*\s\d{4}', item.text)
+                        if len(release_date) > 0:
+                            role.ReleaseDate = release_date[0]
+                # Budget
+                    elif h4 and re.search(r'^Budget', h4.text):
+                        budget = re.findall(r'[\$0-9,]+', item.text)
+                        role.Budget = int(re.sub(r'[^0-9]', '', budget[0]))
+                # OpeningWeekend
+                    elif h4 and re.search(r'^Opening Weekend', h4.text):
+                        opening = re.findall(r'[\$0-9,]+', item.text)
+                        role.OpeningWeekend = int(re.sub(r'[^0-9]', '', opening[0]))
+                # Gross
+                    elif h4 and re.search(r'^Gross', h4.text):
+                        gross = re.findall(r'[\$0-9,]+', item.text)
+                        role.Gross = int(re.sub(r'[^0-9]', '', gross[0]))
+                # CumulativeWorldwideGross
+                    elif h4 and re.search(r'^Cumulative Worldwide Gross', h4.text):
+                        cumlative = re.findall(r'[\$0-9,]+', item.text)
+                        role.CumulativeWorldwideGross = int(re.sub(r'[^0-9]', '', cumlative[0])) 
+                # ProductionCompanies
+                    elif h4 and re.findall(r'^Production Co', h4.text):
+                        for a in item.select("a"):
+                            if not re.search(r'^See\s', a.text):
+                                role.ProductionCompanies.append(re.sub(r'(^\s+|\s+$)', '', a.text))
+                # RuntimeMinutes
+                    elif h4 and re.findall(r'^Runtime', h4.text):
+                        runtime = item.select_one("time")
+                        if runtime:
+                            role.RuntimeMinutes = int(re.sub(r'[^0-9]', '', runtime.text))
+            html.close()
+
+        self.__log(str.format("Parsed Film Details for {0}.", role.FilmTitle))
 
         return role
-
+    # end (def _parse_film_html())
+     
 
     # endregion
 
+if __name__ == '__main__':
+    start_url="https://www.the-numbers.com/box-office-star-records/domestic/lifetime-acting/top-grossing-leading-stars"
+    for page_num in range(0, 1):
+        url = start_url if page_num < 1 else str.format('{0}/{1}01', start_url, page_num)
+        print(url)
+        spyder = CelebSpyder(celeb_list_url=url, page_num=page_num, debug=True)
+        spyder.get_data()
 
-start_url="https://www.the-numbers.com/box-office-star-records/domestic/lifetime-acting/top-grossing-leading-stars"
-celeb_list: List[Celeb] = []
-for page_num in range(0, 1):
-    url = start_url if page_num < 1 else str.format('{0}/{1}01', start_url, page_num)
-    print(url)
-    spyder = CelebSpyder(celeb_list_url=url, page_num=page_num, debug=False)
-    celeb_list.extend(spyder.get_data())
-
-print(str.format('Retreived {0} celebrity profiles.', len(celeb_list)))
-
-for celeb in celeb_list:
-    filename = str.format('./JSON/{0}.json', re.sub(r'[^a-zA-Z]', '', celeb.FullName))
-    with open(filename, 'w', encoding='utf-8') as file:
-        file.write(celeb.toJson(indent=4))
-        file.close() 
-
-
-
-
+    #print(str.format('Retreived {0} celebrity profiles.', len(celeb_list)))

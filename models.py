@@ -2,42 +2,30 @@ from typing import List, Dict
 from types import SimpleNamespace
 import json
 
-class Film:
-    FilmTitle: str = None
-    Seasons: List[int]
-    Years: List[int]
-    FilmType: str = None
-    ReleaseDate: str = None
-    StudioName: str = None
-    Producer: str = None
-    Genres: List[str]
-    Creators: List[str]
-    Certificate: str = None
-    Popularity: int = None
-    ImdbUserReviews: int = None
-    ImdbCriticReviews: int = None
-    Rating: int
-    Budget: int = None
-    BoxOfficeRevenue: int = None
-    DomesticBoxOfficeRevenue: int = None
-    DataSource: str = None
-
 
 class CelebRole:
     FilmTitle: str = None
     FilmUrl: str = None
     Year: str = None
-    Role: str = None
     CharacterName: str = None
-
-
-class CelebAward:
-    AwardCategory: str = None
-    AwardName: str = None
-    AwardType: str = None
-    AwardFor: str = None
-    Year: str = None
-    FilmTitle: str = None
+    Directors: List[str] = None
+    Metascore: int = None
+    UserReviews: int = None
+    Popularity: int = None
+    CriticReviews: int = None
+    Writers: List[str] = None
+    Stars: List[str] = None
+    PlotKeywords: List[str] = None 
+    ReleaseDate: str = None
+    Genres: List[str] = None
+    MotionPictureRating: str = None
+    Budget: int = None
+    OpeningWeekend: int = None
+    Gross: int = None
+    CumulativeWorldwideGross: int = None
+    RuntimeMinutes: int = None
+    ProductionCompanies: List[str] = None
+    
 
 class Celeb:
     FullName: str = None
@@ -61,9 +49,7 @@ class Celeb:
     AwardsUrl: str = None
     AwardNominations: int = None
     AwardsWins: int = None
-    # Films: List[Film] = None
     Roles: List[CelebRole] = None
-    # Awards: List[CelebAward] = None
 
     def toJson(self, indent=0):
         return json.dumps(self, default=lambda o: o.__dict__, indent=indent)
