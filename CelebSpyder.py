@@ -57,7 +57,7 @@ class CelebSpyder():
             num_processes = multiprocessing.cpu_count()
 
         list_len = len(celeb_list)
-        n = list_len//num_processes # =25
+        n = 25
         chunks = [celeb_list[i:i + n] for i in range(0, list_len, n)]
         procs = [] 
         for chunk in chunks:
@@ -440,7 +440,7 @@ class CelebSpyder():
                             if not re.search(r'^See\s', a.text):
                                 pc = re.sub(r'(^\s+|\s+$)', '', a.text)
                                 if pc not in role.ProductionCompanies:
-                                    role.ProductionCompanies.append()
+                                    role.ProductionCompanies.append(pc)
                 # RuntimeMinutes
                     elif h4 and re.findall(r'^Runtime', h4.text):
                         runtime = item.select_one("time")
