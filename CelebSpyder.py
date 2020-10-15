@@ -8,6 +8,7 @@ import re
 import json
 from typing import List, Dict
 import os
+import multiprocessing
 from multiprocessing import Process, Pool
 
 class CelebSpyder():
@@ -25,9 +26,10 @@ class CelebSpyder():
         return list(map(lambda celeb: self._parse_celeb(celeb), celebs))
 
     # Controller function.
-    def get_data(self):
+    def get_data(self, num_processes:int=0):
         """
         Get list of celebrity objects.
+        @param num_processes (int) the number of processors to use. If '0', uses all available CPUs.
         @return List[Celeb]
         """
 
@@ -49,9 +51,14 @@ class CelebSpyder():
         if len(celeb_list) == 0:
             raise Exception("Error creating list of celebrity objects.")
 
-        # Split workload into N processes
-        n = 25
-        chunks = [celeb_list[i:i + n] for i in range(0, len(celeb_list), n)]
+        # 3. Split workload into N processes
+        
+        if num_processes == 0:
+            num_processes = multiprocessing.cpu_count()
+
+        list_len = len(celeb_list)
+        n = list_len/num_processes # =25
+        chunks = [celeb_list[i:i + n] for i in range(0, list_len, n)]
         procs = [] 
         for chunk in chunks:
             p = Process(target=self._process_chunk, args=(chunk,))
@@ -164,9 +171,14 @@ class CelebSpyder():
         @param tr (Tag)
         @returns (Celeb)
         """
+
+        filename = str.format('./JSON/{0}.json', re.sub(r'[^a-zA-Z]', '', celeb.FullName))
+
+        if os.path.exists(filename):
+            return celeb
+
         def _export_json(celeb_obj: Celeb):
             # Export to JSON
-            filename = str.format('./JSON/{0}.json', re.sub(r'[^a-zA-Z]', '', celeb_obj.FullName))
             with open(filename, 'w', encoding='utf-8') as file:
                 file.write(celeb_obj.toJson(indent=4))
                 file.close()
@@ -344,15 +356,17 @@ class CelebSpyder():
                 # Directors
                 if h4 and re.search(r'^Director', h4.text):
                     for director in item.select("a"):
-                        role.Directors.append(director.text)
+                        if director.text not in role.Directors:
+                            role.Directors.append(director.text)
                 # Writers
                 elif h4 and re.search(r'^Writer', h4.text):
                     for writer in item.select("a"):
-                        role.Writers.append(writer.text)
+                        if writer.text not in role.Writers:
+                            role.Writers.append(writer.text)
                 # Stars
                 elif h4 and re.search(r'^Star', h4.text):
                     for star in item.select("a"):
-                        if not re.search(r'^See\s', star.text):
+                        if not re.search(r'^See\s', star.text) and star.text not in role.Stars:
                             role.Stars.append(star.text)
 
                 # Metascore
@@ -379,14 +393,18 @@ class CelebSpyder():
                 
                 # PlotKeywords
                 for item in soup.select("div#titleStoryLine > div > a > span.itemprop"):
-                    role.PlotKeywords.append(re.sub(r'\s+', ' ', re.sub(r'(\n)', '', item.text)))
+                    kw = re.sub(r'\s+', ' ', re.sub(r'(\n)', '', item.text))
+                    if kw not in role.PlotKeywords:
+                        role.PlotKeywords.append(kw)
 
                 # Genres
                 for item in soup.select("div#titleStoryLine > div"):
                     h4 = item.select_one("h4")
                     if h4 and re.search(r'Genre', h4.text):
                         for genre in item.select("a"):
-                            role.Genres.append(re.sub(r'(^\s+|\s+$)', '', genre.text))
+                            ge = re.sub(r'(^\s+|\s+$)', '', genre.text)
+                            if ge not in role.Genres:
+                                role.Genres.append(ge)
                 # MotionPictureRating
                     elif h4 and re.search(r'^Motion Picture Rating', h4.text):
                         rating = item.select_one("span")
@@ -420,7 +438,9 @@ class CelebSpyder():
                     elif h4 and re.findall(r'^Production Co', h4.text):
                         for a in item.select("a"):
                             if not re.search(r'^See\s', a.text):
-                                role.ProductionCompanies.append(re.sub(r'(^\s+|\s+$)', '', a.text))
+                                pc = re.sub(r'(^\s+|\s+$)', '', a.text)
+                                if pc not in role.ProductionCompanies:
+                                    role.ProductionCompanies.append()
                 # RuntimeMinutes
                     elif h4 and re.findall(r'^Runtime', h4.text):
                         runtime = item.select_one("time")
@@ -436,12 +456,11 @@ class CelebSpyder():
 
     # endregion
 
+# Get first 5 pages of celebrities
 if __name__ == '__main__':
     start_url="https://www.the-numbers.com/box-office-star-records/domestic/lifetime-acting/top-grossing-leading-stars"
-    for page_num in range(1, 2):
+    for page_num in range(0, 5):
         url = start_url if page_num < 1 else str.format('{0}/{1}01', start_url, page_num)
         print(url)
         spyder = CelebSpyder(celeb_list_url=url, page_num=page_num, debug=True)
         spyder.get_data()
-
-    #print(str.format('Retreived {0} celebrity profiles.', len(celeb_list)))
