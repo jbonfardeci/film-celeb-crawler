@@ -1,0 +1,5349 @@
+{
+    "Rank": 125,
+    "FullName": "Paul Walker",
+    "DomesticBoxOfficeRevenue": 1368695276,
+    "AverageDomesticBoxOfficeRevenue": 97763948,
+    "DataSourceUrl": "https://www.imdb.com/find?s=nm&q=Paul+Walker&ref_=nv_sr_sm",
+    "LocalDataSourcePath": "./html/imdb_profiles/PaulWalker.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMjIwODc0OTk2Nl5BMl5BanBnXkFtZTcwOTQ5MDA0Mg@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "DOB": "1973-9-12",
+    "BornIn": "Glendale, California, USA",
+    "DOD": "2013-11-30",
+    "Gender": "Male",
+    "Height": 1.88,
+    "AstrologicalSign": "Virgo",
+    "Trademark": "Blond-hair",
+    "AwardsWins": 7,
+    "AwardNominations": 12,
+    "Roles": [
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2015",
+            "FilmTitle": "Furious 7",
+            "FilmUrl": "https://www.imdb.com/title/tt2820852/?ref_=nm_flmg_act_1",
+            "Directors": [
+                "James Wan"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Dwayne Johnson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Media Rights Capital (MRC)",
+                "China Film Group Corporation (CFGC)"
+            ],
+            "PlotKeywords": [
+                "car falling off a cliff",
+                "star died before release",
+                "bulletproof vest",
+                "terrorist",
+                "revenge"
+            ],
+            "Metascore": 67,
+            "UserReviews": 747,
+            "CriticReviews": 461,
+            "Popularity": 97,
+            "MotionPictureRating": "Rated PG-13 for prolonged frenetic sequences of violence, action and mayhem, suggestive content and brief strong language",
+            "ReleaseDate": "3 April 2015",
+            "Budget": 190000000,
+            "OpeningWeekend": 147187040,
+            "Gross": 353007020,
+            "CumulativeWorldwideGross": 1515048151,
+            "RuntimeMinutes": 137
+        },
+        {
+            "CharacterName": "Damien Collier",
+            "Year": "2014",
+            "FilmTitle": "Brick Mansions",
+            "FilmUrl": "https://www.imdb.com/title/tt1430612/?ref_=nm_flmg_act_2",
+            "Directors": [
+                "Camille Delamarre"
+            ],
+            "Writers": [
+                "Luc Besson"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "David Belle",
+                "RZA"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Relativity Media",
+                "EuropaCorp",
+                "Transfilm"
+            ],
+            "PlotKeywords": [
+                "time bomb",
+                "crime lord",
+                "undercover",
+                "rescue",
+                "betrayal"
+            ],
+            "Metascore": 40,
+            "UserReviews": 129,
+            "CriticReviews": 187,
+            "MotionPictureRating": "Rated PG-13 for frenetic  gunplay, violence and action throughout,  language, sexual menace and drug  material",
+            "ReleaseDate": "25 April 2014",
+            "Budget": 28000000,
+            "OpeningWeekend": 9516855,
+            "Gross": 20396829,
+            "CumulativeWorldwideGross": 71416730,
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "Raw Dog",
+            "Year": "2013",
+            "FilmTitle": "Pawn Shop Chronicles",
+            "FilmUrl": "https://www.imdb.com/title/tt1741243/?ref_=nm_flmg_act_3",
+            "Directors": [
+                "Wayne Kramer"
+            ],
+            "Writers": [
+                "Adam Minarovich"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Norman Reedus",
+                "Elijah Wood"
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "Anchor Bay Films",
+                "Mimran Schur Pictures",
+                "Suretone Pictures"
+            ],
+            "PlotKeywords": [
+                "small town",
+                "stabbed in the chest",
+                "white supremacist",
+                "elvis impersonator",
+                "flail"
+            ],
+            "Metascore": 26,
+            "UserReviews": 51,
+            "CriticReviews": 46,
+            "MotionPictureRating": "Rated R for violence, sexual material, graphic nudity, pervasive language and some drug use",
+            "ReleaseDate": "18 January 2014",
+            "Budget": 5000000,
+            "OpeningWeekend": 4915,
+            "Gross": 8088,
+            "CumulativeWorldwideGross": 10080,
+            "RuntimeMinutes": 112
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "Conan",
+            "FilmUrl": "https://www.imdb.com/title/tt1637574/?ref_=nm_flmg_act_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Conan O'Brien",
+                "Andy Richter",
+                "Jimmy Vivino and the Basic Cable Band"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Conaco"
+            ],
+            "PlotKeywords": [
+                "one word series title",
+                "actor name as series title",
+                "interview",
+                "celebrity",
+                "redheaded man"
+            ],
+            "UserReviews": 20,
+            "CriticReviews": 3,
+            "Popularity": 898,
+            "ReleaseDate": "8 November 2010",
+            "RuntimeMinutes": 42
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "Furious 6",
+            "FilmUrl": "https://www.imdb.com/title/tt1905041/?ref_=nm_flmg_act_5",
+            "Directors": [
+                "Justin Lin"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Dwayne Johnson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Relativity Media",
+                "Original Film"
+            ],
+            "PlotKeywords": [
+                "reference to spain",
+                "reference to the incredible hulk",
+                "humvee",
+                "canary islands",
+                "brian o'conner character"
+            ],
+            "Metascore": 61,
+            "UserReviews": 496,
+            "CriticReviews": 433,
+            "Popularity": 810,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of violence and action and mayhem throughout, some sexuality and language",
+            "ReleaseDate": "24 May 2013",
+            "Budget": 160000000,
+            "OpeningWeekend": 97375245,
+            "Gross": 238679850,
+            "CumulativeWorldwideGross": 788680968,
+            "RuntimeMinutes": 130
+        },
+        {
+            "CharacterName": "Nolan Hayes",
+            "Year": "2013",
+            "FilmTitle": "Hours",
+            "FilmUrl": "https://www.imdb.com/title/tt2094018/?ref_=nm_flmg_act_6",
+            "Directors": [
+                "Eric Heisserer"
+            ],
+            "Writers": [
+                "Eric Heisserer"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Genesis Rodriguez",
+                "Nancy Nave"
+            ],
+            "Genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "The Safran Company",
+                "PalmStar Media",
+                "Hours Capital"
+            ],
+            "PlotKeywords": [
+                "hospital",
+                "hurricane",
+                "hurricane katrina",
+                "incubator",
+                "baby in peril"
+            ],
+            "Metascore": 55,
+            "UserReviews": 89,
+            "CriticReviews": 61,
+            "MotionPictureRating": "Rated PG-13 for thematic elements, violence and drug material",
+            "ReleaseDate": "4 December 2013",
+            "Budget": 4000000,
+            "CumulativeWorldwideGross": 801983,
+            "RuntimeMinutes": 97
+        },
+        {
+            "CharacterName": "Michael Woods",
+            "Year": "2013",
+            "FilmTitle": "Vehicle 19",
+            "FilmUrl": "https://www.imdb.com/title/tt1911662/?ref_=nm_flmg_act_7",
+            "Directors": [
+                "Mukunda Michael Dewil"
+            ],
+            "Writers": [
+                "Mukunda Michael Dewil"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Naima McLean",
+                "Gys de Villiers"
+            ],
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "The Safran Company",
+                "Forefront Media Group",
+                "Industrial Development Corporation of South Africa"
+            ],
+            "PlotKeywords": [
+                "near miss",
+                "stuffed in a car trunk",
+                "rental car",
+                "police",
+                "radio newscast"
+            ],
+            "Metascore": 29,
+            "UserReviews": 87,
+            "CriticReviews": 52,
+            "MotionPictureRating": "Rated R for brief strong language",
+            "ReleaseDate": "7 February 2013",
+            "Budget": 5000000,
+            "CumulativeWorldwideGross": 1473445,
+            "RuntimeMinutes": 85
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2011",
+            "FilmTitle": "Fast Five",
+            "FilmUrl": "https://www.imdb.com/title/tt1596343/?ref_=nm_flmg_act_8",
+            "Directors": [
+                "Justin Lin"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Dwayne Johnson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Original Film",
+                "One Race Productions"
+            ],
+            "PlotKeywords": [
+                "heist",
+                "safe",
+                "rio de janeiro brazil",
+                "drugs",
+                "federal agent"
+            ],
+            "Metascore": 66,
+            "UserReviews": 430,
+            "CriticReviews": 372,
+            "Popularity": 191,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of violence and action, sexual content and language",
+            "ReleaseDate": "29 April 2011",
+            "Budget": 125000000,
+            "OpeningWeekend": 86198765,
+            "Gross": 209837675,
+            "CumulativeWorldwideGross": 626137675,
+            "RuntimeMinutes": 130
+        },
+        {
+            "CharacterName": "John Rahway",
+            "Year": "2010",
+            "FilmTitle": "Takers",
+            "FilmUrl": "https://www.imdb.com/title/tt1135084/?ref_=nm_flmg_act_9",
+            "Directors": [
+                "John Luessenhop"
+            ],
+            "Writers": [
+                "Peter Allen",
+                "Gabriel Casseus"
+            ],
+            "Stars": [
+                "Chris Brown",
+                "Hayden Christensen",
+                "Matt Dillon"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Screen Gems",
+                "Rainforest Films",
+                "Grand Hustle Entertainment"
+            ],
+            "PlotKeywords": [
+                "bacon",
+                "pig",
+                "corrupt police",
+                "falling out among thieves",
+                "corrupt cop"
+            ],
+            "Metascore": 45,
+            "UserReviews": 159,
+            "CriticReviews": 94,
+            "Popularity": 405,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of violence and action, a sexual situation/partial nudity and some language",
+            "ReleaseDate": "27 August 2010",
+            "Budget": 32000000,
+            "OpeningWeekend": 20512304,
+            "Gross": 57744720,
+            "CumulativeWorldwideGross": 80205382,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2009",
+            "FilmTitle": "Fast & Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt1013752/?ref_=nm_flmg_act_10",
+            "Directors": [
+                "Justin Lin"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Michelle Rodriguez"
+            ],
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Relativity Media",
+                "Original Film"
+            ],
+            "PlotKeywords": [
+                "thigh",
+                "velvety thighs",
+                "short skirt",
+                "tattooed trash",
+                "tattooed thug"
+            ],
+            "Metascore": 46,
+            "UserReviews": 274,
+            "CriticReviews": 248,
+            "Popularity": 819,
+            "MotionPictureRating": "Rated PG-13 for for intense sequences of violence and action, some sexual content, language and drug references",
+            "ReleaseDate": "3 April 2009",
+            "Budget": 85000000,
+            "OpeningWeekend": 70950500,
+            "Gross": 155064265,
+            "CumulativeWorldwideGross": 360364265,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Ben Garvey",
+            "Year": "2008",
+            "FilmTitle": "The Lazarus Project",
+            "FilmUrl": "https://www.imdb.com/title/tt0464041/?ref_=nm_flmg_act_11",
+            "Directors": [
+                "John Glenn"
+            ],
+            "Writers": [
+                "John Glenn",
+                "Evan Astrowsky"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Piper Perabo",
+                "Brooklynn Proulx"
+            ],
+            "Genres": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Mandeville Films",
+                "Inferno Distribution",
+                "Be Good Productions"
+            ],
+            "PlotKeywords": [
+                "ex convict",
+                "secret",
+                "dallas texas",
+                "prison",
+                "lethal injection"
+            ],
+            "UserReviews": 74,
+            "CriticReviews": 21,
+            "MotionPictureRating": "Rated PG-13 for some violence, disturbing images and thematic material",
+            "ReleaseDate": "24 October 2008",
+            "Budget": 9750000,
+            "CumulativeWorldwideGross": 9162,
+            "RuntimeMinutes": 100
+        },
+        {
+            "CharacterName": "Mikey (segment \"Life Makes Sense If You're Famous\")",
+            "Year": "2007",
+            "FilmTitle": "Stories USA",
+            "FilmUrl": "https://www.imdb.com/title/tt1591613/?ref_=nm_flmg_act_12",
+            "Directors": [
+                "David Brooks",
+                "Paul Carafotes"
+            ],
+            "Writers": [
+                "David Brooks",
+                "Paul Carafotes"
+            ],
+            "Stars": [
+                "Steven R. McQueen",
+                "Joe Mantegna",
+                "Michael Rispoli"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Phase 4 Films",
+                "SXM"
+            ],
+            "PlotKeywords": [
+                "deception"
+            ],
+            "UserReviews": 9,
+            "MotionPictureRating": "Rated R for language throughout, some drug use, brief nudity and sexual content",
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "Tim Kearney",
+            "Year": "2007",
+            "FilmTitle": "Bobby Z",
+            "FilmUrl": "https://www.imdb.com/title/tt0473188/?ref_=nm_flmg_act_13",
+            "Directors": [
+                "John Herzfeld"
+            ],
+            "Writers": [
+                "Bob Krakower",
+                "Larry Schapiro"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Laurence Fishburne",
+                "Olivia Wilde"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Millennium Films",
+                "Eclectic Pictures",
+                "Equity Pictures Medienfonds GmbH & Co. KG IV"
+            ],
+            "PlotKeywords": [
+                "drinking from a bottle",
+                "woman wears black lingerie",
+                "prison",
+                "on the run",
+                "drug lord"
+            ],
+            "UserReviews": 34,
+            "CriticReviews": 30,
+            "MotionPictureRating": "Rated R for violence, some drug use, language and brief nudity",
+            "ReleaseDate": "20 April 2007",
+            "Budget": 22000000,
+            "CumulativeWorldwideGross": 413454
+        },
+        {
+            "CharacterName": "Hank Hansen",
+            "Year": "2006",
+            "FilmTitle": "Flags of Our Fathers",
+            "FilmUrl": "https://www.imdb.com/title/tt0418689/?ref_=nm_flmg_act_14",
+            "Directors": [
+                "Clint Eastwood"
+            ],
+            "Writers": [
+                "William Broyles Jr.",
+                "Paul Haggis"
+            ],
+            "Stars": [
+                "Ryan Phillippe",
+                "Barry Pepper",
+                "Joseph Cross"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "History",
+                "War"
+            ],
+            "ProductionCompanies": [
+                "Dreamworks Pictures",
+                "Warner Bros.",
+                "Amblin Entertainment"
+            ],
+            "PlotKeywords": [
+                "reference to arizona",
+                "pima indian",
+                "japanese soldier",
+                "japan",
+                "japanese army"
+            ],
+            "Metascore": 79,
+            "UserReviews": 436,
+            "CriticReviews": 270,
+            "Popularity": 374,
+            "MotionPictureRating": "Rated R for sequences of graphic war violence and carnage, and for language",
+            "ReleaseDate": "20 October 2006",
+            "Budget": 90000000,
+            "OpeningWeekend": 10245190,
+            "Gross": 33602376,
+            "CumulativeWorldwideGross": 65900249,
+            "RuntimeMinutes": 135
+        },
+        {
+            "CharacterName": "Jerry Shepard",
+            "Year": "2006",
+            "FilmTitle": "Eight Below",
+            "FilmUrl": "https://www.imdb.com/title/tt0397313/?ref_=nm_flmg_act_15",
+            "Directors": [
+                "Frank Marshall"
+            ],
+            "Writers": [
+                "David DiGilio",
+                "Toshir\u00f4 Ishid\u00f4"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Jason Biggs",
+                "Bruce Greenwood"
+            ],
+            "Genres": [
+                "Adventure",
+                "Drama",
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Walt Disney Pictures",
+                "Spyglass Entertainment",
+                "Mandeville Films"
+            ],
+            "PlotKeywords": [
+                "sled dog",
+                "survival",
+                "siberian husky",
+                "malamute",
+                "antarctica"
+            ],
+            "Metascore": 64,
+            "UserReviews": 286,
+            "CriticReviews": 121,
+            "MotionPictureRating": "Rated PG for some peril and brief mild language",
+            "ReleaseDate": "17 February 2006",
+            "Budget": 40000000,
+            "OpeningWeekend": 20188176,
+            "Gross": 81612565,
+            "CumulativeWorldwideGross": 120455994,
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Joey Gazelle",
+            "Year": "2006",
+            "FilmTitle": "Running Scared",
+            "FilmUrl": "https://www.imdb.com/title/tt0404390/?ref_=nm_flmg_act_16",
+            "Directors": [
+                "Peter Hyams"
+            ],
+            "Writers": [
+                "Gary DeVore"
+            ],
+            "Stars": [
+                "Gregory Hines",
+                "Billy Crystal",
+                "Steven Bauer"
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Metro-Goldwyn-Mayer (MGM)",
+                "David Foster Productions",
+                "Turman-Foster Company"
+            ],
+            "PlotKeywords": [
+                "shootout",
+                "gunfight",
+                "funeral",
+                "cop",
+                "vacation"
+            ],
+            "Metascore": 49,
+            "UserReviews": 77,
+            "CriticReviews": 24,
+            "ReleaseDate": "27 June 1986",
+            "OpeningWeekend": 5227757,
+            "Gross": 38500726,
+            "CumulativeWorldwideGross": 38500726,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Jared",
+            "Year": "2005",
+            "FilmTitle": "Into the Blue",
+            "FilmUrl": "https://www.imdb.com/title/tt0378109/?ref_=nm_flmg_act_17",
+            "Directors": [
+                "John Stockwell"
+            ],
+            "Writers": [
+                "Matt Johnson"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Jessica Alba",
+                "Scott Caan"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Columbia Pictures",
+                "Mandalay Pictures",
+                "Metro-Goldwyn-Mayer (MGM)"
+            ],
+            "PlotKeywords": [
+                "cocaine",
+                "bahamas",
+                "shark",
+                "scuba diving",
+                "bar fight"
+            ],
+            "Metascore": 45,
+            "UserReviews": 224,
+            "CriticReviews": 120,
+            "Popularity": 938,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of action violence, drug material, some sexual content and language",
+            "ReleaseDate": "30 September 2005",
+            "Budget": 50000000,
+            "OpeningWeekend": 7057854,
+            "Gross": 18801234,
+            "CumulativeWorldwideGross": 46117696,
+            "RuntimeMinutes": 110
+        },
+        {
+            "CharacterName": "Mike Riley",
+            "Year": "2004",
+            "FilmTitle": "Noel",
+            "FilmUrl": "https://www.imdb.com/title/tt0383534/?ref_=nm_flmg_act_18",
+            "Directors": [
+                "Chazz Palminteri"
+            ],
+            "Writers": [
+                "David Hubbard"
+            ],
+            "Stars": [
+                "Susan Sarandon",
+                "Pen\u00e9lope Cruz",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "The Convex Group",
+                "Neverland Films",
+                "Code Entertainment"
+            ],
+            "PlotKeywords": [
+                "gay interest",
+                "old photograph",
+                "cookie",
+                "christmas movie",
+                "taxi"
+            ],
+            "Metascore": 29,
+            "UserReviews": 59,
+            "CriticReviews": 38,
+            "MotionPictureRating": "Rated PG for sensuality, thematic material and some language",
+            "ReleaseDate": "26 November 2004",
+            "CumulativeWorldwideGross": 2280924,
+            "RuntimeMinutes": 96
+        },
+        {
+            "CharacterName": "Chris Johnston",
+            "Year": "2003",
+            "FilmTitle": "Timeline",
+            "FilmUrl": "https://www.imdb.com/title/tt0300556/?ref_=nm_flmg_act_19",
+            "Directors": [
+                "Richard Donner"
+            ],
+            "Writers": [
+                "Michael Crichton",
+                "Jeff Maguire"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Gerard Butler",
+                "Billy Connolly"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi",
+                "War"
+            ],
+            "ProductionCompanies": [
+                "Paramount Pictures",
+                "Mutual Film Company",
+                "Donners' Company"
+            ],
+            "PlotKeywords": [
+                "time machine",
+                "self experimentation",
+                "accidental time travel",
+                "backwards time travel",
+                "time travel into the past"
+            ],
+            "Metascore": 28,
+            "UserReviews": 477,
+            "CriticReviews": 128,
+            "Popularity": 170,
+            "MotionPictureRating": "Rated PG-13 for intense battle sequences and brief language",
+            "ReleaseDate": "26 November 2003",
+            "Budget": 80000000,
+            "OpeningWeekend": 8440629,
+            "Gross": 19481943,
+            "CumulativeWorldwideGross": 43935763,
+            "RuntimeMinutes": 116
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2003",
+            "FilmTitle": "2 Fast 2 Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt0322259/?ref_=nm_flmg_act_20",
+            "Directors": [
+                "John Singleton"
+            ],
+            "Writers": [
+                "Gary Scott Thompson",
+                "Michael Brandt"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Tyrese Gibson",
+                "Cole Hauser"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Original Film",
+                "Mikona Productions GmbH & Co. KG"
+            ],
+            "PlotKeywords": [
+                "brian o'conner character",
+                "roman pearce character",
+                "tej parker character",
+                "undercover agent",
+                "racing"
+            ],
+            "Metascore": 38,
+            "UserReviews": 419,
+            "CriticReviews": 113,
+            "Popularity": 424,
+            "MotionPictureRating": "Rated PG-13 for street racing, violence, language and some sensuality",
+            "ReleaseDate": "6 June 2003",
+            "Budget": 76000000,
+            "OpeningWeekend": 50472480,
+            "Gross": 127154901,
+            "CumulativeWorldwideGross": 236350661,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2003",
+            "FilmTitle": "Turbo Charged Prelude to 2 Fast 2 Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt2055789/?ref_=nm_flmg_act_21",
+            "Directors": [
+                "Philip G. Atwell"
+            ],
+            "Writers": [
+                "Keith Dinielli",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Peter Aylward",
+                "Vin Diesel"
+            ],
+            "Genres": [
+                "Short",
+                "Action",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Original Film"
+            ],
+            "PlotKeywords": [
+                "shared universe",
+                "fast and furious franchise",
+                "fast and furious",
+                "sequel with unusual number",
+                "number in title"
+            ],
+            "UserReviews": 7,
+            "CriticReviews": 2,
+            "ReleaseDate": "3 June 2003",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2003",
+            "FilmTitle": "Ludacris: Act a Fool",
+            "FilmUrl": "https://www.imdb.com/title/tt10212210/?ref_=nm_flmg_act_22",
+            "Directors": [
+                "Bryan Barber"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Devon Aoki",
+                "Tyrese Gibson",
+                "Ludacris"
+            ],
+            "Genres": [
+                "Short",
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "FM Rocks"
+            ],
+            "PlotKeywords": [
+                "music video"
+            ],
+            "ReleaseDate": "23 May 2003",
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "Mikey",
+            "Year": "2002",
+            "FilmTitle": "Life Makes Sense If You're Famous",
+            "FilmUrl": "https://www.imdb.com/title/tt0331556/?ref_=nm_flmg_act_23",
+            "Directors": [
+                "Erik MacArthur"
+            ],
+            "Writers": [
+                "Erik MacArthur"
+            ],
+            "Stars": [
+                "Scott Caan",
+                "Desmond Harrington",
+                "Maya James"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Gimmick Films"
+            ],
+            "PlotKeywords": [
+                "punctuation in title",
+                "apostrophe in title"
+            ],
+            "UserReviews": 1,
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Lewis",
+            "Year": "2001",
+            "FilmTitle": "Joy Ride",
+            "FilmUrl": "https://www.imdb.com/title/tt0206314/?ref_=nm_flmg_act_24",
+            "Directors": [
+                "Quinton Peeples"
+            ],
+            "Writers": [
+                "Quinton Peeples"
+            ],
+            "Stars": [
+                "Tobey Maguire",
+                "Amy Hathaway",
+                "Wilson Cruz"
+            ],
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Trillion Entertainment"
+            ],
+            "PlotKeywords": [
+                "bikini",
+                "motel",
+                "baseball bat",
+                "hitwoman",
+                "texas"
+            ],
+            "UserReviews": 33,
+            "CriticReviews": 6,
+            "MotionPictureRating": "Rated R for violence, sexuality and strong language",
+            "ReleaseDate": "18 November 1997",
+            "RuntimeMinutes": 93
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2001",
+            "FilmTitle": "The Fast and the Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt0232500/?ref_=nm_flmg_act_25",
+            "Directors": [
+                "Rob Cohen"
+            ],
+            "Writers": [
+                "Ken Li",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Michelle Rodriguez"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Original Film",
+                "Mediastream Film GmbH & Co. Productions KG"
+            ],
+            "PlotKeywords": [
+                "illegal street racing",
+                "undercover cop",
+                "derelict vehicle",
+                "woman with a bare midriff",
+                "pig"
+            ],
+            "Metascore": 58,
+            "UserReviews": 1069,
+            "CriticReviews": 214,
+            "Popularity": 4,
+            "MotionPictureRating": "Rated PG-13 for violence, sexual content and language",
+            "ReleaseDate": "22 June 2001",
+            "Budget": 38000000,
+            "OpeningWeekend": 40089015,
+            "Gross": 144533925,
+            "CumulativeWorldwideGross": 207301509,
+            "RuntimeMinutes": 106
+        },
+        {
+            "CharacterName": "Caleb Mandrake",
+            "Year": "2000",
+            "FilmTitle": "The Skulls",
+            "FilmUrl": "https://www.imdb.com/title/tt0192614/?ref_=nm_flmg_act_26",
+            "Directors": [
+                "Rob Cohen"
+            ],
+            "Writers": [
+                "John Pogue"
+            ],
+            "Stars": [
+                "Joshua Jackson",
+                "Paul Walker",
+                "Hill Harper"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Original Film",
+                "Newmarket Capital Group"
+            ],
+            "PlotKeywords": [
+                "college",
+                "ivy league",
+                "suicide",
+                "secret society",
+                "friend"
+            ],
+            "Metascore": 24,
+            "UserReviews": 192,
+            "CriticReviews": 91,
+            "MotionPictureRating": "Rated PG-13 for violence and brief sexuality",
+            "ReleaseDate": "31 March 2000",
+            "Budget": 35000000,
+            "OpeningWeekend": 11034885,
+            "Gross": 35046120,
+            "CumulativeWorldwideGross": 50802120,
+            "RuntimeMinutes": 106
+        },
+        {
+            "CharacterName": "Jason (uncredited)",
+            "Year": "1999",
+            "FilmTitle": "Brokedown Palace",
+            "FilmUrl": "https://www.imdb.com/title/tt0120620/?ref_=nm_flmg_act_27",
+            "Directors": [
+                "Jonathan Kaplan"
+            ],
+            "Writers": [
+                "Adam Fields",
+                "David Arata"
+            ],
+            "Stars": [
+                "Claire Danes",
+                "Kate Beckinsale",
+                "Bill Pullman"
+            ],
+            "Genres": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Fox 2000 Pictures",
+                "Adam Fields Productions",
+                "Twentieth Century Fox"
+            ],
+            "PlotKeywords": [
+                "f rated",
+                "frame up",
+                "bangkok thailand",
+                "teenage girl",
+                "innocence"
+            ],
+            "Metascore": 44,
+            "UserReviews": 192,
+            "CriticReviews": 49,
+            "MotionPictureRating": "Rated PG-13 for brief strong language, drug related material and some violent content",
+            "ReleaseDate": "13 August 1999",
+            "Budget": 25000000,
+            "OpeningWeekend": 3871616,
+            "Gross": 10115013,
+            "CumulativeWorldwideGross": 10115013,
+            "RuntimeMinutes": 100
+        },
+        {
+            "CharacterName": "Dean Sampson",
+            "Year": "1999",
+            "FilmTitle": "She's All That",
+            "FilmUrl": "https://www.imdb.com/title/tt0160862/?ref_=nm_flmg_act_28",
+            "Directors": [
+                "Robert Iscove"
+            ],
+            "Writers": [
+                "R. Lee Fleming Jr."
+            ],
+            "Stars": [
+                "Freddie Prinze Jr.",
+                "Rachael Leigh Cook",
+                "Matthew Lillard"
+            ],
+            "Genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Miramax",
+                "Tapestry Films",
+                "FilmColony"
+            ],
+            "PlotKeywords": [
+                "cinderella story",
+                "claim in title",
+                "male objectification",
+                "male nudity",
+                "bare chested male"
+            ],
+            "Metascore": 51,
+            "UserReviews": 408,
+            "CriticReviews": 78,
+            "Popularity": 515,
+            "MotionPictureRating": "Rated PG-13 for sexual content, crude humor, brief strong language and teen drinking",
+            "ReleaseDate": "29 January 1999",
+            "Budget": 10000000,
+            "OpeningWeekend": 16065430,
+            "Gross": 63366989,
+            "CumulativeWorldwideGross": 103166989,
+            "RuntimeMinutes": 95
+        },
+        {
+            "CharacterName": "Lance Harbor",
+            "Year": "1999",
+            "FilmTitle": "Varsity Blues",
+            "FilmUrl": "https://www.imdb.com/title/tt0139699/?ref_=nm_flmg_act_29",
+            "Directors": [
+                "Brian Robbins"
+            ],
+            "Writers": [
+                "W. Peter Iliff"
+            ],
+            "Stars": [
+                "James Van Der Beek",
+                "Jon Voight",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "MTV Films",
+                "Marquee Tollin/Robins",
+                "Paramount Pictures"
+            ],
+            "PlotKeywords": [
+                "tough girl",
+                "scantily clad female",
+                "eye candy",
+                "small town",
+                "female striptease"
+            ],
+            "Metascore": 50,
+            "UserReviews": 280,
+            "CriticReviews": 72,
+            "Popularity": 319,
+            "MotionPictureRating": "Rated R for strong language throughout, sexuality and nudity, and some substance abuse",
+            "ReleaseDate": "15 January 1999",
+            "Budget": 16000000,
+            "OpeningWeekend": 15204148,
+            "Gross": 52894169,
+            "CumulativeWorldwideGross": 54294169,
+            "RuntimeMinutes": 106
+        },
+        {
+            "CharacterName": "Skip",
+            "Year": "1998",
+            "FilmTitle": "Pleasantville",
+            "FilmUrl": "https://www.imdb.com/title/tt0120789/?ref_=nm_flmg_act_30",
+            "Directors": [
+                "Gary Ross"
+            ],
+            "Writers": [
+                "Gary Ross"
+            ],
+            "Stars": [
+                "Tobey Maguire",
+                "Jeff Daniels",
+                "Joan Allen"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "New Line Cinema",
+                "Larger Than Life Productions"
+            ],
+            "PlotKeywords": [
+                "1950s",
+                "trapped in tv",
+                "censorship",
+                "symbolism",
+                "rebellion"
+            ],
+            "Metascore": 71,
+            "UserReviews": 727,
+            "CriticReviews": 157,
+            "Popularity": 428,
+            "MotionPictureRating": "Rated PG-13 for some thematic elements emphasizing sexuality, and for language",
+            "ReleaseDate": "23 October 1998",
+            "Budget": 60000000,
+            "OpeningWeekend": 8855063,
+            "Gross": 40584421,
+            "CumulativeWorldwideGross": 49805462,
+            "RuntimeMinutes": 124
+        },
+        {
+            "CharacterName": "Phil Deedle",
+            "Year": "1998",
+            "FilmTitle": "Meet the Deedles",
+            "FilmUrl": "https://www.imdb.com/title/tt0120645/?ref_=nm_flmg_act_31",
+            "Directors": [
+                "Steve Boyum"
+            ],
+            "Writers": [
+                "Jim Herzfeld"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Steve Van Wormer",
+                "A.J. Langer"
+            ],
+            "Genres": [
+                "Comedy",
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "DIC Entertainment",
+                "Peak Productions",
+                "Walt Disney Pictures"
+            ],
+            "PlotKeywords": [
+                "park",
+                "bikini",
+                "yellowstone national park",
+                "accidental kiss",
+                "eating a worm"
+            ],
+            "UserReviews": 39,
+            "CriticReviews": 19,
+            "MotionPictureRating": "Rated PG for language, violence and crude humor",
+            "ReleaseDate": "27 March 1998",
+            "Budget": 24000000,
+            "OpeningWeekend": 2006751,
+            "Gross": 4356216,
+            "CumulativeWorldwideGross": 4356216,
+            "RuntimeMinutes": 93
+        },
+        {
+            "CharacterName": "Jonathan",
+            "Year": "1996",
+            "FilmTitle": "Touched by an Angel",
+            "FilmUrl": "https://www.imdb.com/title/tt0108968/?ref_=nm_flmg_act_32",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Roma Downey",
+                "Della Reese",
+                "John Dye"
+            ],
+            "Genres": [
+                "Drama",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "CBS Productions",
+                "Caroline Productions",
+                "MoonWater Productions"
+            ],
+            "PlotKeywords": [
+                "1990s",
+                "2000s",
+                "20th century",
+                "21st century",
+                "unintentional humor"
+            ],
+            "UserReviews": 98,
+            "CriticReviews": 4,
+            "Popularity": 448,
+            "ReleaseDate": "21 September 1994",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Michael",
+            "Year": "1994",
+            "FilmTitle": "Tammy and the T-Rex",
+            "FilmUrl": "https://www.imdb.com/title/tt0111361/?ref_=nm_flmg_act_33",
+            "Directors": [
+                "Stewart Raffill"
+            ],
+            "Writers": [
+                "Stewart Raffill",
+                "Gary Brockette"
+            ],
+            "Stars": [
+                "Denise Richards",
+                "Theo Forsett",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Comedy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Greenline Productions",
+                "Platinic Films Inc."
+            ],
+            "PlotKeywords": [
+                "tyrannosaurus rex",
+                "mad doctor",
+                "lion",
+                "bully",
+                "brain transplant"
+            ],
+            "UserReviews": 57,
+            "CriticReviews": 43,
+            "Popularity": 948,
+            "ReleaseDate": "21 December 1994",
+            "Budget": 1000000,
+            "RuntimeMinutes": 82
+        },
+        {
+            "CharacterName": "Jesse Hansen",
+            "Year": "1994",
+            "FilmTitle": "The Boys Are Back",
+            "FilmUrl": "https://www.imdb.com/title/tt0108713/?ref_=nm_flmg_act_34",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Hal Linden",
+                "Suzanne Pleshette",
+                "George Newbern"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "ABC Productions"
+            ],
+            "PlotKeywords": [
+                "sitcom"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "11 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Dill",
+            "Year": "1984-1994",
+            "FilmTitle": "CBS Schoolbreak Special",
+            "FilmUrl": "https://www.imdb.com/title/tt0985040/?ref_=nm_flmg_act_35",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Monica Calhoun",
+                "Tammy Lauren",
+                "Nick Angotti"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Family",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "CBS Schoolbreak Special Telefilm"
+            ],
+            "PlotKeywords": [
+                "real life tragedy",
+                "teenage boy",
+                "teenager",
+                "teenage girl",
+                "real life situation"
+            ],
+            "ReleaseDate": "23 January 1984"
+        },
+        {
+            "CharacterName": "Brandon Collins",
+            "Year": "1992-1993",
+            "FilmTitle": "The Young and the Restless",
+            "FilmUrl": "https://www.imdb.com/title/tt0069658/?ref_=nm_flmg_act_36",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Doug Davidson",
+                "Eric Braeden",
+                "Peter Bergman"
+            ],
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Sony Pictures Television",
+                "Bell-Phillip Television Productions",
+                "CBS Entertainment Production"
+            ],
+            "PlotKeywords": [
+                "2010s",
+                "2000s",
+                "1990s",
+                "1980s",
+                "1970s"
+            ],
+            "UserReviews": 68,
+            "CriticReviews": 1,
+            "Popularity": 837,
+            "ReleaseDate": "26 March 1973",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Rick",
+            "Year": "1991",
+            "FilmTitle": "What a Dummy",
+            "FilmUrl": "https://www.imdb.com/title/tt0098947/?ref_=nm_flmg_act_37",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Stephen Dorff",
+                "Joshua Rudoy",
+                "David Doty"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "sitcom"
+            ],
+            "UserReviews": 6,
+            "CriticReviews": 3,
+            "ReleaseDate": "29 September 1990",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Michael Haynes",
+            "Year": "1991",
+            "FilmTitle": "Who's the Boss?",
+            "FilmUrl": "https://www.imdb.com/title/tt0086827/?ref_=nm_flmg_act_38",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tony Danza",
+                "Judith Light",
+                "Alyssa Milano"
+            ],
+            "Genres": [
+                "Comedy",
+                "Family",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Embassy Television",
+                "Columbia Pictures Television",
+                "ELP Communications"
+            ],
+            "PlotKeywords": [
+                "advertising executive",
+                "1980s",
+                "man keeping house",
+                "sexual attraction",
+                "father daughter relationship"
+            ],
+            "UserReviews": 38,
+            "CriticReviews": 4,
+            "Popularity": 784,
+            "ReleaseDate": "20 September 1984",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Russell Davis",
+            "Year": "1990",
+            "FilmTitle": "Charles in Charge",
+            "FilmUrl": "https://www.imdb.com/title/tt0086681/?ref_=nm_flmg_act_39",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Scott Baio",
+                "Willie Aames",
+                "Nicole Eggert"
+            ],
+            "Genres": [
+                "Comedy",
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Al Burton Productions",
+                "Scholastic Productions",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "character name in series title",
+                "forename in series title",
+                "college student",
+                "best friend",
+                "housekeeper"
+            ],
+            "UserReviews": 29,
+            "CriticReviews": 4,
+            "Popularity": 995,
+            "ReleaseDate": "3 October 1984",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Jeremy Beatty",
+            "Year": "1986-1987",
+            "FilmTitle": "Throb",
+            "FilmUrl": "https://www.imdb.com/title/tt0090533/?ref_=nm_flmg_act_40",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Diana Canova",
+                "Jonathan Prince",
+                "Jane Leeves"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Swany Inc.",
+                "Procter & Gamble Productions (PGP)",
+                "Taft Entertainment Television"
+            ],
+            "PlotKeywords": [
+                "sitcom",
+                "punk satire",
+                "hair gel",
+                "music industry"
+            ],
+            "UserReviews": 3,
+            "ReleaseDate": "6 September 1986",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Jason (as Paul W. Walker)",
+            "Year": "1987",
+            "FilmTitle": "Programmed to Kill",
+            "FilmUrl": "https://www.imdb.com/title/tt0093790/?ref_=nm_flmg_act_41",
+            "Directors": [
+                "Allan Holzman",
+                "Robert Short"
+            ],
+            "Writers": [
+                "Robert Short"
+            ],
+            "Stars": [
+                "Robert Ginty",
+                "Sandahl Bergman",
+                "James Booth"
+            ],
+            "Genres": [
+                "Sci-Fi",
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "Retaliator Productions",
+                "Trans World Entertainment (TWE)"
+            ],
+            "PlotKeywords": [
+                "killing machine",
+                "cyborg",
+                "cia",
+                "crete",
+                "robot"
+            ],
+            "UserReviews": 9,
+            "CriticReviews": 6,
+            "RuntimeMinutes": 91
+        },
+        {
+            "CharacterName": "Todd Bryant / Eric Travers",
+            "Year": "1985-1986",
+            "FilmTitle": "Highway to Heaven",
+            "FilmUrl": "https://www.imdb.com/title/tt0086730/?ref_=nm_flmg_act_42",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Michael Landon",
+                "Victor French",
+                "James Troesh"
+            ],
+            "Genres": [
+                "Drama",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Michael Landon Productions",
+                "National Broadcasting Company (NBC)"
+            ],
+            "PlotKeywords": [
+                "psychotronic series",
+                "angel",
+                "comic relief",
+                "friendship between men",
+                "friendship"
+            ],
+            "UserReviews": 41,
+            "CriticReviews": 13,
+            "Popularity": 380,
+            "ReleaseDate": "19 September 1984",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "'Professor' Bennett",
+            "Year": "1986",
+            "FilmTitle": "Monster in the Closet",
+            "FilmUrl": "https://www.imdb.com/title/tt0091544/?ref_=nm_flmg_act_43",
+            "Directors": [
+                "Bob Dahlin"
+            ],
+            "Writers": [
+                "Bob Dahlin",
+                "Peter L. Bergquist"
+            ],
+            "Stars": [
+                "Donald Grant",
+                "Denise DuBarry",
+                "Claude Akins"
+            ],
+            "Genres": [
+                "Comedy",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Bergquist-Levy Productions"
+            ],
+            "PlotKeywords": [
+                "psychotronic film",
+                "1980s",
+                "horror parody",
+                "voice over narration",
+                "california"
+            ],
+            "UserReviews": 48,
+            "CriticReviews": 23,
+            "ReleaseDate": "30 January 1987",
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "Pawn Shop Chronicles",
+            "FilmUrl": "https://www.imdb.com/title/tt1741243/?ref_=nm_flmg_prd_1",
+            "Directors": [
+                "Wayne Kramer"
+            ],
+            "Writers": [
+                "Adam Minarovich"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Norman Reedus",
+                "Elijah Wood"
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "Anchor Bay Films",
+                "Mimran Schur Pictures",
+                "Suretone Pictures"
+            ],
+            "PlotKeywords": [
+                "small town",
+                "stabbed in the chest",
+                "white supremacist",
+                "elvis impersonator",
+                "flail"
+            ],
+            "Metascore": 26,
+            "UserReviews": 51,
+            "CriticReviews": 46,
+            "MotionPictureRating": "Rated R for violence, sexual material, graphic nudity, pervasive language and some drug use",
+            "ReleaseDate": "18 January 2014",
+            "Budget": 5000000,
+            "OpeningWeekend": 4915,
+            "Gross": 8088,
+            "CumulativeWorldwideGross": 10080,
+            "RuntimeMinutes": 112
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "Hours",
+            "FilmUrl": "https://www.imdb.com/title/tt2094018/?ref_=nm_flmg_prd_2",
+            "Directors": [
+                "Eric Heisserer"
+            ],
+            "Writers": [
+                "Eric Heisserer"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Genesis Rodriguez",
+                "Nancy Nave"
+            ],
+            "Genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "The Safran Company",
+                "PalmStar Media",
+                "Hours Capital"
+            ],
+            "PlotKeywords": [
+                "hospital",
+                "hurricane",
+                "hurricane katrina",
+                "incubator",
+                "baby in peril"
+            ],
+            "Metascore": 55,
+            "UserReviews": 89,
+            "CriticReviews": 61,
+            "MotionPictureRating": "Rated PG-13 for thematic elements, violence and drug material",
+            "ReleaseDate": "4 December 2013",
+            "Budget": 4000000,
+            "CumulativeWorldwideGross": 801983,
+            "RuntimeMinutes": 97
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "Vehicle 19",
+            "FilmUrl": "https://www.imdb.com/title/tt1911662/?ref_=nm_flmg_prd_3",
+            "Directors": [
+                "Mukunda Michael Dewil"
+            ],
+            "Writers": [
+                "Mukunda Michael Dewil"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Naima McLean",
+                "Gys de Villiers"
+            ],
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "The Safran Company",
+                "Forefront Media Group",
+                "Industrial Development Corporation of South Africa"
+            ],
+            "PlotKeywords": [
+                "near miss",
+                "stuffed in a car trunk",
+                "rental car",
+                "police",
+                "radio newscast"
+            ],
+            "Metascore": 29,
+            "UserReviews": 87,
+            "CriticReviews": 52,
+            "MotionPictureRating": "Rated R for brief strong language",
+            "ReleaseDate": "7 February 2013",
+            "Budget": 5000000,
+            "CumulativeWorldwideGross": 1473445,
+            "RuntimeMinutes": 85
+        },
+        {
+            "CharacterName": "",
+            "Year": "2009",
+            "FilmTitle": "Shelter",
+            "FilmUrl": "https://www.imdb.com/title/tt1539087/?ref_=nm_flmg_prd_4",
+            "Directors": [
+                "Paul Bettany"
+            ],
+            "Writers": [
+                "Paul Bettany"
+            ],
+            "Stars": [
+                "Adolfo Mendez-Nouel",
+                "Anthony Mackie",
+                "Kevin Hoffman"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Bifrost Pictures",
+                "Recidivist Films",
+                "Repeat Offender"
+            ],
+            "PlotKeywords": [
+                "homelessness",
+                "junkie",
+                "female frontal nudity",
+                "female nudity",
+                "emaciation"
+            ],
+            "Metascore": 43,
+            "UserReviews": 33,
+            "CriticReviews": 29,
+            "ReleaseDate": "11 December 2015",
+            "RuntimeMinutes": 105
+        },
+        {
+            "CharacterName": "",
+            "Year": "2009",
+            "FilmTitle": "Expedition Great White",
+            "FilmUrl": "https://www.imdb.com/title/tt1596259/?ref_=nm_flmg_msc_1",
+            "Directors": [
+                "Michael Butler",
+                "Rich Christensen"
+            ],
+            "Writers": [
+                "Gary Hines"
+            ],
+            "Stars": [
+                "Mark Keller",
+                "Chris Fischer",
+                "Brett Mcbride"
+            ],
+            "Genres": [
+                "Documentary",
+                "History"
+            ],
+            "ProductionCompanies": [
+                "Fischer Productions"
+            ],
+            "PlotKeywords": [],
+            "CriticReviews": 1,
+            "ReleaseDate": "16 November 2009",
+            "RuntimeMinutes": 50
+        },
+        {
+            "CharacterName": "",
+            "Year": "",
+            "FilmTitle": "Strain Pirates",
+            "FilmUrl": "https://www.imdb.com/title/tt5868614/?ref_=nm_flmg_tk_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "James Keating",
+                "Alek Loarca"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": []
+        },
+        {
+            "CharacterName": "",
+            "Year": "2018/IV",
+            "FilmTitle": "Legacy",
+            "FilmUrl": "https://www.imdb.com/title/tt7995062/?ref_=nm_flmg_tk_2",
+            "Directors": [
+                "Thomas Eromose Ikimi"
+            ],
+            "Writers": [
+                "Thomas Eromose Ikimi"
+            ],
+            "Stars": [
+                "Idris Elba",
+                "William Hope",
+                "Monique Gabriela Curnen"
+            ],
+            "Genres": [
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Black Camel Pictures"
+            ],
+            "PlotKeywords": [
+                "downward spiral",
+                "black op",
+                "new york city",
+                "motel room",
+                "brooklyn new york city"
+            ],
+            "UserReviews": 28,
+            "CriticReviews": 31,
+            "MotionPictureRating": "Rated R for strong brutal violence including some torture and pervasive language",
+            "ReleaseDate": "11 March 2011",
+            "Budget": 500000,
+            "RuntimeMinutes": 93
+        },
+        {
+            "CharacterName": "",
+            "Year": "2015",
+            "FilmTitle": "Inspire",
+            "FilmUrl": "https://www.imdb.com/title/tt7081604/?ref_=nm_flmg_tk_3",
+            "Directors": [
+                "Simon Scheerens"
+            ],
+            "Writers": [],
+            "Stars": [],
+            "Genres": [
+                "Short",
+                "Biography"
+            ],
+            "ProductionCompanies": [
+                "Dreamway Pictures"
+            ],
+            "PlotKeywords": [
+                "tribute",
+                "inspirational video"
+            ],
+            "ReleaseDate": "23 October 2015"
+        },
+        {
+            "CharacterName": "",
+            "Year": "2015",
+            "FilmTitle": "Jake and the Giants",
+            "FilmUrl": "https://www.imdb.com/title/tt4697944/?ref_=nm_flmg_tk_4",
+            "Directors": [
+                "Kent Butterworth"
+            ],
+            "Writers": [
+                "Robert Bolt",
+                "William Goldman"
+            ],
+            "Stars": [
+                "Nick Delia",
+                "Debi Derryberry",
+                "Scott Jeffers"
+            ],
+            "Genres": [
+                "Animation"
+            ],
+            "ProductionCompanies": [
+                "Boat Angel / Car Angel",
+                "Hippo Animation",
+                "OAK9 Entertainment"
+            ],
+            "PlotKeywords": [
+                "rescue"
+            ],
+            "UserReviews": 10,
+            "CriticReviews": 11,
+            "ReleaseDate": "29 August 2015",
+            "Budget": 1000000,
+            "RuntimeMinutes": 82
+        },
+        {
+            "CharacterName": "",
+            "Year": "2015",
+            "FilmTitle": "Furious 7",
+            "FilmUrl": "https://www.imdb.com/title/tt2820852/?ref_=nm_flmg_tk_5",
+            "Directors": [
+                "James Wan"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Dwayne Johnson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Media Rights Capital (MRC)",
+                "China Film Group Corporation (CFGC)"
+            ],
+            "PlotKeywords": [
+                "car falling off a cliff",
+                "star died before release",
+                "bulletproof vest",
+                "terrorist",
+                "revenge"
+            ],
+            "Metascore": 67,
+            "UserReviews": 747,
+            "CriticReviews": 461,
+            "Popularity": 97,
+            "MotionPictureRating": "Rated PG-13 for prolonged frenetic sequences of violence, action and mayhem, suggestive content and brief strong language",
+            "ReleaseDate": "3 April 2015",
+            "Budget": 190000000,
+            "OpeningWeekend": 147187040,
+            "Gross": 353007020,
+            "CumulativeWorldwideGross": 1515048151,
+            "RuntimeMinutes": 137
+        },
+        {
+            "CharacterName": "",
+            "Year": "2014",
+            "FilmTitle": "Brick Mansions",
+            "FilmUrl": "https://www.imdb.com/title/tt1430612/?ref_=nm_flmg_tk_6",
+            "Directors": [
+                "Camille Delamarre"
+            ],
+            "Writers": [
+                "Luc Besson"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "David Belle",
+                "RZA"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Relativity Media",
+                "EuropaCorp",
+                "Transfilm"
+            ],
+            "PlotKeywords": [
+                "time bomb",
+                "crime lord",
+                "undercover",
+                "rescue",
+                "betrayal"
+            ],
+            "Metascore": 40,
+            "UserReviews": 129,
+            "CriticReviews": 187,
+            "MotionPictureRating": "Rated PG-13 for frenetic  gunplay, violence and action throughout,  language, sexual menace and drug  material",
+            "ReleaseDate": "25 April 2014",
+            "Budget": 28000000,
+            "OpeningWeekend": 9516855,
+            "Gross": 20396829,
+            "CumulativeWorldwideGross": 71416730,
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "",
+            "Year": "2014",
+            "FilmTitle": "Edici\u00f3n Especial Coleccionista",
+            "FilmUrl": "https://www.imdb.com/title/tt1749539/?ref_=nm_flmg_tk_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "David D\u00edaz",
+                "Luis Rodrigo",
+                "Gabriel Fern\u00e1ndez-Gil"
+            ],
+            "Genres": [
+                "Comedy",
+                "History"
+            ],
+            "ProductionCompanies": [
+                "A.D.J. Proyectos Audiovisuales",
+                "P.L.C. Producciones"
+            ],
+            "PlotKeywords": [
+                "looking at the camera",
+                "web series",
+                "analysis",
+                "slapstick comedy",
+                "craziness"
+            ],
+            "ReleaseDate": "16 August 2010",
+            "RuntimeMinutes": 9
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "Fast & Furious 6: Take Control",
+            "FilmUrl": "https://www.imdb.com/title/tt3401738/?ref_=nm_flmg_tk_8",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Justin Lin"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "10 December 2013"
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "Shark Week",
+            "FilmUrl": "https://www.imdb.com/title/tt1146333/?ref_=nm_flmg_tk_9",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Andy Casagrande",
+                "Chris Fallows",
+                "Jason Hildebrandt"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "underwater scene",
+                "shark",
+                "nature",
+                "fish in title",
+                "two word title"
+            ],
+            "UserReviews": 4,
+            "CriticReviews": 4,
+            "ReleaseDate": "27 July 1987",
+            "RuntimeMinutes": 43
+        },
+        {
+            "CharacterName": "",
+            "Year": "2009",
+            "FilmTitle": "Fast & Furious: Getting the Gang Back Together",
+            "FilmUrl": "https://www.imdb.com/title/tt5527604/?ref_=nm_flmg_tk_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Chris Morgan",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "28 July 2009",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "",
+            "Year": "2009",
+            "FilmTitle": "Making the 'Fast' Franchise",
+            "FilmUrl": "https://www.imdb.com/title/tt5527220/?ref_=nm_flmg_tk_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lucas Black",
+                "Jordana Brewster",
+                "Rob Cohen"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "24 March 2009",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "",
+            "Year": "2008",
+            "FilmTitle": "A Federal Case",
+            "FilmUrl": "https://www.imdb.com/title/tt1144544/?ref_=nm_flmg_tk_12",
+            "Directors": [
+                "Trisha Ray"
+            ],
+            "Writers": [
+                "Brian Stewart"
+            ],
+            "Stars": [
+                "Amanda Akers",
+                "Dave Amyx",
+                "Kayla Baker"
+            ],
+            "Genres": [
+                "Action",
+                "Drama",
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Boat Angel / Car Angel",
+                "Lake Camp Productions",
+                "Next Actor Studio"
+            ],
+            "PlotKeywords": [
+                "coming of age",
+                "teenager",
+                "christian"
+            ],
+            "UserReviews": 7,
+            "ReleaseDate": "11 April 2008",
+            "Budget": 100000,
+            "RuntimeMinutes": 85
+        },
+        {
+            "CharacterName": "",
+            "Year": "2003",
+            "FilmTitle": "Inside '2 Fast 2 Furious'",
+            "FilmUrl": "https://www.imdb.com/title/tt0496753/?ref_=nm_flmg_tk_13",
+            "Directors": [],
+            "Writers": [
+                "Jim Bacon"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Neal H. Moritz",
+                "John Singleton"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment"
+            ],
+            "PlotKeywords": [
+                "intentionally misspelled title",
+                "number in title"
+            ],
+            "ReleaseDate": "30 September 2003",
+            "Budget": 75000,
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Wiz Khalifa Ft. Charlie Puth: See You Again",
+            "FilmUrl": "https://www.imdb.com/title/tt6706132/?ref_=nm_flmg_slf_1",
+            "Directors": [
+                "Marc Klasfeld"
+            ],
+            "Writers": [
+                "Charlie Puth"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Wiz Khalifa",
+                "Miller Kimsey"
+            ],
+            "Genres": [
+                "Short",
+                "Drama",
+                "Music"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tribute song",
+                "song used in movie",
+                "song used in film",
+                "2010s music",
+                "2010s song"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "6 April 2015",
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Fast and Furious: Back Under the Hood",
+            "FilmUrl": "https://www.imdb.com/title/tt5933234/?ref_=nm_flmg_slf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Laz Alonso",
+                "Vin Diesel",
+                "Neal H. Moritz"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "24 March 2015",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Fast and Furious: Fast Cars!",
+            "FilmUrl": "https://www.imdb.com/title/tt5933142/?ref_=nm_flmg_slf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Justin Lin",
+                "Dennis McCarthy"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "24 March 2015",
+            "RuntimeMinutes": 40
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Fast and Furious: Mapping Fast & Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt5933302/?ref_=nm_flmg_slf_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Gal Gadot",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "24 March 2015",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Fast and Furious: Restrospective",
+            "FilmUrl": "https://www.imdb.com/title/tt5932974/?ref_=nm_flmg_slf_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Dwayne Johnson",
+                "Sung Kang"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "24 March 2015",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kylie Erica Mar",
+                "Julie L. Harkness",
+                "Patrick Stinson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Connection III Entertainment"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "celebrity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "30 September 2005"
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "Fast & Furious 6: Take Control",
+            "FilmUrl": "https://www.imdb.com/title/tt3401738/?ref_=nm_flmg_slf_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Justin Lin"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "10 December 2013"
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "Hand to Hand Fury",
+            "FilmUrl": "https://www.imdb.com/title/tt3401714/?ref_=nm_flmg_slf_8",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Justin Lin",
+                "Greg Powell"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "10 December 2013"
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "It's All About the Cars",
+            "FilmUrl": "https://www.imdb.com/title/tt3402158/?ref_=nm_flmg_slf_9",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Greg Powell",
+                "Vin Diesel",
+                "Dennis McCarthy"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "10 December 2013"
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "Planes, Tanks and Automobiles",
+            "FilmUrl": "https://www.imdb.com/title/tt3402154/?ref_=nm_flmg_slf_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Justin Lin",
+                "Andy Gill",
+                "Kelvin McIlwain"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "10 December 2013"
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "The Making of Fast & Furious 6",
+            "FilmUrl": "https://www.imdb.com/title/tt3402104/?ref_=nm_flmg_slf_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Justin Lin",
+                "Vin Diesel",
+                "Neal H. Moritz"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "10 December 2013"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Shark Week",
+            "FilmUrl": "https://www.imdb.com/title/tt1146333/?ref_=nm_flmg_slf_12",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Andy Casagrande",
+                "Chris Fallows",
+                "Jason Hildebrandt"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "underwater scene",
+                "shark",
+                "nature",
+                "fish in title",
+                "two word title"
+            ],
+            "UserReviews": 4,
+            "CriticReviews": 4,
+            "ReleaseDate": "27 July 1987",
+            "RuntimeMinutes": 43
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011-2013",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_slf_13",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "M\u00e1rio Augusto",
+                "Paulo Branco",
+                "Nicolau Breyner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "At\u00e9 ao Fim do Mundo"
+            ],
+            "PlotKeywords": [
+                "show",
+                "non fiction"
+            ],
+            "ReleaseDate": "3 March 2010"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Vivir de cine",
+            "FilmUrl": "https://www.imdb.com/title/tt3110888/?ref_=nm_flmg_slf_14",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jos\u00e9 Ignacio Cuenca",
+                "Guillermo del Toro",
+                "Hugo Weaving"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Intereconom\u00eda TV"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "26 October 2012"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013",
+            "FilmTitle": "Late Night with Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt1231460/?ref_=nm_flmg_slf_15",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Fallon",
+                "The Roots",
+                "Steve Higgins"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Media Studios (UMS)"
+            ],
+            "PlotKeywords": [
+                "five word series title",
+                "performer name in title",
+                "late night",
+                "variety show",
+                "live performance"
+            ],
+            "UserReviews": 42,
+            "CriticReviews": 1,
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_16",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Renee Bargh",
+                "Mario Lopez",
+                "Charissa Thompson"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "Tinseltown Entertainment"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "show business",
+                "non fiction"
+            ],
+            "UserReviews": 8,
+            "ReleaseDate": "5 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Weekend Ticket",
+            "FilmUrl": "https://www.imdb.com/title/tt2787918/?ref_=nm_flmg_slf_17",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dave Karger",
+                "Tiffany Smith",
+                "Mark Wahlberg"
+            ],
+            "Genres": [
+                "Short",
+                "News"
+            ],
+            "ProductionCompanies": [
+                "HDFilms"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "11 March 2013"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009-2013",
+            "FilmTitle": "HBO First Look",
+            "FilmUrl": "https://www.imdb.com/title/tt0318220/?ref_=nm_flmg_slf_18",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hanks",
+                "Sandra Bullock",
+                "Will Smith"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Automat Pictures",
+                "EMC West",
+                "Eminence Front Productions"
+            ],
+            "PlotKeywords": [
+                "behind the scenes",
+                "acronym in title",
+                "hbo",
+                "filmmaking"
+            ],
+            "UserReviews": 2,
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009-2013",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_19",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_20",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Savannah Guthrie",
+                "Hoda Kotb",
+                "Al Roker"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "NBC News"
+            ],
+            "PlotKeywords": [
+                "weather",
+                "one word title",
+                "morning show",
+                "non fiction"
+            ],
+            "UserReviews": 16,
+            "ReleaseDate": "14 January 1952",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2013",
+            "FilmTitle": "2013 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2806252/?ref_=nm_flmg_slf_21",
+            "Directors": [
+                "Hamish Hamilton",
+                "Troy Miller"
+            ],
+            "Writers": [
+                "Josh Comers",
+                "Lauren Greenberg"
+            ],
+            "Stars": [
+                "Rebel Wilson",
+                "Utkarsh Ambudkar",
+                "Skylar Astin"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Den of Thieves",
+                "MTV Productions"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "14 April 2013",
+            "RuntimeMinutes": 140
+        },
+        {
+            "CharacterName": "Self (voice)",
+            "Year": "2012",
+            "FilmTitle": "Air Racers",
+            "FilmUrl": "https://www.imdb.com/title/tt1535421/?ref_=nm_flmg_slf_22",
+            "Directors": [
+                "Christian Fry",
+                "Jean-Jacques Mantello"
+            ],
+            "Writers": [
+                "Richard Dowlearn",
+                "Christian Fry"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Steve Hinton Jr.",
+                "Richard Gabai"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short",
+                "Action",
+                "Adventure",
+                "Family",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "3D Entertainment USA",
+                "Pretend Entertainment",
+                "3D Entertainment"
+            ],
+            "PlotKeywords": [
+                "3 dimensional",
+                "air race",
+                "red bull",
+                "motorsport",
+                "snowbird"
+            ],
+            "CriticReviews": 1,
+            "ReleaseDate": "5 April 2012",
+            "Budget": 5000000,
+            "Gross": 1309987,
+            "CumulativeWorldwideGross": 1309987,
+            "RuntimeMinutes": 40
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Executing the Heist: The Making of 'Takers'",
+            "FilmUrl": "https://www.imdb.com/title/tt1817140/?ref_=nm_flmg_slf_23",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Peter Allen",
+                "Chris Brown",
+                "Gabriel Casseus"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Automat Pictures"
+            ],
+            "PlotKeywords": [],
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2011",
+            "FilmTitle": "Fast Five: A New Set of Wheels",
+            "FilmUrl": "https://www.imdb.com/title/tt5528292/?ref_=nm_flmg_slf_24",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Justin Lin",
+                "Paul Walker",
+                "Dennis McCarthy"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 October 2011",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2011",
+            "FilmTitle": "Fast Five: Brian O'Conner, from Fed to Con",
+            "FilmUrl": "https://www.imdb.com/title/tt5527696/?ref_=nm_flmg_slf_25",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Justin Lin",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 October 2011",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2011",
+            "FilmTitle": "Fast Five: Dom's Journey",
+            "FilmUrl": "https://www.imdb.com/title/tt5527692/?ref_=nm_flmg_slf_26",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Neal H. Moritz",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 October 2011",
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2011",
+            "FilmTitle": "Fast Five: On Set with Director Justin Lin",
+            "FilmUrl": "https://www.imdb.com/title/tt5528304/?ref_=nm_flmg_slf_27",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Justin Lin",
+                "Vincent Lascoumes",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 October 2011",
+            "RuntimeMinutes": 9
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2011",
+            "FilmTitle": "Fast Five: Reuniting the Team",
+            "FilmUrl": "https://www.imdb.com/title/tt5528288/?ref_=nm_flmg_slf_28",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Gal Gadot"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 October 2011",
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2011",
+            "FilmTitle": "Fast Five: The Big Train Heist",
+            "FilmUrl": "https://www.imdb.com/title/tt5528284/?ref_=nm_flmg_slf_29",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Matt Sweeney",
+                "Mike Gunther"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 October 2011",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2003-2011",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_30",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Leno",
+                "Kevin Eubanks",
+                "Edd Hall"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Big Dog Productions",
+                "Nelson Page Entertainment",
+                "Nerd Corps Productions V.1 Inc."
+            ],
+            "PlotKeywords": [
+                "20th century",
+                "21st century",
+                "1990s",
+                "2000s",
+                "2010s"
+            ],
+            "UserReviews": 85,
+            "CriticReviews": 2,
+            "ReleaseDate": "25 May 1992"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "WWE Raw",
+            "FilmUrl": "https://www.imdb.com/title/tt0185103/?ref_=nm_flmg_slf_31",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jerry Lawler",
+                "Michael Coulthard",
+                "Paul Levesque"
+            ],
+            "Genres": [
+                "Action",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Titan Sports",
+                "USA Network",
+                "World Wrestling Entertainment (WWE)"
+            ],
+            "PlotKeywords": [
+                "popular show",
+                "sexiness",
+                "world wrestling entertainment",
+                "professional wrestling",
+                "mixed martial arts"
+            ],
+            "UserReviews": 86,
+            "Popularity": 814,
+            "ReleaseDate": "11 January 1993",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Bastidores",
+            "FilmUrl": "https://www.imdb.com/title/tt5989264/?ref_=nm_flmg_slf_32",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Luisa Micheletti",
+                "\u00c9rika Mader",
+                "Ingrid Berger"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Multishow"
+            ],
+            "PlotKeywords": []
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2011",
+            "FilmTitle": "Attack of the Show!",
+            "FilmUrl": "https://www.imdb.com/title/tt0498878/?ref_=nm_flmg_slf_33",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Pereira",
+                "Olivia Munn",
+                "Zach Selwyn"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "G4 Media"
+            ],
+            "PlotKeywords": [
+                "sketch comedy",
+                "television",
+                "cyberculture",
+                "tv talk show",
+                "pop culture"
+            ],
+            "UserReviews": 13,
+            "ReleaseDate": "28 March 2005",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "The 7PM Project",
+            "FilmUrl": "https://www.imdb.com/title/tt1480165/?ref_=nm_flmg_slf_34",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carrie Bickmore",
+                "Charlie Pickering",
+                "Dave Hughes"
+            ],
+            "Genres": [
+                "Comedy",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Network Ten",
+                "Roving Enterprises"
+            ],
+            "PlotKeywords": [
+                "two word series title",
+                "topical humor",
+                "news satire",
+                "chat",
+                "non fiction"
+            ],
+            "UserReviews": 33,
+            "ReleaseDate": "20 July 2009",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Fast & Furious Five Special",
+            "FilmUrl": "https://www.imdb.com/title/tt1913023/?ref_=nm_flmg_slf_35",
+            "Directors": [
+                "Tim Postins"
+            ],
+            "Writers": [
+                "Tim Postins",
+                "Alex Zane"
+            ],
+            "Stars": [
+                "Jordana Brewster",
+                "Vin Diesel",
+                "Gal Gadot"
+            ],
+            "Genres": [
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Sky Movies"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "21 April 2011"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2003-2011",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_36",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ellen DeGeneres",
+                "Stephen Boss",
+                "Andy Lassner"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "A Very Good Production Inc.",
+                "Telepictures Productions"
+            ],
+            "PlotKeywords": [
+                "male objectification",
+                "actress name as series title",
+                "popular culture",
+                "celebrity interview",
+                "comedienne"
+            ],
+            "UserReviews": 56,
+            "Popularity": 18,
+            "ReleaseDate": "8 September 2003"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "CQC: Custe o Que Custar",
+            "FilmUrl": "https://www.imdb.com/title/tt1518344/?ref_=nm_flmg_slf_37",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Marco Luque",
+                "Marcelo Tas",
+                "Oscar Filho"
+            ],
+            "Genres": [
+                "Comedy",
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Cuatro Cabezas"
+            ],
+            "PlotKeywords": [
+                "reporter",
+                "live show",
+                "celebrity",
+                "bald man",
+                "non fiction"
+            ],
+            "ReleaseDate": "17 March 2008"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Legend\u00e1rios",
+            "FilmUrl": "https://www.imdb.com/title/tt2306860/?ref_=nm_flmg_slf_38",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Marcos Mion",
+                "Mi\u00e1 Mello",
+                "Claudia Leitte"
+            ],
+            "Genres": [
+                "Comedy",
+                "Game-Show",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "entertainment",
+                "non fiction"
+            ],
+            "ReleaseDate": "10 April 2010",
+            "RuntimeMinutes": 110
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "P\u00e2nico na TV",
+            "FilmUrl": "https://www.imdb.com/title/tt0466518/?ref_=nm_flmg_slf_39",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Em\u00edlio Surita",
+                "Sabrina Sato",
+                "Danielle Carmona"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Rede Bandeirantes",
+                "RedeTV!"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "stripper",
+                "gay kiss",
+                "parody",
+                "live music"
+            ],
+            "ReleaseDate": "28 September 2003"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "The Role That Changed My Life",
+            "FilmUrl": "https://www.imdb.com/title/tt6282514/?ref_=nm_flmg_slf_40",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Lewis",
+                "Sheila Rae",
+                "Max Sinclair"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Pyramid Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "29 October 2007"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Shark Men",
+            "FilmUrl": "https://www.imdb.com/title/tt1722609/?ref_=nm_flmg_slf_41",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Mark Keller",
+                "Michael Domeier",
+                "Nicole Nasby-Lucas"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Fischer Productions"
+            ],
+            "PlotKeywords": [
+                "crew"
+            ],
+            "CriticReviews": 1,
+            "ReleaseDate": "6 June 2010"
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2009",
+            "FilmTitle": "Fast & Furious: Getting the Gang Back Together",
+            "FilmUrl": "https://www.imdb.com/title/tt5527604/?ref_=nm_flmg_slf_42",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Chris Morgan",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "28 July 2009",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2009",
+            "FilmTitle": "Fast & Furious: Races and Chases",
+            "FilmUrl": "https://www.imdb.com/title/tt5527618/?ref_=nm_flmg_slf_43",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Justin Lin",
+                "Neal H. Moritz",
+                "Chris Morgan"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "28 July 2009",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2009",
+            "FilmTitle": "High Octane Action: The Stunts of 'Fast & Furious'",
+            "FilmUrl": "https://www.imdb.com/title/tt5527622/?ref_=nm_flmg_slf_44",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Neal H. Moritz",
+                "Mike Gunther",
+                "Terry Leonard"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "28 July 2009",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2009",
+            "FilmTitle": "Under the Hood: Imports",
+            "FilmUrl": "https://www.imdb.com/title/tt5527600/?ref_=nm_flmg_slf_45",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Laz Alonso",
+                "Justin Lin",
+                "Neal H. Moritz"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "28 July 2009",
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2009",
+            "FilmTitle": "Under the Hood: Muscle Cars",
+            "FilmUrl": "https://www.imdb.com/title/tt5527596/?ref_=nm_flmg_slf_46",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Dennis McCarthy"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "28 July 2009",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "",
+            "Year": "2009",
+            "FilmTitle": "Making of...",
+            "FilmUrl": "https://www.imdb.com/title/tt1332048/?ref_=nm_flmg_slf_47",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "William Hurt",
+                "Sarah Carter",
+                "Marcus H. Rosenm\u00fcller"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "S & L Medienproduktion"
+            ],
+            "PlotKeywords": [
+                "making of"
+            ],
+            "RuntimeMinutes": 20
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2009",
+            "FilmTitle": "Up Close with Carrie Keagan",
+            "FilmUrl": "https://www.imdb.com/title/tt1434322/?ref_=nm_flmg_slf_48",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carrie Keagan",
+                "Shark Firestone",
+                "Bradley Cooper"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "No Good Entertainment"
+            ],
+            "PlotKeywords": [
+                "five word title",
+                "name in title",
+                "interview",
+                "performer name in title",
+                "non fiction"
+            ],
+            "ReleaseDate": "21 February 2007"
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2009",
+            "FilmTitle": "2 Fast 2 Furious: Fast Females",
+            "FilmUrl": "https://www.imdb.com/title/tt5273840/?ref_=nm_flmg_slf_49",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jordana Brewster",
+                "Michelle Rodriguez",
+                "Verena Mei"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "24 March 2009",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009",
+            "FilmTitle": "2 Fast 2 Furious: Hollywood Impact",
+            "FilmUrl": "https://www.imdb.com/title/tt5273846/?ref_=nm_flmg_slf_50",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Leonard Maltin",
+                "Terry Leonard",
+                "Joel Stein"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "24 March 2009",
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2009",
+            "FilmTitle": "Making the 'Fast' Franchise",
+            "FilmUrl": "https://www.imdb.com/title/tt5527220/?ref_=nm_flmg_slf_51",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lucas Black",
+                "Jordana Brewster",
+                "Rob Cohen"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "24 March 2009",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009",
+            "FilmTitle": "Le grand journal de Canal+",
+            "FilmUrl": "https://www.imdb.com/title/tt0426701/?ref_=nm_flmg_slf_52",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Michel Denisot",
+                "Jean-Michel Aphatie",
+                "Ariane Massenet"
+            ],
+            "Genres": [
+                "Documentary",
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Canal+",
+                "Waw Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "30 August 2004"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009",
+            "FilmTitle": "TV total",
+            "FilmUrl": "https://www.imdb.com/title/tt0207274/?ref_=nm_flmg_slf_53",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Stefan Raab",
+                "Elton",
+                "Ingrid"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Brainpool",
+                "Metzgerei Raab",
+                "Pro 7"
+            ],
+            "PlotKeywords": [
+                "variety show",
+                "german humor",
+                "supermodel",
+                "stunt",
+                "singer"
+            ],
+            "UserReviews": 4,
+            "ReleaseDate": "8 March 1999",
+            "RuntimeMinutes": 45
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2007",
+            "FilmTitle": "The Modern Warrior",
+            "FilmUrl": "https://www.imdb.com/title/tt1003018/?ref_=nm_flmg_slf_54",
+            "Directors": [
+                "Jeremy Pollack"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Robert Downey Jr.",
+                "Matt Hughes",
+                "Robbie Lawler"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "BJP TV",
+                "Pollack Pictures"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "10 October 2007"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2006",
+            "FilmTitle": "Second Chance",
+            "FilmUrl": "https://www.imdb.com/title/tt0884190/?ref_=nm_flmg_slf_55",
+            "Directors": [
+                "Peter Andrikidis"
+            ],
+            "Writers": [
+                "Ro Hume",
+                "John Misto"
+            ],
+            "Stars": [
+                "Ben Mendelsohn",
+                "Vince Poletto",
+                "Jodie Dry"
+            ],
+            "Genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "BBHTV Pty. Ltd."
+            ],
+            "PlotKeywords": [
+                "female nudity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "3 December 2005",
+            "Budget": 2400000,
+            "RuntimeMinutes": 88
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2006",
+            "FilmTitle": "Running Scared: Through the Looking Glass",
+            "FilmUrl": "https://www.imdb.com/title/tt0979939/?ref_=nm_flmg_slf_56",
+            "Directors": [
+                "J.B. Benna"
+            ],
+            "Writers": [
+                "J.B. Benna"
+            ],
+            "Stars": [
+                "Cameron Bright",
+                "Vera Farmiga",
+                "Wayne Kramer"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Scope Seven"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "6 June 2006"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2006",
+            "FilmTitle": "Weekend Sunrise",
+            "FilmUrl": "https://www.imdb.com/title/tt0872065/?ref_=nm_flmg_slf_57",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Prue MacSween",
+                "Samantha Armytage",
+                "Andrew O'Keefe"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "entertainment",
+                "non fiction"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "10 April 2005"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2006",
+            "FilmTitle": "Rove Live",
+            "FilmUrl": "https://www.imdb.com/title/tt0261489/?ref_=nm_flmg_slf_58",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Rove McManus",
+                "Peter Helliar",
+                "Corinne Grant"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Roving Enterprises"
+            ],
+            "PlotKeywords": [
+                "celebrity guest",
+                "australian television",
+                "jellybean",
+                "stand up comedian",
+                "live show"
+            ],
+            "UserReviews": 41,
+            "ReleaseDate": "9 October 2000",
+            "RuntimeMinutes": 75
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2006",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_59",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Kimmel",
+                "Cleto and the Cletones",
+                "Cleto Escobedo III"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Jackhole Industries",
+                "12:05 Productions",
+                "ABC Studios"
+            ],
+            "PlotKeywords": [
+                "woke",
+                "actor plays himself",
+                "actor name in series title",
+                "exclamation point in series title",
+                "2000s"
+            ],
+            "UserReviews": 60,
+            "CriticReviews": 2,
+            "Popularity": 326,
+            "ReleaseDate": "26 January 2003",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2006",
+            "FilmTitle": "Martha",
+            "FilmUrl": "https://www.imdb.com/title/tt0465340/?ref_=nm_flmg_slf_60",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Martha Stewart",
+                "Ashley Sandberg",
+                "Lucinda Scala Quinn"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Martha Stewart Living Omnimedia"
+            ],
+            "PlotKeywords": [
+                "dinner",
+                "non fiction",
+                "character name in title"
+            ],
+            "UserReviews": 3,
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2006",
+            "FilmTitle": "The Reichen Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0780409/?ref_=nm_flmg_slf_61",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Reichen Lehmkuhl",
+                "Lesley DeBrier",
+                "Rosa Blasi"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Q Television"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "non fiction"
+            ],
+            "ReleaseDate": "11 November 2005"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2005",
+            "FilmTitle": "2005 Taurus World Stunt Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0844444/?ref_=nm_flmg_slf_62",
+            "Directors": [
+                "Hamish Hamilton"
+            ],
+            "Writers": [
+                "Jeff Stilson",
+                "Lance Crouther"
+            ],
+            "Stars": [
+                "Vic Armstrong",
+                "Gregory J. Barnett",
+                "Nina Bergman"
+            ],
+            "Genres": [
+                "Action"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special",
+                "awards show",
+                "number in title"
+            ],
+            "ReleaseDate": "10 October 2005"
+        },
+        {
+            "CharacterName": "Self / Jared",
+            "Year": "2005",
+            "FilmTitle": "Into the Blue: Diving Deeper Into the Blue",
+            "FilmUrl": "https://www.imdb.com/title/tt1018734/?ref_=nm_flmg_slf_63",
+            "Directors": [
+                "Jim Bacon"
+            ],
+            "Writers": [],
+            "Stars": [
+                "John Stockwell",
+                "Jessica Alba",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment"
+            ],
+            "PlotKeywords": [],
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2005",
+            "FilmTitle": "Shootout",
+            "FilmUrl": "https://www.imdb.com/title/tt0390776/?ref_=nm_flmg_slf_64",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Peter Guber",
+                "Jeff Brenner",
+                "Clint Eastwood"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Scott Sternberg Productions"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "day in title",
+                "show business",
+                "writing"
+            ],
+            "UserReviews": 5,
+            "CriticReviews": 1,
+            "ReleaseDate": "12 October 2003",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2005",
+            "FilmTitle": "2005 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0463853/?ref_=nm_flmg_slf_65",
+            "Directors": [
+                "Joel Gallen",
+                "David Dobkin"
+            ],
+            "Writers": [
+                "Mike Bender",
+                "Liz Cackowski"
+            ],
+            "Stars": [
+                "Jimmy Fallon",
+                "Jessica Alba",
+                "William Alva"
+            ],
+            "Genres": [
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "Tenth Planet Productions"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "spoof",
+                "rock band",
+                "awards show",
+                "number in title"
+            ],
+            "UserReviews": 4,
+            "ReleaseDate": "9 June 2005",
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2005",
+            "FilmTitle": "MTV Movie Awards 2005 Pre-Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0468511/?ref_=nm_flmg_slf_66",
+            "Directors": [
+                "Liz Patrick"
+            ],
+            "Writers": [],
+            "Stars": [
+                "SuChin Pak",
+                "Nicole Richie",
+                "Fat Joe"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Music Television (MTV)"
+            ],
+            "PlotKeywords": [
+                "awards show",
+                "tv special"
+            ],
+            "ReleaseDate": "9 June 2005"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2004",
+            "FilmTitle": "Journey Through 'Timeline'",
+            "FilmUrl": "https://www.imdb.com/title/tt0483416/?ref_=nm_flmg_slf_67",
+            "Directors": [
+                "Jonathan Gaines"
+            ],
+            "Writers": [
+                "Jonathan Gaines"
+            ],
+            "Stars": [
+                "Richard Donner",
+                "Sioux Richards",
+                "Jim Van Wyck"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Paramount Pictures"
+            ],
+            "PlotKeywords": [
+                "making of"
+            ],
+            "ReleaseDate": "13 April 2004",
+            "RuntimeMinutes": 45
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2004",
+            "FilmTitle": "The Textures of 'Timeline'",
+            "FilmUrl": "https://www.imdb.com/title/tt0483440/?ref_=nm_flmg_slf_68",
+            "Directors": [
+                "Jonathan Gaines"
+            ],
+            "Writers": [
+                "Jonathan Gaines"
+            ],
+            "Stars": [
+                "Simon Atherton",
+                "Jenny Beavan",
+                "Gerard Butler"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Paramount Pictures"
+            ],
+            "PlotKeywords": [
+                "filmmaking",
+                "behind the scenes"
+            ],
+            "ReleaseDate": "13 April 2004",
+            "RuntimeMinutes": 18
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2004",
+            "FilmTitle": "Jessica's Crush",
+            "FilmUrl": "https://www.imdb.com/title/tt1245770/?ref_=nm_flmg_slf_69",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jim Carrey",
+                "J.C. Chasez",
+                "Hayden Christensen"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "AOL Productions"
+            ],
+            "PlotKeywords": [
+                "queen"
+            ],
+            "Budget": 500000
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2003",
+            "FilmTitle": "2 Fast 2 Furious: Actor Driving School",
+            "FilmUrl": "https://www.imdb.com/title/tt0496646/?ref_=nm_flmg_slf_70",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Artie Malesci",
+                "John Singleton",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment"
+            ],
+            "PlotKeywords": [
+                "intentionally misspelled title",
+                "number in title"
+            ],
+            "ReleaseDate": "30 September 2003",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "2 Fast 2 Furious: Actor Spotlights",
+            "FilmUrl": "https://www.imdb.com/title/tt5267580/?ref_=nm_flmg_slf_71",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Devon Aoki",
+                "Tyrese Gibson",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment"
+            ],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "30 September 2003",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "2 Fast 2 Furious: Car Spotlights",
+            "FilmUrl": "https://www.imdb.com/title/tt0498220/?ref_=nm_flmg_slf_72",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Devon Aoki",
+                "Tyrese Gibson",
+                "Eva Marie Lardani"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Universal Studios Home Video"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "30 September 2003",
+            "RuntimeMinutes": 9
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "2 Fast 2 Furious: Supercharged Stunts",
+            "FilmUrl": "https://www.imdb.com/title/tt5273824/?ref_=nm_flmg_slf_73",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Troy Brown",
+                "Tyrese Gibson",
+                "Artie Malesci"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "30 September 2003",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2003",
+            "FilmTitle": "Inside '2 Fast 2 Furious'",
+            "FilmUrl": "https://www.imdb.com/title/tt0496753/?ref_=nm_flmg_slf_74",
+            "Directors": [],
+            "Writers": [
+                "Jim Bacon"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Neal H. Moritz",
+                "John Singleton"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment"
+            ],
+            "PlotKeywords": [
+                "intentionally misspelled title",
+                "number in title"
+            ],
+            "ReleaseDate": "30 September 2003",
+            "Budget": 75000,
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "Making Music with Ludacris",
+            "FilmUrl": "https://www.imdb.com/title/tt0496794/?ref_=nm_flmg_slf_75",
+            "Directors": [
+                "Jim Bacon"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Devon Aoki",
+                "Bryan Barber",
+                "Tyrese Gibson"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "30 September 2003"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "The Making of '2 Fast 2 Furious'",
+            "FilmUrl": "https://www.imdb.com/title/tt0791323/?ref_=nm_flmg_slf_76",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tyrese Gibson",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment"
+            ],
+            "PlotKeywords": [
+                "making of",
+                "behind the scenes",
+                "number in title"
+            ],
+            "ReleaseDate": "7 July 2003",
+            "Budget": 25000,
+            "RuntimeMinutes": 23
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "Shifting Gears: The Making of '2 Fast 2 Furious'",
+            "FilmUrl": "https://www.imdb.com/title/tt0791337/?ref_=nm_flmg_slf_77",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tyrese Gibson",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment"
+            ],
+            "PlotKeywords": [
+                "making of",
+                "behind the scenes",
+                "number in title"
+            ],
+            "ReleaseDate": "20 June 2003",
+            "Budget": 40000,
+            "RuntimeMinutes": 14
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2003",
+            "FilmTitle": "2003 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0364913/?ref_=nm_flmg_slf_78",
+            "Directors": [
+                "Louis J. Horvitz",
+                "Joel Gallen"
+            ],
+            "Writers": [
+                "Mike Bender",
+                "Philippa Boyens"
+            ],
+            "Stars": [
+                "Seann William Scott",
+                "Justin Timberlake",
+                "50 Cent"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "MTV Productions"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "UserReviews": 5,
+            "ReleaseDate": "5 June 2003"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2003",
+            "FilmTitle": "The 60th Annual Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0349057/?ref_=nm_flmg_slf_79",
+            "Directors": [
+                "Chris Donovan",
+                "Al Schwartz"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Calpernia Addams",
+                "Tim Allen",
+                "Pedro Almod\u00f3var"
+            ],
+            "Genres": [
+                "Family"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "awards show",
+                "the golden globes",
+                "year 2003",
+                "2000s",
+                "golden globes"
+            ],
+            "ReleaseDate": "19 January 2003"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2002",
+            "FilmTitle": "The Making of 'Joy Ride'",
+            "FilmUrl": "https://www.imdb.com/title/tt5299888/?ref_=nm_flmg_slf_80",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "John Dahl",
+                "Leelee Sobieski",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "22 October 2002",
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Year": "2002",
+            "FilmTitle": "2002 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0324947/?ref_=nm_flmg_slf_81",
+            "Directors": [
+                "Bruce Gowers"
+            ],
+            "Writers": [
+                "Carter Bays",
+                "Louis C.K."
+            ],
+            "Stars": [
+                "Jack Black",
+                "Sarah Michelle Gellar",
+                "Kate Beckinsale"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Music Television (MTV)"
+            ],
+            "PlotKeywords": [
+                "entertainment",
+                "lesbian kiss",
+                "spoof",
+                "awards show",
+                "tv special"
+            ],
+            "UserReviews": 6,
+            "ReleaseDate": "6 June 2002",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2002",
+            "FilmTitle": "The Making of 'The Fast and the Furious'",
+            "FilmUrl": "https://www.imdb.com/title/tt5267184/?ref_=nm_flmg_slf_82",
+            "Directors": [],
+            "Writers": [
+                "Kelly Hefner"
+            ],
+            "Stars": [
+                "Neal H. Moritz",
+                "Rob Cohen",
+                "Vin Diesel"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "2 January 2002",
+            "RuntimeMinutes": 18
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2001",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_slf_83",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Annemarie Carpendale",
+                "Daniel Aminati",
+                "Nela Panghy-Lee"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "fun",
+                "deutschland",
+                "brd",
+                "pro7",
+                "yellow journalism"
+            ]
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2001",
+            "FilmTitle": "The Rosie O'Donnell Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115338/?ref_=nm_flmg_slf_84",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Rosie O'Donnell",
+                "Caroline Rhea",
+                "Susan Lucci"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Kid-Ro Productions",
+                "Telepictures Productions",
+                "Warner Bros. Television"
+            ],
+            "PlotKeywords": [
+                "actress name in title",
+                "interview",
+                "female protagonist",
+                "apostrophe in title",
+                "name in title"
+            ],
+            "UserReviews": 17,
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2001",
+            "FilmTitle": "+ de cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt0302066/?ref_=nm_flmg_slf_85",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Isabelle Giordano",
+                "Philippe Vecchi",
+                "Beno\u00eet Poelvoorde"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short",
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Canal+ Productions"
+            ],
+            "PlotKeywords": [
+                "show business",
+                "promotional program",
+                "music industry",
+                "interview",
+                "film industry"
+            ],
+            "ReleaseDate": "3 September 2001",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2001",
+            "FilmTitle": "Young Hollywood Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt0358780/?ref_=nm_flmg_slf_86",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jessica Alba",
+                "Krista Allen",
+                "Ann-Margret"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Arjay Entertainment",
+                "VOX Entertainment"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "ReleaseDate": "6 November 2005"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2000",
+            "FilmTitle": "Spotlight on Location: The Skulls",
+            "FilmUrl": "https://www.imdb.com/title/tt0420928/?ref_=nm_flmg_slf_87",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Leslie Bibb",
+                "Rob Cohen",
+                "Hill Harper"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self - Contestant",
+            "Year": "1988",
+            "FilmTitle": "I'm Telling!",
+            "FilmUrl": "https://www.imdb.com/title/tt0198149/?ref_=nm_flmg_slf_88",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Laurie Faso",
+                "Dean Goss",
+                "Rachel Bukyte"
+            ],
+            "Genres": [
+                "Game-Show"
+            ],
+            "ProductionCompanies": [
+                "DIC Entertainment",
+                "Saban Productions"
+            ],
+            "PlotKeywords": [
+                "sibling",
+                "non fiction"
+            ],
+            "UserReviews": 10,
+            "CriticReviews": 1,
+            "ReleaseDate": "12 September 1987",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018-2020",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_arf_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sonia Isabelle",
+                "Jaymes Vaughan",
+                "Arthur Kade"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Unconventional Partners"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "stars",
+                "non fiction"
+            ],
+            "ReleaseDate": "9 September 2013",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013-2020",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Hollywood's Stories",
+            "FilmUrl": "https://www.imdb.com/title/tt11427372/?ref_=nm_flmg_arf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Elizabeth Wautlet",
+                "Rhonda Richford",
+                "Johnny Depp"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Prime Entertainment Group"
+            ],
+            "PlotKeywords": [
+                "metoo",
+                "stars",
+                "celebrity",
+                "scandal"
+            ],
+            "ReleaseDate": "28 October 2019",
+            "Budget": 500000,
+            "RuntimeMinutes": 26
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Behind Closed Doors",
+            "FilmUrl": "https://www.imdb.com/title/tt8107920/?ref_=nm_flmg_arf_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Natalie Morales",
+                "Didi Conn",
+                "Stephen Tropiano"
+            ],
+            "Genres": [
+                "Biography"
+            ],
+            "ProductionCompanies": [
+                "Reelz USA"
+            ],
+            "PlotKeywords": [],
+            "Budget": 100000,
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "I Am Paul Walker",
+            "FilmUrl": "https://www.imdb.com/title/tt8068936/?ref_=nm_flmg_arf_5",
+            "Directors": [
+                "Adrian Buitenhuis"
+            ],
+            "Writers": [
+                "Adrian Buitenhuis",
+                "Ian Craig Walker"
+            ],
+            "Stars": [
+                "Paul Walker",
+                "Cheryl Walker",
+                "Paul Walker III"
+            ],
+            "Genres": [
+                "Documentary",
+                "Biography"
+            ],
+            "ProductionCompanies": [
+                "Network Entertainment",
+                "Paramount Network"
+            ],
+            "PlotKeywords": [
+                "year 1988",
+                "birthday",
+                "blowing out candles on a birthday cake",
+                "gear head",
+                "pontiac bonneville"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 17,
+            "ReleaseDate": "11 August 2018",
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015-2018",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Renee Bargh",
+                "Mario Lopez",
+                "Charissa Thompson"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "Tinseltown Entertainment"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "show business",
+                "non fiction"
+            ],
+            "UserReviews": 8,
+            "ReleaseDate": "5 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "The Dr. Oz Show",
+            "FilmUrl": "https://www.imdb.com/title/tt1442070/?ref_=nm_flmg_arf_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Mehmet Oz",
+                "Daphne Oz",
+                "Odette Warder Henderson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Harpo Productions",
+                "Oz Works",
+                "Zo Co Productions"
+            ],
+            "PlotKeywords": [
+                "quack doctor",
+                "quackery",
+                "quack",
+                "four word title",
+                "period in title"
+            ],
+            "UserReviews": 11,
+            "ReleaseDate": "14 September 2009",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Updating Death",
+            "FilmUrl": "https://www.imdb.com/title/tt6705238/?ref_=nm_flmg_arf_8",
+            "Directors": [
+                "Carsten Aschmann"
+            ],
+            "Writers": [
+                "Carsten Aschmann"
+            ],
+            "Stars": [
+                "Philip Seymour Hoffman",
+                "Heath Ledger",
+                "Paul Walker"
+            ],
+            "Genres": [
+                "Short",
+                "Drama",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Hula-Offline",
+                "Kulturb\u00fcro der Landeshauptstadt Hannover",
+                "Nordmedia Fonds"
+            ],
+            "PlotKeywords": [
+                "fame",
+                "surrealism",
+                "avant garde",
+                "archive footage",
+                "undead"
+            ],
+            "ReleaseDate": "27 April 2017",
+            "RuntimeMinutes": 14
+        },
+        {
+            "CharacterName": "Self - In Memoriam / Recipient: Disaster Relief",
+            "Year": "2015",
+            "FilmTitle": "The 3rd Annual Noble Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5203914/?ref_=nm_flmg_arf_9",
+            "Directors": [
+                "Leslie Wilson"
+            ],
+            "Writers": [
+                "Daniel Macks",
+                "Jon Macks"
+            ],
+            "Stars": [
+                "David Arquette",
+                "Patricia Arquette",
+                "Richmond Arquette"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "All 4 Media"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "ReleaseDate": "26 November 2015",
+            "RuntimeMinutes": 45
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Furious 7: Back to the Starting Line",
+            "FilmUrl": "https://www.imdb.com/title/tt5273526/?ref_=nm_flmg_arf_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Chris Morgan",
+                "Vin Diesel",
+                "Michelle Rodriguez"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 September 2015",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2015",
+            "FilmTitle": "Furious 7: Tower Jumps",
+            "FilmUrl": "https://www.imdb.com/title/tt5273612/?ref_=nm_flmg_arf_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Neal H. Moritz",
+                "James Wan",
+                "Jack Gill"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 September 2015",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2015",
+            "FilmTitle": "The Cars of Furious 7",
+            "FilmUrl": "https://www.imdb.com/title/tt5273596/?ref_=nm_flmg_arf_12",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Neal H. Moritz",
+                "Michelle Rodriguez",
+                "Bill Brzeski"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 September 2015",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Inside Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt0166442/?ref_=nm_flmg_arf_13",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Deborah Norville",
+                "Les Trent",
+                "Diane McInerney"
+            ],
+            "Genres": [
+                "Documentary",
+                "News"
+            ],
+            "ProductionCompanies": [
+                "A Knotty Entertainment",
+                "KPI Productions",
+                "King World Productions"
+            ],
+            "PlotKeywords": [
+                "magazine"
+            ],
+            "UserReviews": 14,
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "CNN Newsroom",
+            "FilmUrl": "https://www.imdb.com/title/tt0476038/?ref_=nm_flmg_arf_14",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Poppy Harlow",
+                "Brooke Baldwin",
+                "Jim Sciutto"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Cable News Network (CNN)",
+                "WarnerMedia"
+            ],
+            "PlotKeywords": [
+                "anti trump media",
+                "liberal media",
+                "liberal propaganda",
+                "1980s",
+                "2020s"
+            ],
+            "UserReviews": 5,
+            "Budget": 500000
+        },
+        {
+            "CharacterName": "Self (In Memoriam)",
+            "Year": "2014",
+            "FilmTitle": "The 66th Primetime Emmy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3860114/?ref_=nm_flmg_arf_15",
+            "Directors": [
+                "Glenn Weiss"
+            ],
+            "Writers": [
+                "Alison Agosti",
+                "Alex Baze"
+            ],
+            "Stars": [
+                "Seth Meyers",
+                "Amy Poehler",
+                "Fred Armisen"
+            ],
+            "Genres": [
+                "News",
+                "Reality-TV",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Academy of Television Arts and Sciences (ATAS)",
+                "Don Mischer Productions"
+            ],
+            "PlotKeywords": [
+                "reference to imdb",
+                "awards show",
+                "tv special"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "25 August 2014",
+            "RuntimeMinutes": 127
+        },
+        {
+            "CharacterName": "Self - Tribute",
+            "Year": "2014",
+            "FilmTitle": "2014 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3578774/?ref_=nm_flmg_arf_16",
+            "Directors": [
+                "Hamish Hamilton",
+                "Evan Silver"
+            ],
+            "Writers": [
+                "Jos\u00e9 Arroyo",
+                "Deon Cole"
+            ],
+            "Stars": [
+                "Conan O'Brien",
+                "Andy Samberg",
+                "Seth Rogen"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "Dakota Pictures",
+                "Den of Thieves",
+                "Entertainment Services LA"
+            ],
+            "PlotKeywords": [
+                "mtv",
+                "tv special",
+                "abbreviation in title",
+                "year in title",
+                "awards show"
+            ],
+            "ReleaseDate": "13 April 2014"
+        },
+        {
+            "CharacterName": "Self - Actor (In Memoriam)",
+            "Year": "2014",
+            "FilmTitle": "The 86th Annual Academy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2796782/?ref_=nm_flmg_arf_17",
+            "Directors": [
+                "Hamish Hamilton"
+            ],
+            "Writers": [
+                "Kristin Gore",
+                "Amy Ozols"
+            ],
+            "Stars": [
+                "Ellen DeGeneres",
+                "Anne Hathaway",
+                "Barkhad Abdi"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "Academy of Motion Picture Arts and Sciences (AMPAS)",
+                "A Very Good Production Inc."
+            ],
+            "PlotKeywords": [
+                "selfie",
+                "awards show",
+                "academy awards ceremony",
+                "tv special",
+                "theatre audience"
+            ],
+            "UserReviews": 16,
+            "CriticReviews": 8,
+            "ReleaseDate": "2 March 2014",
+            "RuntimeMinutes": 175
+        },
+        {
+            "CharacterName": "Self - In Memoriam",
+            "Year": "2014",
+            "FilmTitle": "20th Annual Screen Actors Guild Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt3477194/?ref_=nm_flmg_arf_18",
+            "Directors": [
+                "Jeff Margolis"
+            ],
+            "Writers": [
+                "Dave Boone"
+            ],
+            "Stars": [
+                "Jennifer Lawrence",
+                "Lupita Nyong'o",
+                "Julia Roberts"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Jeff Margolis Productions",
+                "SAG-AFTRA"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "ReleaseDate": "18 January 2014"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_arf_19",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "M\u00e1rio Augusto",
+                "Paulo Branco",
+                "Nicolau Breyner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "At\u00e9 ao Fim do Mundo"
+            ],
+            "PlotKeywords": [
+                "show",
+                "non fiction"
+            ],
+            "ReleaseDate": "3 March 2010"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Fant\u00e1stico",
+            "FilmUrl": "https://www.imdb.com/title/tt0381753/?ref_=nm_flmg_arf_20",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Zeca Camargo",
+                "Tadeu Schmidt",
+                "Renata Ceribelli"
+            ],
+            "Genres": [
+                "Crime",
+                "Music",
+                "News",
+                "Reality-TV",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Rede Globo de Televis\u00e3o"
+            ],
+            "PlotKeywords": [
+                "brazilian journalism",
+                "non fiction"
+            ],
+            "ReleaseDate": "5 August 1973"
+        },
+        {
+            "CharacterName": "Self / Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "Chelsea Lately",
+            "FilmUrl": "https://www.imdb.com/title/tt1002838/?ref_=nm_flmg_arf_21",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Chuy Bravo",
+                "Chelsea Handler",
+                "Mike Rock"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Borderline Amazing Productions",
+                "E! Entertainment Television"
+            ],
+            "PlotKeywords": [
+                "2000s",
+                "2010s",
+                "21st century",
+                "chelsea handler",
+                "reference to chelsea handler"
+            ],
+            "UserReviews": 13,
+            "CriticReviews": 2
+        },
+        {
+            "CharacterName": "Brian O'Conner",
+            "Year": "2013",
+            "FilmTitle": "Movie Guide",
+            "FilmUrl": "https://www.imdb.com/title/tt2841688/?ref_=nm_flmg_arf_22",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Naniko Khazaradze",
+                "Lasha Dardagany"
+            ],
+            "Genres": [
+                "Action",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Maestro Cable Television"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "11 April 2013",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "'Professor' Bennett",
+            "Year": "2010",
+            "FilmTitle": "Cinemassacre's Monster Madness",
+            "FilmUrl": "https://www.imdb.com/title/tt1743990/?ref_=nm_flmg_arf_23",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "James Rolfe",
+                "Mike Matei",
+                "Antonio Piluso"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Cinemassacre Productions"
+            ],
+            "PlotKeywords": [
+                "2000s",
+                "2010s",
+                "horror film",
+                "horror fiction",
+                "horror genre"
+            ],
+            "UserReviews": 4,
+            "ReleaseDate": "1 October 2007",
+            "Budget": 15000
+        },
+        {
+            "CharacterName": "'Professor' Bennett (in 'Monster in the Closet')",
+            "Year": "2010",
+            "FilmTitle": "Troma Is Spanish for Troma",
+            "FilmUrl": "https://www.imdb.com/title/tt1740708/?ref_=nm_flmg_arf_24",
+            "Directors": [
+                "Marc Gras"
+            ],
+            "Writers": [
+                "Marc Gras"
+            ],
+            "Stars": [
+                "Nacho Cerd\u00e0",
+                "Naxo Fiol",
+                "Eduardo Guillot"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Mushnik's Entertainment"
+            ],
+            "PlotKeywords": []
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009",
+            "FilmTitle": "South of the Border: Filming in Mexico",
+            "FilmUrl": "https://www.imdb.com/title/tt5527626/?ref_=nm_flmg_arf_25",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Michael Fottrell",
+                "Justin Lin",
+                "Vin Diesel"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "28 July 2009",
+            "RuntimeMinutes": 3
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_arf_26",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Annemarie Carpendale",
+                "Daniel Aminati",
+                "Nela Panghy-Lee"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "fun",
+                "deutschland",
+                "brd",
+                "pro7",
+                "yellow journalism"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3157 @@
+{
+    "Rank": 45,
+    "FullName": "Elizabeth Olsen",
+    "DomesticBoxOfficeRevenue": 2458177104,
+    "AverageDomesticBoxOfficeRevenue": 175584079,
+    "DataSourceUrl": "https://www.imdb.com/find?s=nm&q=Elizabeth+Olsen&ref_=nv_sr_sm",
+    "LocalDataSourcePath": "./html/imdb_profiles/ElizabethOlsen.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "DOB": "1989-2-16",
+    "BornIn": "Sherman Oaks, California, USA",
+    "Gender": "Female",
+    "Height": 1.68,
+    "AstrologicalSign": "Aquarius",
+    "Trademark": "Clear green eyes",
+    "AwardsWins": 14,
+    "AwardNominations": 38,
+    "Roles": [
+        {
+            "CharacterName": "Wanda Maximoff / Scarlet Witch",
+            "Year": "2022",
+            "FilmTitle": "Doctor Strange in the Multiverse of Madness",
+            "FilmUrl": "https://www.imdb.com/title/tt9419884/?ref_=nm_flmg_act_1",
+            "Directors": [
+                "Sam Raimi"
+            ],
+            "Writers": [
+                "Jade Halley Bartlett",
+                "Steve Ditko"
+            ],
+            "Stars": [
+                "Benedict Cumberbatch",
+                "Elizabeth Olsen",
+                "Chiwetel Ejiofor"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios"
+            ],
+            "PlotKeywords": [
+                "marvel comics",
+                "second part",
+                "superhero",
+                "based on comic",
+                "sequel"
+            ],
+            "Popularity": 907,
+            "ReleaseDate": "25 March 2022"
+        },
+        {
+            "CharacterName": "Wanda Maximoff / Scarlet Witch",
+            "Year": "2020",
+            "FilmTitle": "WandaVision",
+            "FilmUrl": "https://www.imdb.com/title/tt9140560/?ref_=nm_flmg_act_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Paul Bettany",
+                "Kat Dennings",
+                "Kathryn Hahn"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Romance",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios"
+            ],
+            "PlotKeywords": [
+                "marvel comics",
+                "based on comic",
+                "superhero",
+                "superheroine",
+                "scarlet witch character"
+            ],
+            "CriticReviews": 2,
+            "Popularity": 178
+        },
+        {
+            "CharacterName": "Leigh Shaw",
+            "Year": "2018-2019",
+            "FilmTitle": "Sorry for Your Loss",
+            "FilmUrl": "https://www.imdb.com/title/tt8000638/?ref_=nm_flmg_act_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Elizabeth Olsen",
+                "Kelly Marie Tran",
+                "Jovan Adepo"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Big Beach TV",
+                "Brillstein Entertainment Partners"
+            ],
+            "PlotKeywords": [
+                "grief",
+                "loss of husband"
+            ],
+            "UserReviews": 19,
+            "CriticReviews": 11,
+            "Popularity": 416,
+            "ReleaseDate": "18 September 2018",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Wanda Maximoff / Scarlet Witch",
+            "Year": "2019",
+            "FilmTitle": "Avengers: Endgame",
+            "FilmUrl": "https://www.imdb.com/title/tt4154796/?ref_=nm_flmg_act_4",
+            "Directors": [
+                "Anthony Russo",
+                "Joe Russo"
+            ],
+            "Writers": [
+                "Christopher Markus",
+                "Stephen McFeely"
+            ],
+            "Stars": [
+                "Robert Downey Jr.",
+                "Chris Evans",
+                "Mark Ruffalo"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios",
+                "Walt Disney Pictures"
+            ],
+            "PlotKeywords": [
+                "time travel",
+                "superhero",
+                "cosmic",
+                "super villain",
+                "marvel cinematic universe"
+            ],
+            "Metascore": 78,
+            "UserReviews": 8900,
+            "CriticReviews": 559,
+            "Popularity": 58,
+            "MotionPictureRating": "Rated PG-13 for sequences of sci-fi violence and action, and some language",
+            "ReleaseDate": "26 April 2019",
+            "Budget": 356000000,
+            "OpeningWeekend": 357115007,
+            "Gross": 858373000,
+            "CumulativeWorldwideGross": 2797800564,
+            "RuntimeMinutes": 181
+        },
+        {
+            "CharacterName": "Wanda Maximoff / Scarlet Witch",
+            "Year": "2018",
+            "FilmTitle": "Avengers: Infinity War",
+            "FilmUrl": "https://www.imdb.com/title/tt4154756/?ref_=nm_flmg_act_5",
+            "Directors": [
+                "Anthony Russo",
+                "Joe Russo"
+            ],
+            "Writers": [
+                "Christopher Markus",
+                "Stephen McFeely"
+            ],
+            "Stars": [
+                "Robert Downey Jr.",
+                "Chris Hemsworth",
+                "Mark Ruffalo"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios",
+                "Jason Roberts Productions",
+                "South Pictures"
+            ],
+            "PlotKeywords": [
+                "death of recurring character",
+                "superhero",
+                "supervillain",
+                "ensemble cast",
+                "marvel cinematic universe"
+            ],
+            "Metascore": 68,
+            "UserReviews": 4281,
+            "CriticReviews": 611,
+            "Popularity": 222,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of sci-fi violence and action throughout, language and some crude references.",
+            "ReleaseDate": "27 April 2018",
+            "Budget": 321000000,
+            "OpeningWeekend": 257698183,
+            "Gross": 678815482,
+            "CumulativeWorldwideGross": 2048359754,
+            "RuntimeMinutes": 149
+        },
+        {
+            "CharacterName": "Stirrup",
+            "Year": "2017",
+            "FilmTitle": "HarmonQuest",
+            "FilmUrl": "https://www.imdb.com/title/tt5905038/?ref_=nm_flmg_act_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dan Harmon",
+                "Spencer Crittenden",
+                "Jeff Bryan Davis"
+            ],
+            "Genres": [
+                "Animation",
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Starburns Industries",
+                "Universal Cable Productions"
+            ],
+            "PlotKeywords": [
+                "celebrity"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 3,
+            "ReleaseDate": "14 July 2016",
+            "RuntimeMinutes": 23
+        },
+        {
+            "CharacterName": "Zooey Kern",
+            "Year": "2017",
+            "FilmTitle": "Kodachrome",
+            "FilmUrl": "https://www.imdb.com/title/tt1880399/?ref_=nm_flmg_act_7",
+            "Directors": [
+                "Mark Raso"
+            ],
+            "Writers": [
+                "Jonathan Tropper"
+            ],
+            "Stars": [
+                "Ed Harris",
+                "Jason Sudeikis",
+                "Elizabeth Olsen"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "21 Laps Entertainment",
+                "Gotham Group",
+                "Motion Picture Capital"
+            ],
+            "PlotKeywords": [
+                "trademark in title",
+                "indie movie",
+                "one word title",
+                "shot on kodak film",
+                "kodak"
+            ],
+            "Metascore": 57,
+            "UserReviews": 84,
+            "CriticReviews": 59,
+            "ReleaseDate": "20 April 2018",
+            "CumulativeWorldwideGross": 70149,
+            "RuntimeMinutes": 105
+        },
+        {
+            "CharacterName": "Jane Banner",
+            "Year": "2017",
+            "FilmTitle": "Wind River",
+            "FilmUrl": "https://www.imdb.com/title/tt5362988/?ref_=nm_flmg_act_8",
+            "Directors": [
+                "Taylor Sheridan"
+            ],
+            "Writers": [
+                "Taylor Sheridan"
+            ],
+            "Stars": [
+                "Kelsey Asbille",
+                "Jeremy Renner",
+                "Julia Jones"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Acacia Filmed Entertainment",
+                "Savvy Media Holdings",
+                "The Fyzz Facility"
+            ],
+            "PlotKeywords": [
+                "investigation",
+                "snow",
+                "native american reservation",
+                "snowmobile",
+                "gang rape"
+            ],
+            "Metascore": 73,
+            "UserReviews": 620,
+            "CriticReviews": 375,
+            "Popularity": 729,
+            "MotionPictureRating": "Rated R for strong violence, a rape, disturbing images, and language",
+            "ReleaseDate": "18 August 2017",
+            "Budget": 11000000,
+            "OpeningWeekend": 161558,
+            "Gross": 33800859,
+            "CumulativeWorldwideGross": 43980821,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Taylor Sloane",
+            "Year": "2017",
+            "FilmTitle": "Ingrid Goes West",
+            "FilmUrl": "https://www.imdb.com/title/tt5962210/?ref_=nm_flmg_act_9",
+            "Directors": [
+                "Matt Spicer"
+            ],
+            "Writers": [
+                "David Branson Smith",
+                "Matt Spicer"
+            ],
+            "Stars": [
+                "Aubrey Plaza",
+                "Elizabeth Olsen",
+                "O'Shea Jackson Jr."
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Star Thrower Entertainment",
+                "Mighty Engine",
+                "141 Entertainment"
+            ],
+            "PlotKeywords": [
+                "instagram",
+                "defecation",
+                "stalker",
+                "harassment",
+                "hashtag"
+            ],
+            "Metascore": 71,
+            "UserReviews": 154,
+            "CriticReviews": 161,
+            "MotionPictureRating": "Rated R for language throughout, drug use, some sexual content and disturbing behavior",
+            "ReleaseDate": "25 August 2017",
+            "OpeningWeekend": 135301,
+            "Gross": 3024308,
+            "CumulativeWorldwideGross": 3146831,
+            "RuntimeMinutes": 98
+        },
+        {
+            "CharacterName": "Norma Kopp",
+            "Year": "2016",
+            "FilmTitle": "Drunk History",
+            "FilmUrl": "https://www.imdb.com/title/tt2712612/?ref_=nm_flmg_act_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Derek Waters",
+                "Jen Kirkman",
+                "Jack Black"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy",
+                "History"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "vomiting",
+                "traitor",
+                "eccentric",
+                "meta",
+                "mockumentary"
+            ],
+            "CriticReviews": 2,
+            "ReleaseDate": "23 December 2007"
+        },
+        {
+            "CharacterName": "Wanda Maximoff / Scarlet Witch",
+            "Year": "2016",
+            "FilmTitle": "Captain America: Civil War",
+            "FilmUrl": "https://www.imdb.com/title/tt3498820/?ref_=nm_flmg_act_11",
+            "Directors": [
+                "Anthony Russo",
+                "Joe Russo"
+            ],
+            "Writers": [
+                "Christopher Markus",
+                "Stephen McFeely"
+            ],
+            "Stars": [
+                "Chris Evans",
+                "Robert Downey Jr.",
+                "Scarlett Johansson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios",
+                "Vita-Ray Dutch Productions (III)",
+                "Studio Babelsberg"
+            ],
+            "PlotKeywords": [
+                "marvel cinematic universe",
+                "based on comic book",
+                "superhero",
+                "siberia",
+                "friendship between men"
+            ],
+            "Metascore": 75,
+            "UserReviews": 1431,
+            "CriticReviews": 669,
+            "Popularity": 564,
+            "MotionPictureRating": "Rated PG-13 for extended sequences of violence, action and mayhem",
+            "ReleaseDate": "6 May 2016",
+            "Budget": 250000000,
+            "OpeningWeekend": 179139142,
+            "Gross": 408084349,
+            "CumulativeWorldwideGross": 1153332120,
+            "RuntimeMinutes": 147
+        },
+        {
+            "CharacterName": "Audrey Williams",
+            "Year": "2015",
+            "FilmTitle": "I Saw the Light",
+            "FilmUrl": "https://www.imdb.com/title/tt1490785/?ref_=nm_flmg_act_12",
+            "Directors": [
+                "Marc Abraham"
+            ],
+            "Writers": [
+                "Marc Abraham",
+                "Colin Escott"
+            ],
+            "Stars": [
+                "Tom Hiddleston",
+                "Elizabeth Olsen",
+                "Maddie Hasson"
+            ],
+            "Genres": [
+                "Biography",
+                "Drama",
+                "Music",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "BRON Studios",
+                "RatPac Entertainment"
+            ],
+            "PlotKeywords": [
+                "year 1944",
+                "1940s",
+                "hank williams",
+                "reference to hank williams",
+                "singer"
+            ],
+            "Metascore": 47,
+            "UserReviews": 57,
+            "CriticReviews": 96,
+            "MotionPictureRating": "Rated R for some language and brief sexuality/nudity",
+            "ReleaseDate": "1 April 2016",
+            "Budget": 13000000,
+            "OpeningWeekend": 45471,
+            "Gross": 1646788,
+            "CumulativeWorldwideGross": 1767963,
+            "RuntimeMinutes": 123
+        },
+        {
+            "CharacterName": "Wanda Maximoff / Scarlet Witch",
+            "Year": "2015",
+            "FilmTitle": "Avengers: Age of Ultron",
+            "FilmUrl": "https://www.imdb.com/title/tt2395427/?ref_=nm_flmg_act_13",
+            "Directors": [
+                "Joss Whedon"
+            ],
+            "Writers": [
+                "Joss Whedon",
+                "Stan Lee"
+            ],
+            "Stars": [
+                "Robert Downey Jr.",
+                "Chris Evans",
+                "Mark Ruffalo"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios",
+                "Walt Disney Pictures"
+            ],
+            "PlotKeywords": [
+                "superhero",
+                "marvel cinematic universe",
+                "artificial intelligence",
+                "hallucination",
+                "superhero team"
+            ],
+            "Metascore": 66,
+            "UserReviews": 1311,
+            "CriticReviews": 692,
+            "Popularity": 530,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of sci-fi action, violence and destruction, and for some suggestive comments.",
+            "ReleaseDate": "1 May 2015",
+            "Budget": 250000000,
+            "OpeningWeekend": 191271109,
+            "Gross": 459005868,
+            "CumulativeWorldwideGross": 1402809540,
+            "RuntimeMinutes": 141
+        },
+        {
+            "CharacterName": "Elle Brody",
+            "Year": "2014",
+            "FilmTitle": "Godzilla",
+            "FilmUrl": "https://www.imdb.com/title/tt0831387/?ref_=nm_flmg_act_14",
+            "Directors": [
+                "Gareth Edwards"
+            ],
+            "Writers": [
+                "Ishir\u00f4 Honda",
+                "Takeo Murata"
+            ],
+            "Stars": [
+                "Aaron Taylor-Johnson",
+                "Elizabeth Olsen",
+                "Bryan Cranston"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Warner Bros.",
+                "Legendary Entertainment",
+                "Disruption Entertainment"
+            ],
+            "PlotKeywords": [
+                "radiation",
+                "atomic breath",
+                "halo parachute jump",
+                "u.s. navy",
+                "destruction of city"
+            ],
+            "Metascore": 62,
+            "UserReviews": 1643,
+            "CriticReviews": 641,
+            "Popularity": 543,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of destruction, mayhem and creature violence",
+            "ReleaseDate": "16 May 2014",
+            "Budget": 160000000,
+            "OpeningWeekend": 93188384,
+            "Gross": 200676069,
+            "CumulativeWorldwideGross": 524976069,
+            "RuntimeMinutes": 123
+        },
+        {
+            "CharacterName": "Wanda Maximoff (uncredited)",
+            "Year": "2014",
+            "FilmTitle": "Captain America: The Winter Soldier",
+            "FilmUrl": "https://www.imdb.com/title/tt1843866/?ref_=nm_flmg_act_15",
+            "Directors": [
+                "Anthony Russo",
+                "Joe Russo"
+            ],
+            "Writers": [
+                "Christopher Markus",
+                "Stephen McFeely"
+            ],
+            "Stars": [
+                "Chris Evans",
+                "Samuel L. Jackson",
+                "Scarlett Johansson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Marvel Entertainment",
+                "Marvel Studios",
+                "Walt Disney Pictures"
+            ],
+            "PlotKeywords": [
+                "conspiracy",
+                "assassin",
+                "heroism",
+                "world domination",
+                "bionic arm"
+            ],
+            "Metascore": 70,
+            "UserReviews": 947,
+            "CriticReviews": 614,
+            "Popularity": 956,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of  violence, gunplay and action throughout",
+            "ReleaseDate": "4 April 2014",
+            "Budget": 170000000,
+            "OpeningWeekend": 95023721,
+            "Gross": 259766572,
+            "CumulativeWorldwideGross": 714421503,
+            "RuntimeMinutes": 136
+        },
+        {
+            "CharacterName": "Marie Sebastian",
+            "Year": "2013",
+            "FilmTitle": "Oldboy",
+            "FilmUrl": "https://www.imdb.com/title/tt1321511/?ref_=nm_flmg_act_16",
+            "Directors": [
+                "Spike Lee"
+            ],
+            "Writers": [
+                "Garon Tsuchiya",
+                "Nobuaki Minegishi"
+            ],
+            "Stars": [
+                "Josh Brolin",
+                "Elizabeth Olsen",
+                "Samuel L. Jackson"
+            ],
+            "Genres": [
+                "Action",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Good Universe",
+                "Vertigo Entertainment",
+                "40 Acres & A Mule Filmworks"
+            ],
+            "PlotKeywords": [
+                "father daughter incest",
+                "incest",
+                "male nudity",
+                "female nudity",
+                "solitary confinement"
+            ],
+            "Metascore": 49,
+            "UserReviews": 302,
+            "CriticReviews": 264,
+            "Popularity": 936,
+            "MotionPictureRating": "Rated R for strong brutal violence, disturbing images, some graphic sexuality and nudity, and language",
+            "ReleaseDate": "27 November 2013",
+            "Budget": 30000000,
+            "OpeningWeekend": 885382,
+            "Gross": 2193658,
+            "CumulativeWorldwideGross": 5186767,
+            "RuntimeMinutes": 104
+        },
+        {
+            "CharacterName": "Th\u00e9r\u00e8se Raquin",
+            "Year": "2013",
+            "FilmTitle": "In Secret",
+            "FilmUrl": "https://www.imdb.com/title/tt0409379/?ref_=nm_flmg_act_17",
+            "Directors": [
+                "Charlie Stratton"
+            ],
+            "Writers": [
+                "\u00c9mile Zola",
+                "Neal Bell"
+            ],
+            "Stars": [
+                "Elizabeth Olsen",
+                "Tom Felton",
+                "Jessica Lange"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "LD Entertainment",
+                "Work in Progress",
+                "Exclusive Media Group"
+            ],
+            "PlotKeywords": [
+                "cousins incest",
+                "drowning",
+                "arranged marriage",
+                "female masturbation",
+                "foreign language adaptation"
+            ],
+            "Metascore": 47,
+            "UserReviews": 38,
+            "CriticReviews": 51,
+            "MotionPictureRating": "Rated R for sexual content and brief violent images",
+            "ReleaseDate": "3 April 2014",
+            "OpeningWeekend": 265586,
+            "Gross": 444179,
+            "CumulativeWorldwideGross": 652228,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Gerri",
+            "Year": "2013",
+            "FilmTitle": "Very Good Girls",
+            "FilmUrl": "https://www.imdb.com/title/tt1931602/?ref_=nm_flmg_act_18",
+            "Directors": [
+                "Naomi Foner"
+            ],
+            "Writers": [
+                "Naomi Foner"
+            ],
+            "Stars": [
+                "Dakota Fanning",
+                "Elizabeth Olsen",
+                "Sterling Jones"
+            ],
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Herrick Entertainment",
+                "Groundswell Productions"
+            ],
+            "PlotKeywords": [
+                "year 1846",
+                "year 1992",
+                "banjo",
+                "eraser",
+                "drawing"
+            ],
+            "Metascore": 35,
+            "UserReviews": 29,
+            "CriticReviews": 35,
+            "MotionPictureRating": "Rated R for language  and sexual content",
+            "ReleaseDate": "24 June 2014",
+            "OpeningWeekend": 4102,
+            "Gross": 6940,
+            "CumulativeWorldwideGross": 10963,
+            "RuntimeMinutes": 91
+        },
+        {
+            "CharacterName": "Edie Parker",
+            "Year": "2013",
+            "FilmTitle": "Kill Your Darlings",
+            "FilmUrl": "https://www.imdb.com/title/tt1311071/?ref_=nm_flmg_act_19",
+            "Directors": [
+                "John Krokidas"
+            ],
+            "Writers": [
+                "Austin Bunn"
+            ],
+            "Stars": [
+                "Daniel Radcliffe",
+                "Dane DeHaan",
+                "Michael C. Hall"
+            ],
+            "Genres": [
+                "Biography",
+                "Drama",
+                "Romance",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Killer Films",
+                "Benaroya Pictures",
+                "Outpost Studios"
+            ],
+            "PlotKeywords": [
+                "murder",
+                "1940s",
+                "year 2005",
+                "year 1944",
+                "reference to tulane university"
+            ],
+            "Metascore": 65,
+            "UserReviews": 86,
+            "CriticReviews": 195,
+            "Popularity": 484,
+            "MotionPictureRating": "Rated R for sexual content, language, drug use and brief violence",
+            "ReleaseDate": "19 September 2013",
+            "OpeningWeekend": 53452,
+            "Gross": 1030064,
+            "CumulativeWorldwideGross": 1877924,
+            "RuntimeMinutes": 104
+        },
+        {
+            "CharacterName": "Zibby",
+            "Year": "2012",
+            "FilmTitle": "Liberal Arts",
+            "FilmUrl": "https://www.imdb.com/title/tt1872818/?ref_=nm_flmg_act_20",
+            "Directors": [
+                "Josh Radnor"
+            ],
+            "Writers": [
+                "Josh Radnor"
+            ],
+            "Stars": [
+                "Josh Radnor",
+                "Elizabeth Olsen",
+                "Zac Efron"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "BCDF Pictures",
+                "Strategic Motion Ventures",
+                "Tom Sawyer Entertainment"
+            ],
+            "PlotKeywords": [
+                "retirement",
+                "admissions officer",
+                "professor",
+                "ohio",
+                "new york city"
+            ],
+            "Metascore": 55,
+            "UserReviews": 92,
+            "CriticReviews": 158,
+            "MotionPictureRating": "Rated PG-13 for sexual content including references, mature thematic material, and some teen drinking",
+            "ReleaseDate": "5 October 2012",
+            "Budget": 2000000,
+            "OpeningWeekend": 27435,
+            "Gross": 327345,
+            "CumulativeWorldwideGross": 1150681,
+            "RuntimeMinutes": 97
+        },
+        {
+            "CharacterName": "Sally Owen",
+            "Year": "2012",
+            "FilmTitle": "Red Lights",
+            "FilmUrl": "https://www.imdb.com/title/tt1748179/?ref_=nm_flmg_act_21",
+            "Directors": [
+                "Rodrigo Cort\u00e9s"
+            ],
+            "Writers": [
+                "Rodrigo Cort\u00e9s"
+            ],
+            "Stars": [
+                "Sigourney Weaver",
+                "Robert De Niro",
+                "Cillian Murphy"
+            ],
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Millennium Films",
+                "Cindy Cowan Entertainment",
+                "First Generation Films"
+            ],
+            "PlotKeywords": [
+                "psychic",
+                "revelation",
+                "obsession",
+                "younger version of character",
+                "road trip"
+            ],
+            "Metascore": 36,
+            "UserReviews": 175,
+            "CriticReviews": 199,
+            "MotionPictureRating": "Rated R for language and some violence",
+            "ReleaseDate": "2 March 2012",
+            "Budget": 14000000,
+            "OpeningWeekend": 10340,
+            "Gross": 52624,
+            "CumulativeWorldwideGross": 14107313,
+            "RuntimeMinutes": 114
+        },
+        {
+            "CharacterName": "Zoe Hudson",
+            "Year": "2011",
+            "FilmTitle": "Peace, Love & Misunderstanding",
+            "FilmUrl": "https://www.imdb.com/title/tt1649780/?ref_=nm_flmg_act_22",
+            "Directors": [
+                "Bruce Beresford"
+            ],
+            "Writers": [
+                "Christina Mengert",
+                "Joseph Muszynski"
+            ],
+            "Stars": [
+                "Jane Fonda",
+                "Catherine Keener",
+                "Elizabeth Olsen"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Music",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "BCDF Pictures"
+            ],
+            "PlotKeywords": [
+                "hippie",
+                "motorcycle",
+                "new york city",
+                "manhattan new york city",
+                "singing on a truck"
+            ],
+            "Metascore": 45,
+            "UserReviews": 40,
+            "CriticReviews": 50,
+            "MotionPictureRating": "Rated R for drug content and some sexual references",
+            "ReleaseDate": "16 August 2012",
+            "Budget": 10000000,
+            "OpeningWeekend": 105960,
+            "Gross": 590700,
+            "CumulativeWorldwideGross": 1105020,
+            "RuntimeMinutes": 96
+        },
+        {
+            "CharacterName": "Martha",
+            "Year": "2011",
+            "FilmTitle": "Martha Marcy May Marlene",
+            "FilmUrl": "https://www.imdb.com/title/tt1441326/?ref_=nm_flmg_act_23",
+            "Directors": [
+                "Sean Durkin"
+            ],
+            "Writers": [
+                "Sean Durkin"
+            ],
+            "Stars": [
+                "Elizabeth Olsen",
+                "Sarah Paulson",
+                "John Hawkes"
+            ],
+            "Genres": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Fox Searchlight Pictures",
+                "Maybach Film Productions",
+                "Cunningham & Maybach Films"
+            ],
+            "PlotKeywords": [
+                "cult",
+                "ptsd",
+                "religion",
+                "caught having sex",
+                "cult member"
+            ],
+            "Metascore": 75,
+            "UserReviews": 203,
+            "CriticReviews": 359,
+            "Popularity": 379,
+            "MotionPictureRating": "Rated R for disturbing violent and sexual content, nudity and language",
+            "ReleaseDate": "21 December 2011",
+            "OpeningWeekend": 137651,
+            "Gross": 2990625,
+            "CumulativeWorldwideGross": 4778439,
+            "RuntimeMinutes": 102
+        },
+        {
+            "CharacterName": "Sarah",
+            "Year": "2011",
+            "FilmTitle": "Silent House",
+            "FilmUrl": "https://www.imdb.com/title/tt1767382/?ref_=nm_flmg_act_24",
+            "Directors": [
+                "Chris Kentis",
+                "Laura Lau"
+            ],
+            "Writers": [
+                "Gustavo Hern\u00e1ndez",
+                "Laura Lau"
+            ],
+            "Stars": [
+                "Elizabeth Olsen",
+                "Adam Trese",
+                "Eric Sheffer Stevens"
+            ],
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Elle Driver",
+                "Tazora Films"
+            ],
+            "PlotKeywords": [
+                "girl",
+                "hearing noises",
+                "uninterrupted shot",
+                "haunted house",
+                "bound and gagged"
+            ],
+            "Metascore": 49,
+            "UserReviews": 178,
+            "CriticReviews": 221,
+            "MotionPictureRating": "Rated R for disturbing violent content and terror",
+            "ReleaseDate": "9 March 2012",
+            "Budget": 2000000,
+            "OpeningWeekend": 6661234,
+            "Gross": 12754783,
+            "CumulativeWorldwideGross": 16527747,
+            "RuntimeMinutes": 86
+        },
+        {
+            "CharacterName": "Girl with Flowers",
+            "Year": "1995",
+            "FilmTitle": "Full House",
+            "FilmUrl": "https://www.imdb.com/title/tt0092359/?ref_=nm_flmg_act_25",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Bob Saget",
+                "John Stamos",
+                "Dave Coulier"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Jeff Franklin Productions",
+                "Lorimar Telepictures",
+                "Lorimar Television"
+            ],
+            "PlotKeywords": [
+                "affection",
+                "1980s",
+                "1990s",
+                "golden gate bridge",
+                "show within a show"
+            ],
+            "UserReviews": 326,
+            "CriticReviews": 17,
+            "Popularity": 587,
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Girl in Car (as Lizzie Olsen)",
+            "Year": "1994",
+            "FilmTitle": "How the West Was Fun",
+            "FilmUrl": "https://www.imdb.com/title/tt0110068/?ref_=nm_flmg_act_26",
+            "Directors": [
+                "Stuart Margolin"
+            ],
+            "Writers": [
+                "Jurgen Wolff"
+            ],
+            "Stars": [
+                "Mary-Kate Olsen",
+                "Ashley Olsen",
+                "Martin Mull"
+            ],
+            "Genres": [
+                "Family",
+                "Western"
+            ],
+            "ProductionCompanies": [
+                "Dualstar Productions",
+                "Green/Epstein Productions",
+                "Kicking Horse Productions Ltd."
+            ],
+            "PlotKeywords": [
+                "whitewater rafting",
+                "ranch",
+                "female protagonist",
+                "little girl",
+                "identical twins"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 3,
+            "ReleaseDate": "19 November 1994",
+            "RuntimeMinutes": 96
+        },
+        {
+            "CharacterName": "",
+            "Year": "2018-2019",
+            "FilmTitle": "Sorry for Your Loss",
+            "FilmUrl": "https://www.imdb.com/title/tt8000638/?ref_=nm_flmg_prd_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Elizabeth Olsen",
+                "Kelly Marie Tran",
+                "Jovan Adepo"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Big Beach TV",
+                "Brillstein Entertainment Partners"
+            ],
+            "PlotKeywords": [
+                "grief",
+                "loss of husband"
+            ],
+            "UserReviews": 19,
+            "CriticReviews": 11,
+            "Popularity": 416,
+            "ReleaseDate": "18 September 2018",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "",
+            "Year": "2017",
+            "FilmTitle": "Kodachrome",
+            "FilmUrl": "https://www.imdb.com/title/tt1880399/?ref_=_1",
+            "Directors": [
+                "Mark Raso"
+            ],
+            "Writers": [
+                "Jonathan Tropper"
+            ],
+            "Stars": [
+                "Ed Harris",
+                "Jason Sudeikis",
+                "Elizabeth Olsen"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "21 Laps Entertainment",
+                "Gotham Group",
+                "Motion Picture Capital"
+            ],
+            "PlotKeywords": [
+                "trademark in title",
+                "indie movie",
+                "one word title",
+                "shot on kodak film",
+                "kodak"
+            ],
+            "Metascore": 57,
+            "UserReviews": 84,
+            "CriticReviews": 59,
+            "ReleaseDate": "20 April 2018",
+            "CumulativeWorldwideGross": 70149,
+            "RuntimeMinutes": 105
+        },
+        {
+            "CharacterName": "",
+            "Year": "2015",
+            "FilmTitle": "I Saw the Light",
+            "FilmUrl": "https://www.imdb.com/title/tt1490785/?ref_=_2",
+            "Directors": [
+                "Marc Abraham"
+            ],
+            "Writers": [
+                "Marc Abraham",
+                "Colin Escott"
+            ],
+            "Stars": [
+                "Tom Hiddleston",
+                "Elizabeth Olsen",
+                "Maddie Hasson"
+            ],
+            "Genres": [
+                "Biography",
+                "Drama",
+                "Music",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "BRON Studios",
+                "RatPac Entertainment"
+            ],
+            "PlotKeywords": [
+                "year 1944",
+                "1940s",
+                "hank williams",
+                "reference to hank williams",
+                "singer"
+            ],
+            "Metascore": 47,
+            "UserReviews": 57,
+            "CriticReviews": 96,
+            "MotionPictureRating": "Rated R for some language and brief sexuality/nudity",
+            "ReleaseDate": "1 April 2016",
+            "Budget": 13000000,
+            "OpeningWeekend": 45471,
+            "Gross": 1646788,
+            "CumulativeWorldwideGross": 1767963,
+            "RuntimeMinutes": 123
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "Very Good Girls",
+            "FilmUrl": "https://www.imdb.com/title/tt1931602/?ref_=_3",
+            "Directors": [
+                "Naomi Foner"
+            ],
+            "Writers": [
+                "Naomi Foner"
+            ],
+            "Stars": [
+                "Dakota Fanning",
+                "Elizabeth Olsen",
+                "Sterling Jones"
+            ],
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Herrick Entertainment",
+                "Groundswell Productions"
+            ],
+            "PlotKeywords": [
+                "year 1846",
+                "year 1992",
+                "banjo",
+                "eraser",
+                "drawing"
+            ],
+            "Metascore": 35,
+            "UserReviews": 29,
+            "CriticReviews": 35,
+            "MotionPictureRating": "Rated R for language  and sexual content",
+            "ReleaseDate": "24 June 2014",
+            "OpeningWeekend": 4102,
+            "Gross": 6940,
+            "CumulativeWorldwideGross": 10963,
+            "RuntimeMinutes": 91
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2020",
+            "FilmTitle": "20/20",
+            "FilmUrl": "https://www.imdb.com/title/tt0124932/?ref_=nm_flmg_slf_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "David Muir",
+                "Elizabeth Vargas",
+                "Amy Robach"
+            ],
+            "Genres": [
+                "Documentary",
+                "News"
+            ],
+            "ProductionCompanies": [
+                "ABC News"
+            ],
+            "PlotKeywords": [
+                "punctuation in title",
+                "newsmagazine",
+                "reenactment",
+                "number in title"
+            ],
+            "UserReviews": 13,
+            "ReleaseDate": "6 June 1978",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Celebrating Marvel's Stan Lee",
+            "FilmUrl": "https://www.imdb.com/title/tt11522586/?ref_=nm_flmg_slf_2",
+            "Directors": [
+                "Lily Olszewski"
+            ],
+            "Writers": [
+                "Daniel Kibblesmith"
+            ],
+            "Stars": [
+                "Sana Amanat",
+                "Saquon Barkley",
+                "Paul Bettany"
+            ],
+            "Genres": [
+                "Documentary",
+                "Biography",
+                "News"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "20 December 2019",
+            "RuntimeMinutes": 42
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2011-2019",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kelly Ripa",
+                "Ryan Seacrest",
+                "Michael Strahan"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "WABC",
+                "Buena Vista Television",
+                "Disney-ABC Home Entertainment & Television Distribution"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "actress name in series title",
+                "guest",
+                "interview",
+                "non fiction"
+            ],
+            "UserReviews": 36,
+            "ReleaseDate": "5 September 1988",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self / Self - Guest",
+            "Year": "2016-2019",
+            "FilmTitle": "Late Night with Seth Meyers",
+            "FilmUrl": "https://www.imdb.com/title/tt3513388/?ref_=nm_flmg_slf_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Seth Meyers",
+                "Fred Armisen",
+                "The 8G Band"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "live comedy",
+                "five word series title",
+                "performer name in title",
+                "woke",
+                "making fun of the president"
+            ],
+            "UserReviews": 75,
+            "CriticReviews": 16,
+            "Popularity": 762,
+            "ReleaseDate": "24 February 2014",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Year": "2013-2019",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Kimmel",
+                "Cleto and the Cletones",
+                "Cleto Escobedo III"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Jackhole Industries",
+                "12:05 Productions",
+                "ABC Studios"
+            ],
+            "PlotKeywords": [
+                "woke",
+                "actor plays himself",
+                "actor name in series title",
+                "exclamation point in series title",
+                "2000s"
+            ],
+            "UserReviews": 60,
+            "CriticReviews": 2,
+            "Popularity": 326,
+            "ReleaseDate": "26 January 2003",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016-2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Red Carpet Report",
+            "FilmUrl": "https://www.imdb.com/title/tt5611414/?ref_=nm_flmg_slf_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kristyn Burtt",
+                "JJ Snyder",
+                "Linda Antwi"
+            ],
+            "Genres": [
+                "Short",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Mingle Media TV"
+            ],
+            "PlotKeywords": [
+                "famous",
+                "youtube",
+                "entertainment",
+                "journalism",
+                "lifestyle"
+            ],
+            "ReleaseDate": "26 September 2009"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Marvel Studios' Avengers: Endgame LIVE Red Carpet World Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10240638/?ref_=nm_flmg_slf_8",
+            "Directors": [
+                "Bill Chapman"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Victoria Alonso",
+                "Linda Cardellini",
+                "Don Cheadle"
+            ],
+            "Genres": [
+                "Reality-TV"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special",
+                "red carpet"
+            ],
+            "ReleaseDate": "22 April 2019",
+            "RuntimeMinutes": 118
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2019",
+            "FilmTitle": "On Creativity with Paula Wallace",
+            "FilmUrl": "https://www.imdb.com/title/tt10129530/?ref_=nm_flmg_slf_9",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Paula Wallace",
+                "Olivia Wilde",
+                "Eric McCormack"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "4 June 2015",
+            "Budget": 10000
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2018",
+            "FilmTitle": "Conan",
+            "FilmUrl": "https://www.imdb.com/title/tt1637574/?ref_=nm_flmg_slf_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Conan O'Brien",
+                "Andy Richter",
+                "Jimmy Vivino and the Basic Cable Band"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Conaco"
+            ],
+            "PlotKeywords": [
+                "one word series title",
+                "actor name as series title",
+                "interview",
+                "celebrity",
+                "redheaded man"
+            ],
+            "UserReviews": 20,
+            "CriticReviews": 3,
+            "Popularity": 898,
+            "ReleaseDate": "8 November 2010",
+            "RuntimeMinutes": 42
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Off Camera with Sam Jones",
+            "FilmUrl": "https://www.imdb.com/title/tt3473134/?ref_=nm_flmg_slf_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sam Jones",
+                "Robert Downey Jr.",
+                "Matt Damon"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Beware Doll Films"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "6 February 2014",
+            "RuntimeMinutes": 58
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Year": "2015-2018",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_12",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Fallon",
+                "The Roots",
+                "Steve Higgins"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "2010s",
+                "actor name in series title",
+                "six word series title",
+                "woke",
+                "2020s"
+            ],
+            "UserReviews": 84,
+            "CriticReviews": 11,
+            "Popularity": 761,
+            "ReleaseDate": "17 February 2014",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "So Jannelle",
+            "FilmUrl": "https://www.imdb.com/title/tt8116204/?ref_=nm_flmg_slf_13",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Rod Mercado",
+                "Lilly Jade Perkins",
+                "Janet Nepales"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Jannelle So Productions"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "2 March 2018"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "BuzzFeed Celeb",
+            "FilmUrl": "https://www.imdb.com/title/tt9793886/?ref_=nm_flmg_slf_14",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Nick Jonas",
+                "Sofia Carson",
+                "Seth Rogen"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "19 August 2013"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Year": "2015-2018",
+            "FilmTitle": "The Late Late Show with James Corden",
+            "FilmUrl": "https://www.imdb.com/title/tt4280606/?ref_=nm_flmg_slf_15",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "James Corden",
+                "Reggie Watts",
+                "Louis Waymouth"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Fulwell 73",
+                "CBS Television Studios"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "seven word series title",
+                "woke",
+                "2010s",
+                "2020s"
+            ],
+            "UserReviews": 52,
+            "CriticReviews": 5,
+            "Popularity": 473,
+            "ReleaseDate": "23 March 2015",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011-2018",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_16",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kylie Erica Mar",
+                "Julie L. Harkness",
+                "Patrick Stinson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Connection III Entertainment"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "celebrity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "30 September 2005"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014-2018",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_17",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Renee Bargh",
+                "Mario Lopez",
+                "Charissa Thompson"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "Tinseltown Entertainment"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "show business",
+                "non fiction"
+            ],
+            "UserReviews": 8,
+            "ReleaseDate": "5 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017-2018",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_18",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sonia Isabelle",
+                "Jaymes Vaughan",
+                "Arthur Kade"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Unconventional Partners"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "stars",
+                "non fiction"
+            ],
+            "ReleaseDate": "9 September 2013",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017-2018",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_19",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dean Richards",
+                "Mike Toomey",
+                "Robin Baumgarten"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "WGN Chicago"
+            ],
+            "PlotKeywords": [
+                "chicago illinois",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "6 September 1994"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2018",
+            "FilmTitle": "33rd Film Independent Spirit Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt7635548/?ref_=nm_flmg_slf_20",
+            "Directors": [
+                "Joel Gallen"
+            ],
+            "Writers": [
+                "Hayley Adams",
+                "Emmy Blotnick"
+            ],
+            "Stars": [
+                "Fred Armisen",
+                "Sean Baker",
+                "Jonathan Banks"
+            ],
+            "Genres": [
+                "Reality-TV"
+            ],
+            "ProductionCompanies": [
+                "Film Independent",
+                "Tenth Planet Productions"
+            ],
+            "PlotKeywords": [
+                "awards show",
+                "topical humor",
+                "comedy duo",
+                "tv special",
+                "independent film"
+            ],
+            "ReleaseDate": "3 March 2018"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Wind River: Behind the Scenes Video Gallery",
+            "FilmUrl": "https://www.imdb.com/title/tt8514804/?ref_=nm_flmg_slf_21",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Elizabeth Olsen",
+                "Jeremy Renner",
+                "Taylor Sheridan"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "14 November 2017",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2017",
+            "FilmTitle": "Popcorn with Peter Travers",
+            "FilmUrl": "https://www.imdb.com/title/tt5326328/?ref_=nm_flmg_slf_22",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Peter Travers",
+                "Kathryn Bigelow",
+                "Jonathan Groff"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "ABC News Productions"
+            ],
+            "PlotKeywords": [
+                "critic",
+                "non fiction"
+            ]
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "The Director's Cut",
+            "FilmUrl": "https://www.imdb.com/title/tt6144136/?ref_=nm_flmg_slf_23",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Peter Rochon Nicholas",
+                "Cristela Alonzo",
+                "Emily V. Gordon"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Off The Road Productions"
+            ],
+            "PlotKeywords": [
+                "filmmaking"
+            ],
+            "ReleaseDate": "7 October 2016",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2017",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_24",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Savannah Guthrie",
+                "Hoda Kotb",
+                "Al Roker"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "NBC News"
+            ],
+            "PlotKeywords": [
+                "weather",
+                "one word title",
+                "morning show",
+                "non fiction"
+            ],
+            "UserReviews": 16,
+            "ReleaseDate": "14 January 1952",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2017",
+            "FilmTitle": "The Late Show with Stephen Colbert",
+            "FilmUrl": "https://www.imdb.com/title/tt3697842/?ref_=nm_flmg_slf_25",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Stephen Colbert",
+                "Jonathan Batiste",
+                "Stay Human"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Spartina Productions",
+                "CBS Television Studios"
+            ],
+            "PlotKeywords": [
+                "six word series title",
+                "actor name in series title",
+                "2020s",
+                "woke",
+                "anti trump media"
+            ],
+            "UserReviews": 97,
+            "CriticReviews": 16,
+            "Popularity": 29,
+            "ReleaseDate": "8 September 2015",
+            "RuntimeMinutes": 41
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2015-2017",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_26",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lara Spencer",
+                "Ginger Zee",
+                "Robin Roberts"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "American Broadcasting Company (ABC)",
+                "ABC News"
+            ],
+            "PlotKeywords": [
+                "country name in title",
+                "three word title",
+                "interview",
+                "current affairs",
+                "breakfast tv"
+            ],
+            "UserReviews": 19,
+            "Popularity": 935,
+            "ReleaseDate": "6 January 1975",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Back-to-Back Chef",
+            "FilmUrl": "https://www.imdb.com/title/tt11803386/?ref_=nm_flmg_slf_27",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ellie Kemper",
+                "Carla Music",
+                "Tyler Blevins"
+            ],
+            "Genres": [
+                "Reality-TV"
+            ],
+            "ProductionCompanies": [
+                "Bon App\u00e9tit",
+                "Conde Nast Entertainment"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "14 February 2017"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Harmontown",
+            "FilmUrl": "https://www.imdb.com/title/tt5915224/?ref_=nm_flmg_slf_28",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dan Harmon",
+                "Spencer Crittenden",
+                "Jeff Bryan Davis"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Harmonius Claptrap",
+                "Starburns Industries",
+                "Feral Audio"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "6 June 2012"
+        },
+        {
+            "CharacterName": "Self / Wanda Maximoff / Scarlet Witch",
+            "Year": "2016",
+            "FilmTitle": "United We Stand, Divided We Fall: The Making of 'Captain America: Civil War'",
+            "FilmUrl": "https://www.imdb.com/title/tt6073552/?ref_=nm_flmg_slf_29",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Feige",
+                "Chris Evans",
+                "Joe Russo"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "13 September 2016",
+            "RuntimeMinutes": 46
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Allure Magazine: Elizabeth Olsen Explains the Origins of the Scarlet Witch",
+            "FilmUrl": "https://www.imdb.com/title/tt6570354/?ref_=nm_flmg_slf_30",
+            "Directors": [
+                "Joe Pickard"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Elizabeth Olsen"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Conde Nast Entertainment"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "16 May 2016",
+            "RuntimeMinutes": 3
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Allure Magazine: Go Behind the Scenes of Elizabeth Olsen's Allure Cover Shoot",
+            "FilmUrl": "https://www.imdb.com/title/tt6570342/?ref_=nm_flmg_slf_31",
+            "Directors": [
+                "Jeffrey Kornberg"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Elizabeth Olsen"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Conde Nast Entertainment"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "12 May 2016"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Dish Nation",
+            "FilmUrl": "https://www.imdb.com/title/tt1973047/?ref_=nm_flmg_slf_32",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "HeadKrack",
+                "Gary With Da Tea",
+                "Rickey Smiley"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "pop culture",
+                "celebrity gossip",
+                "celebrity news",
+                "entertainment news",
+                "non fiction"
+            ],
+            "UserReviews": 14,
+            "ReleaseDate": "15 July 2011"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2016",
+            "FilmTitle": "The Ellen DeGeneres Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0379623/?ref_=nm_flmg_slf_33",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ellen DeGeneres",
+                "Stephen Boss",
+                "Andy Lassner"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "A Very Good Production Inc.",
+                "Telepictures Productions"
+            ],
+            "PlotKeywords": [
+                "male objectification",
+                "actress name as series title",
+                "popular culture",
+                "celebrity interview",
+                "comedienne"
+            ],
+            "UserReviews": 56,
+            "Popularity": 18,
+            "ReleaseDate": "8 September 2003"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Alan Carr: Chatty Man",
+            "FilmUrl": "https://www.imdb.com/title/tt1468760/?ref_=nm_flmg_slf_34",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Alan Carr",
+                "David Walliams",
+                "Alesha Dixon"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Open Mike Productions"
+            ],
+            "PlotKeywords": [
+                "comedian",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "14 June 2009",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_slf_35",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Annemarie Carpendale",
+                "Daniel Aminati",
+                "Nela Panghy-Lee"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "fun",
+                "deutschland",
+                "brd",
+                "pro7",
+                "yellow journalism"
+            ]
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Using Their Powers for Good: A CNN Super-Heroes Special",
+            "FilmUrl": "https://www.imdb.com/title/tt5209146/?ref_=nm_flmg_slf_36",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Michael B. Jordan",
+                "Elizabeth Olsen",
+                "Michaela Pereira"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Cable News Network (CNN)"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "4 December 2015"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Avengers: Age of Ultron - From the Inside Out: Making of Avengers - Age of Ultron",
+            "FilmUrl": "https://www.imdb.com/title/tt5180410/?ref_=nm_flmg_slf_37",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Victoria Alonso",
+                "Paul Bettany",
+                "Linda Cardellini"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Walt Disney Home Entertainment"
+            ],
+            "PlotKeywords": [
+                "superhero",
+                "marvel comics",
+                "dvd extra"
+            ],
+            "ReleaseDate": "2 October 2015",
+            "RuntimeMinutes": 21
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "MTV After Hours with Josh Horowitz",
+            "FilmUrl": "https://www.imdb.com/title/tt7914770/?ref_=nm_flmg_slf_38",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Josh Horowitz",
+                "Ben Affleck",
+                "Jack Black"
+            ],
+            "Genres": [
+                "Short",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Music Television (MTV)"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "9 June 2015"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "CollegeHumor Originals",
+            "FilmUrl": "https://www.imdb.com/title/tt2234701/?ref_=nm_flmg_slf_39",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Mike Trapp",
+                "Grant O'Brien",
+                "Katie Marovitch"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Big Breakfast",
+                "BoTown Sound",
+                "CollegeHumor"
+            ],
+            "PlotKeywords": [
+                "irreverence",
+                "pop culture",
+                "stand up comedian",
+                "social satire",
+                "comedian"
+            ],
+            "UserReviews": 3,
+            "Popularity": 570,
+            "ReleaseDate": "31 March 2006"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013-2015",
+            "FilmTitle": "The Daily Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115147/?ref_=nm_flmg_slf_40",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jon Stewart",
+                "Trevor Noah",
+                "Stephen Colbert"
+            ],
+            "Genres": [
+                "Comedy",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Ark Angel Entertainment",
+                "Mad Cow Productions",
+                "Comedy Central"
+            ],
+            "PlotKeywords": [
+                "interview",
+                "1990s",
+                "2000s",
+                "2010s",
+                "2020s"
+            ],
+            "UserReviews": 156,
+            "CriticReviews": 44,
+            "Popularity": 451,
+            "ReleaseDate": "22 July 1996",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2015",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_slf_41",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Graham Norton",
+                "Ricky Gervais",
+                "Judi Dench"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "So Television",
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "four word series title",
+                "opening monologue",
+                "interview",
+                "audience participation"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 1,
+            "Popularity": 305,
+            "ReleaseDate": "22 February 2007",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "Godzilla: Force of Nature",
+            "FilmUrl": "https://www.imdb.com/title/tt4052432/?ref_=nm_flmg_slf_42",
+            "Directors": [
+                "Josh Oreck"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Gareth Edwards",
+                "Bryan Cranston",
+                "Thomas Tull"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Narrator"
+            ],
+            "PlotKeywords": [
+                "making of"
+            ],
+            "ReleaseDate": "16 September 2014",
+            "RuntimeMinutes": 20
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_slf_43",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "M\u00e1rio Augusto",
+                "Paulo Branco",
+                "Nicolau Breyner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "At\u00e9 ao Fim do Mundo"
+            ],
+            "PlotKeywords": [
+                "show",
+                "non fiction"
+            ],
+            "ReleaseDate": "3 March 2010"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2014",
+            "FilmTitle": "Rachael Ray",
+            "FilmUrl": "https://www.imdb.com/title/tt0827947/?ref_=nm_flmg_slf_44",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Rachael Ray",
+                "Mike Goral",
+                "Gretta Monahan"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "King World Productions",
+                "Harpo Productions"
+            ],
+            "PlotKeywords": [
+                "actress name as series title",
+                "two word series title",
+                "female protagonist",
+                "interview",
+                "guest"
+            ],
+            "UserReviews": 20,
+            "CriticReviews": 1,
+            "ReleaseDate": "18 September 2006",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2014",
+            "FilmTitle": "Late Show with David Letterman",
+            "FilmUrl": "https://www.imdb.com/title/tt0106053/?ref_=nm_flmg_slf_45",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "David Letterman",
+                "Paul Shaffer",
+                "Alan Kalter"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Worldwide Pants"
+            ],
+            "PlotKeywords": [
+                "late night",
+                "actor name in series title",
+                "five word series title",
+                "new york city",
+                "variety show"
+            ],
+            "UserReviews": 52,
+            "CriticReviews": 2,
+            "ReleaseDate": "30 August 1993",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "Oldboy: Talking Heads",
+            "FilmUrl": "https://www.imdb.com/title/tt5345266/?ref_=nm_flmg_slf_46",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Josh Brolin",
+                "Sharlto Copley",
+                "Michael Imperioli"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 March 2014",
+            "RuntimeMinutes": 3
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "Oldboy: Transformation",
+            "FilmUrl": "https://www.imdb.com/title/tt5345274/?ref_=nm_flmg_slf_47",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Josh Brolin",
+                "Sharlto Copley",
+                "Michael Imperioli"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 March 2014",
+            "RuntimeMinutes": 2
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "The Making of 'Oldboy'",
+            "FilmUrl": "https://www.imdb.com/title/tt5344894/?ref_=nm_flmg_slf_48",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Josh Brolin",
+                "Sharlto Copley",
+                "Michael Imperioli"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "4 March 2014",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "Red Lights: Cast Interviews",
+            "FilmUrl": "https://www.imdb.com/title/tt5370592/?ref_=nm_flmg_slf_49",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Robert De Niro",
+                "Cillian Murphy",
+                "Elizabeth Olsen"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "2 October 2012",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Year": "2012",
+            "FilmTitle": "Cinema 3",
+            "FilmUrl": "https://www.imdb.com/title/tt0111920/?ref_=nm_flmg_slf_50",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jaume Figueras",
+                "Crisol Tu\u00e0",
+                "Monts Lluss\u00e0"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Televisi\u00f3 de Catalunya (TV3)"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ]
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2012",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_51",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Leno",
+                "Kevin Eubanks",
+                "Edd Hall"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Big Dog Productions",
+                "Nelson Page Entertainment",
+                "Nerd Corps Productions V.1 Inc."
+            ],
+            "PlotKeywords": [
+                "20th century",
+                "21st century",
+                "1990s",
+                "2000s",
+                "2010s"
+            ],
+            "UserReviews": 85,
+            "CriticReviews": 2,
+            "ReleaseDate": "25 May 1992"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "The 2012 Film Independent Spirit Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2302855/?ref_=nm_flmg_slf_52",
+            "Directors": [
+                "Ivan Dudynsky"
+            ],
+            "Writers": [
+                "Wayne Federman",
+                "Evan Goldberg"
+            ],
+            "Stars": [
+                "Seth Rogen",
+                "Zoe Saldana",
+                "Jeffrey Dean Morgan"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "25 February 2012"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "Rencontres de cin\u00e9ma",
+            "FilmUrl": "https://www.imdb.com/title/tt5123584/?ref_=nm_flmg_slf_53",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Laurent Weil",
+                "Kad Merad",
+                "Gilles Lellouche"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Canal+"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "30 August 2009"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "17th Annual Critics' Choice Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2184093/?ref_=nm_flmg_slf_54",
+            "Directors": [
+                "Fatal Farm"
+            ],
+            "Writers": [
+                "Andrew Goldstein"
+            ],
+            "Stars": [
+                "Paul Scheer",
+                "Rob Huebel",
+                "Carrie Keagan"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Den of Thieves"
+            ],
+            "PlotKeywords": [
+                "awards show",
+                "tv special"
+            ],
+            "ReleaseDate": "12 January 2012"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2011",
+            "FilmTitle": "Late Night with Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt1231460/?ref_=nm_flmg_slf_55",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Fallon",
+                "The Roots",
+                "Steve Higgins"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Media Studios (UMS)"
+            ],
+            "PlotKeywords": [
+                "five word series title",
+                "performer name in title",
+                "late night",
+                "variety show",
+                "live performance"
+            ],
+            "UserReviews": 42,
+            "CriticReviews": 1,
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "55th BFI London Film Festival",
+            "FilmUrl": "https://www.imdb.com/title/tt2106293/?ref_=nm_flmg_slf_56",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Gillian Anderson",
+                "B\u00e9r\u00e9nice Bejo",
+                "Nick Broomfield"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Screensmith"
+            ],
+            "PlotKeywords": [
+                "film festival",
+                "tv special"
+            ],
+            "ReleaseDate": "12 October 2011"
+        },
+        {
+            "CharacterName": "Self - Sister",
+            "Year": "2004",
+            "FilmTitle": "Biography",
+            "FilmUrl": "https://www.imdb.com/title/tt0092322/?ref_=nm_flmg_slf_57",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jack Perkins",
+                "Peter Graves",
+                "Harry Smith"
+            ],
+            "Genres": [
+                "Documentary",
+                "Biography"
+            ],
+            "ProductionCompanies": [
+                "Actuality Productions",
+                "Atlas Media",
+                "Foxstar Productions"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "publicity",
+                "one word title",
+                "reenactment",
+                "anthology"
+            ],
+            "UserReviews": 8,
+            "CriticReviews": 3,
+            "ReleaseDate": "6 April 1987",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Sister",
+            "Year": "2003",
+            "FilmTitle": "Driven",
+            "FilmUrl": "https://www.imdb.com/title/tt0371445/?ref_=nm_flmg_slf_58",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay-Z",
+                "Damon Dash",
+                "Russell Simmons"
+            ],
+            "Genres": [
+                "Documentary",
+                "Biography"
+            ],
+            "ProductionCompanies": [
+                "Allegiance Entertainment Group",
+                "Foglight Entertainment",
+                "VH1 Television"
+            ],
+            "PlotKeywords": [
+                "interview"
+            ],
+            "CriticReviews": 1,
+            "ReleaseDate": "15 January 2002"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "1996",
+            "FilmTitle": "The Adventures of Mary-Kate & Ashley: The Case of the U.S. Space Camp Mission",
+            "FilmUrl": "https://www.imdb.com/title/tt0283855/?ref_=nm_flmg_slf_59",
+            "Directors": [
+                "Michael Kruzan"
+            ],
+            "Writers": [
+                "Michael Kruzan"
+            ],
+            "Stars": [
+                "Mary-Kate Olsen",
+                "Ashley Olsen",
+                "Trent Olsen"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Dualstar Productions"
+            ],
+            "PlotKeywords": [
+                "female protagonist"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "27 February 1996",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self (as Lizzie Olsen)",
+            "Year": "1995",
+            "FilmTitle": "The Adventures of Mary-Kate & Ashley: The Case of the Christmas Caper",
+            "FilmUrl": "https://www.imdb.com/title/tt0283851/?ref_=nm_flmg_slf_60",
+            "Directors": [
+                "Michael Kruzan"
+            ],
+            "Writers": [
+                "Michael Kruzan"
+            ],
+            "Stars": [
+                "Mary-Kate Olsen",
+                "Ashley Olsen",
+                "Elizabeth Olsen"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Dualstar Productions"
+            ],
+            "PlotKeywords": [
+                "christmas",
+                "female protagonist"
+            ],
+            "UserReviews": 1,
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "1995",
+            "FilmTitle": "The Adventures of Mary-Kate & Ashley: The Case of the Mystery Cruise",
+            "FilmUrl": "https://www.imdb.com/title/tt0282342/?ref_=nm_flmg_slf_61",
+            "Directors": [
+                "Neal Israel"
+            ],
+            "Writers": [
+                "Neal Israel",
+                "Arnold Margolin"
+            ],
+            "Stars": [
+                "Mary-Kate Olsen",
+                "Ashley Olsen",
+                "William R. Moses"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Dualstar Productions"
+            ],
+            "PlotKeywords": [
+                "female protagonist"
+            ],
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self (as Lizzie Olsen)",
+            "Year": "1994",
+            "FilmTitle": "The Adventures of Mary-Kate & Ashley: The Case of Thorn Mansion",
+            "FilmUrl": "https://www.imdb.com/title/tt0282340/?ref_=nm_flmg_slf_62",
+            "Directors": [
+                "Michael Kruzan"
+            ],
+            "Writers": [
+                "Michael Kruzan",
+                "Charlotte Dreiman"
+            ],
+            "Stars": [
+                "Mary-Kate Olsen",
+                "Ashley Olsen",
+                "Elizabeth Olsen"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy",
+                "Family",
+                "Musical"
+            ],
+            "ProductionCompanies": [
+                "Dualstar Productions"
+            ],
+            "PlotKeywords": [
+                "female protagonist",
+                "investigator",
+                "20th century"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "13 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "1993",
+            "FilmTitle": "Our First Video",
+            "FilmUrl": "https://www.imdb.com/title/tt0331593/?ref_=nm_flmg_slf_63",
+            "Directors": [
+                "W.L. Boyd",
+                "Rick Friedberg"
+            ],
+            "Writers": [
+                "Michael Kruzan"
+            ],
+            "Stars": [
+                "Mary-Kate Olsen",
+                "Ashley Olsen",
+                "Joyce Audley"
+            ],
+            "Genres": [
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Dualstar Entertainment Group"
+            ],
+            "PlotKeywords": [
+                "female protagonist"
+            ],
+            "RuntimeMinutes": 27
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "1993",
+            "FilmTitle": "The Olsen Twins Mother's Day Special",
+            "FilmUrl": "https://www.imdb.com/title/tt0284369/?ref_=nm_flmg_slf_64",
+            "Directors": [
+                "Gary Halvorson"
+            ],
+            "Writers": [
+                "Barry Adelman"
+            ],
+            "Stars": [
+                "Tim Allen",
+                "Kim Alexis",
+                "Louie Anderson"
+            ],
+            "Genres": [
+                "Family",
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "Dualstar Productions",
+                "Dick Clark Productions"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "female protagonist"
+            ],
+            "UserReviews": 3,
+            "ReleaseDate": "5 May 1993"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2020",
+            "FilmTitle": "Jeux en Vrac",
+            "FilmUrl": "https://www.imdb.com/title/tt5744880/?ref_=nm_flmg_arf_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Fr\u00e9d\u00e9ric Molas",
+                "S\u00e9bastien Rassiat",
+                "Sorina-Chan"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv mini series"
+            ],
+            "ReleaseDate": "30 April 2015"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016-2020",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016-2017",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Renee Bargh",
+                "Mario Lopez",
+                "Charissa Thompson"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "Tinseltown Entertainment"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "show business",
+                "non fiction"
+            ],
+            "UserReviews": 8,
+            "ReleaseDate": "5 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Scarlet Witch",
+            "Year": "2016",
+            "FilmTitle": "Lego Marvel's Avengers",
+            "FilmUrl": "https://www.imdb.com/title/tt4776398/?ref_=nm_flmg_arf_4",
+            "Directors": [
+                "Arthur Parsons"
+            ],
+            "Writers": [
+                "Joe Moore",
+                "Dewi Roberts"
+            ],
+            "Stars": [
+                "Charlie Adler",
+                "Hayley Atwell",
+                "Laura Bailey"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Traveller's Tales"
+            ],
+            "PlotKeywords": [
+                "lego",
+                "marvel comics",
+                "avengers",
+                "superhero",
+                "superheroine"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 3,
+            "ReleaseDate": "26 January 2016"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_arf_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kylie Erica Mar",
+                "Julie L. Harkness",
+                "Patrick Stinson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Connection III Entertainment"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "celebrity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "30 September 2005"
+        }
+    ]
+}

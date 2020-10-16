@@ -1,0 +1,5123 @@
+{
+    "Rank": 122,
+    "FullName": "Jason Statham",
+    "DomesticBoxOfficeRevenue": 1384354182,
+    "AverageDomesticBoxOfficeRevenue": 40716299,
+    "DataSourceUrl": "https://www.imdb.com/find?s=nm&q=Jason+Statham&ref_=nv_sr_sm",
+    "LocalDataSourcePath": "./html/imdb_profiles/JasonStatham.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "DOB": "1967-7-26",
+    "BornIn": "Shirebrook, Derbyshire, England, UK",
+    "Gender": "Male",
+    "Height": 1.78,
+    "AstrologicalSign": "Leo",
+    "Trademark": "Often works with director <a href=\"/name/nm0005363?ref_=nm_dyk_tm1\">Guy Ritchie</a>",
+    "AwardNominations": 4,
+    "Roles": [
+        {
+            "CharacterName": "",
+            "Year": "2017",
+            "FilmTitle": "Viva La Madness",
+            "FilmUrl": "https://www.imdb.com/title/tt3336458/?ref_=nm_flmg_act_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "SJ Pictures"
+            ],
+            "PlotKeywords": [
+                "criminal"
+            ]
+        },
+        {
+            "CharacterName": "Rick Ford",
+            "Year": "",
+            "FilmTitle": "Spy 2",
+            "FilmUrl": "https://www.imdb.com/title/tt5859072/?ref_=nm_flmg_act_2",
+            "Directors": [],
+            "Writers": [
+                "Paul Feig"
+            ],
+            "Stars": [
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Feigco Entertainment"
+            ],
+            "PlotKeywords": []
+        },
+        {
+            "CharacterName": "H",
+            "Year": "2021",
+            "FilmTitle": "Wrath of Man",
+            "FilmUrl": "https://www.imdb.com/title/tt11083552/?ref_=nm_flmg_act_3",
+            "Directors": [
+                "Guy Ritchie"
+            ],
+            "Writers": [
+                "Ivan Atkinson",
+                "Nicolas Boukhrief"
+            ],
+            "Stars": [
+                "Niamh Algar",
+                "Jason Statham",
+                "Scott Eastwood"
+            ],
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Metro-Goldwyn-Mayer (MGM)",
+                "Miramax",
+                "CAA Media Finance"
+            ],
+            "PlotKeywords": [
+                "truck"
+            ],
+            "Popularity": 475,
+            "ReleaseDate": "15 January 2021"
+        },
+        {
+            "CharacterName": "Shaw",
+            "Year": "2019",
+            "FilmTitle": "Fast & Furious Presents: Hobbs & Shaw",
+            "FilmUrl": "https://www.imdb.com/title/tt6806448/?ref_=nm_flmg_act_4",
+            "Directors": [
+                "David Leitch"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Drew Pearce"
+            ],
+            "Stars": [
+                "Dwayne Johnson",
+                "Jason Statham",
+                "Idris Elba"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Chris Morgan Productions",
+                "Dentsu",
+                "Seven Bucks Productions"
+            ],
+            "PlotKeywords": [
+                "samoa",
+                "flamethrower",
+                "spin off",
+                "shared universe",
+                "fast and furious franchise"
+            ],
+            "Metascore": 60,
+            "UserReviews": 1242,
+            "CriticReviews": 306,
+            "Popularity": 484,
+            "ReleaseDate": "2 August 2019",
+            "Budget": 200000000,
+            "OpeningWeekend": 60038950,
+            "Gross": 173956935,
+            "CumulativeWorldwideGross": 759056935,
+            "RuntimeMinutes": 137
+        },
+        {
+            "CharacterName": "Jonas Taylor",
+            "Year": "2018",
+            "FilmTitle": "The Meg",
+            "FilmUrl": "https://www.imdb.com/title/tt4779682/?ref_=nm_flmg_act_5",
+            "Directors": [
+                "Jon Turteltaub"
+            ],
+            "Writers": [
+                "Dean Georgaris",
+                "Jon Hoeber"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Bingbing Li",
+                "Rainn Wilson"
+            ],
+            "Genres": [
+                "Action",
+                "Horror",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Apelles Entertainment",
+                "Di Bonaventura Pictures",
+                "Flagship Entertainment Group"
+            ],
+            "PlotKeywords": [
+                "love interest",
+                "chinawoman",
+                "tattooed trash",
+                "cleavage",
+                "prehistoric animal"
+            ],
+            "Metascore": 46,
+            "UserReviews": 1521,
+            "CriticReviews": 402,
+            "Popularity": 411,
+            "MotionPictureRating": "Rated PG-13 for action/peril, bloody images and some language",
+            "ReleaseDate": "10 August 2018",
+            "Budget": 130000000,
+            "OpeningWeekend": 45402195,
+            "Gross": 145443742,
+            "CumulativeWorldwideGross": 530259473,
+            "RuntimeMinutes": 113
+        },
+        {
+            "CharacterName": "Jason Statham",
+            "Year": "2017",
+            "FilmTitle": "Wix.com Big Game Ad with Jason Statham & Gal Gadot",
+            "FilmUrl": "https://www.imdb.com/title/tt9548910/?ref_=nm_flmg_act_6",
+            "Directors": [
+                "Louis Leterrier"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Gal Gadot",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short",
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "Bullitt Branded"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 1,
+            "Budget": 0,
+            "RuntimeMinutes": 2
+        },
+        {
+            "CharacterName": "Deckard",
+            "Year": "2017",
+            "FilmTitle": "The Fate of the Furious",
+            "FilmUrl": "https://www.imdb.com/title/tt4630562/?ref_=nm_flmg_act_7",
+            "Directors": [
+                "F. Gary Gray"
+            ],
+            "Writers": [
+                "Gary Scott Thompson",
+                "Chris Morgan"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Jason Statham",
+                "Dwayne Johnson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "China Film Group Corporation (CFGC)",
+                "Original Film"
+            ],
+            "PlotKeywords": [
+                "betrayal",
+                "bulletproof vest",
+                "killed by a propeller",
+                "father daughter relationship",
+                "taking a selfie"
+            ],
+            "Metascore": 56,
+            "UserReviews": 605,
+            "CriticReviews": 429,
+            "Popularity": 325,
+            "MotionPictureRating": "Rated PG-13 for prolonged sequences of violence and destruction, suggestive content, and language",
+            "ReleaseDate": "14 April 2017",
+            "Budget": 250000000,
+            "OpeningWeekend": 98786705,
+            "Gross": 226008385,
+            "CumulativeWorldwideGross": 1236005118,
+            "RuntimeMinutes": 136
+        },
+        {
+            "CharacterName": "Arthur Bishop",
+            "Year": "2016",
+            "FilmTitle": "Mechanic: Resurrection",
+            "FilmUrl": "https://www.imdb.com/title/tt3522806/?ref_=nm_flmg_act_8",
+            "Directors": [
+                "Dennis Gansel"
+            ],
+            "Writers": [
+                "Lewis John Carlino",
+                "Philip Shelby"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Jessica Alba",
+                "Tommy Lee Jones"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Summit Entertainment",
+                "Chartoff-Winkler Productions",
+                "Millennium Films"
+            ],
+            "PlotKeywords": [
+                "assassin",
+                "hitman",
+                "sequel",
+                "murder",
+                "male objectification"
+            ],
+            "Metascore": 38,
+            "UserReviews": 225,
+            "CriticReviews": 143,
+            "Popularity": 533,
+            "MotionPictureRating": "Rated R for violence throughout and language",
+            "ReleaseDate": "26 August 2016",
+            "Budget": 40000000,
+            "OpeningWeekend": 7456525,
+            "Gross": 21218403,
+            "CumulativeWorldwideGross": 125729635,
+            "RuntimeMinutes": 98
+        },
+        {
+            "CharacterName": "Deckard Shaw",
+            "Year": "2015",
+            "FilmTitle": "Furious 7",
+            "FilmUrl": "https://www.imdb.com/title/tt2820852/?ref_=nm_flmg_act_9",
+            "Directors": [
+                "James Wan"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Dwayne Johnson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Media Rights Capital (MRC)",
+                "China Film Group Corporation (CFGC)"
+            ],
+            "PlotKeywords": [
+                "car falling off a cliff",
+                "star died before release",
+                "bulletproof vest",
+                "terrorist",
+                "revenge"
+            ],
+            "Metascore": 67,
+            "UserReviews": 747,
+            "CriticReviews": 461,
+            "Popularity": 97,
+            "MotionPictureRating": "Rated PG-13 for prolonged frenetic sequences of violence, action and mayhem, suggestive content and brief strong language",
+            "ReleaseDate": "3 April 2015",
+            "Budget": 190000000,
+            "OpeningWeekend": 147187040,
+            "Gross": 353007020,
+            "CumulativeWorldwideGross": 1515048151,
+            "RuntimeMinutes": 137
+        },
+        {
+            "CharacterName": "Rick Ford",
+            "Year": "2015",
+            "FilmTitle": "Spy",
+            "FilmUrl": "https://www.imdb.com/title/tt3079380/?ref_=nm_flmg_act_10",
+            "Directors": [
+                "Paul Feig"
+            ],
+            "Writers": [
+                "Paul Feig"
+            ],
+            "Stars": [
+                "Melissa McCarthy",
+                "Rose Byrne",
+                "Jude Law"
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "Twentieth Century Fox",
+                "Chernin Entertainment",
+                "Feigco Entertainment"
+            ],
+            "PlotKeywords": [
+                "fellatio",
+                "fat woman",
+                "prosthetic penis",
+                "vulgarity",
+                "fat chick"
+            ],
+            "Metascore": 75,
+            "UserReviews": 504,
+            "CriticReviews": 384,
+            "Popularity": 934,
+            "MotionPictureRating": "Rated R for language throughout, violence, and some sexual content including brief graphic nudity",
+            "ReleaseDate": "5 June 2015",
+            "Budget": 65000000,
+            "OpeningWeekend": 29085719,
+            "Gross": 110825712,
+            "CumulativeWorldwideGross": 235666219,
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Nick Wild",
+            "Year": "2015",
+            "FilmTitle": "Wild Card",
+            "FilmUrl": "https://www.imdb.com/title/tt2231253/?ref_=nm_flmg_act_11",
+            "Directors": [
+                "Simon West"
+            ],
+            "Writers": [
+                "William Goldman"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Michael Angarano",
+                "Dominik Garcia"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Lionsgate",
+                "SJ Heat Productions",
+                "Sierra / Affinity"
+            ],
+            "PlotKeywords": [
+                "brutality",
+                "torture",
+                "threatening to cut off penis",
+                "female frontal nudity",
+                "female nudity"
+            ],
+            "Metascore": 40,
+            "UserReviews": 168,
+            "CriticReviews": 140,
+            "Popularity": 249,
+            "MotionPictureRating": "Rated R for strong violence, language and some sexuality/nudity",
+            "ReleaseDate": "14 January 2015",
+            "Budget": 30000000,
+            "CumulativeWorldwideGross": 6738764,
+            "RuntimeMinutes": 92
+        },
+        {
+            "CharacterName": "Lee Christmas",
+            "Year": "2014",
+            "FilmTitle": "The Expendables 3",
+            "FilmUrl": "https://www.imdb.com/title/tt2333784/?ref_=nm_flmg_act_12",
+            "Directors": [
+                "Patrick Hughes"
+            ],
+            "Writers": [
+                "Sylvester Stallone",
+                "Creighton Rothenberger"
+            ],
+            "Stars": [
+                "Sylvester Stallone",
+                "Jason Statham",
+                "Jet Li"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Lionsgate",
+                "Millennium Films",
+                "Nu Image Entertainment GmbH"
+            ],
+            "PlotKeywords": [
+                "mission",
+                "pg 13 sequel to r rated franchise",
+                "night cityscape",
+                "new york city",
+                "new york cityscape"
+            ],
+            "Metascore": 35,
+            "UserReviews": 401,
+            "CriticReviews": 343,
+            "Popularity": 885,
+            "MotionPictureRating": "Rated PG-13 for  violence including intense sustained gun battles and fight scenes, and for language",
+            "ReleaseDate": "15 August 2014",
+            "Budget": 90000000,
+            "OpeningWeekend": 15879645,
+            "Gross": 39322544,
+            "CumulativeWorldwideGross": 214657577,
+            "RuntimeMinutes": 126
+        },
+        {
+            "CharacterName": "Phil Broker",
+            "Year": "2013/I",
+            "FilmTitle": "Homefront",
+            "FilmUrl": "https://www.imdb.com/title/tt2312718/?ref_=nm_flmg_act_13",
+            "Directors": [
+                "Gary Fleder"
+            ],
+            "Writers": [
+                "Sylvester Stallone",
+                "Chuck Logan"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "James Franco",
+                "Winona Ryder"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Open Road Films (II)",
+                "Endgame Entertainment",
+                "Millennium Films"
+            ],
+            "PlotKeywords": [
+                "dea",
+                "gang leader",
+                "one against many",
+                "redneck",
+                "kidnapped child"
+            ],
+            "Metascore": 40,
+            "UserReviews": 197,
+            "CriticReviews": 217,
+            "Popularity": 257,
+            "MotionPictureRating": "Rated R for strong violence, pervasive language, drug content and brief sexuality.",
+            "ReleaseDate": "27 November 2013",
+            "Budget": 22000000,
+            "OpeningWeekend": 6915241,
+            "Gross": 20158898,
+            "CumulativeWorldwideGross": 48449416,
+            "RuntimeMinutes": 100
+        },
+        {
+            "CharacterName": "Deckard Shaw (uncredited)",
+            "Year": "2013",
+            "FilmTitle": "Furious 6",
+            "FilmUrl": "https://www.imdb.com/title/tt1905041/?ref_=nm_flmg_act_14",
+            "Directors": [
+                "Justin Lin"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Gary Scott Thompson"
+            ],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Dwayne Johnson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Relativity Media",
+                "Original Film"
+            ],
+            "PlotKeywords": [
+                "reference to spain",
+                "reference to the incredible hulk",
+                "humvee",
+                "canary islands",
+                "brian o'conner character"
+            ],
+            "Metascore": 61,
+            "UserReviews": 496,
+            "CriticReviews": 433,
+            "Popularity": 810,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of violence and action and mayhem throughout, some sexuality and language",
+            "ReleaseDate": "24 May 2013",
+            "Budget": 160000000,
+            "OpeningWeekend": 97375245,
+            "Gross": 238679850,
+            "CumulativeWorldwideGross": 788680968,
+            "RuntimeMinutes": 130
+        },
+        {
+            "CharacterName": "Joey",
+            "Year": "2013/I",
+            "FilmTitle": "Redemption",
+            "FilmUrl": "https://www.imdb.com/title/tt1893256/?ref_=nm_flmg_act_15",
+            "Directors": [
+                "Amrit Oberoi"
+            ],
+            "Writers": [
+                "Amrit Oberoi"
+            ],
+            "Stars": [
+                "James Arlow",
+                "Max Art",
+                "Jasmine Brooks"
+            ],
+            "Genres": [
+                "Short",
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "New York Film Academy"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "1 January 2016",
+            "Budget": 9000,
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Parker",
+            "Year": "2013",
+            "FilmTitle": "Parker",
+            "FilmUrl": "https://www.imdb.com/title/tt1904996/?ref_=nm_flmg_act_16",
+            "Directors": [
+                "Taylor Hackford"
+            ],
+            "Writers": [
+                "John J. McLaughlin",
+                "Donald E. Westlake"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Jennifer Lopez",
+                "Michael Chiklis"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Incentive Filmed Entertainment",
+                "Sierra / Affinity",
+                "Alexander/ Mitchell Productions"
+            ],
+            "PlotKeywords": [
+                "action hero",
+                "thief",
+                "heist",
+                "based on novel",
+                "bare breasts"
+            ],
+            "Metascore": 42,
+            "UserReviews": 175,
+            "CriticReviews": 174,
+            "Popularity": 151,
+            "MotionPictureRating": "Rated R for strong violence, language throughout and brief sexual content/nudity",
+            "ReleaseDate": "25 January 2013",
+            "Budget": 35000000,
+            "OpeningWeekend": 7008222,
+            "Gross": 17616641,
+            "CumulativeWorldwideGross": 46922566,
+            "RuntimeMinutes": 118
+        },
+        {
+            "CharacterName": "Lee Christmas",
+            "Year": "2012",
+            "FilmTitle": "The Expendables 2",
+            "FilmUrl": "https://www.imdb.com/title/tt1764651/?ref_=nm_flmg_act_17",
+            "Directors": [
+                "Simon West"
+            ],
+            "Writers": [
+                "Richard Wenk",
+                "Sylvester Stallone"
+            ],
+            "Stars": [
+                "Sylvester Stallone",
+                "Liam Hemsworth",
+                "Randy Couture"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Lionsgate",
+                "Millennium Films",
+                "Nu Image Entertainment GmbH"
+            ],
+            "PlotKeywords": [
+                "anti tank missile",
+                "woman hits a man",
+                "woman murders a man",
+                "murderess",
+                "burial"
+            ],
+            "Metascore": 51,
+            "UserReviews": 512,
+            "CriticReviews": 403,
+            "Popularity": 139,
+            "MotionPictureRating": "Rated R for strong bloody violence throughout",
+            "ReleaseDate": "17 August 2012",
+            "Budget": 100000000,
+            "OpeningWeekend": 28591370,
+            "Gross": 85028192,
+            "CumulativeWorldwideGross": 314975955,
+            "RuntimeMinutes": 103
+        },
+        {
+            "CharacterName": "Luke Wright",
+            "Year": "2012/I",
+            "FilmTitle": "Safe",
+            "FilmUrl": "https://www.imdb.com/title/tt1656190/?ref_=nm_flmg_act_18",
+            "Directors": [
+                "Boaz Yakin"
+            ],
+            "Writers": [
+                "Boaz Yakin"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Catherine Chan",
+                "Chris Sarandon"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "IM Global",
+                "Lionsgate",
+                "Automatik Entertainment"
+            ],
+            "PlotKeywords": [
+                "triad",
+                "russian mafia",
+                "bodyguard",
+                "gang war",
+                "protect the code breaker"
+            ],
+            "Metascore": 55,
+            "UserReviews": 167,
+            "CriticReviews": 267,
+            "Popularity": 613,
+            "MotionPictureRating": "Rated R for strong violence throughout, and for language",
+            "ReleaseDate": "27 April 2012",
+            "Budget": 30000000,
+            "OpeningWeekend": 7892539,
+            "Gross": 17142080,
+            "CumulativeWorldwideGross": 41564670,
+            "RuntimeMinutes": 94
+        },
+        {
+            "CharacterName": "Danny",
+            "Year": "2011",
+            "FilmTitle": "Killer Elite",
+            "FilmUrl": "https://www.imdb.com/title/tt1448755/?ref_=nm_flmg_act_19",
+            "Directors": [
+                "Gary McKendry"
+            ],
+            "Writers": [
+                "Matt Sherring",
+                "Ranulph Fiennes"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Clive Owen",
+                "Robert De Niro"
+            ],
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Omnilab Media",
+                "Ambience Entertainment",
+                "Current Entertainment"
+            ],
+            "PlotKeywords": [
+                "man tied up",
+                "tied to chair",
+                "handcuffed man",
+                "woman wears a bikini",
+                "woman on top sex"
+            ],
+            "Metascore": 44,
+            "UserReviews": 192,
+            "CriticReviews": 199,
+            "Popularity": 749,
+            "MotionPictureRating": "Rated R for strong violence, language and some sexuality/nudity",
+            "ReleaseDate": "23 September 2011",
+            "Budget": 70000000,
+            "OpeningWeekend": 9352008,
+            "Gross": 25124966,
+            "CumulativeWorldwideGross": 57084522,
+            "RuntimeMinutes": 116
+        },
+        {
+            "CharacterName": "Brant",
+            "Year": "2011",
+            "FilmTitle": "Blitz",
+            "FilmUrl": "https://www.imdb.com/title/tt1297919/?ref_=nm_flmg_act_20",
+            "Directors": [
+                "Elliott Lester"
+            ],
+            "Writers": [
+                "Nathan Parker",
+                "Ken Bruen"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Paddy Considine",
+                "Aidan Gillen"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Lionsgate UK",
+                "Davis-Films",
+                "Current Entertainment"
+            ],
+            "PlotKeywords": [
+                "hare krishna",
+                "envelope of money",
+                "hit with a cricket bat",
+                "pool of blood",
+                "serial killer of cops"
+            ],
+            "UserReviews": 138,
+            "CriticReviews": 71,
+            "Popularity": 490,
+            "MotionPictureRating": "Rated R for strong brutal violence, language, some drug use and nudity",
+            "ReleaseDate": "20 May 2011",
+            "CumulativeWorldwideGross": 11895069,
+            "RuntimeMinutes": 97
+        },
+        {
+            "CharacterName": "Tybalt (voice)",
+            "Year": "2011",
+            "FilmTitle": "Gnomeo & Juliet",
+            "FilmUrl": "https://www.imdb.com/title/tt0377981/?ref_=nm_flmg_act_21",
+            "Directors": [
+                "Kelly Asbury"
+            ],
+            "Writers": [
+                "Rob Sprackling",
+                "Johnny Smith"
+            ],
+            "Stars": [
+                "James McAvoy",
+                "Emily Blunt",
+                "Maggie Smith"
+            ],
+            "Genres": [
+                "Animation",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Touchstone Pictures",
+                "Rocket Pictures",
+                "Arc Productions"
+            ],
+            "PlotKeywords": [
+                "garden",
+                "gnome",
+                "flamingo",
+                "neighbor",
+                "garden gnome"
+            ],
+            "Metascore": 53,
+            "UserReviews": 128,
+            "CriticReviews": 210,
+            "ReleaseDate": "11 February 2011",
+            "Budget": 36000000,
+            "OpeningWeekend": 25356909,
+            "Gross": 99967670,
+            "CumulativeWorldwideGross": 193967670,
+            "RuntimeMinutes": 84
+        },
+        {
+            "CharacterName": "Arthur Bishop",
+            "Year": "2011",
+            "FilmTitle": "The Mechanic",
+            "FilmUrl": "https://www.imdb.com/title/tt0472399/?ref_=nm_flmg_act_22",
+            "Directors": [
+                "Simon West"
+            ],
+            "Writers": [
+                "Richard Wenk",
+                "Lewis John Carlino"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Ben Foster",
+                "Donald Sutherland"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "CBS Films",
+                "Millennium Films",
+                "Chartoff-Winkler Productions"
+            ],
+            "PlotKeywords": [
+                "apprentice",
+                "assassin",
+                "mentor",
+                "disobeying orders",
+                "gas station"
+            ],
+            "Metascore": 49,
+            "UserReviews": 212,
+            "CriticReviews": 259,
+            "Popularity": 924,
+            "MotionPictureRating": "Rated R for strong brutal violence throughout, language, some sexual content and nudity",
+            "ReleaseDate": "28 January 2011",
+            "Budget": 40000000,
+            "OpeningWeekend": 11422006,
+            "Gross": 29121498,
+            "CumulativeWorldwideGross": 76130093,
+            "RuntimeMinutes": 93
+        },
+        {
+            "CharacterName": "Lee Christmas",
+            "Year": "2010",
+            "FilmTitle": "The Expendables",
+            "FilmUrl": "https://www.imdb.com/title/tt1320253/?ref_=nm_flmg_act_23",
+            "Directors": [
+                "Sylvester Stallone"
+            ],
+            "Writers": [
+                "Dave Callaham",
+                "Sylvester Stallone"
+            ],
+            "Stars": [
+                "Sylvester Stallone",
+                "Jason Statham",
+                "Jet Li"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Millennium Films",
+                "Nu Image Entertainment GmbH"
+            ],
+            "PlotKeywords": [
+                "rescue mission",
+                "action hero",
+                "assassination attempt",
+                "machine gun",
+                "explosion"
+            ],
+            "Metascore": 45,
+            "UserReviews": 772,
+            "CriticReviews": 441,
+            "Popularity": 921,
+            "MotionPictureRating": "Rated R for strong action and bloody violence throughout, and for some language",
+            "ReleaseDate": "13 August 2010",
+            "Budget": 80000000,
+            "OpeningWeekend": 34825135,
+            "Gross": 103068524,
+            "CumulativeWorldwideGross": 274470394,
+            "RuntimeMinutes": 103
+        },
+        {
+            "CharacterName": "Jasper",
+            "Year": "2010/I",
+            "FilmTitle": "13",
+            "FilmUrl": "https://www.imdb.com/title/tt0798817/?ref_=nm_flmg_act_24",
+            "Directors": [
+                "G\u00e9la Babluani"
+            ],
+            "Writers": [
+                "G\u00e9la Babluani",
+                "Greg Pruss"
+            ],
+            "Stars": [
+                "Sam Riley",
+                "Alice Barrett",
+                "Gaby Hoffmann"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Alliance Cinema",
+                "Overnight Films"
+            ],
+            "PlotKeywords": [
+                "flashback",
+                "new york",
+                "electrician",
+                "cell phone",
+                "ohio"
+            ],
+            "Metascore": 29,
+            "UserReviews": 99,
+            "CriticReviews": 69,
+            "MotionPictureRating": "Rated R for disturbing violence, language and brief drug use",
+            "CumulativeWorldwideGross": 3701600,
+            "RuntimeMinutes": 91
+        },
+        {
+            "CharacterName": "Chev Chelios",
+            "Year": "2009",
+            "FilmTitle": "Crank: High Voltage",
+            "FilmUrl": "https://www.imdb.com/title/tt1121931/?ref_=nm_flmg_act_25",
+            "Directors": [
+                "Mark Neveldine",
+                "Brian Taylor"
+            ],
+            "Writers": [
+                "Mark Neveldine",
+                "Brian Taylor"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Amy Smart",
+                "Clifton Collins Jr."
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Lionsgate",
+                "Lakeshore Entertainment",
+                "RadicalMedia"
+            ],
+            "PlotKeywords": [
+                "pixelated nudity",
+                "voyeur",
+                "voyeurism",
+                "stripper",
+                "prostitute"
+            ],
+            "Metascore": 41,
+            "UserReviews": 246,
+            "CriticReviews": 159,
+            "Popularity": 37,
+            "MotionPictureRating": "Rated R for frenetic strong bloody violence throughout, crude and graphic sexual content, nudity and pervasive language",
+            "ReleaseDate": "17 April 2009",
+            "Budget": 20000000,
+            "OpeningWeekend": 6963565,
+            "Gross": 13684249,
+            "CumulativeWorldwideGross": 34572541,
+            "RuntimeMinutes": 96
+        },
+        {
+            "CharacterName": "Frank Martin",
+            "Year": "2008",
+            "FilmTitle": "Transporter 3",
+            "FilmUrl": "https://www.imdb.com/title/tt1129442/?ref_=nm_flmg_act_26",
+            "Directors": [
+                "Olivier Megaton"
+            ],
+            "Writers": [
+                "Luc Besson",
+                "Robert Mark Kamen"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Robert Knepper",
+                "Natalya Rudakova"
+            ],
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "EuropaCorp",
+                "TF1 Films Production",
+                "Grive Productions"
+            ],
+            "PlotKeywords": [
+                "jackknifed truck",
+                "aerial camera shot",
+                "motor vehicle",
+                "topless man",
+                "train passenger car"
+            ],
+            "Metascore": 51,
+            "UserReviews": 200,
+            "CriticReviews": 161,
+            "MotionPictureRating": "Rated PG-13 for sequences of intense action and violence, some sexual content and drug material",
+            "ReleaseDate": "26 November 2008",
+            "Budget": 30000000,
+            "OpeningWeekend": 12063452,
+            "Gross": 31715062,
+            "CumulativeWorldwideGross": 108979549,
+            "RuntimeMinutes": 104
+        },
+        {
+            "CharacterName": "Jensen Ames",
+            "Year": "2008",
+            "FilmTitle": "Death Race",
+            "FilmUrl": "https://www.imdb.com/title/tt0452608/?ref_=nm_flmg_act_27",
+            "Directors": [
+                "Paul W.S. Anderson"
+            ],
+            "Writers": [
+                "Paul W.S. Anderson"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Joan Allen",
+                "Tyrese Gibson"
+            ],
+            "Genres": [
+                "Action",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Relativity Media",
+                "Cruise/Wagner Productions"
+            ],
+            "PlotKeywords": [
+                "armoured vehicle",
+                "prison",
+                "car",
+                "prison warden",
+                "dystopia"
+            ],
+            "Metascore": 43,
+            "UserReviews": 237,
+            "CriticReviews": 238,
+            "Popularity": 720,
+            "MotionPictureRating": "Rated R for strong violence and language",
+            "ReleaseDate": "22 August 2008",
+            "Budget": 45000000,
+            "OpeningWeekend": 12621090,
+            "Gross": 36316032,
+            "CumulativeWorldwideGross": 76014335,
+            "RuntimeMinutes": 105
+        },
+        {
+            "CharacterName": "Terry Leather",
+            "Year": "2008",
+            "FilmTitle": "The Bank Job",
+            "FilmUrl": "https://www.imdb.com/title/tt0200465/?ref_=nm_flmg_act_28",
+            "Directors": [
+                "Roger Donaldson"
+            ],
+            "Writers": [
+                "Dick Clement",
+                "Ian La Frenais"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Saffron Burrows",
+                "Stephen Campbell Moore"
+            ],
+            "Genres": [
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Mosaic Media Group",
+                "Relativity Media",
+                "Omnilab Media"
+            ],
+            "PlotKeywords": [
+                "safe deposit",
+                "heist",
+                "chase",
+                "mobster",
+                "london england"
+            ],
+            "Metascore": 69,
+            "UserReviews": 215,
+            "CriticReviews": 232,
+            "Popularity": 400,
+            "ReleaseDate": "7 March 2008",
+            "Budget": 20000000,
+            "OpeningWeekend": 5935256,
+            "Gross": 30060660,
+            "CumulativeWorldwideGross": 64828421,
+            "RuntimeMinutes": 111
+        },
+        {
+            "CharacterName": "Crawford",
+            "Year": "2007",
+            "FilmTitle": "War",
+            "FilmUrl": "https://www.imdb.com/title/tt0499556/?ref_=nm_flmg_act_29",
+            "Directors": [
+                "Philip G. Atwell"
+            ],
+            "Writers": [
+                "Lee Anthony Smith",
+                "Gregory J. Bradley"
+            ],
+            "Stars": [
+                "Jet Li",
+                "Jason Statham",
+                "Nadine Velazquez"
+            ],
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Lionsgate",
+                "Mosaic Media Group",
+                "Fierce Entertainment"
+            ],
+            "PlotKeywords": [
+                "chinese mafia",
+                "kissing",
+                "foreplay",
+                "sex scene",
+                "doggystyle"
+            ],
+            "Metascore": 36,
+            "UserReviews": 175,
+            "CriticReviews": 132,
+            "Popularity": 903,
+            "MotionPictureRating": "Rated R for sequences of strong bloody violence, sexuality/nudity and language",
+            "ReleaseDate": "24 August 2007",
+            "Budget": 25000000,
+            "OpeningWeekend": 9820089,
+            "Gross": 22486409,
+            "CumulativeWorldwideGross": 40481352,
+            "RuntimeMinutes": 103
+        },
+        {
+            "CharacterName": "Farmer",
+            "Year": "2007",
+            "FilmTitle": "In the Name of the King: A Dungeon Siege Tale",
+            "FilmUrl": "https://www.imdb.com/title/tt0460780/?ref_=nm_flmg_act_30",
+            "Directors": [
+                "Uwe Boll"
+            ],
+            "Writers": [
+                "Doug Taylor",
+                "Jason Rappaport"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Ron Perlman",
+                "Ray Liotta"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Thriller",
+                "War"
+            ],
+            "ProductionCompanies": [
+                "Boll Kino Beteiligungs GmbH & Co. KG",
+                "Herold Productions",
+                "Brightlight Pictures"
+            ],
+            "PlotKeywords": [
+                "euro trash",
+                "trash movie",
+                "german exploitation",
+                "z movie",
+                "exploitation film"
+            ],
+            "Metascore": 15,
+            "UserReviews": 400,
+            "CriticReviews": 146,
+            "MotionPictureRating": "Rated PG-13 for intense battle sequences",
+            "ReleaseDate": "11 January 2008",
+            "Budget": 60000000,
+            "OpeningWeekend": 3265000,
+            "Gross": 4775656,
+            "CumulativeWorldwideGross": 13097915,
+            "RuntimeMinutes": 127
+        },
+        {
+            "CharacterName": "Chev Chelios",
+            "Year": "2006",
+            "FilmTitle": "Crank",
+            "FilmUrl": "https://www.imdb.com/title/tt0479884/?ref_=nm_flmg_act_31",
+            "Directors": [
+                "Mark Neveldine",
+                "Brian Taylor"
+            ],
+            "Writers": [
+                "Mark Neveldine",
+                "Brian Taylor"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Amy Smart",
+                "Carlos Sanz"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Lakeshore Entertainment",
+                "Lions Gate Films",
+                "RadicalMedia"
+            ],
+            "PlotKeywords": [
+                "homoerotic",
+                "outdoor sex",
+                "upskirt",
+                "cult film",
+                "heart"
+            ],
+            "Metascore": 57,
+            "UserReviews": 467,
+            "CriticReviews": 175,
+            "Popularity": 804,
+            "MotionPictureRating": "Rated R for strong violence, pervasive language, sexuality, nudity and drug use",
+            "ReleaseDate": "1 September 2006",
+            "Budget": 12000000,
+            "OpeningWeekend": 10457367,
+            "Gross": 27838408,
+            "CumulativeWorldwideGross": 42931041,
+            "RuntimeMinutes": 88
+        },
+        {
+            "CharacterName": "Yves Gluant (uncredited)",
+            "Year": "2006",
+            "FilmTitle": "The Pink Panther",
+            "FilmUrl": "https://www.imdb.com/title/tt0383216/?ref_=nm_flmg_act_32",
+            "Directors": [
+                "Shawn Levy"
+            ],
+            "Writers": [
+                "Len Blum",
+                "Steve Martin"
+            ],
+            "Stars": [
+                "Steve Martin",
+                "Kevin Kline",
+                "Jean Reno"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Crime",
+                "Family",
+                "Mystery"
+            ],
+            "ProductionCompanies": [
+                "Metro-Goldwyn-Mayer (MGM)",
+                "Columbia Pictures",
+                "Robert Simonds Productions"
+            ],
+            "PlotKeywords": [
+                "soccer",
+                "pink panther",
+                "diamond",
+                "france",
+                "investigation"
+            ],
+            "Metascore": 38,
+            "UserReviews": 450,
+            "CriticReviews": 150,
+            "Popularity": 441,
+            "MotionPictureRating": "Rated PG for occasional crude and suggestive humor and language",
+            "ReleaseDate": "10 February 2006",
+            "Budget": 80000000,
+            "OpeningWeekend": 20220412,
+            "Gross": 82226474,
+            "CumulativeWorldwideGross": 164115897,
+            "RuntimeMinutes": 93
+        },
+        {
+            "CharacterName": "Quentin Conners",
+            "Year": "2005/II",
+            "FilmTitle": "Chaos",
+            "FilmUrl": "https://www.imdb.com/title/tt0402910/?ref_=nm_flmg_act_33",
+            "Directors": [
+                "Tony Giglio"
+            ],
+            "Writers": [
+                "Tony Giglio"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Ryan Phillippe",
+                "Wesley Snipes"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Mobius International",
+                "Chaotic Productions",
+                "Chaotic Films"
+            ],
+            "PlotKeywords": [
+                "chaos theory",
+                "power outage",
+                "investigation",
+                "exploding house",
+                "hanging upside down"
+            ],
+            "UserReviews": 124,
+            "CriticReviews": 55,
+            "MotionPictureRating": "Rated R for violence and language",
+            "ReleaseDate": "15 December 2005",
+            "Budget": 12500000,
+            "CumulativeWorldwideGross": 7000248,
+            "RuntimeMinutes": 106
+        },
+        {
+            "CharacterName": "Jake Green",
+            "Year": "2005",
+            "FilmTitle": "Revolver",
+            "FilmUrl": "https://www.imdb.com/title/tt0365686/?ref_=nm_flmg_act_34",
+            "Directors": [
+                "Chester Dent"
+            ],
+            "Writers": [
+                "Chester Dent"
+            ],
+            "Stars": [
+                "Liam Neeson",
+                "Elaine Proctor"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "National Film and Television School (NFTS)"
+            ],
+            "PlotKeywords": [],
+            "Budget": 15000
+        },
+        {
+            "CharacterName": "Bateman",
+            "Year": "2005/I",
+            "FilmTitle": "London",
+            "FilmUrl": "https://www.imdb.com/title/tt0449061/?ref_=nm_flmg_act_35",
+            "Directors": [
+                "Hunter Richards"
+            ],
+            "Writers": [
+                "Hunter Richards"
+            ],
+            "Stars": [
+                "Jessica Biel",
+                "Chris Evans",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Destination Films",
+                "LHR Productions Inc.",
+                "National Film and Television School (NFTS)"
+            ],
+            "PlotKeywords": [
+                "female rear nudity",
+                "bare butt",
+                "talking about sex",
+                "fetish sex",
+                "nudity"
+            ],
+            "Metascore": 24,
+            "UserReviews": 99,
+            "CriticReviews": 31,
+            "MotionPictureRating": "Rated R for strong sexual content, pervasive language and drug use, and some violence",
+            "ReleaseDate": "10 February 2006",
+            "Budget": 14000,
+            "OpeningWeekend": 12667,
+            "Gross": 20361,
+            "CumulativeWorldwideGross": 20361,
+            "RuntimeMinutes": 92
+        },
+        {
+            "CharacterName": "Frank Martin",
+            "Year": "2005",
+            "FilmTitle": "Transporter 2",
+            "FilmUrl": "https://www.imdb.com/title/tt0388482/?ref_=nm_flmg_act_36",
+            "Directors": [
+                "Louis Leterrier"
+            ],
+            "Writers": [
+                "Luc Besson",
+                "Robert Mark Kamen"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Amber Valletta",
+                "Kate Nauta"
+            ],
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "EuropaCorp",
+                "TF1 Films Production",
+                "Current Entertainment"
+            ],
+            "PlotKeywords": [
+                "sequel",
+                "ex soldier",
+                "motor car",
+                "vehicle",
+                "automobile"
+            ],
+            "Metascore": 56,
+            "UserReviews": 359,
+            "CriticReviews": 170,
+            "Popularity": 114,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of violent action, sexual content, partial nudity and brief language",
+            "ReleaseDate": "2 September 2005",
+            "Budget": 32000000,
+            "OpeningWeekend": 16540720,
+            "Gross": 43095856,
+            "CumulativeWorldwideGross": 89083229,
+            "RuntimeMinutes": 87
+        },
+        {
+            "CharacterName": "Ethan",
+            "Year": "2004",
+            "FilmTitle": "Cellular",
+            "FilmUrl": "https://www.imdb.com/title/tt0337921/?ref_=nm_flmg_act_37",
+            "Directors": [
+                "David R. Ellis"
+            ],
+            "Writers": [
+                "Larry Cohen",
+                "Chris Morgan"
+            ],
+            "Stars": [
+                "Kim Basinger",
+                "Chris Evans",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "New Line Cinema",
+                "Electric Entertainment",
+                "LFG Filmproduktions & Company"
+            ],
+            "PlotKeywords": [
+                "cell phone",
+                "fishnet pantyhose",
+                "pantyhose",
+                "woman",
+                "police"
+            ],
+            "Metascore": 60,
+            "UserReviews": 384,
+            "CriticReviews": 71,
+            "Popularity": 553,
+            "MotionPictureRating": "Rated PG-13 for violence, terror situations, language and some sexual references",
+            "ReleaseDate": "10 September 2004",
+            "Budget": 25000000,
+            "OpeningWeekend": 10600000,
+            "Gross": 32003620,
+            "CumulativeWorldwideGross": 57678321,
+            "RuntimeMinutes": 94
+        },
+        {
+            "CharacterName": "Airport Man",
+            "Year": "2004",
+            "FilmTitle": "Collateral",
+            "FilmUrl": "https://www.imdb.com/title/tt0369339/?ref_=nm_flmg_act_38",
+            "Directors": [
+                "Michael Mann"
+            ],
+            "Writers": [
+                "Stuart Beattie"
+            ],
+            "Stars": [
+                "Tom Cruise",
+                "Jamie Foxx",
+                "Jada Pinkett Smith"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Paramount Pictures",
+                "Dreamworks Pictures",
+                "Parkes/MacDonald Image Nation"
+            ],
+            "PlotKeywords": [
+                "los angeles california",
+                "taxi",
+                "contract killer",
+                "taxi driver",
+                "hostage"
+            ],
+            "Metascore": 71,
+            "UserReviews": 903,
+            "CriticReviews": 229,
+            "Popularity": 566,
+            "MotionPictureRating": "Rated R for violence and language",
+            "ReleaseDate": "6 August 2004",
+            "Budget": 65000000,
+            "OpeningWeekend": 24701458,
+            "Gross": 101005703,
+            "CumulativeWorldwideGross": 220926695,
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Sergeant Waters (voice)",
+            "Year": "2003",
+            "FilmTitle": "Call of Duty",
+            "FilmUrl": "https://www.imdb.com/title/tt0382590/?ref_=nm_flmg_act_39",
+            "Directors": [
+                "Keith Arem"
+            ],
+            "Writers": [
+                "Michael Schiffer"
+            ],
+            "Stars": [
+                "Steve Blum",
+                "Jason Statham",
+                "Giovanni Ribisi"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "War"
+            ],
+            "ProductionCompanies": [
+                "Activision",
+                "Infinity Ward"
+            ],
+            "PlotKeywords": [
+                "single player",
+                "microsoft windows",
+                "multiplayer",
+                "first of series",
+                "call of duty"
+            ],
+            "UserReviews": 13,
+            "CriticReviews": 2,
+            "ReleaseDate": "31 October 2003"
+        },
+        {
+            "CharacterName": "Handsome Rob",
+            "Year": "2003",
+            "FilmTitle": "The Italian Job",
+            "FilmUrl": "https://www.imdb.com/title/tt0317740/?ref_=nm_flmg_act_40",
+            "Directors": [
+                "Peter Collinson"
+            ],
+            "Writers": [
+                "Troy Kennedy-Martin"
+            ],
+            "Stars": [
+                "Michael Caine",
+                "No\u00ebl Coward",
+                "Benny Hill"
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Oakhurst Productions",
+                "Paramount Pictures"
+            ],
+            "PlotKeywords": [
+                "car chase",
+                "cliffhanger",
+                "caper",
+                "mafia",
+                "1960s"
+            ],
+            "Metascore": 70,
+            "UserReviews": 192,
+            "CriticReviews": 50,
+            "Popularity": 821,
+            "ReleaseDate": "3 September 1969",
+            "Budget": 3000000,
+            "CumulativeWorldwideGross": 113867,
+            "RuntimeMinutes": 99
+        },
+        {
+            "CharacterName": "Shrike (voice)",
+            "Year": "2002",
+            "FilmTitle": "Red Faction II",
+            "FilmUrl": "https://www.imdb.com/title/tt0340309/?ref_=nm_flmg_act_41",
+            "Directors": [
+                "Marco Bertoldo"
+            ],
+            "Writers": [
+                "Maureen Tan"
+            ],
+            "Stars": [
+                "Lance Henriksen",
+                "Jason Statham",
+                "Christian Campbell"
+            ],
+            "Genres": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Outrage Games",
+                "Volition Inc."
+            ],
+            "PlotKeywords": [
+                "nintendo gamecube",
+                "playstation 2",
+                "xbox",
+                "first person shooter",
+                "single player"
+            ],
+            "UserReviews": 5,
+            "CriticReviews": 3,
+            "ReleaseDate": "17 October 2002"
+        },
+        {
+            "CharacterName": "Frank Martin",
+            "Year": "2002",
+            "FilmTitle": "The Transporter",
+            "FilmUrl": "https://www.imdb.com/title/tt0293662/?ref_=nm_flmg_act_42",
+            "Directors": [
+                "Louis Leterrier",
+                "Corey Yuen"
+            ],
+            "Writers": [
+                "Luc Besson",
+                "Robert Mark Kamen"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Qi Shu",
+                "Matt Schulze"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "EuropaCorp",
+                "TF1 Films Production",
+                "Current Entertainment"
+            ],
+            "PlotKeywords": [
+                "gunfight",
+                "mixed martial arts",
+                "tape over mouth",
+                "motor car",
+                "vehicle"
+            ],
+            "Metascore": 51,
+            "UserReviews": 476,
+            "CriticReviews": 179,
+            "Popularity": 294,
+            "MotionPictureRating": "Rated PG-13 for violent sequences and some sensuality",
+            "ReleaseDate": "11 October 2002",
+            "Budget": 21000000,
+            "OpeningWeekend": 9107816,
+            "Gross": 25296447,
+            "CumulativeWorldwideGross": 43928932,
+            "RuntimeMinutes": 92
+        },
+        {
+            "CharacterName": "Jason Statham",
+            "Year": "2002",
+            "FilmTitle": "Knoc-Turn'Al Feat. Samuel Christian: Muzik",
+            "FilmUrl": "https://www.imdb.com/title/tt10212312/?ref_=nm_flmg_act_43",
+            "Directors": [
+                "Louis Leterrier"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Samuel Christian",
+                "Knoc-Turn'Al",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short",
+                "Music"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "music video"
+            ],
+            "RuntimeMinutes": 3
+        },
+        {
+            "CharacterName": "Monk",
+            "Year": "2001",
+            "FilmTitle": "Mean Machine",
+            "FilmUrl": "https://www.imdb.com/title/tt0291341/?ref_=nm_flmg_act_44",
+            "Directors": [
+                "Barry Skolnick"
+            ],
+            "Writers": [
+                "Tracy Keenan Wynn",
+                "Charlie Fletcher"
+            ],
+            "Stars": [
+                "Vinnie Jones",
+                "David Kelly",
+                "David Hemmings"
+            ],
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Paramount Pictures",
+                "The Ruddy Morgan Organization",
+                "Brad Grey Pictures"
+            ],
+            "PlotKeywords": [
+                "prison",
+                "soccer",
+                "remake of american film",
+                "soccer player",
+                "soccer match"
+            ],
+            "Metascore": 45,
+            "UserReviews": 88,
+            "CriticReviews": 57,
+            "MotionPictureRating": "Rated R for language and some violence",
+            "ReleaseDate": "26 December 2001",
+            "Budget": 2500000,
+            "Gross": 92770,
+            "CumulativeWorldwideGross": 7310206,
+            "RuntimeMinutes": 99
+        },
+        {
+            "CharacterName": "MVA Agent Evan Funsch",
+            "Year": "2001",
+            "FilmTitle": "The One",
+            "FilmUrl": "https://www.imdb.com/title/tt0267804/?ref_=nm_flmg_act_45",
+            "Directors": [
+                "James Wong"
+            ],
+            "Writers": [
+                "Glen Morgan",
+                "James Wong"
+            ],
+            "Stars": [
+                "Jet Li",
+                "Carla Gugino",
+                "Delroy Lindo"
+            ],
+            "Genres": [
+                "Action",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Revolution Studios",
+                "Hard Eight Pictures"
+            ],
+            "PlotKeywords": [
+                "criminal",
+                "convicted criminal",
+                "law enforcement officer",
+                "multiverse agent",
+                "running from police"
+            ],
+            "Metascore": 25,
+            "UserReviews": 302,
+            "CriticReviews": 108,
+            "MotionPictureRating": "Rated PG-13 for intense action violence and some language",
+            "ReleaseDate": "2 November 2001",
+            "Budget": 49000000,
+            "OpeningWeekend": 19112404,
+            "Gross": 43905746,
+            "CumulativeWorldwideGross": 74005691,
+            "RuntimeMinutes": 87
+        },
+        {
+            "CharacterName": "Sgt Jericho Butler",
+            "Year": "2001",
+            "FilmTitle": "Ghosts of Mars",
+            "FilmUrl": "https://www.imdb.com/title/tt0228333/?ref_=nm_flmg_act_46",
+            "Directors": [
+                "John Carpenter"
+            ],
+            "Writers": [
+                "Larry Sulkis",
+                "John Carpenter"
+            ],
+            "Stars": [
+                "Natasha Henstridge",
+                "Ice Cube",
+                "Pam Grier"
+            ],
+            "Genres": [
+                "Action",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Screen Gems",
+                "Storm King Productions",
+                "Animationwerks"
+            ],
+            "PlotKeywords": [
+                "martian",
+                "mars the planet",
+                "jail",
+                "outer space",
+                "music score composed by director"
+            ],
+            "Metascore": 35,
+            "UserReviews": 480,
+            "CriticReviews": 93,
+            "Popularity": 813,
+            "MotionPictureRating": "Rated R for strong violence/gore, language and some drug content",
+            "ReleaseDate": "24 August 2001",
+            "Budget": 28000000,
+            "OpeningWeekend": 3804452,
+            "Gross": 8709640,
+            "CumulativeWorldwideGross": 14010832,
+            "RuntimeMinutes": 98
+        },
+        {
+            "CharacterName": "Mr. B",
+            "Year": "2000",
+            "FilmTitle": "Turn It Up",
+            "FilmUrl": "https://www.imdb.com/title/tt0216772/?ref_=nm_flmg_act_47",
+            "Directors": [
+                "Robert Adetuyi"
+            ],
+            "Writers": [
+                "Ray 'Cory' Daniels",
+                "Chris Hudson"
+            ],
+            "Stars": [
+                "Pras Michel",
+                "Ja Rule",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Action",
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "MadGuy Films",
+                "New Line Cinema",
+                "Paris Brothers"
+            ],
+            "PlotKeywords": [
+                "recording studio",
+                "rapper",
+                "gangster",
+                "father son relationship",
+                "estranged parent"
+            ],
+            "Metascore": 18,
+            "UserReviews": 9,
+            "CriticReviews": 23,
+            "ReleaseDate": "6 September 2000",
+            "Budget": 13000000,
+            "OpeningWeekend": 576820,
+            "Gross": 1247949,
+            "CumulativeWorldwideGross": 1247949,
+            "RuntimeMinutes": 86
+        },
+        {
+            "CharacterName": "Turkish",
+            "Year": "2000",
+            "FilmTitle": "Snatch",
+            "FilmUrl": "https://www.imdb.com/title/tt0208092/?ref_=nm_flmg_act_48",
+            "Directors": [
+                "Guy Ritchie"
+            ],
+            "Writers": [
+                "Guy Ritchie"
+            ],
+            "Stars": [
+                "Jason Statham",
+                "Brad Pitt",
+                "Benicio Del Toro"
+            ],
+            "Genres": [
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "Columbia Pictures",
+                "SKA Films"
+            ],
+            "PlotKeywords": [
+                "diamond",
+                "boxer",
+                "narrated by character",
+                "fight",
+                "cockney accent"
+            ],
+            "Metascore": 55,
+            "UserReviews": 845,
+            "CriticReviews": 157,
+            "Popularity": 397,
+            "MotionPictureRating": "Rated R for strong violence, language and some nudity",
+            "ReleaseDate": "19 January 2001",
+            "Budget": 6000000,
+            "OpeningWeekend": 27932,
+            "Gross": 30328156,
+            "CumulativeWorldwideGross": 83557872,
+            "RuntimeMinutes": 104
+        },
+        {
+            "CharacterName": "Bacon",
+            "Year": "1998",
+            "FilmTitle": "Lock, Stock and Two Smoking Barrels",
+            "FilmUrl": "https://www.imdb.com/title/tt0120735/?ref_=nm_flmg_act_49",
+            "Directors": [
+                "Guy Ritchie"
+            ],
+            "Writers": [
+                "Guy Ritchie"
+            ],
+            "Stars": [
+                "Jason Flemyng",
+                "Dexter Fletcher",
+                "Nick Moran"
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "Summit Entertainment",
+                "The Steve Tisch Company",
+                "SKA Films"
+            ],
+            "PlotKeywords": [
+                "gangster",
+                "dark comedy",
+                "violence",
+                "united kingdom",
+                "shotgun"
+            ],
+            "Metascore": 66,
+            "UserReviews": 589,
+            "CriticReviews": 115,
+            "Popularity": 106,
+            "MotionPictureRating": "Rated R for strong violence, pervasive language, sexuality and drug content",
+            "ReleaseDate": "28 August 1998",
+            "Budget": 960000,
+            "OpeningWeekend": 143321,
+            "Gross": 3753929,
+            "CumulativeWorldwideGross": 3753929,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Swimmer",
+            "Year": "1997",
+            "FilmTitle": "Yello: To the Sea",
+            "FilmUrl": "https://www.imdb.com/title/tt10760660/?ref_=nm_flmg_act_50",
+            "Directors": [
+                "Paul Morgans"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Boris Blank",
+                "Dieter Meier",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short",
+                "Music"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "music video"
+            ],
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "Silver-painted Dancer",
+            "Year": "1994",
+            "FilmTitle": "Erasure: Run to the Sun",
+            "FilmUrl": "https://www.imdb.com/title/tt7636670/?ref_=nm_flmg_act_51",
+            "Directors": [
+                "Nico Beyer"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Erasure",
+                "Andy Bell",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short",
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "Propaganda Films"
+            ],
+            "PlotKeywords": [
+                "music video",
+                "world clock",
+                "body painted dancer",
+                "1990s music",
+                "90s music"
+            ],
+            "ReleaseDate": "18 July 1994",
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "Background Dancer",
+            "Year": "1993",
+            "FilmTitle": "The Shamen: Comin' On",
+            "FilmUrl": "https://www.imdb.com/title/tt7638678/?ref_=nm_flmg_act_52",
+            "Directors": [
+                "Nico Beyer"
+            ],
+            "Writers": [],
+            "Stars": [
+                "The Shamen",
+                "Colin Angus",
+                "Mr. C"
+            ],
+            "Genres": [
+                "Short",
+                "Music"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "music video",
+                "1990s music",
+                "90s music"
+            ],
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "",
+            "Year": "",
+            "FilmTitle": "Viva La Madness",
+            "FilmUrl": "https://www.imdb.com/title/tt3336458/?ref_=nm_flmg_prd_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "SJ Pictures"
+            ],
+            "PlotKeywords": [
+                "criminal"
+            ]
+        },
+        {
+            "CharacterName": "",
+            "Year": "2019",
+            "FilmTitle": "Fast & Furious Presents: Hobbs & Shaw",
+            "FilmUrl": "https://www.imdb.com/title/tt6806448/?ref_=nm_flmg_prd_2",
+            "Directors": [
+                "David Leitch"
+            ],
+            "Writers": [
+                "Chris Morgan",
+                "Drew Pearce"
+            ],
+            "Stars": [
+                "Dwayne Johnson",
+                "Jason Statham",
+                "Idris Elba"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Chris Morgan Productions",
+                "Dentsu",
+                "Seven Bucks Productions"
+            ],
+            "PlotKeywords": [
+                "samoa",
+                "flamethrower",
+                "spin off",
+                "shared universe",
+                "fast and furious franchise"
+            ],
+            "Metascore": 60,
+            "UserReviews": 1242,
+            "CriticReviews": 306,
+            "Popularity": 484,
+            "ReleaseDate": "2 August 2019",
+            "Budget": 200000000,
+            "OpeningWeekend": 60038950,
+            "Gross": 173956935,
+            "CumulativeWorldwideGross": 759056935,
+            "RuntimeMinutes": 137
+        },
+        {
+            "CharacterName": "",
+            "Year": "2017",
+            "FilmTitle": "Eat Locals",
+            "FilmUrl": "https://www.imdb.com/title/tt4401006/?ref_=nm_flmg_stn_1",
+            "Directors": [
+                "Jason Flemyng"
+            ],
+            "Writers": [
+                "Danny King"
+            ],
+            "Stars": [
+                "Freema Agyeman",
+                "Adrian Bower",
+                "Roman Clark"
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Horror"
+            ],
+            "ProductionCompanies": [
+                "Evolution Pictures",
+                "Reign of Blood"
+            ],
+            "PlotKeywords": [
+                "murder",
+                "egg laying",
+                "vampire",
+                "special force",
+                "cougar"
+            ],
+            "UserReviews": 28,
+            "CriticReviews": 43,
+            "ReleaseDate": "1 September 2017",
+            "Budget": 1500000,
+            "CumulativeWorldwideGross": 16503,
+            "RuntimeMinutes": 94
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "Micro SD",
+            "FilmUrl": "https://www.imdb.com/title/tt2978780/?ref_=nm_flmg_tk_1",
+            "Directors": [
+                "Kevin Barile"
+            ],
+            "Writers": [
+                "Priyom Haider"
+            ],
+            "Stars": [
+                "Priyom Haider",
+                "Kevin Barile",
+                "Stephanus Tedja"
+            ],
+            "Genres": [
+                "Short",
+                "Action"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "transporter",
+                "martial arts"
+            ],
+            "ReleaseDate": "12 June 2013",
+            "Budget": 10000,
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "",
+            "Year": "2012",
+            "FilmTitle": "Hostile Situation",
+            "FilmUrl": "https://www.imdb.com/title/tt2497032/?ref_=nm_flmg_tk_2",
+            "Directors": [
+                "Ranjeet S. Marwa"
+            ],
+            "Writers": [
+                "Sandeep Bharj",
+                "Ranjeet S. Marwa"
+            ],
+            "Stars": [
+                "David Lamont",
+                "Lawrence Larkin"
+            ],
+            "Genres": [
+                "Short",
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "Empire Motion Pictures"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "4 November 2012",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "",
+            "Year": "2012",
+            "FilmTitle": "Safe: Cracking Safe",
+            "FilmUrl": "https://www.imdb.com/title/tt2388260/?ref_=nm_flmg_tk_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Boaz Yakin",
+                "Lawrence Bender",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short",
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "1K Studios"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "4 September 2012",
+            "RuntimeMinutes": 12
+        },
+        {
+            "CharacterName": "",
+            "Year": "2012",
+            "FilmTitle": "Safe: The Art of the Gunfight",
+            "FilmUrl": "https://www.imdb.com/title/tt2388258/?ref_=nm_flmg_tk_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Boaz Yakin",
+                "Chad Stahelski",
+                "J.J. Perry"
+            ],
+            "Genres": [
+                "Short",
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "1K Studios"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "4 September 2012",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "",
+            "Year": "2009",
+            "FilmTitle": "Protection",
+            "FilmUrl": "https://www.imdb.com/title/tt1547487/?ref_=nm_flmg_tk_5",
+            "Directors": [
+                "Tim Karagosian"
+            ],
+            "Writers": [
+                "Tim Karagosian"
+            ],
+            "Stars": [
+                "Michael Dault",
+                "Heather Nelson",
+                "Jeremy Rush"
+            ],
+            "Genres": [
+                "Short",
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "Brown Street Productions",
+                "TipToe Productions"
+            ],
+            "PlotKeywords": [
+                "protection",
+                "money",
+                "kill"
+            ],
+            "ReleaseDate": "20 August 2009",
+            "Budget": 20000
+        },
+        {
+            "CharacterName": "",
+            "Year": "2001",
+            "FilmTitle": "Making 'Snatch'",
+            "FilmUrl": "https://www.imdb.com/title/tt1388353/?ref_=nm_flmg_tk_6",
+            "Directors": [
+                "Martin Herring",
+                "Janet Knipe"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham",
+                "Guy Ritchie",
+                "Tim Maurice-Jones"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Ginger Television",
+                "Columbia TriStar Film Distributors International"
+            ],
+            "PlotKeywords": [
+                "making of",
+                "chess",
+                "behind the scenes"
+            ],
+            "ReleaseDate": "3 July 2001",
+            "RuntimeMinutes": 25
+        },
+        {
+            "CharacterName": "Self in London / Self",
+            "Year": "2019",
+            "FilmTitle": "Entertainment Tonight Canada",
+            "FilmUrl": "https://www.imdb.com/title/tt0482346/?ref_=nm_flmg_slf_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carlos Bustamante",
+                "Cheryl Hickey",
+                "Sangita Patel"
+            ],
+            "Genres": [
+                "Biography",
+                "Family",
+                "News",
+                "Reality-TV"
+            ],
+            "ProductionCompanies": [
+                "Corus Entertainment"
+            ],
+            "PlotKeywords": [
+                "country name in title",
+                "three word title",
+                "show business",
+                "promotional",
+                "music industry"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "12 September 2005",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018-2019",
+            "FilmTitle": "Dish Nation",
+            "FilmUrl": "https://www.imdb.com/title/tt1973047/?ref_=nm_flmg_slf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "HeadKrack",
+                "Gary With Da Tea",
+                "Rickey Smiley"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "pop culture",
+                "celebrity gossip",
+                "celebrity news",
+                "entertainment news",
+                "non fiction"
+            ],
+            "UserReviews": 14,
+            "ReleaseDate": "15 July 2011"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014-2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018-2019",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sonia Isabelle",
+                "Jaymes Vaughan",
+                "Arthur Kade"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Unconventional Partners"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "stars",
+                "non fiction"
+            ],
+            "ReleaseDate": "9 September 2013",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dean Richards",
+                "Mike Toomey",
+                "Robin Baumgarten"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "WGN Chicago"
+            ],
+            "PlotKeywords": [
+                "chicago illinois",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "6 September 1994"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013-2019",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Renee Bargh",
+                "Mario Lopez",
+                "Charissa Thompson"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "Tinseltown Entertainment"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "show business",
+                "non fiction"
+            ],
+            "UserReviews": 8,
+            "ReleaseDate": "5 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2012-2019",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lara Spencer",
+                "Ginger Zee",
+                "Robin Roberts"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "American Broadcasting Company (ABC)",
+                "ABC News"
+            ],
+            "PlotKeywords": [
+                "country name in title",
+                "three word title",
+                "interview",
+                "current affairs",
+                "breakfast tv"
+            ],
+            "UserReviews": 19,
+            "Popularity": 935,
+            "ReleaseDate": "6 January 1975",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Hollywood Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt8638066/?ref_=nm_flmg_slf_8",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Pritan Ambroase",
+                "Tom Holland",
+                "Margot Robbie"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Hollywood Insider",
+                "Concierge Content"
+            ],
+            "PlotKeywords": [
+                "entertainment",
+                "non fiction"
+            ],
+            "ReleaseDate": "17 May 2018",
+            "Budget": 16000000
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013-2018",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_9",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kylie Erica Mar",
+                "Julie L. Harkness",
+                "Patrick Stinson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Connection III Entertainment"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "celebrity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "30 September 2005"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2018",
+            "FilmTitle": "IMDb on the Scene - Interviews",
+            "FilmUrl": "https://www.imdb.com/title/tt8596744/?ref_=nm_flmg_slf_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Bret Federigan",
+                "Alex Logan",
+                "Albert Lawrence"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "IMDb Originals"
+            ],
+            "PlotKeywords": [
+                "cast",
+                "non fiction"
+            ],
+            "Popularity": 726,
+            "ReleaseDate": "3 July 2018"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "The Fate of the Furious: In the Family",
+            "FilmUrl": "https://www.imdb.com/title/tt7145172/?ref_=nm_flmg_slf_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "F. Gary Gray",
+                "Dwayne Johnson"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "11 July 2017",
+            "RuntimeMinutes": 21
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Seven Bucks Digital Studios",
+            "FilmUrl": "https://www.imdb.com/title/tt6744198/?ref_=nm_flmg_slf_12",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dwayne Johnson",
+                "Mo Darwiche",
+                "Troy Guthrie"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Studio71"
+            ],
+            "PlotKeywords": [
+                "video"
+            ],
+            "ReleaseDate": "23 June 2016",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2014-2017",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_13",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Savannah Guthrie",
+                "Hoda Kotb",
+                "Al Roker"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "NBC News"
+            ],
+            "PlotKeywords": [
+                "weather",
+                "one word title",
+                "morning show",
+                "non fiction"
+            ],
+            "UserReviews": 16,
+            "ReleaseDate": "14 January 1952",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2008-2017",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_14",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kelly Ripa",
+                "Ryan Seacrest",
+                "Michael Strahan"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "WABC",
+                "Buena Vista Television",
+                "Disney-ABC Home Entertainment & Television Distribution"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "actress name in series title",
+                "guest",
+                "interview",
+                "non fiction"
+            ],
+            "UserReviews": 36,
+            "ReleaseDate": "5 September 1988",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "LG: World of Play",
+            "FilmUrl": "https://www.imdb.com/title/tt6426062/?ref_=nm_flmg_slf_15",
+            "Directors": [
+                "Fredrik Bond"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Razor Rocco Rizzotti",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "lg",
+                "commercial"
+            ],
+            "RuntimeMinutes": 1
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Engineering the Sequel: Inside 'Mechanic: Resurrection'",
+            "FilmUrl": "https://www.imdb.com/title/tt6322360/?ref_=nm_flmg_slf_16",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jessica Alba",
+                "Dennis Gansel",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "22 November 2016",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Scoring the Action Film with Mark Isham",
+            "FilmUrl": "https://www.imdb.com/title/tt6322834/?ref_=nm_flmg_slf_17",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jessica Alba",
+                "Mark Isham",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "22 November 2016",
+            "RuntimeMinutes": 9
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Statham on Stunts of 'Mechanic: Resurrection'",
+            "FilmUrl": "https://www.imdb.com/title/tt6322844/?ref_=nm_flmg_slf_18",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jessica Alba",
+                "Vic Armstrong",
+                "Frank DeMartini"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "22 November 2016",
+            "RuntimeMinutes": 2
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "The Malaysian Prison",
+            "FilmUrl": "https://www.imdb.com/title/tt6322838/?ref_=nm_flmg_slf_19",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Frank DeMartini",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "22 November 2016",
+            "RuntimeMinutes": 2
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "21st Annual Critics' Choice Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5350078/?ref_=nm_flmg_slf_20",
+            "Directors": [
+                "Joe DeMaio"
+            ],
+            "Writers": [
+                "Wayne Federman",
+                "Joe O'Brien"
+            ],
+            "Stars": [
+                "T.J. Miller",
+                "J.J. Abrams",
+                "Jennifer Aniston"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "17 January 2016"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2016",
+            "FilmTitle": "73rd Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt4399942/?ref_=nm_flmg_slf_21",
+            "Directors": [
+                "Louis J. Horvitz"
+            ],
+            "Writers": [
+                "Barry Adelman",
+                "Ricky Gervais"
+            ],
+            "Stars": [
+                "Ricky Gervais",
+                "Channing Tatum",
+                "Jonah Hill"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Dick Clark Productions",
+                "Hollywood Foreign Press Association (HFPA)"
+            ],
+            "PlotKeywords": [
+                "year 2016",
+                "2010s",
+                "golden globes",
+                "golden globe awards",
+                "reference to imdb"
+            ],
+            "UserReviews": 4,
+            "CriticReviews": 1,
+            "ReleaseDate": "10 January 2016"
+        },
+        {
+            "CharacterName": "Self - 'Deckard Shaw'",
+            "Year": "2015",
+            "FilmTitle": "Furious 7: Back to the Starting Line",
+            "FilmUrl": "https://www.imdb.com/title/tt5273526/?ref_=nm_flmg_slf_22",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Chris Morgan",
+                "Vin Diesel",
+                "Michelle Rodriguez"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 September 2015",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self - 'Deckard Shaw'",
+            "Year": "2015",
+            "FilmTitle": "Furious 7: Inside the Fight",
+            "FilmUrl": "https://www.imdb.com/title/tt5273558/?ref_=nm_flmg_slf_23",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Neal H. Moritz",
+                "James Wan",
+                "Jeff Imada"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 September 2015",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self - 'Deckard Shaw'",
+            "Year": "2015",
+            "FilmTitle": "The Cars of Furious 7",
+            "FilmUrl": "https://www.imdb.com/title/tt5273596/?ref_=nm_flmg_slf_24",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Neal H. Moritz",
+                "Michelle Rodriguez",
+                "Bill Brzeski"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 September 2015",
+            "RuntimeMinutes": 11
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014-2015",
+            "FilmTitle": "Le grand journal de Canal+",
+            "FilmUrl": "https://www.imdb.com/title/tt0426701/?ref_=nm_flmg_slf_25",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Michel Denisot",
+                "Jean-Michel Aphatie",
+                "Ariane Massenet"
+            ],
+            "Genres": [
+                "Documentary",
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Canal+",
+                "Waw Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "30 August 2004"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_slf_26",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "M\u00e1rio Augusto",
+                "Paulo Branco",
+                "Nicolau Breyner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "At\u00e9 ao Fim do Mundo"
+            ],
+            "PlotKeywords": [
+                "show",
+                "non fiction"
+            ],
+            "ReleaseDate": "3 March 2010"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012-2015",
+            "FilmTitle": "Reel Junkie",
+            "FilmUrl": "https://www.imdb.com/title/tt3234862/?ref_=nm_flmg_slf_27",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kourosh Taj",
+                "Carrie Keagan",
+                "Elizabeth Spruill"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "No Good Entertainment"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "21 February 2007"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2007-2015",
+            "FilmTitle": "Up Close with Carrie Keagan",
+            "FilmUrl": "https://www.imdb.com/title/tt1434322/?ref_=nm_flmg_slf_28",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carrie Keagan",
+                "Shark Firestone",
+                "Bradley Cooper"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "No Good Entertainment"
+            ],
+            "PlotKeywords": [
+                "five word title",
+                "name in title",
+                "interview",
+                "performer name in title",
+                "non fiction"
+            ],
+            "ReleaseDate": "21 February 2007"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014-2015",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_29",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Fallon",
+                "The Roots",
+                "Steve Higgins"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "2010s",
+                "actor name in series title",
+                "six word series title",
+                "woke",
+                "2020s"
+            ],
+            "UserReviews": 84,
+            "CriticReviews": 11,
+            "Popularity": 761,
+            "ReleaseDate": "17 February 2014",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Young Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt4034410/?ref_=nm_flmg_slf_30",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Oliver Trevena",
+                "Nikki Novak",
+                "Baruch Shemtov"
+            ],
+            "Genres": [
+                "Reality-TV",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Young Hollywood"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "non fiction"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "6 April 2007",
+            "Budget": 1000000
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2006-2015",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_31",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Kimmel",
+                "Cleto and the Cletones",
+                "Cleto Escobedo III"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Jackhole Industries",
+                "12:05 Productions",
+                "ABC Studios"
+            ],
+            "PlotKeywords": [
+                "woke",
+                "actor plays himself",
+                "actor name in series title",
+                "exclamation point in series title",
+                "2000s"
+            ],
+            "UserReviews": 60,
+            "CriticReviews": 2,
+            "Popularity": 326,
+            "ReleaseDate": "26 January 2003",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Original Sin: Las Vegas and the Characters of 'Wild Card'",
+            "FilmUrl": "https://www.imdb.com/title/tt5504134/?ref_=nm_flmg_slf_32",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Alexander",
+                "Michael Angarano",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "31 March 2015",
+            "RuntimeMinutes": 16
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "The Script of 'Wild Card'",
+            "FilmUrl": "https://www.imdb.com/title/tt5504140/?ref_=nm_flmg_slf_33",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham",
+                "Stanley Tucci",
+                "Simon West"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "31 March 2015",
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "The Expendables 3: New Blood - Stacked and Jacked",
+            "FilmUrl": "https://www.imdb.com/title/tt5266900/?ref_=nm_flmg_slf_34",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Antonio Banderas",
+                "Randy Couture",
+                "Harrison Ford"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Trailer Park"
+            ],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 November 2014",
+            "RuntimeMinutes": 16
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "The Expendables 3: The Total Action Package",
+            "FilmUrl": "https://www.imdb.com/title/tt5266916/?ref_=nm_flmg_slf_35",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Antonio Banderas",
+                "Randy Couture",
+                "Harrison Ford"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Trailer Park"
+            ],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 November 2014",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "The Making of 'The Expendables 3'",
+            "FilmUrl": "https://www.imdb.com/title/tt5266790/?ref_=nm_flmg_slf_36",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Antonio Banderas",
+                "Dan Bradley",
+                "Jason Constantine"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 November 2014",
+            "RuntimeMinutes": 52
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "IMDb: What to Watch",
+            "FilmUrl": "https://www.imdb.com/title/tt3412000/?ref_=nm_flmg_slf_37",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Keith Simanton",
+                "Melanie McFarland",
+                "Miles Teller"
+            ],
+            "Genres": [
+                "Documentary",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "IMDb Originals"
+            ],
+            "PlotKeywords": [
+                "interview",
+                "web series"
+            ],
+            "RuntimeMinutes": 12
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Fox and Friends",
+            "FilmUrl": "https://www.imdb.com/title/tt0185065/?ref_=nm_flmg_slf_38",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Steve Doocy",
+                "Brian Kilmeade",
+                "Ainsley Earhardt"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Fox News"
+            ],
+            "PlotKeywords": [
+                "morning show",
+                "politics",
+                "current affairs",
+                "non fiction",
+                "fox news"
+            ],
+            "UserReviews": 22,
+            "CriticReviews": 3,
+            "ReleaseDate": "1 February 1998",
+            "RuntimeMinutes": 180
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013",
+            "FilmTitle": "The Queen Latifah Show",
+            "FilmUrl": "https://www.imdb.com/title/tt2099467/?ref_=nm_flmg_slf_39",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Queen Latifah",
+                "Bridget McManus",
+                "Timothy Snell"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Central Talent Booking",
+                "Flavor Unit Entertainment",
+                "GQC Entertainment"
+            ],
+            "PlotKeywords": [
+                "african american woman",
+                "female protagonist",
+                "non fiction"
+            ],
+            "UserReviews": 3,
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013",
+            "FilmTitle": "The Talk",
+            "FilmUrl": "https://www.imdb.com/title/tt1740718/?ref_=nm_flmg_slf_40",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sharon Osbourne",
+                "Julie Chen Moonves",
+                "Sheryl Underwood"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "CBS Productions"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "UserReviews": 52,
+            "Popularity": 925,
+            "ReleaseDate": "18 October 2010",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013",
+            "FilmTitle": "Late Night with Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt1231460/?ref_=nm_flmg_slf_41",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Fallon",
+                "The Roots",
+                "Steve Higgins"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Media Studios (UMS)"
+            ],
+            "PlotKeywords": [
+                "five word series title",
+                "performer name in title",
+                "late night",
+                "variety show",
+                "live performance"
+            ],
+            "UserReviews": 42,
+            "CriticReviews": 1,
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2012-2013",
+            "FilmTitle": "Big Morning Buzz Live",
+            "FilmUrl": "https://www.imdb.com/title/tt1907886/?ref_=nm_flmg_slf_42",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carrie Keagan",
+                "Jason Dundas",
+                "Jim Shearer"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "New Pop Culture Productions"
+            ],
+            "PlotKeywords": [
+                "live",
+                "celebrity",
+                "musical performance",
+                "interview",
+                "guest"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "9 May 2011",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Parker: Broken Necks and Bloody Knuckles",
+            "FilmUrl": "https://www.imdb.com/title/tt5350792/?ref_=nm_flmg_slf_43",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Taylor Hackford",
+                "Mike Massa",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 May 2013",
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "The Origin of 'Parker'",
+            "FilmUrl": "https://www.imdb.com/title/tt5350768/?ref_=nm_flmg_slf_44",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Les Alexander",
+                "Taylor Hackford",
+                "Micah Hauptman"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 May 2013",
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Who Is 'Parker'?",
+            "FilmUrl": "https://www.imdb.com/title/tt5350776/?ref_=nm_flmg_slf_45",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Taylor Hackford",
+                "Jennifer Lopez",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 May 2013",
+            "RuntimeMinutes": 3
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Bringing the Hunter to Life: The Making of 'Parker'",
+            "FilmUrl": "https://www.imdb.com/title/tt5348780/?ref_=nm_flmg_slf_46",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Les Alexander",
+                "Taylor Hackford",
+                "Jennifer Lopez"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "21 May 2013",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013",
+            "FilmTitle": "Evening Urgant",
+            "FilmUrl": "https://www.imdb.com/title/tt4264964/?ref_=nm_flmg_slf_47",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ivan Urgant",
+                "Frukt'Y",
+                "Dmitriy Khrustalyov"
+            ],
+            "Genres": [
+                "Comedy",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Channel One Russia"
+            ],
+            "PlotKeywords": [
+                "guest",
+                "studio audience",
+                "interview",
+                "celebrity interview",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "16 April 2012",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013",
+            "FilmTitle": "Katie",
+            "FilmUrl": "https://www.imdb.com/title/tt2354136/?ref_=nm_flmg_slf_48",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Katie Couric",
+                "Dionne Harmon",
+                "Jimmy Kimmel"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "woman",
+                "2010s",
+                "forename as title",
+                "name in title",
+                "performer name in title"
+            ],
+            "UserReviews": 1,
+            "CriticReviews": 5,
+            "ReleaseDate": "10 September 2012",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2013",
+            "FilmTitle": "70th Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2604420/?ref_=nm_flmg_slf_49",
+            "Directors": [
+                "Louis J. Horvitz"
+            ],
+            "Writers": [
+                "Barry Adelman",
+                "Jon Macks"
+            ],
+            "Stars": [
+                "Tina Fey",
+                "Amy Poehler",
+                "Amy Adams"
+            ],
+            "Genres": [
+                "News",
+                "Reality-TV",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Dick Clark Productions"
+            ],
+            "PlotKeywords": [
+                "the golden globes",
+                "year 2013",
+                "2010s",
+                "golden globes",
+                "golden globe awards"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 3,
+            "ReleaseDate": "13 January 2013"
+        },
+        {
+            "CharacterName": "Self - 'Luke Wright'",
+            "Year": "2012",
+            "FilmTitle": "Safe: Cracking Safe",
+            "FilmUrl": "https://www.imdb.com/title/tt2388260/?ref_=nm_flmg_slf_50",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Boaz Yakin",
+                "Lawrence Bender",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short",
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "1K Studios"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "4 September 2012",
+            "RuntimeMinutes": 12
+        },
+        {
+            "CharacterName": "Self - 'Luke Wright'",
+            "Year": "2012",
+            "FilmTitle": "Safe: The Art of the Gunfight",
+            "FilmUrl": "https://www.imdb.com/title/tt2388258/?ref_=nm_flmg_slf_51",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Boaz Yakin",
+                "Chad Stahelski",
+                "J.J. Perry"
+            ],
+            "Genres": [
+                "Short",
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "1K Studios"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "4 September 2012",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2008-2012",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_52",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Leno",
+                "Kevin Eubanks",
+                "Edd Hall"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Big Dog Productions",
+                "Nelson Page Entertainment",
+                "Nerd Corps Productions V.1 Inc."
+            ],
+            "PlotKeywords": [
+                "20th century",
+                "21st century",
+                "1990s",
+                "2000s",
+                "2010s"
+            ],
+            "UserReviews": 85,
+            "CriticReviews": 2,
+            "ReleaseDate": "25 May 1992"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "The Big Picture",
+            "FilmUrl": "https://www.imdb.com/title/tt1908337/?ref_=nm_flmg_slf_53",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Johnny Fleming",
+                "Charlotte Mills",
+                "Simon Thompson"
+            ],
+            "Genres": [
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Digital Media Services (DMS)"
+            ],
+            "PlotKeywords": [
+                "picture",
+                "moviestar",
+                "star",
+                "moviemento",
+                "fun"
+            ],
+            "ReleaseDate": "1 February 2011",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Narrator (voice)",
+            "Year": "2012",
+            "FilmTitle": "Truth in 24 II: Every Second Counts",
+            "FilmUrl": "https://www.imdb.com/title/tt2200022/?ref_=nm_flmg_slf_54",
+            "Directors": [
+                "Rob Gehring"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Howden Haynes",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "cross"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "26 March 2012",
+            "RuntimeMinutes": 83
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Action: 'The Expendables'",
+            "FilmUrl": "https://www.imdb.com/title/tt5261260/?ref_=nm_flmg_slf_55",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Steve Austin",
+                "Randy Couture",
+                "Terry Crews"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "13 December 2011",
+            "RuntimeMinutes": 21
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Tools of the Trade: Inside the Action of 'The Mechanic'",
+            "FilmUrl": "https://www.imdb.com/title/tt5326456/?ref_=nm_flmg_slf_56",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ben Foster",
+                "Jason Statham",
+                "Simon West"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "17 May 2011",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010-2011",
+            "FilmTitle": "ES.TV HD",
+            "FilmUrl": "https://www.imdb.com/title/tt1489335/?ref_=nm_flmg_slf_57",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Byron Allen",
+                "Selena Gomez",
+                "Steve Carell"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Entertainment Studios"
+            ],
+            "PlotKeywords": [
+                "interview",
+                "non fiction"
+            ],
+            "CriticReviews": 1,
+            "ReleaseDate": "1 February 2009"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2011",
+            "FilmTitle": "Attack of the Show!",
+            "FilmUrl": "https://www.imdb.com/title/tt0498878/?ref_=nm_flmg_slf_58",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Pereira",
+                "Olivia Munn",
+                "Zach Selwyn"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "G4 Media"
+            ],
+            "PlotKeywords": [
+                "sketch comedy",
+                "television",
+                "cyberculture",
+                "tv talk show",
+                "pop culture"
+            ],
+            "UserReviews": 13,
+            "ReleaseDate": "28 March 2005",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Before the Battle: The Making of' 'The Expendables'",
+            "FilmUrl": "https://www.imdb.com/title/tt5266714/?ref_=nm_flmg_slf_59",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Steve Austin",
+                "Randy Couture",
+                "Terry Crews"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Rogue Marble Productions"
+            ],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "23 November 2010",
+            "RuntimeMinutes": 15
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "The Role That Changed My Life",
+            "FilmUrl": "https://www.imdb.com/title/tt6282514/?ref_=nm_flmg_slf_60",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Lewis",
+                "Sheila Rae",
+                "Max Sinclair"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Pyramid Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "29 October 2007"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Inferno: The Making of 'The Expendables'",
+            "FilmUrl": "https://www.imdb.com/title/tt1687890/?ref_=nm_flmg_slf_61",
+            "Directors": [
+                "John Herzfeld"
+            ],
+            "Writers": [
+                "John Herzfeld"
+            ],
+            "Stars": [
+                "Sylvester Stallone",
+                "Jason Statham",
+                "Jet Li"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Millennium Films",
+                "Rogue Marble"
+            ],
+            "PlotKeywords": [
+                "making of",
+                "greco roman wrestling",
+                "thriller filmmaking",
+                "adventure filmmaking",
+                "martial arts training"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 1,
+            "ReleaseDate": "21 August 2010",
+            "RuntimeMinutes": 88
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Guys Choice",
+            "FilmUrl": "https://www.imdb.com/title/tt1672620/?ref_=nm_flmg_slf_62",
+            "Directors": [],
+            "Writers": [
+                "David Feldman",
+                "Ray James"
+            ],
+            "Stars": [
+                "Ben Affleck",
+                "Jessica Biel",
+                "Adrien Brody"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "ReleaseDate": "29 April 2010"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009",
+            "FilmTitle": "Live from Studio Five",
+            "FilmUrl": "https://www.imdb.com/title/tt1509653/?ref_=nm_flmg_slf_63",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kate Walsh",
+                "Ian Wright",
+                "Polly Whitehouse"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Sky News / News International"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "four word title",
+                "non fiction",
+                "number in title"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "14 September 2009",
+            "RuntimeMinutes": 65
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009",
+            "FilmTitle": "Tits Against the Glass: Making 'Crank 2'",
+            "FilmUrl": "https://www.imdb.com/title/tt1584804/?ref_=nm_flmg_slf_64",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Mark Neveldine",
+                "Brian Taylor",
+                "Skip Williamson"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Off the Cliff Productions"
+            ],
+            "PlotKeywords": [
+                "making of"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "8 September 2009"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2009",
+            "FilmTitle": "Spike's Guys Choice",
+            "FilmUrl": "https://www.imdb.com/title/tt1447796/?ref_=nm_flmg_slf_65",
+            "Directors": [
+                "Beth McCarthy-Miller"
+            ],
+            "Writers": [
+                "Michael Ferrucci",
+                "Mathew Harawitz"
+            ],
+            "Stars": [
+                "Robert Downey Jr.",
+                "Mickey Rourke",
+                "Sacha Baron Cohen"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Chloe Productions"
+            ],
+            "PlotKeywords": [
+                "awards show",
+                "tv special"
+            ],
+            "ReleaseDate": "21 June 2009"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009",
+            "FilmTitle": "Direct Your Own Damn Movie!",
+            "FilmUrl": "https://www.imdb.com/title/tt1430139/?ref_=nm_flmg_slf_66",
+            "Directors": [
+                "Travis Campbell",
+                "Evan Husney"
+            ],
+            "Writers": [
+                "Travis Campbell",
+                "Lloyd Kaufman"
+            ],
+            "Stars": [
+                "Lloyd Kaufman",
+                "James Gunn",
+                "Eli Roth"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Troma Entertainment"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "19 May 2009",
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "",
+            "Year": "2009",
+            "FilmTitle": "Making of...",
+            "FilmUrl": "https://www.imdb.com/title/tt1332048/?ref_=nm_flmg_slf_67",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "William Hurt",
+                "Sarah Carter",
+                "Marcus H. Rosenm\u00fcller"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "S & L Medienproduktion"
+            ],
+            "PlotKeywords": [
+                "making of"
+            ],
+            "RuntimeMinutes": 20
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "Death Race: Start Your Engines - Making a Death Race",
+            "FilmUrl": "https://www.imdb.com/title/tt1543251/?ref_=nm_flmg_slf_68",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Paul W.S. Anderson",
+                "Jeremy Bolt",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Herzog & Company"
+            ],
+            "PlotKeywords": [
+                "race"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "21 December 2008"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "S\u00f3 Visto",
+            "FilmUrl": "https://www.imdb.com/title/tt1067896/?ref_=nm_flmg_slf_69",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Daniel Oliveira",
+                "T\u00e2nia Ribas de Oliveira",
+                "D\u00e1lia Madruga"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Radiotelevis\u00e3o Portuguesa (RTP)",
+                "Valentim de Carvalho Televis\u00e3o"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "14 November 2004"
+        },
+        {
+            "CharacterName": "Narrator",
+            "Year": "2008",
+            "FilmTitle": "Truth in 24",
+            "FilmUrl": "https://www.imdb.com/title/tt1320302/?ref_=nm_flmg_slf_70",
+            "Directors": [
+                "Keith Cossrow",
+                "Bennett Viseltear"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham",
+                "Ulrich Baretzky",
+                "Frank Biela"
+            ],
+            "Genres": [
+                "Documentary",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Intersport Television",
+                "NFL Films"
+            ],
+            "PlotKeywords": [
+                "le mans",
+                "racing",
+                "audi",
+                "auto",
+                "automotive"
+            ],
+            "ReleaseDate": "25 October 2008"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "Death Race: Behind the Wheel - Dissecting the Stunts",
+            "FilmUrl": "https://www.imdb.com/title/tt1543250/?ref_=nm_flmg_slf_71",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Joan Allen",
+                "Ian McShane",
+                "Samuel Ringoir"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Herzog & Company"
+            ],
+            "PlotKeywords": [
+                "stunts"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "21 October 2008"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2005-2008",
+            "FilmTitle": "Film '72",
+            "FilmUrl": "https://www.imdb.com/title/tt0192897/?ref_=nm_flmg_slf_72",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Barry Norman",
+                "Danny Leigh",
+                "Claudia Winkleman"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "film review",
+                "1970s",
+                "1980s",
+                "1990s",
+                "2000s"
+            ],
+            "UserReviews": 7,
+            "ReleaseDate": "16 November 1971",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2008",
+            "FilmTitle": "9am with David & Kim",
+            "FilmUrl": "https://www.imdb.com/title/tt0807971/?ref_=nm_flmg_slf_73",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "David Reyne",
+                "Kim Watkins",
+                "Shane Emmett"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Network Ten"
+            ],
+            "PlotKeywords": [
+                "number 9 in title",
+                "ampersand in title",
+                "time in title",
+                "acronym in title",
+                "non fiction"
+            ],
+            "ReleaseDate": "30 January 2006"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "Inside the Bank Job",
+            "FilmUrl": "https://www.imdb.com/title/tt1331310/?ref_=nm_flmg_slf_74",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "The DVD Group"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "1 March 2008"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "Making of 'The Bank Job'",
+            "FilmUrl": "https://www.imdb.com/title/tt1331314/?ref_=nm_flmg_slf_75",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "The DVD Group"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "1 March 2008"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2006-2007",
+            "FilmTitle": "Last Call with Carson Daly",
+            "FilmUrl": "https://www.imdb.com/title/tt0305056/?ref_=nm_flmg_slf_76",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carson Daly",
+                "Kip Madsen",
+                "Zane Carney"
+            ],
+            "Genres": [
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "NBC Studios",
+                "NBC Universal Television",
+                "Carson Daly Productions"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "actor plays himself",
+                "five word title",
+                "performer name in title",
+                "celebrity guest"
+            ],
+            "UserReviews": 31,
+            "CriticReviews": 1,
+            "ReleaseDate": "8 January 2002",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2007",
+            "FilmTitle": "La m\u00e9thode Cauet",
+            "FilmUrl": "https://www.imdb.com/title/tt0429403/?ref_=nm_flmg_slf_77",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Cauet",
+                "C\u00e9cile de M\u00e9nibus",
+                "Ramzy Bedia"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "23 June 2003"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2006",
+            "FilmTitle": "HypaSpace",
+            "FilmUrl": "https://www.imdb.com/title/tt0315677/?ref_=nm_flmg_slf_78",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kim Poirier",
+                "Jonathan Llyr",
+                "Natasha Eloi"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Chum Television",
+                "Space: The Imagination Station"
+            ],
+            "PlotKeywords": [
+                "2000s",
+                "entertainment news"
+            ],
+            "ReleaseDate": "13 May 2002"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2005",
+            "FilmTitle": "Revolver: Movie Premiere Special",
+            "FilmUrl": "https://www.imdb.com/title/tt1598831/?ref_=nm_flmg_slf_79",
+            "Directors": [],
+            "Writers": [
+                "Simon Ragoonanan"
+            ],
+            "Stars": [
+                "Andr\u00e9 Benjamin",
+                "Dave Berry",
+                "Ray Liotta"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Banana Split Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "23 September 2005"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2004",
+            "FilmTitle": "Dialing Up 'Cellular'",
+            "FilmUrl": "https://www.imdb.com/title/tt0431724/?ref_=nm_flmg_slf_80",
+            "Directors": [
+                "Jeffrey Schwarz"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Kim Basinger",
+                "Richard Brenner",
+                "Larry Cohen"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Automat Pictures"
+            ],
+            "PlotKeywords": [
+                "dvd extra",
+                "making of"
+            ],
+            "UserReviews": 3,
+            "RuntimeMinutes": 26
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "High Octane: Stunts from 'The Italian Job'",
+            "FilmUrl": "https://www.imdb.com/title/tt5298722/?ref_=nm_flmg_slf_81",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Donald De Line",
+                "James Dyer",
+                "F. Gary Gray"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "7 October 2003",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "Pedal to the Metal: The Making of 'The Italian Job'",
+            "FilmUrl": "https://www.imdb.com/title/tt5297942/?ref_=nm_flmg_slf_82",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Donald De Line",
+                "James Dyer",
+                "F. Gary Gray"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "7 October 2003",
+            "RuntimeMinutes": 18
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "The Italian Job: Driving School",
+            "FilmUrl": "https://www.imdb.com/title/tt5298744/?ref_=nm_flmg_slf_83",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Donald De Line",
+                "F. Gary Gray",
+                "Steve Kelso"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "7 October 2003",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "The Mighty Minis of 'The Italian Job'",
+            "FilmUrl": "https://www.imdb.com/title/tt5298756/?ref_=nm_flmg_slf_84",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Donald De Line",
+                "James Dyer",
+                "F. Gary Gray"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "7 October 2003",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2003",
+            "FilmTitle": "UFC 44: Undisputed",
+            "FilmUrl": "https://www.imdb.com/title/tt0479191/?ref_=nm_flmg_slf_85",
+            "Directors": [
+                "Anthony Giordano"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Andrei Arlovski",
+                "Bruce Buffer",
+                "Randy Couture"
+            ],
+            "Genres": [
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Zuffa"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "CriticReviews": 1,
+            "ReleaseDate": "26 September 2003"
+        },
+        {
+            "CharacterName": "MVA Agent Evan Funsch",
+            "Year": "2002",
+            "FilmTitle": "Jet Li Is 'The One'",
+            "FilmUrl": "https://www.imdb.com/title/tt0311363/?ref_=nm_flmg_slf_86",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jet Li",
+                "Jason Statham",
+                "Delroy Lindo"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Automat Pictures"
+            ],
+            "PlotKeywords": [
+                "filmmaking",
+                "making a film",
+                "kung fu master",
+                "jeet kune do",
+                "kung fu"
+            ],
+            "UserReviews": 10,
+            "CriticReviews": 2,
+            "ReleaseDate": "14 November 2002",
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2002",
+            "FilmTitle": "Late Night with Conan O'Brien",
+            "FilmUrl": "https://www.imdb.com/title/tt0106052/?ref_=nm_flmg_slf_87",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Conan O'Brien",
+                "Andy Richter",
+                "Joel Godard"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Conaco",
+                "NBC Studios"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "late night",
+                "interview",
+                "variety show",
+                "apostrophe in title"
+            ],
+            "UserReviews": 98,
+            "ReleaseDate": "13 September 1993",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2001",
+            "FilmTitle": "HBO First Look",
+            "FilmUrl": "https://www.imdb.com/title/tt0318220/?ref_=nm_flmg_slf_88",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hanks",
+                "Sandra Bullock",
+                "Will Smith"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Automat Pictures",
+                "EMC West",
+                "Eminence Front Productions"
+            ],
+            "PlotKeywords": [
+                "behind the scenes",
+                "acronym in title",
+                "hbo",
+                "filmmaking"
+            ],
+            "UserReviews": 2,
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2001",
+            "FilmTitle": "Making 'Snatch'",
+            "FilmUrl": "https://www.imdb.com/title/tt1388353/?ref_=nm_flmg_slf_89",
+            "Directors": [
+                "Martin Herring",
+                "Janet Knipe"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham",
+                "Guy Ritchie",
+                "Tim Maurice-Jones"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Ginger Television",
+                "Columbia TriStar Film Distributors International"
+            ],
+            "PlotKeywords": [
+                "making of",
+                "chess",
+                "behind the scenes"
+            ],
+            "ReleaseDate": "3 July 2001",
+            "RuntimeMinutes": 25
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "1998",
+            "FilmTitle": "Making of Lock Stock and Two Smoking Barrels",
+            "FilmUrl": "https://www.imdb.com/title/tt3522962/?ref_=nm_flmg_slf_90",
+            "Directors": [
+                "Richard Leyland"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Nick Moran",
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "R 'n' R Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "28 August 1998",
+            "Budget": 25000
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015-2019",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Mornings",
+            "FilmUrl": "https://www.imdb.com/title/tt2170994/?ref_=nm_flmg_arf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sonia Kruger",
+                "Prue MacSween",
+                "Ben Fordham"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "fashion",
+                "non fiction"
+            ],
+            "ReleaseDate": "6 February 2012",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Arthur Bishop",
+            "Year": "2016",
+            "FilmTitle": "Michelle Yeoh: Secret Ally",
+            "FilmUrl": "https://www.imdb.com/title/tt6322842/?ref_=nm_flmg_arf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Michelle Yeoh",
+                "Jessica Alba",
+                "Frank DeMartini"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "22 November 2016",
+            "RuntimeMinutes": 2
+        },
+        {
+            "CharacterName": "",
+            "Year": "2015",
+            "FilmTitle": "Ivy Levan: Who Can You Trust",
+            "FilmUrl": "https://www.imdb.com/title/tt4899998/?ref_=nm_flmg_arf_4",
+            "Directors": [
+                "Daniel Carberry"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Rose Byrne",
+                "Jude Law",
+                "Ivy Levan"
+            ],
+            "Genres": [
+                "Short",
+                "Music"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "music video"
+            ],
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self - 'Deckard Shaw'",
+            "Year": "2015",
+            "FilmTitle": "Furious 7: Snatch and Grab",
+            "FilmUrl": "https://www.imdb.com/title/tt5273608/?ref_=nm_flmg_arf_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "James Wan",
+                "Spiro Razatos",
+                "Bill Brzeski"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 September 2015",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "Self - 'Deckard Shaw'",
+            "Year": "2015",
+            "FilmTitle": "Furious 7: Tower Jumps",
+            "FilmUrl": "https://www.imdb.com/title/tt5273612/?ref_=nm_flmg_arf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Neal H. Moritz",
+                "James Wan",
+                "Jack Gill"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 September 2015",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_arf_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kelly Ripa",
+                "Ryan Seacrest",
+                "Michael Strahan"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "WABC",
+                "Buena Vista Television",
+                "Disney-ABC Home Entertainment & Television Distribution"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "actress name in series title",
+                "guest",
+                "interview",
+                "non fiction"
+            ],
+            "UserReviews": 36,
+            "ReleaseDate": "5 September 1988",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_8",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Renee Bargh",
+                "Mario Lopez",
+                "Charissa Thompson"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "Tinseltown Entertainment"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "show business",
+                "non fiction"
+            ],
+            "UserReviews": 8,
+            "ReleaseDate": "5 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Fast & Furious 6: Take Control",
+            "FilmUrl": "https://www.imdb.com/title/tt3401738/?ref_=nm_flmg_arf_9",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Vin Diesel",
+                "Paul Walker",
+                "Justin Lin"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "New Wave Entertainment Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "10 December 2013"
+        },
+        {
+            "CharacterName": "Joey Jones",
+            "Year": "2013",
+            "FilmTitle": "Movie Guide",
+            "FilmUrl": "https://www.imdb.com/title/tt2841688/?ref_=nm_flmg_arf_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Naniko Khazaradze",
+                "Lasha Dardagany"
+            ],
+            "Genres": [
+                "Action",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Maestro Cable Television"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "11 April 2013",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "Gods of War: Assembling Earth's Mightiest Anti-Heroes",
+            "FilmUrl": "https://www.imdb.com/title/tt2546412/?ref_=nm_flmg_arf_11",
+            "Directors": [
+                "Cliff Stephenson"
+            ],
+            "Writers": [
+                "Cliff Stephenson"
+            ],
+            "Stars": [
+                "Sylvester Stallone",
+                "Les Weldon",
+                "Randy Couture"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Lionsgate Home Entertainment",
+                "Millennium Films",
+                "Off the Cliff Productions"
+            ],
+            "PlotKeywords": [
+                "making of"
+            ],
+            "ReleaseDate": "20 November 2012",
+            "RuntimeMinutes": 21
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "Everybody Is in the Expendables Sequel",
+            "FilmUrl": "https://www.imdb.com/title/tt8674758/?ref_=nm_flmg_arf_12",
+            "Directors": [],
+            "Writers": [
+                "Gregory Burke",
+                "Lou Perez"
+            ],
+            "Stars": [
+                "Megan Cavanagh",
+                "Randy Couture",
+                "Dolph Lundgren"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Greg and Lou"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "13 June 2012"
+        },
+        {
+            "CharacterName": "Frank Martin",
+            "Year": "2009",
+            "FilmTitle": "Transporter 3 Special Delivery: Transporters in the Real World",
+            "FilmUrl": "https://www.imdb.com/title/tt1422781/?ref_=nm_flmg_arf_13",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Statham"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "The DVD Group"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 1,
+            "ReleaseDate": "10 March 2009",
+            "RuntimeMinutes": 14
+        },
+        {
+            "CharacterName": "Turkish (Snatch)",
+            "Year": "2002",
+            "FilmTitle": "Ultimate Fights from the Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt0324355/?ref_=nm_flmg_arf_14",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Rab Affleck",
+                "Marc Akerstream",
+                "Ian Bannen"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "machine gun",
+                "stylized violence",
+                "kung fu",
+                "karate",
+                "karate kick"
+            ],
+            "UserReviews": 6,
+            "CriticReviews": 2,
+            "ReleaseDate": "16 April 2002",
+            "RuntimeMinutes": 53
+        }
+    ]
+}

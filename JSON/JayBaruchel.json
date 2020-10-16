@@ -1,0 +1,4739 @@
+{
+    "Rank": 256,
+    "FullName": "Jay Baruchel",
+    "DomesticBoxOfficeRevenue": 753215416,
+    "AverageDomesticBoxOfficeRevenue": 53801101,
+    "DataSourceUrl": "https://www.imdb.com/find?s=nm&q=Jay+Baruchel&ref_=nv_sr_sm",
+    "LocalDataSourcePath": "./html/imdb_profiles/JayBaruchel.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BMTM5MjY0MzU0OV5BMl5BanBnXkFtZTcwOTE0NDA2NA@@._V1_UY317_CR9,0,214,317_AL_.jpg",
+    "DOB": "1982-4-9",
+    "BornIn": "Ottawa, Ontario, Canada",
+    "Gender": "Male",
+    "Height": 1.83,
+    "AstrologicalSign": "Aries",
+    "Trademark": "Expressive eyes/eyebrows",
+    "AwardsWins": 5,
+    "AwardNominations": 12,
+    "Roles": [
+        {
+            "CharacterName": "Fucknel",
+            "Year": "2019-2020",
+            "FilmTitle": "Trailer Park Boys: The Animated Series",
+            "FilmUrl": "https://www.imdb.com/title/tt9814900/?ref_=nm_flmg_act_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "John Paul Tremblay",
+                "Robb Wells",
+                "Mike Smith"
+            ],
+            "Genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "TPB A1 Productions",
+                "TBP A2 Ontario",
+                "TBP A2 Productions"
+            ],
+            "PlotKeywords": [
+                "based on live action tv series"
+            ],
+            "UserReviews": 42,
+            "CriticReviews": 4,
+            "Popularity": 248,
+            "ReleaseDate": "31 March 2019",
+            "RuntimeMinutes": 25
+        },
+        {
+            "CharacterName": "Jay Baruchel",
+            "Year": "2020",
+            "FilmTitle": "Trailer Park Boys: Park After Dark",
+            "FilmUrl": "https://www.imdb.com/title/tt12107408/?ref_=nm_flmg_act_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "John Paul Tremblay",
+                "Robb Wells",
+                "Mike Smith"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "RK1 Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "5 April 2019",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Sean Moody Jr.",
+            "Year": "2019",
+            "FilmTitle": "The Moodys",
+            "FilmUrl": "https://www.imdb.com/title/tt3205334/?ref_=nm_flmg_act_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Denis Leary",
+                "Elizabeth Perkins",
+                "Fran\u00e7ois Arnaud"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Fox Entertainment",
+                "CBS Television Studios"
+            ],
+            "PlotKeywords": [
+                "christmas"
+            ],
+            "UserReviews": 35,
+            "ReleaseDate": "4 December 2019",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Hiccup (voice)",
+            "Year": "2019",
+            "FilmTitle": "How to Train Your Dragon: Homecoming",
+            "FilmUrl": "https://www.imdb.com/title/tt11112140/?ref_=nm_flmg_act_4",
+            "Directors": [
+                "Tim Johnson"
+            ],
+            "Writers": [
+                "Jonathan Groff",
+                "Jon Pollack"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "America Ferrera",
+                "Craig Ferguson"
+            ],
+            "Genres": [
+                "Animation",
+                "Short",
+                "Action",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "holiday tradition",
+                "booby trap",
+                "viking",
+                "man crying"
+            ],
+            "UserReviews": 16,
+            "CriticReviews": 1,
+            "Popularity": 799,
+            "ReleaseDate": "3 December 2019",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Ezra",
+            "Year": "2019",
+            "FilmTitle": "Random Acts of Violence",
+            "FilmUrl": "https://www.imdb.com/title/tt1925493/?ref_=nm_flmg_act_5",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel",
+                "Jesse Chabot"
+            ],
+            "Stars": [
+                "Jesse Williams",
+                "Jordana Brewster",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Elevation Pictures",
+                "Manis Film",
+                "Kickstart Productions"
+            ],
+            "PlotKeywords": [
+                "stab",
+                "road trip",
+                "flat tire",
+                "african american protagonist",
+                "assistant"
+            ],
+            "Metascore": 39,
+            "UserReviews": 35,
+            "CriticReviews": 71,
+            "ReleaseDate": "20 August 2020",
+            "RuntimeMinutes": 80
+        },
+        {
+            "CharacterName": "John Peter",
+            "Year": "2019",
+            "FilmTitle": "The Kindness of Strangers",
+            "FilmUrl": "https://www.imdb.com/title/tt6515910/?ref_=nm_flmg_act_6",
+            "Directors": [
+                "Lone Scherfig"
+            ],
+            "Writers": [
+                "Lone Scherfig"
+            ],
+            "Stars": [
+                "Zoe Kazan",
+                "Esben Smed",
+                "Jack Fulton"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Creative Alliance",
+                "ARTE",
+                "Copenhagen Film Fund"
+            ],
+            "PlotKeywords": [
+                "russian restaurant",
+                "ensemble cast",
+                "title directed by female",
+                "triple f rated"
+            ],
+            "Metascore": 32,
+            "UserReviews": 17,
+            "CriticReviews": 42,
+            "ReleaseDate": "14 February 2020",
+            "OpeningWeekend": 839,
+            "Gross": 2705,
+            "CumulativeWorldwideGross": 83042,
+            "RuntimeMinutes": 112
+        },
+        {
+            "CharacterName": "Hiccup (voice)",
+            "Year": "2019",
+            "FilmTitle": "How to Train Your Dragon: The Hidden World",
+            "FilmUrl": "https://www.imdb.com/title/tt2386490/?ref_=nm_flmg_act_7",
+            "Directors": [
+                "Dean DeBlois"
+            ],
+            "Writers": [
+                "Dean DeBlois",
+                "Cressida Cowell"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "America Ferrera",
+                "F. Murray Abraham"
+            ],
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation",
+                "Mad Hatter Entertainment",
+                "Dentsu"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "sequel",
+                "finale",
+                "dragon hunter",
+                "flaming sword"
+            ],
+            "Metascore": 71,
+            "UserReviews": 675,
+            "CriticReviews": 215,
+            "Popularity": 431,
+            "MotionPictureRating": "Rated PG for adventure action and some mild rude humor",
+            "ReleaseDate": "22 February 2019",
+            "Budget": 129000000,
+            "OpeningWeekend": 55022245,
+            "Gross": 160799505,
+            "CumulativeWorldwideGross": 524513717,
+            "RuntimeMinutes": 104
+        },
+        {
+            "CharacterName": "Billy",
+            "Year": "2018",
+            "FilmTitle": "NKPC: New Kid Placement Committee",
+            "FilmUrl": "https://www.imdb.com/title/tt8497646/?ref_=nm_flmg_act_8",
+            "Directors": [
+                "Carly Stone"
+            ],
+            "Writers": [
+                "Laila Abu-Hawach",
+                "Andrea Julia Adam"
+            ],
+            "Stars": [
+                "Jacob Tremblay",
+                "Lauren Collins",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "ReleaseDate": "6 November 2018",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Le Com\u00e9dien",
+            "Year": "2018/II",
+            "FilmTitle": "Silence",
+            "FilmUrl": "https://www.imdb.com/title/tt7973154/?ref_=nm_flmg_act_9",
+            "Directors": [
+                "Martin Scorsese"
+            ],
+            "Writers": [
+                "Jay Cocks",
+                "Martin Scorsese"
+            ],
+            "Stars": [
+                "Andrew Garfield",
+                "Adam Driver",
+                "Liam Neeson"
+            ],
+            "Genres": [
+                "Drama",
+                "History"
+            ],
+            "ProductionCompanies": [
+                "SharpSword Films",
+                "AI-Film",
+                "CatchPlay"
+            ],
+            "PlotKeywords": [
+                "portuguese",
+                "japan",
+                "religious persecution",
+                "jesuit priest",
+                "torture"
+            ],
+            "Metascore": 79,
+            "UserReviews": 434,
+            "CriticReviews": 425,
+            "Popularity": 826,
+            "MotionPictureRating": "Rated R for some disturbing violent content",
+            "ReleaseDate": "13 January 2017",
+            "Budget": 46000000,
+            "OpeningWeekend": 130880,
+            "Gross": 7100177,
+            "CumulativeWorldwideGross": 23834809,
+            "RuntimeMinutes": 161
+        },
+        {
+            "CharacterName": "Hard Right Jay",
+            "Year": "2018",
+            "FilmTitle": "Letterkenny",
+            "FilmUrl": "https://www.imdb.com/title/tt4647692/?ref_=nm_flmg_act_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jared Keeso",
+                "Nathan Dales",
+                "Michelle Mylett"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "New Metric Media"
+            ],
+            "PlotKeywords": [
+                "schmelt",
+                "hockey",
+                "choring",
+                "jock",
+                "hick"
+            ],
+            "UserReviews": 149,
+            "CriticReviews": 2,
+            "Popularity": 233,
+            "ReleaseDate": "7 February 2016",
+            "Budget": 0,
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Dr. Tillage",
+            "Year": "2018",
+            "FilmTitle": "The Magic School Bus Rides Again",
+            "FilmUrl": "https://www.imdb.com/title/tt3869122/?ref_=nm_flmg_act_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lynsey Pham",
+                "Mikaela Blake",
+                "Gabby Clarke"
+            ],
+            "Genres": [
+                "Animation",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "9 Story Media Group",
+                "Netflix",
+                "Scholastic Entertainment"
+            ],
+            "PlotKeywords": [
+                "children"
+            ],
+            "UserReviews": 24,
+            "CriticReviews": 2,
+            "ReleaseDate": "29 September 2017",
+            "RuntimeMinutes": 26
+        },
+        {
+            "CharacterName": "Hiccup",
+            "Year": "2015-2018",
+            "FilmTitle": "Dragons: Race to the Edge",
+            "FilmUrl": "https://www.imdb.com/title/tt4816058/?ref_=nm_flmg_act_12",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "America Ferrera",
+                "Zack Pearlman"
+            ],
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation",
+                "DreamWorks Animation Television"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "netflix original",
+                "dragon as a pet",
+                "male protagonist",
+                "viking"
+            ],
+            "UserReviews": 42,
+            "CriticReviews": 5,
+            "Popularity": 450,
+            "ReleaseDate": "26 June 2015",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Mr. B / Robot Teacher",
+            "Year": "2017",
+            "FilmTitle": "Robot Bullies",
+            "FilmUrl": "https://www.imdb.com/title/tt7571260/?ref_=nm_flmg_act_13",
+            "Directors": [
+                "Michael Dowse"
+            ],
+            "Writers": [
+                "Tj Campbell",
+                "Dominique Essue-Smith"
+            ],
+            "Stars": [
+                "Robbie Amell",
+                "Jay Baruchel",
+                "Millie Davis"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "ReleaseDate": "28 October 2017",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "Pat",
+            "Year": "2017",
+            "FilmTitle": "Goon: Last of the Enforcers",
+            "FilmUrl": "https://www.imdb.com/title/tt2417712/?ref_=nm_flmg_act_14",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel",
+                "Jesse Chabot"
+            ],
+            "Stars": [
+                "Seann William Scott",
+                "Alison Pill",
+                "Marc-Andr\u00e9 Grondin"
+            ],
+            "Genres": [
+                "Comedy",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "No Trace Camping",
+                "Caramel Film"
+            ],
+            "PlotKeywords": [
+                "husband wife relationship",
+                "hockey fight",
+                "hockey movie",
+                "team",
+                "hockey"
+            ],
+            "Metascore": 48,
+            "UserReviews": 49,
+            "CriticReviews": 49,
+            "MotionPictureRating": "Rated R for pervasive language, crude sexual content and bloody sports violence",
+            "ReleaseDate": "1 September 2017",
+            "CumulativeWorldwideGross": 124875,
+            "RuntimeMinutes": 101
+        },
+        {
+            "CharacterName": "Josh Greenberg",
+            "Year": "2015-2017",
+            "FilmTitle": "Man Seeking Woman",
+            "FilmUrl": "https://www.imdb.com/title/tt4189492/?ref_=nm_flmg_act_15",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Eric Andr\u00e9",
+                "Britt Lower"
+            ],
+            "Genres": [
+                "Comedy",
+                "Fantasy",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Allagash Industries",
+                "FX Productions"
+            ],
+            "PlotKeywords": [
+                "love"
+            ],
+            "UserReviews": 40,
+            "CriticReviews": 9,
+            "Popularity": 690,
+            "ReleaseDate": "14 January 2015",
+            "RuntimeMinutes": 21
+        },
+        {
+            "CharacterName": "Mark Adam Jones",
+            "Year": "2016/I",
+            "FilmTitle": "Lovesick",
+            "FilmUrl": "https://www.imdb.com/title/tt4996022/?ref_=nm_flmg_act_16",
+            "Directors": [
+                "Sam B. Lorn"
+            ],
+            "Writers": [
+                "Sam B. Lorn"
+            ],
+            "Stars": [
+                "Sam B. Lorn",
+                "Bonna Tek",
+                "Tana Sarntinoranont"
+            ],
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Refugee Production Company"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 3,
+            "Budget": 35000
+        },
+        {
+            "CharacterName": "Hiccup (voice)",
+            "Year": "2014",
+            "FilmTitle": "Dragons: Dawn of the Dragon Racers",
+            "FilmUrl": "https://www.imdb.com/title/tt4191768/?ref_=nm_flmg_act_17",
+            "Directors": [
+                "Elaine Bogan",
+                "John Sanford"
+            ],
+            "Writers": [
+                "Cressida Cowell",
+                "Art Edler Brown"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "America Ferrera",
+                "Christopher Mintz-Plasse"
+            ],
+            "Genres": [
+                "Animation",
+                "Short",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation Television"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "seasickness",
+                "broken arm",
+                "tournament",
+                "flashback"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 3,
+            "ReleaseDate": "11 November 2014",
+            "RuntimeMinutes": 26
+        },
+        {
+            "CharacterName": "Hiccup (voice)",
+            "Year": "2014",
+            "FilmTitle": "How to Train Your Dragon 2",
+            "FilmUrl": "https://www.imdb.com/title/tt1646971/?ref_=nm_flmg_act_18",
+            "Directors": [
+                "Dean DeBlois"
+            ],
+            "Writers": [
+                "Dean DeBlois",
+                "Cressida Cowell"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Cate Blanchett",
+                "Gerard Butler"
+            ],
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation",
+                "Mad Hatter Entertainment",
+                "Vertigo Entertainment"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "viking",
+                "sequel",
+                "death of husband",
+                "sacrifice"
+            ],
+            "Metascore": 76,
+            "UserReviews": 409,
+            "CriticReviews": 316,
+            "Popularity": 700,
+            "MotionPictureRating": "Rated PG for adventure action and some mild rude  humor",
+            "ReleaseDate": "13 June 2014",
+            "Budget": 145000000,
+            "OpeningWeekend": 49451322,
+            "Gross": 177002924,
+            "CumulativeWorldwideGross": 621537519,
+            "RuntimeMinutes": 102
+        },
+        {
+            "CharacterName": "Bates",
+            "Year": "2014",
+            "FilmTitle": "Don Peyote",
+            "FilmUrl": "https://www.imdb.com/title/tt1828968/?ref_=nm_flmg_act_19",
+            "Directors": [
+                "Michael Canzoniero",
+                "Dan Fogler"
+            ],
+            "Writers": [
+                "Michael Canzoniero",
+                "Dan Fogler"
+            ],
+            "Stars": [
+                "Anne Hathaway",
+                "Josh Duhamel",
+                "Annabella Sciorra"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Studio13",
+                "Redwire Pictures",
+                "Casadelic Pictures"
+            ],
+            "PlotKeywords": [],
+            "Metascore": 14,
+            "UserReviews": 9,
+            "CriticReviews": 11,
+            "ReleaseDate": "9 May 2014",
+            "RuntimeMinutes": 98
+        },
+        {
+            "CharacterName": "Hiccup / Hiccup Horrendous Haddock III",
+            "Year": "2012-2014",
+            "FilmTitle": "DreamWorks Dragons",
+            "FilmUrl": "https://www.imdb.com/title/tt2325846/?ref_=nm_flmg_act_20",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "America Ferrera",
+                "Jay Baruchel",
+                "T.J. Miller"
+            ],
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation Television",
+                "DreamWorks Animation"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "male protagonist",
+                "viking",
+                "island",
+                "training"
+            ],
+            "UserReviews": 17,
+            "CriticReviews": 14,
+            "Popularity": 221,
+            "ReleaseDate": "7 August 2012",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Tom Pope",
+            "Year": "2014",
+            "FilmTitle": "RoboCop",
+            "FilmUrl": "https://www.imdb.com/title/tt1234721/?ref_=nm_flmg_act_21",
+            "Directors": [
+                "Jos\u00e9 Padilha"
+            ],
+            "Writers": [
+                "Joshua Zetumer",
+                "Edward Neumeier"
+            ],
+            "Stars": [
+                "Joel Kinnaman",
+                "Gary Oldman",
+                "Michael Keaton"
+            ],
+            "Genres": [
+                "Action",
+                "Crime",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Metro-Goldwyn-Mayer (MGM)",
+                "Columbia Pictures",
+                "Strike Entertainment"
+            ],
+            "PlotKeywords": [
+                "technology",
+                "robot",
+                "robocop",
+                "police",
+                "law enforcement"
+            ],
+            "Metascore": 52,
+            "UserReviews": 707,
+            "CriticReviews": 523,
+            "Popularity": 775,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of action including frenetic gun violence throughout, brief strong language, sensuality and some drug material",
+            "ReleaseDate": "12 February 2014",
+            "Budget": 100000000,
+            "OpeningWeekend": 21681430,
+            "Gross": 58607007,
+            "CumulativeWorldwideGross": 242688965,
+            "RuntimeMinutes": 117
+        },
+        {
+            "CharacterName": "Hiccup",
+            "Year": "2013",
+            "FilmTitle": "Dreamworks How to Train Your Dragon Legends",
+            "FilmUrl": "https://www.imdb.com/title/tt6963396/?ref_=nm_flmg_act_22",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Craig Ferguson",
+                "America Ferrera"
+            ],
+            "Genres": [
+                "Animation"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "gang"
+            ]
+        },
+        {
+            "CharacterName": "Francie Tobin",
+            "Year": "2013",
+            "FilmTitle": "The Art of the Steal",
+            "FilmUrl": "https://www.imdb.com/title/tt2172985/?ref_=nm_flmg_act_23",
+            "Directors": [
+                "Jonathan Sobol"
+            ],
+            "Writers": [
+                "Jonathan Sobol"
+            ],
+            "Stars": [
+                "Kurt Russell",
+                "Jay Baruchel",
+                "Katheryn Winnick"
+            ],
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "The Weinstein Company",
+                "Sony Pictures Entertainment (SPE)",
+                "Entertainment One"
+            ],
+            "PlotKeywords": [
+                "heist",
+                "thief",
+                "motorcycle",
+                "hiding in a car trunk",
+                "interpol"
+            ],
+            "Metascore": 53,
+            "UserReviews": 73,
+            "CriticReviews": 68,
+            "MotionPictureRating": "Rated R for language throughout including some sexual references",
+            "ReleaseDate": "20 June 2014",
+            "OpeningWeekend": 40003,
+            "Gross": 64065,
+            "CumulativeWorldwideGross": 77450,
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "Jay Baruchel",
+            "Year": "2013",
+            "FilmTitle": "The Real World: This Is the End Edition",
+            "FilmUrl": "https://www.imdb.com/title/tt4434588/?ref_=nm_flmg_act_24",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Seth Rogen",
+                "James Franco",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "ReleaseDate": "7 June 2013",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Jay Baruchel",
+            "Year": "2013",
+            "FilmTitle": "This Is the End",
+            "FilmUrl": "https://www.imdb.com/title/tt1245492/?ref_=nm_flmg_act_25",
+            "Directors": [
+                "Evan Goldberg",
+                "Seth Rogen"
+            ],
+            "Writers": [
+                "Seth Rogen",
+                "Evan Goldberg"
+            ],
+            "Stars": [
+                "James Franco",
+                "Jonah Hill",
+                "Seth Rogen"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Columbia Pictures",
+                "Point Grey Pictures",
+                "Mandate Pictures"
+            ],
+            "PlotKeywords": [
+                "apocalypse",
+                "ensemble cast",
+                "marijuana joint",
+                "actress playing herself",
+                "actor playing himself"
+            ],
+            "Metascore": 67,
+            "UserReviews": 767,
+            "CriticReviews": 412,
+            "Popularity": 414,
+            "MotionPictureRating": "Rated R for crude and sexual content throughout, brief graphic nudity, pervasive language, drug use and some violence",
+            "ReleaseDate": "12 June 2013",
+            "Budget": 32000000,
+            "OpeningWeekend": 20719162,
+            "Gross": 101470202,
+            "CumulativeWorldwideGross": 126041322,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Shiner",
+            "Year": "2012",
+            "FilmTitle": "Cosmopolis",
+            "FilmUrl": "https://www.imdb.com/title/tt1480656/?ref_=nm_flmg_act_26",
+            "Directors": [
+                "David Cronenberg"
+            ],
+            "Writers": [
+                "David Cronenberg",
+                "Don DeLillo"
+            ],
+            "Stars": [
+                "Robert Pattinson",
+                "Juliette Binoche",
+                "Sarah Gadon"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Fantasy",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Alfama Films",
+                "Prospero Pictures",
+                "Kinologic Films (DC)"
+            ],
+            "PlotKeywords": [
+                "road movie",
+                "capitalism",
+                "manhattan new york city",
+                "post punk",
+                "american remake of french film"
+            ],
+            "Metascore": 58,
+            "UserReviews": 224,
+            "CriticReviews": 384,
+            "Popularity": 591,
+            "MotionPictureRating": "Rated R for some strong sexual content including graphic nudity, violence and language",
+            "ReleaseDate": "25 May 2012",
+            "Budget": 20500000,
+            "OpeningWeekend": 70339,
+            "Gross": 763556,
+            "CumulativeWorldwideGross": 7029095,
+            "RuntimeMinutes": 109
+        },
+        {
+            "CharacterName": "Stu",
+            "Year": "2012",
+            "FilmTitle": "Being Human",
+            "FilmUrl": "https://www.imdb.com/title/tt1595680/?ref_=nm_flmg_act_27",
+            "Directors": [
+                "Bill Forsyth"
+            ],
+            "Writers": [
+                "Bill Forsyth"
+            ],
+            "Stars": [
+                "Robin Williams",
+                "John Turturro",
+                "Kelly Hunter"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Warner Bros.",
+                "Enigma Productions",
+                "BSB"
+            ],
+            "PlotKeywords": [
+                "reincarnation",
+                "existentialism",
+                "optimism",
+                "elopement",
+                "episodic structure"
+            ],
+            "Metascore": 33,
+            "UserReviews": 41,
+            "CriticReviews": 19,
+            "MotionPictureRating": "Rated PG-13 for language and elements of sensuality and violence",
+            "ReleaseDate": "6 May 1994",
+            "Budget": 40000000,
+            "OpeningWeekend": 764011,
+            "Gross": 1519366,
+            "CumulativeWorldwideGross": 1519366,
+            "RuntimeMinutes": 122
+        },
+        {
+            "CharacterName": "Hiccup (voice)",
+            "Year": "2011",
+            "FilmTitle": "Book of Dragons",
+            "FilmUrl": "https://www.imdb.com/title/tt2113625/?ref_=nm_flmg_act_28",
+            "Directors": [
+                "Steve Hickner"
+            ],
+            "Writers": [
+                "Steve Hickner",
+                "Bart Coughlin"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Craig Ferguson",
+                "America Ferrera"
+            ],
+            "Genres": [
+                "Animation",
+                "Short",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "book",
+                "viking",
+                "no title at beginning",
+                "no opening credits"
+            ],
+            "UserReviews": 3,
+            "CriticReviews": 1,
+            "ReleaseDate": "15 November 2011",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "Hiccup Horrendous Haddock III (voice)",
+            "Year": "2011",
+            "FilmTitle": "Dragons: Gift of the Night Fury",
+            "FilmUrl": "https://www.imdb.com/title/tt2065968/?ref_=nm_flmg_act_29",
+            "Directors": [
+                "Tom Owens"
+            ],
+            "Writers": [
+                "Adam F. Goldberg",
+                "Cressida Cowell"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Gerard Butler",
+                "Craig Ferguson"
+            ],
+            "Genres": [
+                "Animation",
+                "Short",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "viking",
+                "island",
+                "village",
+                "cgi animation"
+            ],
+            "UserReviews": 10,
+            "CriticReviews": 9,
+            "ReleaseDate": "15 November 2011",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Pat",
+            "Year": "2011",
+            "FilmTitle": "Goon",
+            "FilmUrl": "https://www.imdb.com/title/tt1456635/?ref_=nm_flmg_act_30",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Matthew Perry",
+                "Laura Benanti",
+                "Julie White"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Silver and Gold Productions",
+                "Dark Toy Entertainment",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "21st century",
+                "man",
+                "woman",
+                "woman wears eyeglasses",
+                "sportscaster"
+            ],
+            "UserReviews": 39,
+            "CriticReviews": 16,
+            "Popularity": 31,
+            "ReleaseDate": "8 August 2012",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Private Prosciutto / Falcon",
+            "Year": "2011",
+            "FilmTitle": "The Drunk and on Drugs Happy Funtime Hour",
+            "FilmUrl": "https://www.imdb.com/title/tt1589889/?ref_=nm_flmg_act_31",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Robb Wells",
+                "John Paul Tremblay",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Bell Broadcast and New Media Fund",
+                "Happy Funtime Productions"
+            ],
+            "PlotKeywords": [
+                "actor playing multiple roles",
+                "comedy team",
+                "sketch comedy",
+                "canadian humor"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 1,
+            "ReleaseDate": "22 July 2011"
+        },
+        {
+            "CharacterName": "Jay",
+            "Year": "2011",
+            "FilmTitle": "Marcy",
+            "FilmUrl": "https://www.imdb.com/title/tt1920083/?ref_=nm_flmg_act_32",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Cierra Solis",
+                "Ricky Mabe",
+                "Martha MacIsaac"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Lockerz"
+            ],
+            "PlotKeywords": [
+                "forename as title"
+            ],
+            "ReleaseDate": "17 May 2011"
+        },
+        {
+            "CharacterName": "Hiccup (voice)",
+            "Year": "2010",
+            "FilmTitle": "Legend of the Boneknapper Dragon",
+            "FilmUrl": "https://www.imdb.com/title/tt1744776/?ref_=nm_flmg_act_33",
+            "Directors": [
+                "John Puglisi"
+            ],
+            "Writers": [
+                "Peter Steinfeld",
+                "Cressida Cowell"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Gerard Butler",
+                "Craig Ferguson"
+            ],
+            "Genres": [
+                "Animation",
+                "Short",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy",
+                "Mystery"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation"
+            ],
+            "PlotKeywords": [
+                "2010s",
+                "mission",
+                "beast",
+                "creature",
+                "fire"
+            ],
+            "UserReviews": 11,
+            "CriticReviews": 1,
+            "ReleaseDate": "9 February 2013",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "Victor Spiegelman",
+            "Year": "2010",
+            "FilmTitle": "Good Neighbours",
+            "FilmUrl": "https://www.imdb.com/title/tt1576440/?ref_=nm_flmg_act_34",
+            "Directors": [
+                "Jacob Tierney"
+            ],
+            "Writers": [
+                "Jacob Tierney",
+                "Chrystine Brouillet"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Anne-Marie Cadieux",
+                "Diane D'Aquila"
+            ],
+            "Genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Park Ex Pictures"
+            ],
+            "PlotKeywords": [
+                "serial killer",
+                "cat",
+                "apartment",
+                "teacher",
+                "wheelchair"
+            ],
+            "Metascore": 60,
+            "UserReviews": 42,
+            "CriticReviews": 47,
+            "MotionPictureRating": "Rated R for some strong violence, sexual content, graphic nudity and language",
+            "ReleaseDate": "29 July 2011",
+            "OpeningWeekend": 2953,
+            "Gross": 7072,
+            "CumulativeWorldwideGross": 7072
+        },
+        {
+            "CharacterName": "Dave",
+            "Year": "2010",
+            "FilmTitle": "The Sorcerer's Apprentice",
+            "FilmUrl": "https://www.imdb.com/title/tt0963966/?ref_=nm_flmg_act_35",
+            "Directors": [
+                "Jon Turteltaub"
+            ],
+            "Writers": [
+                "Lawrence Konner",
+                "Mark Rosenthal"
+            ],
+            "Stars": [
+                "Nicolas Cage",
+                "Jay Baruchel",
+                "Alfred Molina"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Walt Disney Pictures",
+                "Jerry Bruckheimer Films",
+                "Saturn Films"
+            ],
+            "PlotKeywords": [
+                "wizardry",
+                "incantation",
+                "sorcerer",
+                "ring",
+                "training"
+            ],
+            "Metascore": 46,
+            "UserReviews": 261,
+            "CriticReviews": 241,
+            "Popularity": 903,
+            "MotionPictureRating": "Rated PG for fantasy action violence, some mild rude humor and brief language",
+            "ReleaseDate": "14 July 2010",
+            "Budget": 150000000,
+            "OpeningWeekend": 17619622,
+            "Gross": 63150991,
+            "CumulativeWorldwideGross": 215283742,
+            "RuntimeMinutes": 109
+        },
+        {
+            "Year": "2010",
+            "FilmTitle": "Dreamworks How to Train Your Dragon Legends",
+            "FilmUrl": "https://www.imdb.com/title/tt2542490/?ref_=nm_flmg_act_36",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Craig Ferguson",
+                "America Ferrera"
+            ],
+            "Genres": [
+                "Animation"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "gang"
+            ]
+        },
+        {
+            "CharacterName": "Hiccup Horrendous Haddock III (voice)",
+            "Year": "2010",
+            "FilmTitle": "How to Train Your Dragon",
+            "FilmUrl": "https://www.imdb.com/title/tt1621800/?ref_=nm_flmg_act_37",
+            "Directors": [
+                "Dean DeBlois",
+                "Chris Sanders"
+            ],
+            "Writers": [
+                "William Davies",
+                "Dean DeBlois"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Gerard Butler",
+                "Christopher Mintz-Plasse"
+            ],
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation",
+                "Mad Hatter Entertainment",
+                "Vertigo Entertainment"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "viking",
+                "village",
+                "father son relationship",
+                "island"
+            ],
+            "Metascore": 75,
+            "UserReviews": 635,
+            "CriticReviews": 193,
+            "Popularity": 495,
+            "MotionPictureRating": "Rated PG for sequences of intense action and some scary images, and brief mild language",
+            "ReleaseDate": "26 March 2010",
+            "Budget": 165000000,
+            "OpeningWeekend": 43732319,
+            "Gross": 217581231,
+            "CumulativeWorldwideGross": 494878759,
+            "RuntimeMinutes": 98
+        },
+        {
+            "CharacterName": "Hiccup (voice)",
+            "Year": "2010",
+            "FilmTitle": "How to Train Your Dragon",
+            "FilmUrl": "https://www.imdb.com/title/tt0892769/?ref_=nm_flmg_act_38",
+            "Directors": [
+                "Dean DeBlois",
+                "Chris Sanders"
+            ],
+            "Writers": [
+                "William Davies",
+                "Dean DeBlois"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Gerard Butler",
+                "Christopher Mintz-Plasse"
+            ],
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation",
+                "Mad Hatter Entertainment",
+                "Vertigo Entertainment"
+            ],
+            "PlotKeywords": [
+                "dragon",
+                "viking",
+                "village",
+                "father son relationship",
+                "island"
+            ],
+            "Metascore": 75,
+            "UserReviews": 635,
+            "CriticReviews": 193,
+            "Popularity": 495,
+            "MotionPictureRating": "Rated PG for sequences of intense action and some scary images, and brief mild language",
+            "ReleaseDate": "26 March 2010",
+            "Budget": 165000000,
+            "OpeningWeekend": 43732319,
+            "Gross": 217581231,
+            "CumulativeWorldwideGross": 494878759,
+            "RuntimeMinutes": 98
+        },
+        {
+            "CharacterName": "Kirk",
+            "Year": "2010",
+            "FilmTitle": "She's Out of My League",
+            "FilmUrl": "https://www.imdb.com/title/tt0815236/?ref_=nm_flmg_act_39",
+            "Directors": [
+                "Jim Field Smith"
+            ],
+            "Writers": [
+                "Sean Anders",
+                "John Morris"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Alice Eve",
+                "T.J. Miller"
+            ],
+            "Genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Dreamworks Pictures",
+                "Mosaic"
+            ],
+            "PlotKeywords": [
+                "pubic hair",
+                "female removes her clothes",
+                "nudity",
+                "sex scene",
+                "voyeur"
+            ],
+            "Metascore": 46,
+            "UserReviews": 173,
+            "CriticReviews": 184,
+            "Popularity": 320,
+            "MotionPictureRating": "Rated R for language and sexual content",
+            "ReleaseDate": "12 March 2010",
+            "Budget": 20000000,
+            "OpeningWeekend": 9775278,
+            "Gross": 32010860,
+            "CumulativeWorldwideGross": 49779728,
+            "RuntimeMinutes": 104
+        },
+        {
+            "CharacterName": "Leon Bronstein",
+            "Year": "2009",
+            "FilmTitle": "The Trotsky",
+            "FilmUrl": "https://www.imdb.com/title/tt1295072/?ref_=nm_flmg_act_40",
+            "Directors": [
+                "Jacob Tierney"
+            ],
+            "Writers": [
+                "Jacob Tierney"
+            ],
+            "Stars": [
+                "Liane Balaban",
+                "Jay Baruchel",
+                "Taylor Baruchel"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Park Ex Pictures",
+                "The Harold Greenberg Fund"
+            ],
+            "PlotKeywords": [
+                "boy wears eyeglasses",
+                "teen movie",
+                "school",
+                "student",
+                "high school"
+            ],
+            "Metascore": 59,
+            "UserReviews": 22,
+            "CriticReviews": 27,
+            "ReleaseDate": "5 May 2010",
+            "Budget": 6400000,
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Sailor Joey Motorola",
+            "Year": "2009",
+            "FilmTitle": "Night at the Museum: Battle of the Smithsonian",
+            "FilmUrl": "https://www.imdb.com/title/tt1078912/?ref_=nm_flmg_act_41",
+            "Directors": [
+                "Shawn Levy"
+            ],
+            "Writers": [
+                "Robert Ben Garant",
+                "Thomas Lennon"
+            ],
+            "Stars": [
+                "Ben Stiller",
+                "Owen Wilson",
+                "Amy Adams"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Twentieth Century Fox",
+                "21 Laps Entertainment",
+                "1492 Pictures"
+            ],
+            "PlotKeywords": [
+                "al capone character",
+                "darth vader character",
+                "theodore roosevelt character",
+                "abraham lincoln character",
+                "albert einstein character"
+            ],
+            "Metascore": 42,
+            "UserReviews": 227,
+            "CriticReviews": 188,
+            "Popularity": 398,
+            "MotionPictureRating": "Rated PG for mild action and brief language",
+            "ReleaseDate": "22 May 2009",
+            "Budget": 150000000,
+            "OpeningWeekend": 54173286,
+            "Gross": 177243721,
+            "CumulativeWorldwideGross": 413106170,
+            "RuntimeMinutes": 105
+        },
+        {
+            "CharacterName": "Windows",
+            "Year": "2009",
+            "FilmTitle": "Fanboys",
+            "FilmUrl": "https://www.imdb.com/title/tt0489049/?ref_=nm_flmg_act_42",
+            "Directors": [
+                "Kyle Newman"
+            ],
+            "Writers": [
+                "Ernest Cline",
+                "Adam F. Goldberg"
+            ],
+            "Stars": [
+                "Dan Fogler",
+                "Jay Baruchel",
+                "Kristen Bell"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "The Weinstein Company",
+                "Trigger Street Productions",
+                "Picture Machine"
+            ],
+            "PlotKeywords": [
+                "star wars fan film",
+                "blonde",
+                "princess lela bikini",
+                "white panties",
+                "scantily clad female"
+            ],
+            "Metascore": 45,
+            "UserReviews": 75,
+            "CriticReviews": 78,
+            "Popularity": 636,
+            "MotionPictureRating": "Rated PG-13 for pervasive crude and sexual material, language and drug content",
+            "ReleaseDate": "13 February 2009",
+            "Budget": 3900000,
+            "OpeningWeekend": 171533,
+            "Gross": 688529,
+            "CumulativeWorldwideGross": 961203
+        },
+        {
+            "CharacterName": "Tal",
+            "Year": "2008",
+            "FilmTitle": "Nick and Norah's Infinite Playlist",
+            "FilmUrl": "https://www.imdb.com/title/tt0981227/?ref_=nm_flmg_act_43",
+            "Directors": [
+                "Peter Sollett"
+            ],
+            "Writers": [
+                "Lorene Scafaria",
+                "Rachel Cohn"
+            ],
+            "Stars": [
+                "Michael Cera",
+                "Kat Dennings",
+                "Aaron Yoo"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Music",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Screen Gems",
+                "Columbia Pictures",
+                "Mandate Pictures"
+            ],
+            "PlotKeywords": [
+                "search",
+                "one night",
+                "night life",
+                "big city life",
+                "usa"
+            ],
+            "Metascore": 64,
+            "UserReviews": 157,
+            "CriticReviews": 169,
+            "MotionPictureRating": "Rated PG-13 for mature thematic material including teen drinking, sexuality, language and crude behavior",
+            "ReleaseDate": "3 October 2008",
+            "Budget": 10000000,
+            "OpeningWeekend": 11311751,
+            "Gross": 31487293,
+            "CumulativeWorldwideGross": 33556631,
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "Kevin Sandusky - Hot LZ",
+            "Year": "2008",
+            "FilmTitle": "Tropic Thunder",
+            "FilmUrl": "https://www.imdb.com/title/tt0942385/?ref_=nm_flmg_act_44",
+            "Directors": [
+                "Ben Stiller"
+            ],
+            "Writers": [
+                "Justin Theroux",
+                "Ben Stiller"
+            ],
+            "Stars": [
+                "Ben Stiller",
+                "Jack Black",
+                "Robert Downey Jr."
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "War"
+            ],
+            "ProductionCompanies": [
+                "Dreamworks Pictures",
+                "Red Hour Films",
+                "Goldcrest Pictures"
+            ],
+            "PlotKeywords": [
+                "film within a film",
+                "vietnam",
+                "parody",
+                "helicopter crash",
+                "jungle"
+            ],
+            "Metascore": 71,
+            "UserReviews": 637,
+            "CriticReviews": 326,
+            "Popularity": 177,
+            "MotionPictureRating": "Rated R for pervasive language including sexual references, violent content and drug material",
+            "ReleaseDate": "13 August 2008",
+            "Budget": 92000000,
+            "OpeningWeekend": 25812796,
+            "Gross": 110515313,
+            "CumulativeWorldwideGross": 195702811,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "Andy Hayes",
+            "Year": "2008",
+            "FilmTitle": "Real Time",
+            "FilmUrl": "https://www.imdb.com/title/tt0983909/?ref_=nm_flmg_act_45",
+            "Directors": [
+                "Randall Cole"
+            ],
+            "Writers": [
+                "Randall Cole"
+            ],
+            "Stars": [
+                "Randy Quaid",
+                "Jay Baruchel",
+                "Jayne Eastwood"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "APB Pictures",
+                "Devonshire Productions",
+                "January Films"
+            ],
+            "PlotKeywords": [
+                "cell phone",
+                "compulsive gambler",
+                "memory",
+                "urination",
+                "punched in the nose"
+            ],
+            "UserReviews": 18,
+            "CriticReviews": 14,
+            "MotionPictureRating": "Rated R for pervasive language including sexual references",
+            "ReleaseDate": "18 January 2008",
+            "Budget": 2000000,
+            "RuntimeMinutes": 80
+        },
+        {
+            "CharacterName": "Oliver Whynacht",
+            "Year": "2007",
+            "FilmTitle": "Just Buried",
+            "FilmUrl": "https://www.imdb.com/title/tt0906326/?ref_=nm_flmg_act_46",
+            "Directors": [
+                "Chaz Thorne"
+            ],
+            "Writers": [
+                "Chaz Thorne"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Sergio Di Zio",
+                "Nigel Bennett"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Horror"
+            ],
+            "ProductionCompanies": [
+                "RGM Entertainment",
+                "Standing 8 Productions",
+                "Trilogy Entertainment Group"
+            ],
+            "PlotKeywords": [
+                "canadian horror",
+                "funeral",
+                "funeral home",
+                "mortician",
+                "video will"
+            ],
+            "UserReviews": 15,
+            "CriticReviews": 13,
+            "ReleaseDate": "25 July 2008",
+            "RuntimeMinutes": 94
+        },
+        {
+            "CharacterName": "Jay",
+            "Year": "2007",
+            "FilmTitle": "Jay and Seth Versus the Apocalypse",
+            "FilmUrl": "https://www.imdb.com/title/tt1568843/?ref_=nm_flmg_act_47",
+            "Directors": [
+                "Jason Stone"
+            ],
+            "Writers": [
+                "Evan Goldberg",
+                "Seth Rogen"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Seth Rogen"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Catastrophic Films"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 2,
+            "CriticReviews": 2,
+            "ReleaseDate": "4 June 2007",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Jay",
+            "Year": "2007",
+            "FilmTitle": "Knocked Up",
+            "FilmUrl": "https://www.imdb.com/title/tt0478311/?ref_=nm_flmg_act_48",
+            "Directors": [
+                "Judd Apatow"
+            ],
+            "Writers": [
+                "Judd Apatow"
+            ],
+            "Stars": [
+                "Seth Rogen",
+                "Katherine Heigl",
+                "Paul Rudd"
+            ],
+            "Genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Universal Pictures",
+                "Apatow Productions"
+            ],
+            "PlotKeywords": [
+                "panties pulled down",
+                "one night stand",
+                "female frontal nudity",
+                "unplanned pregnancy",
+                "female nudity"
+            ],
+            "Metascore": 85,
+            "UserReviews": 589,
+            "CriticReviews": 247,
+            "Popularity": 682,
+            "MotionPictureRating": "Rated R for sexual content, drug use and language",
+            "ReleaseDate": "1 June 2007",
+            "Budget": 30000000,
+            "OpeningWeekend": 30690990,
+            "Gross": 148768917,
+            "CumulativeWorldwideGross": 219922417,
+            "RuntimeMinutes": 129
+        },
+        {
+            "CharacterName": "Oswald Kittner",
+            "Year": "2006-2007",
+            "FilmTitle": "Numb3rs",
+            "FilmUrl": "https://www.imdb.com/title/tt0433309/?ref_=nm_flmg_act_49",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Rob Morrow",
+                "David Krumholtz",
+                "Judd Hirsch"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "The Barry Schindel Company",
+                "Scott Free Productions",
+                "Paramount Network Television"
+            ],
+            "PlotKeywords": [
+                "21st century",
+                "intelligence",
+                "federal bureau of investigation",
+                "federal bureau of investigation agent",
+                "police officer"
+            ],
+            "UserReviews": 118,
+            "CriticReviews": 19,
+            "Popularity": 885,
+            "RuntimeMinutes": 43
+        },
+        {
+            "CharacterName": "Skip Ross",
+            "Year": "2005-2006",
+            "FilmTitle": "Just Legal",
+            "FilmUrl": "https://www.imdb.com/title/tt0460653/?ref_=nm_flmg_act_50",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Don Johnson",
+                "Jay Baruchel",
+                "Jaime Lee Kirchner"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Jerry Bruckheimer Television",
+                "Warner Bros. Television"
+            ],
+            "PlotKeywords": [
+                "trial",
+                "los angeles california",
+                "law firm"
+            ],
+            "UserReviews": 17,
+            "CriticReviews": 1,
+            "ReleaseDate": "1 April 2005",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Reed Fish",
+            "Year": "2006",
+            "FilmTitle": "I'm Reed Fish",
+            "FilmUrl": "https://www.imdb.com/title/tt0464061/?ref_=nm_flmg_act_51",
+            "Directors": [
+                "Zackary Adler"
+            ],
+            "Writers": [
+                "Reed Fish"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Alexis Bledel",
+                "Victor Rasuk"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Squared Foot Productions"
+            ],
+            "PlotKeywords": [
+                "small town",
+                "marriage",
+                "boyfriend girlfriend relationship",
+                "zebra",
+                "zebra horse"
+            ],
+            "Metascore": 36,
+            "UserReviews": 28,
+            "CriticReviews": 15,
+            "MotionPictureRating": "Rated PG for language",
+            "ReleaseDate": "25 April 2006",
+            "OpeningWeekend": 1026,
+            "Gross": 3567,
+            "CumulativeWorldwideGross": 3567,
+            "RuntimeMinutes": 93
+        },
+        {
+            "CharacterName": "Art Frankel",
+            "Year": "2005",
+            "FilmTitle": "Fetching Cody",
+            "FilmUrl": "https://www.imdb.com/title/tt0475271/?ref_=nm_flmg_act_52",
+            "Directors": [
+                "David Ray"
+            ],
+            "Writers": [
+                "David Ray",
+                "Carolyn Allain"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Sarah Lind",
+                "Jim Byrnes"
+            ],
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Cheap and Dirty Productions Inc.",
+                "T\u00e9l\u00e9film Canada",
+                "Showcase"
+            ],
+            "PlotKeywords": [
+                "death",
+                "time travel",
+                "suicide",
+                "prostitute",
+                "high school"
+            ],
+            "UserReviews": 10,
+            "CriticReviews": 19,
+            "ReleaseDate": "24 February 2006",
+            "Budget": 1500000,
+            "RuntimeMinutes": 87
+        },
+        {
+            "CharacterName": "Winston Stone",
+            "Year": "2004",
+            "FilmTitle": "The Stones",
+            "FilmUrl": "https://www.imdb.com/title/tt0369169/?ref_=nm_flmg_act_53",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Judith Light",
+                "Lindsay Sloane",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "KoMut Entertainment",
+                "Warner Bros. Television"
+            ],
+            "PlotKeywords": [],
+            "CriticReviews": 1,
+            "ReleaseDate": "17 March 2004",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Danger Barch",
+            "Year": "2004",
+            "FilmTitle": "Million Dollar Baby",
+            "FilmUrl": "https://www.imdb.com/title/tt0405159/?ref_=nm_flmg_act_54",
+            "Directors": [
+                "Clint Eastwood"
+            ],
+            "Writers": [
+                "Paul Haggis",
+                "F.X. Toole"
+            ],
+            "Stars": [
+                "Hilary Swank",
+                "Clint Eastwood",
+                "Morgan Freeman"
+            ],
+            "Genres": [
+                "Drama",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Warner Bros.",
+                "Lakeshore Entertainment",
+                "Malpaso Productions"
+            ],
+            "PlotKeywords": [
+                "boxing",
+                "determination",
+                "women boxing",
+                "death",
+                "euthanasia"
+            ],
+            "Metascore": 86,
+            "UserReviews": 1240,
+            "CriticReviews": 266,
+            "Popularity": 278,
+            "MotionPictureRating": "Rated PG-13 for violence, some disturbing images, thematic material and language",
+            "ReleaseDate": "28 January 2005",
+            "Budget": 30000000,
+            "OpeningWeekend": 179953,
+            "Gross": 100492203,
+            "CumulativeWorldwideGross": 216763646,
+            "RuntimeMinutes": 132
+        },
+        {
+            "CharacterName": "Steven Karp",
+            "Year": "2001-2003",
+            "FilmTitle": "Undeclared",
+            "FilmUrl": "https://www.imdb.com/title/tt0273028/?ref_=nm_flmg_act_55",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Carla Gallo",
+                "Charlie Hunnam"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Apatow Productions",
+                "DreamWorks Television"
+            ],
+            "PlotKeywords": [
+                "boy wears eyeglasses",
+                "man wears eyeglasses",
+                "college",
+                "college roommate",
+                "college freshman"
+            ],
+            "UserReviews": 37,
+            "CriticReviews": 9,
+            "Popularity": 514,
+            "ReleaseDate": "25 September 2001",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Jeremy Curran",
+            "Year": "2003",
+            "FilmTitle": "Nemesis Game",
+            "FilmUrl": "https://www.imdb.com/title/tt0323571/?ref_=nm_flmg_act_56",
+            "Directors": [
+                "Jesse Warn"
+            ],
+            "Writers": [
+                "Jesse Warn"
+            ],
+            "Stars": [
+                "Carly Pope",
+                "Ian McShane",
+                "Adrian Paul"
+            ],
+            "Genres": [
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Lions Gate Films",
+                "Emily Gray Productions Ltd.",
+                "Paper Pictures Inc."
+            ],
+            "PlotKeywords": [
+                "reference to rene descartes",
+                "riddle",
+                "game",
+                "student",
+                "mind game"
+            ],
+            "UserReviews": 35,
+            "CriticReviews": 14,
+            "MotionPictureRating": "Rated R for language",
+            "ReleaseDate": "16 September 2003",
+            "Budget": 3000000
+        },
+        {
+            "CharacterName": "Harry",
+            "Year": "2002",
+            "FilmTitle": "The Rules of Attraction",
+            "FilmUrl": "https://www.imdb.com/title/tt0292644/?ref_=nm_flmg_act_57",
+            "Directors": [
+                "Roger Avary"
+            ],
+            "Writers": [
+                "Bret Easton Ellis",
+                "Roger Avary"
+            ],
+            "Stars": [
+                "James Van Der Beek",
+                "Ian Somerhalder",
+                "Shannyn Sossamon"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Kingsgate Films",
+                "Roger Avary Filmproduktion GmbH"
+            ],
+            "PlotKeywords": [
+                "lesbian",
+                "lesbian interest",
+                "sex",
+                "public nudity",
+                "female rear nudity"
+            ],
+            "Metascore": 50,
+            "UserReviews": 417,
+            "CriticReviews": 141,
+            "Popularity": 0,
+            "MotionPictureRating": "Rated R for strong sexual content, drug use, language and violent images",
+            "ReleaseDate": "11 October 2002",
+            "Budget": 4000000,
+            "OpeningWeekend": 2532410,
+            "Gross": 6532619,
+            "CumulativeWorldwideGross": 11832822,
+            "RuntimeMinutes": 110
+        },
+        {
+            "CharacterName": "Jimmy Fleming",
+            "Year": "2002",
+            "FilmTitle": "Matthew Blackheart: Monster Smasher",
+            "FilmUrl": "https://www.imdb.com/title/tt0185936/?ref_=nm_flmg_act_58",
+            "Directors": [
+                "Erik Canuel"
+            ],
+            "Writers": [
+                "Robert Engels",
+                "Roy Knyrim"
+            ],
+            "Stars": [
+                "Robert T. Bogue",
+                "Christopher Heyerdahl",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Horror"
+            ],
+            "ProductionCompanies": [
+                "Telescene Film Group Productions"
+            ],
+            "PlotKeywords": [
+                "character name as title",
+                "matthew blackheart character",
+                "four word title",
+                "manhattan new york city",
+                "times square manhattan new york city"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 5,
+            "MotionPictureRating": "Rated R for some violence/gore",
+            "ReleaseDate": "19 February 2002",
+            "Budget": 3400000,
+            "RuntimeMinutes": 94
+        },
+        {
+            "CharacterName": "Vic Munoz",
+            "Year": "2000",
+            "FilmTitle": "Almost Famous",
+            "FilmUrl": "https://www.imdb.com/title/tt0181875/?ref_=nm_flmg_act_59",
+            "Directors": [
+                "Cameron Crowe"
+            ],
+            "Writers": [
+                "Cameron Crowe"
+            ],
+            "Stars": [
+                "Billy Crudup",
+                "Patrick Fugit",
+                "Kate Hudson"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "Columbia Pictures",
+                "DreamWorks",
+                "Vinyl Films"
+            ],
+            "PlotKeywords": [
+                "rock 'n' roll",
+                "smoking marijuana",
+                "on the road",
+                "rock musician",
+                "music industry"
+            ],
+            "Metascore": 90,
+            "UserReviews": 868,
+            "CriticReviews": 156,
+            "Popularity": 609,
+            "MotionPictureRating": "Rated R for language, drug content and brief nudity",
+            "ReleaseDate": "22 September 2000",
+            "Budget": 60000000,
+            "OpeningWeekend": 2314646,
+            "Gross": 32534850,
+            "CumulativeWorldwideGross": 47383689,
+            "RuntimeMinutes": 122
+        },
+        {
+            "CharacterName": "Jason Midas / Ross Doyle / Alex / ...",
+            "Year": "1995-2000",
+            "FilmTitle": "Are You Afraid of the Dark?",
+            "FilmUrl": "https://www.imdb.com/title/tt0103352/?ref_=nm_flmg_act_60",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ross Hull",
+                "Daniel DeSanto",
+                "Raine Pare-Coull"
+            ],
+            "Genres": [
+                "Drama",
+                "Family",
+                "Fantasy",
+                "Horror",
+                "Mystery",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "CINAR",
+                "Nickelodeon Network",
+                "YTV"
+            ],
+            "PlotKeywords": [
+                "campfire story",
+                "powder",
+                "anthology",
+                "supernatural power",
+                "psychotronic series"
+            ],
+            "UserReviews": 74,
+            "CriticReviews": 6,
+            "Popularity": 922,
+            "ReleaseDate": "15 August 1992",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Jonathan",
+            "Year": "1999",
+            "FilmTitle": "Who Gets the House?",
+            "FilmUrl": "https://www.imdb.com/title/tt0184018/?ref_=nm_flmg_act_61",
+            "Directors": [
+                "Timothy J. Nelson"
+            ],
+            "Writers": [
+                "Patricia Lavoie"
+            ],
+            "Stars": [
+                "Ricky Mabe",
+                "Elisha Cuthbert",
+                "Sophie Lorain"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "CINAR"
+            ],
+            "PlotKeywords": [
+                "blonde"
+            ],
+            "UserReviews": 4,
+            "CriticReviews": 1,
+            "RuntimeMinutes": 98
+        },
+        {
+            "CharacterName": "Kid #2",
+            "Year": "1999",
+            "FilmTitle": "Running Home",
+            "FilmUrl": "https://www.imdb.com/title/tt0160800/?ref_=nm_flmg_act_62",
+            "Directors": [
+                "Marc F. Voizard"
+            ],
+            "Writers": [
+                "Nicholas DiBella"
+            ],
+            "Stars": [
+                "Kristian Ayre",
+                "Claudia Christian",
+                "Andreas Apergis"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Allegro Films"
+            ],
+            "PlotKeywords": [
+                "biological mother",
+                "smuggler",
+                "graffiti artist",
+                "thief",
+                "diamond theft"
+            ],
+            "UserReviews": 5,
+            "RuntimeMinutes": 95
+        },
+        {
+            "CharacterName": "Thomas Thompson",
+            "Year": "1996-1998",
+            "FilmTitle": "My Hometown",
+            "FilmUrl": "https://www.imdb.com/title/tt0115281/?ref_=nm_flmg_act_63",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Sarah Osman",
+                "Albert Rosos"
+            ],
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Productions A Heartbeat Away"
+            ],
+            "PlotKeywords": [
+                "adolescent"
+            ],
+            "UserReviews": 5
+        },
+        {
+            "CharacterName": "Bean Pole",
+            "Year": "1998",
+            "FilmTitle": "The Worst Witch",
+            "FilmUrl": "https://www.imdb.com/title/tt0179061/?ref_=nm_flmg_act_64",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kate Duch\u00eane",
+                "Carrie Finlay",
+                "Emma Brown"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Canada Television and Cable Production Fund License Program (CTCPF)",
+                "Canadian Film or Video Production Tax Credit (CPTC)",
+                "Canadian Television Fund"
+            ],
+            "PlotKeywords": [
+                "flying broomstick",
+                "magical spell",
+                "witch",
+                "fitting in",
+                "preteenage witch"
+            ],
+            "UserReviews": 16,
+            "Popularity": 414,
+            "ReleaseDate": "14 July 1999",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Patient",
+            "Year": "1998",
+            "FilmTitle": "The Sickroom",
+            "FilmUrl": "https://www.imdb.com/title/tt0169231/?ref_=nm_flmg_act_65",
+            "Directors": [
+                "Serge Marcotte"
+            ],
+            "Writers": [
+                "Franz Kafka"
+            ],
+            "Stars": [
+                "Stefica Baric",
+                "Jay Baruchel",
+                "Stu Hands"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "ReleaseDate": "18 September 1998",
+            "RuntimeMinutes": 12
+        },
+        {
+            "CharacterName": "",
+            "Year": "2019",
+            "FilmTitle": "Random Acts of Violence",
+            "FilmUrl": "https://www.imdb.com/title/tt1925493/?ref_=nm_flmg_wr_1",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel",
+                "Jesse Chabot"
+            ],
+            "Stars": [
+                "Jesse Williams",
+                "Jordana Brewster",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Elevation Pictures",
+                "Manis Film",
+                "Kickstart Productions"
+            ],
+            "PlotKeywords": [
+                "stab",
+                "road trip",
+                "flat tire",
+                "african american protagonist",
+                "assistant"
+            ],
+            "Metascore": 39,
+            "UserReviews": 35,
+            "CriticReviews": 71,
+            "ReleaseDate": "20 August 2020",
+            "RuntimeMinutes": 80
+        },
+        {
+            "CharacterName": "",
+            "Year": "2017",
+            "FilmTitle": "Goon: Last of the Enforcers",
+            "FilmUrl": "https://www.imdb.com/title/tt2417712/?ref_=nm_flmg_wr_2",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel",
+                "Jesse Chabot"
+            ],
+            "Stars": [
+                "Seann William Scott",
+                "Alison Pill",
+                "Marc-Andr\u00e9 Grondin"
+            ],
+            "Genres": [
+                "Comedy",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "No Trace Camping",
+                "Caramel Film"
+            ],
+            "PlotKeywords": [
+                "husband wife relationship",
+                "hockey fight",
+                "hockey movie",
+                "team",
+                "hockey"
+            ],
+            "Metascore": 48,
+            "UserReviews": 49,
+            "CriticReviews": 49,
+            "MotionPictureRating": "Rated R for pervasive language, crude sexual content and bloody sports violence",
+            "ReleaseDate": "1 September 2017",
+            "CumulativeWorldwideGross": 124875,
+            "RuntimeMinutes": 101
+        },
+        {
+            "CharacterName": "",
+            "Year": "2011",
+            "FilmTitle": "Goon",
+            "FilmUrl": "https://www.imdb.com/title/tt1456635/?ref_=nm_flmg_wr_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Matthew Perry",
+                "Laura Benanti",
+                "Julie White"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Silver and Gold Productions",
+                "Dark Toy Entertainment",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "21st century",
+                "man",
+                "woman",
+                "woman wears eyeglasses",
+                "sportscaster"
+            ],
+            "UserReviews": 39,
+            "CriticReviews": 16,
+            "Popularity": 31,
+            "ReleaseDate": "8 August 2012",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "",
+            "Year": "2002",
+            "FilmTitle": "Edgar and Jane",
+            "FilmUrl": "https://www.imdb.com/title/tt0330254/?ref_=nm_flmg_wr_4",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel"
+            ],
+            "Stars": [
+                "Nwamiko Madden",
+                "Maggie Castle",
+                "Joris Jarsky"
+            ],
+            "Genres": [
+                "Action",
+                "Short",
+                "Drama",
+                "Horror",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Eden Arts"
+            ],
+            "PlotKeywords": [
+                "love",
+                "revenge",
+                "betrayal",
+                "superhero",
+                "death"
+            ],
+            "ReleaseDate": "7 December 2002",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "",
+            "Year": "2019",
+            "FilmTitle": "Random Acts of Violence",
+            "FilmUrl": "https://www.imdb.com/title/tt1925493/?ref_=nm_flmg_prd_1",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel",
+                "Jesse Chabot"
+            ],
+            "Stars": [
+                "Jesse Williams",
+                "Jordana Brewster",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Elevation Pictures",
+                "Manis Film",
+                "Kickstart Productions"
+            ],
+            "PlotKeywords": [
+                "stab",
+                "road trip",
+                "flat tire",
+                "african american protagonist",
+                "assistant"
+            ],
+            "Metascore": 39,
+            "UserReviews": 35,
+            "CriticReviews": 71,
+            "ReleaseDate": "20 August 2020",
+            "RuntimeMinutes": 80
+        },
+        {
+            "CharacterName": "",
+            "Year": "2017",
+            "FilmTitle": "Goon: Last of the Enforcers",
+            "FilmUrl": "https://www.imdb.com/title/tt2417712/?ref_=nm_flmg_prd_2",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel",
+                "Jesse Chabot"
+            ],
+            "Stars": [
+                "Seann William Scott",
+                "Alison Pill",
+                "Marc-Andr\u00e9 Grondin"
+            ],
+            "Genres": [
+                "Comedy",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "No Trace Camping",
+                "Caramel Film"
+            ],
+            "PlotKeywords": [
+                "husband wife relationship",
+                "hockey fight",
+                "hockey movie",
+                "team",
+                "hockey"
+            ],
+            "Metascore": 48,
+            "UserReviews": 49,
+            "CriticReviews": 49,
+            "MotionPictureRating": "Rated R for pervasive language, crude sexual content and bloody sports violence",
+            "ReleaseDate": "1 September 2017",
+            "CumulativeWorldwideGross": 124875,
+            "RuntimeMinutes": 101
+        },
+        {
+            "CharacterName": "",
+            "Year": "2016",
+            "FilmTitle": "Celtic Soul",
+            "FilmUrl": "https://www.imdb.com/title/tt6157994/?ref_=nm_flmg_prd_3",
+            "Directors": [
+                "Michael McNamara"
+            ],
+            "Writers": [
+                "Michael McNamara"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Gerry McLaughlin",
+                "Eoin O'Callaghan"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Markham Street Films"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 4,
+            "CriticReviews": 1
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "This Is the End",
+            "FilmUrl": "https://www.imdb.com/title/tt1245492/?ref_=nm_flmg_prd_4",
+            "Directors": [
+                "Evan Goldberg",
+                "Seth Rogen"
+            ],
+            "Writers": [
+                "Seth Rogen",
+                "Evan Goldberg"
+            ],
+            "Stars": [
+                "James Franco",
+                "Jonah Hill",
+                "Seth Rogen"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Columbia Pictures",
+                "Point Grey Pictures",
+                "Mandate Pictures"
+            ],
+            "PlotKeywords": [
+                "apocalypse",
+                "ensemble cast",
+                "marijuana joint",
+                "actress playing herself",
+                "actor playing himself"
+            ],
+            "Metascore": 67,
+            "UserReviews": 767,
+            "CriticReviews": 412,
+            "Popularity": 414,
+            "MotionPictureRating": "Rated R for crude and sexual content throughout, brief graphic nudity, pervasive language, drug use and some violence",
+            "ReleaseDate": "12 June 2013",
+            "Budget": 32000000,
+            "OpeningWeekend": 20719162,
+            "Gross": 101470202,
+            "CumulativeWorldwideGross": 126041322,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "",
+            "Year": "2011",
+            "FilmTitle": "Goon",
+            "FilmUrl": "https://www.imdb.com/title/tt1456635/?ref_=nm_flmg_prd_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Matthew Perry",
+                "Laura Benanti",
+                "Julie White"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Silver and Gold Productions",
+                "Dark Toy Entertainment",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "21st century",
+                "man",
+                "woman",
+                "woman wears eyeglasses",
+                "sportscaster"
+            ],
+            "UserReviews": 39,
+            "CriticReviews": 16,
+            "Popularity": 31,
+            "ReleaseDate": "8 August 2012",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "",
+            "Year": "2002",
+            "FilmTitle": "Edgar and Jane",
+            "FilmUrl": "https://www.imdb.com/title/tt0330254/?ref_=nm_flmg_prd_6",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel"
+            ],
+            "Stars": [
+                "Nwamiko Madden",
+                "Maggie Castle",
+                "Joris Jarsky"
+            ],
+            "Genres": [
+                "Action",
+                "Short",
+                "Drama",
+                "Horror",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Eden Arts"
+            ],
+            "PlotKeywords": [
+                "love",
+                "revenge",
+                "betrayal",
+                "superhero",
+                "death"
+            ],
+            "ReleaseDate": "7 December 2002",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "",
+            "Year": "2019",
+            "FilmTitle": "Random Acts of Violence",
+            "FilmUrl": "https://www.imdb.com/title/tt1925493/?ref_=nm_flmg_dr_1",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel",
+                "Jesse Chabot"
+            ],
+            "Stars": [
+                "Jesse Williams",
+                "Jordana Brewster",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Elevation Pictures",
+                "Manis Film",
+                "Kickstart Productions"
+            ],
+            "PlotKeywords": [
+                "stab",
+                "road trip",
+                "flat tire",
+                "african american protagonist",
+                "assistant"
+            ],
+            "Metascore": 39,
+            "UserReviews": 35,
+            "CriticReviews": 71,
+            "ReleaseDate": "20 August 2020",
+            "RuntimeMinutes": 80
+        },
+        {
+            "CharacterName": "",
+            "Year": "2017",
+            "FilmTitle": "Goon: Last of the Enforcers",
+            "FilmUrl": "https://www.imdb.com/title/tt2417712/?ref_=nm_flmg_dr_2",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel",
+                "Jesse Chabot"
+            ],
+            "Stars": [
+                "Seann William Scott",
+                "Alison Pill",
+                "Marc-Andr\u00e9 Grondin"
+            ],
+            "Genres": [
+                "Comedy",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "No Trace Camping",
+                "Caramel Film"
+            ],
+            "PlotKeywords": [
+                "husband wife relationship",
+                "hockey fight",
+                "hockey movie",
+                "team",
+                "hockey"
+            ],
+            "Metascore": 48,
+            "UserReviews": 49,
+            "CriticReviews": 49,
+            "MotionPictureRating": "Rated R for pervasive language, crude sexual content and bloody sports violence",
+            "ReleaseDate": "1 September 2017",
+            "CumulativeWorldwideGross": 124875,
+            "RuntimeMinutes": 101
+        },
+        {
+            "CharacterName": "",
+            "Year": "2014",
+            "FilmTitle": "Trailer Park Boys",
+            "FilmUrl": "https://www.imdb.com/title/tt0290988/?ref_=nm_flmg_dr_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "John Paul Tremblay",
+                "Robb Wells",
+                "Mike Smith"
+            ],
+            "Genres": [
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "Foley Walkers Studio",
+                "Showcase Television",
+                "Topsail Entertainment"
+            ],
+            "PlotKeywords": [
+                "trailer park",
+                "poverty",
+                "group of friends",
+                "mockumentary",
+                "trailer home"
+            ],
+            "UserReviews": 136,
+            "CriticReviews": 4,
+            "Popularity": 635,
+            "ReleaseDate": "20 April 2004",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "",
+            "Year": "2002",
+            "FilmTitle": "Edgar and Jane",
+            "FilmUrl": "https://www.imdb.com/title/tt0330254/?ref_=nm_flmg_dr_4",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel"
+            ],
+            "Stars": [
+                "Nwamiko Madden",
+                "Maggie Castle",
+                "Joris Jarsky"
+            ],
+            "Genres": [
+                "Action",
+                "Short",
+                "Drama",
+                "Horror",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Eden Arts"
+            ],
+            "PlotKeywords": [
+                "love",
+                "revenge",
+                "betrayal",
+                "superhero",
+                "death"
+            ],
+            "ReleaseDate": "7 December 2002",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "",
+            "Year": "2010",
+            "FilmTitle": "The Sorcerer's Apprentice",
+            "FilmUrl": "https://www.imdb.com/title/tt0963966/?ref_=_1",
+            "Directors": [
+                "Jon Turteltaub"
+            ],
+            "Writers": [
+                "Lawrence Konner",
+                "Mark Rosenthal"
+            ],
+            "Stars": [
+                "Nicolas Cage",
+                "Jay Baruchel",
+                "Alfred Molina"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Walt Disney Pictures",
+                "Jerry Bruckheimer Films",
+                "Saturn Films"
+            ],
+            "PlotKeywords": [
+                "wizardry",
+                "incantation",
+                "sorcerer",
+                "ring",
+                "training"
+            ],
+            "Metascore": 46,
+            "UserReviews": 261,
+            "CriticReviews": 241,
+            "Popularity": 903,
+            "MotionPictureRating": "Rated PG for fantasy action violence, some mild rude humor and brief language",
+            "ReleaseDate": "14 July 2010",
+            "Budget": 150000000,
+            "OpeningWeekend": 17619622,
+            "Gross": 63150991,
+            "CumulativeWorldwideGross": 215283742,
+            "RuntimeMinutes": 109
+        },
+        {
+            "CharacterName": "",
+            "Year": "2002",
+            "FilmTitle": "Edgar and Jane",
+            "FilmUrl": "https://www.imdb.com/title/tt0330254/?ref_=nm_flmg_cin_1",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel"
+            ],
+            "Stars": [
+                "Nwamiko Madden",
+                "Maggie Castle",
+                "Joris Jarsky"
+            ],
+            "Genres": [
+                "Action",
+                "Short",
+                "Drama",
+                "Horror",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Eden Arts"
+            ],
+            "PlotKeywords": [
+                "love",
+                "revenge",
+                "betrayal",
+                "superhero",
+                "death"
+            ],
+            "ReleaseDate": "7 December 2002",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "",
+            "Year": "2002",
+            "FilmTitle": "Edgar and Jane",
+            "FilmUrl": "https://www.imdb.com/title/tt0330254/?ref_=nm_flmg_spl_1",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel"
+            ],
+            "Stars": [
+                "Nwamiko Madden",
+                "Maggie Castle",
+                "Joris Jarsky"
+            ],
+            "Genres": [
+                "Action",
+                "Short",
+                "Drama",
+                "Horror",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Eden Arts"
+            ],
+            "PlotKeywords": [
+                "love",
+                "revenge",
+                "betrayal",
+                "superhero",
+                "death"
+            ],
+            "ReleaseDate": "7 December 2002",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "",
+            "Year": "2002",
+            "FilmTitle": "Edgar and Jane",
+            "FilmUrl": "https://www.imdb.com/title/tt0330254/?ref_=nm_flmg_edt_1",
+            "Directors": [
+                "Jay Baruchel"
+            ],
+            "Writers": [
+                "Jay Baruchel"
+            ],
+            "Stars": [
+                "Nwamiko Madden",
+                "Maggie Castle",
+                "Joris Jarsky"
+            ],
+            "Genres": [
+                "Action",
+                "Short",
+                "Drama",
+                "Horror",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Eden Arts"
+            ],
+            "PlotKeywords": [
+                "love",
+                "revenge",
+                "betrayal",
+                "superhero",
+                "death"
+            ],
+            "ReleaseDate": "7 December 2002",
+            "RuntimeMinutes": 17
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "You Never Take Me Seriously",
+            "FilmUrl": "https://www.imdb.com/title/tt3234634/?ref_=nm_flmg_tk_1",
+            "Directors": [
+                "Caley MacLennan"
+            ],
+            "Writers": [
+                "Caley MacLennan"
+            ],
+            "Stars": [
+                "Michael McPhee",
+                "Annie Valentina"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "RuntimeMinutes": 4
+        },
+        {
+            "CharacterName": "",
+            "Year": "2008",
+            "FilmTitle": "Tropic Thunder: Rain of Madness",
+            "FilmUrl": "https://www.imdb.com/title/tt1286750/?ref_=nm_flmg_tk_2",
+            "Directors": [],
+            "Writers": [
+                "Justin Theroux",
+                "Steve Coogan"
+            ],
+            "Stars": [
+                "Jack Black",
+                "Steve Coogan",
+                "Robert Downey Jr."
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks",
+                "Red Hour Films",
+                "Monkey Deux"
+            ],
+            "PlotKeywords": [
+                "parody",
+                "making of"
+            ],
+            "UserReviews": 3,
+            "CriticReviews": 1,
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2015-2019",
+            "FilmTitle": "Conan",
+            "FilmUrl": "https://www.imdb.com/title/tt1637574/?ref_=nm_flmg_slf_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Conan O'Brien",
+                "Andy Richter",
+                "Jimmy Vivino and the Basic Cable Band"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Conaco"
+            ],
+            "PlotKeywords": [
+                "one word series title",
+                "actor name as series title",
+                "interview",
+                "celebrity",
+                "redheaded man"
+            ],
+            "UserReviews": 20,
+            "CriticReviews": 3,
+            "Popularity": 898,
+            "ReleaseDate": "8 November 2010",
+            "RuntimeMinutes": 42
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Year": "2019",
+            "FilmTitle": "Voice Arts\u00ae Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt11373858/?ref_=nm_flmg_slf_2",
+            "Directors": [
+                "Steve Ulrich"
+            ],
+            "Writers": [
+                "Diana Charkalis",
+                "Peter Charkalis"
+            ],
+            "Stars": [
+                "F. Murray Abraham",
+                "Anna Acton",
+                "Vikas Adam"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Society of Voice Arts and Sciences"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "17 November 2019",
+            "RuntimeMinutes": 200
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2019",
+            "FilmTitle": "Beyond the Arc",
+            "FilmUrl": "https://www.imdb.com/title/tt12669840/?ref_=nm_flmg_slf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Danny Green",
+                "Darren Duncan",
+                "Jackie Anderson"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Gold Level Sports and Entertainment"
+            ],
+            "PlotKeywords": [
+                "tv mini series",
+                "danny green",
+                "toronto raptors",
+                "basketball"
+            ],
+            "ReleaseDate": "18 April 2020",
+            "Budget": 1250000,
+            "RuntimeMinutes": 24
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Couch Surfing",
+            "FilmUrl": "https://www.imdb.com/title/tt11027394/?ref_=nm_flmg_slf_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lola Ogunnaike",
+                "Jay Baruchel",
+                "Danny DeVito"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "memory",
+                "non fiction"
+            ],
+            "ReleaseDate": "8 February 2018"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2019",
+            "FilmTitle": "IMDb on the Scene - Interviews",
+            "FilmUrl": "https://www.imdb.com/title/tt8596744/?ref_=nm_flmg_slf_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Bret Federigan",
+                "Alex Logan",
+                "Albert Lawrence"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "IMDb Originals"
+            ],
+            "PlotKeywords": [
+                "cast",
+                "non fiction"
+            ],
+            "Popularity": 726,
+            "ReleaseDate": "3 July 2018"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dean Richards",
+                "Mike Toomey",
+                "Robin Baumgarten"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "WGN Chicago"
+            ],
+            "PlotKeywords": [
+                "chicago illinois",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "6 September 1994"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2019",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Savannah Guthrie",
+                "Hoda Kotb",
+                "Al Roker"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "NBC News"
+            ],
+            "PlotKeywords": [
+                "weather",
+                "one word title",
+                "morning show",
+                "non fiction"
+            ],
+            "UserReviews": 16,
+            "ReleaseDate": "14 January 1952",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Collider Heroes",
+            "FilmUrl": "https://www.imdb.com/title/tt5659872/?ref_=nm_flmg_slf_8",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jon Schnepp",
+                "Coy Jandreau",
+                "Amy Dallen"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Collider Entertainment",
+                "Complex Media"
+            ],
+            "PlotKeywords": [
+                "show",
+                "superhero",
+                "non fiction"
+            ],
+            "ReleaseDate": "10 March 2015"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Collider Live",
+            "FilmUrl": "https://www.imdb.com/title/tt8872932/?ref_=nm_flmg_slf_9",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kristian Harloff",
+                "Mark Reilly",
+                "Roxy Striar"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Collider Entertainment"
+            ],
+            "PlotKeywords": [
+                "woke",
+                "2010s",
+                "reference to collider",
+                "non fiction"
+            ],
+            "ReleaseDate": "20 August 2018"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "The Late Late Show with James Corden",
+            "FilmUrl": "https://www.imdb.com/title/tt4280606/?ref_=nm_flmg_slf_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "James Corden",
+                "Reggie Watts",
+                "Louis Waymouth"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Fulwell 73",
+                "CBS Television Studios"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "seven word series title",
+                "woke",
+                "2010s",
+                "2020s"
+            ],
+            "UserReviews": 52,
+            "CriticReviews": 5,
+            "Popularity": 473,
+            "ReleaseDate": "23 March 2015",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2018",
+            "FilmTitle": "Pop Life",
+            "FilmUrl": "https://www.imdb.com/title/tt9230716/?ref_=nm_flmg_slf_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Richard Crouse",
+                "Russell Peters",
+                "Tegan and Sara"
+            ],
+            "Genres": [
+                "Family",
+                "Reality-TV",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Bell Media",
+                "CTV News"
+            ],
+            "PlotKeywords": [
+                "tv mini series",
+                "non fiction"
+            ],
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - (Author of 'Born Into It')",
+            "Year": "2018",
+            "FilmTitle": "Entertainment Tonight Canada",
+            "FilmUrl": "https://www.imdb.com/title/tt0482346/?ref_=nm_flmg_slf_12",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carlos Bustamante",
+                "Cheryl Hickey",
+                "Sangita Patel"
+            ],
+            "Genres": [
+                "Biography",
+                "Family",
+                "News",
+                "Reality-TV"
+            ],
+            "ProductionCompanies": [
+                "Corus Entertainment"
+            ],
+            "PlotKeywords": [
+                "country name in title",
+                "three word title",
+                "show business",
+                "promotional",
+                "music industry"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "12 September 2005",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Montreal: An Intervention (Because We Love You)",
+            "FilmUrl": "https://www.imdb.com/title/tt9058288/?ref_=nm_flmg_slf_13",
+            "Directors": [
+                "Shelagh O'Brien"
+            ],
+            "Writers": [
+                "Patrick Dussault"
+            ],
+            "Stars": [
+                "Rachid Badouri",
+                "Jay Baruchel",
+                "Alonzo Bodden"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Just For Laughs Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "26 December 2017",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2017",
+            "FilmTitle": "Larry King Now",
+            "FilmUrl": "https://www.imdb.com/title/tt2322438/?ref_=nm_flmg_slf_14",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Larry King",
+                "Dennis Miller",
+                "Tom Green"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Ora TV"
+            ],
+            "PlotKeywords": [
+                "interview",
+                "web series",
+                "non fiction"
+            ],
+            "UserReviews": 1,
+            "CriticReviews": 1,
+            "ReleaseDate": "17 July 2012"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Year": "2010-2017",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_15",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Kimmel",
+                "Cleto and the Cletones",
+                "Cleto Escobedo III"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Jackhole Industries",
+                "12:05 Productions",
+                "ABC Studios"
+            ],
+            "PlotKeywords": [
+                "woke",
+                "actor plays himself",
+                "actor name in series title",
+                "exclamation point in series title",
+                "2000s"
+            ],
+            "UserReviews": 60,
+            "CriticReviews": 2,
+            "Popularity": 326,
+            "ReleaseDate": "26 January 2003",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2017",
+            "FilmTitle": "2017 NHL Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt9382388/?ref_=nm_flmg_slf_16",
+            "Directors": [],
+            "Writers": [
+                "Gregory Poppen"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Alexander Garganera",
+                "Wayne Gretzky"
+            ],
+            "Genres": [
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Dempsey Productions"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show",
+                "national hockey league"
+            ],
+            "ReleaseDate": "21 June 2017"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015-2017",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_17",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Fallon",
+                "The Roots",
+                "Steve Higgins"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "2010s",
+                "actor name in series title",
+                "six word series title",
+                "woke",
+                "2020s"
+            ],
+            "UserReviews": 84,
+            "CriticReviews": 11,
+            "Popularity": 761,
+            "ReleaseDate": "17 February 2014",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Celtic Soul",
+            "FilmUrl": "https://www.imdb.com/title/tt6157994/?ref_=nm_flmg_slf_18",
+            "Directors": [
+                "Michael McNamara"
+            ],
+            "Writers": [
+                "Michael McNamara"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Gerry McLaughlin",
+                "Eoin O'Callaghan"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Markham Street Films"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 4,
+            "CriticReviews": 1
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Ice Guardians",
+            "FilmUrl": "https://www.imdb.com/title/tt4431208/?ref_=nm_flmg_slf_19",
+            "Directors": [
+                "Brett Harvey"
+            ],
+            "Writers": [
+                "Scott Dodds",
+                "Brett Harvey"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Chris Chelios",
+                "Brett Hull"
+            ],
+            "Genres": [
+                "Documentary",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Score G Production Films",
+                "Sophia Entertainment",
+                "SuperChannel"
+            ],
+            "PlotKeywords": [
+                "fight"
+            ],
+            "UserReviews": 11,
+            "CriticReviews": 24,
+            "ReleaseDate": "12 September 2016",
+            "Budget": 1000000,
+            "RuntimeMinutes": 108
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Just for Laughs",
+            "FilmUrl": "https://www.imdb.com/title/tt8080004/?ref_=nm_flmg_slf_20",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Debra DiGiovanni",
+                "Lezlie Robinson",
+                "Danny Bhoy"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Juste pour rire TV"
+            ],
+            "PlotKeywords": [
+                "toronto ontario canada",
+                "live performance",
+                "festival",
+                "stand up comedy",
+                "canadian humor"
+            ],
+            "ReleaseDate": "28 September 2009"
+        },
+        {
+            "CharacterName": "Self (voice)",
+            "Year": "2015",
+            "FilmTitle": "Why Your Vote Matters",
+            "FilmUrl": "https://www.imdb.com/title/tt5212548/?ref_=nm_flmg_slf_21",
+            "Directors": [
+                "Amanda Burt"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Canadian Broadcasting Corporation (CBC)"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "19 October 2015",
+            "Budget": 1
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "Swearnet Live",
+            "FilmUrl": "https://www.imdb.com/title/tt3599642/?ref_=nm_flmg_slf_22",
+            "Directors": [
+                "Mike Smith",
+                "John Paul Tremblay"
+            ],
+            "Writers": [
+                "Mike Smith",
+                "John Paul Tremblay"
+            ],
+            "Stars": [
+                "John Paul Tremblay",
+                "Robb Wells",
+                "Mike Smith"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Swearnet"
+            ],
+            "PlotKeywords": [
+                "park"
+            ],
+            "ReleaseDate": "1 October 2014",
+            "RuntimeMinutes": 75
+        },
+        {
+            "CharacterName": "Self - Host",
+            "Year": "2014",
+            "FilmTitle": "Just for Laughs: All-Access",
+            "FilmUrl": "https://www.imdb.com/title/tt3562462/?ref_=nm_flmg_slf_23",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Michael Che",
+                "Debra DiGiovanni",
+                "K. Trevor Wilson"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Just For Laughs Television"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "7 January 2013",
+            "Budget": 1200000
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010-2014",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_24",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kylie Erica Mar",
+                "Julie L. Harkness",
+                "Patrick Stinson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Connection III Entertainment"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "celebrity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "30 September 2005"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2010-2014",
+            "FilmTitle": "The Late Late Show with Craig Ferguson",
+            "FilmUrl": "https://www.imdb.com/title/tt0437729/?ref_=nm_flmg_slf_25",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Craig Ferguson",
+                "Shadoe Stevens",
+                "Josh Robert Thompson"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Worldwide Pants"
+            ],
+            "PlotKeywords": [
+                "robot",
+                "horse costume",
+                "skeleton",
+                "awkward pause",
+                "scotsman abroad"
+            ],
+            "UserReviews": 73,
+            "CriticReviews": 1,
+            "ReleaseDate": "3 January 2005"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2014",
+            "FilmTitle": "Sidewalks Entertainment",
+            "FilmUrl": "https://www.imdb.com/title/tt0094547/?ref_=nm_flmg_slf_26",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Richard R. Lee",
+                "Cindy Rhodes",
+                "Veronica Castro"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Mintrav Entertainment",
+                "Sidewalks Entertainment Inc."
+            ],
+            "PlotKeywords": [
+                "variety show",
+                "non fiction",
+                "sidewalks",
+                "sidewalk",
+                "celebrity"
+            ],
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "In Studio 2",
+            "FilmUrl": "https://www.imdb.com/title/tt3086796/?ref_=nm_flmg_slf_27",
+            "Directors": [
+                "Barry Avrich"
+            ],
+            "Writers": [
+                "Barry Avrich"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Mark McKinney",
+                "Rick Mercer"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Melbar Entertainment Group"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "1 July 2013",
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Katie Chats",
+            "FilmUrl": "https://www.imdb.com/title/tt3262006/?ref_=nm_flmg_slf_28",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Katie Uhlmann",
+                "Peter Keleghan",
+                "Ash Catherwood"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Katie Chats"
+            ],
+            "PlotKeywords": [
+                "woman",
+                "non fiction"
+            ],
+            "ReleaseDate": "12 February 2012"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Stroumboulopoulos",
+            "FilmUrl": "https://www.imdb.com/title/tt2960910/?ref_=nm_flmg_slf_29",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "George Stroumboulopoulos",
+                "Jay Baruchel",
+                "Valerie Bertinelli"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Cable News Network (CNN)"
+            ],
+            "PlotKeywords": [
+                "short lived",
+                "one word title",
+                "interview",
+                "non fiction"
+            ],
+            "ReleaseDate": "9 June 2013",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010-2013",
+            "FilmTitle": "The Hour",
+            "FilmUrl": "https://www.imdb.com/title/tt0456031/?ref_=nm_flmg_slf_30",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "George Stroumboulopoulos",
+                "Ali Hassan",
+                "Naomi Snieckus"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Canadian Broadcasting Corporation (CBC)"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "topical humor",
+                "singer",
+                "pop culture",
+                "politics"
+            ],
+            "UserReviews": 6,
+            "ReleaseDate": "17 January 2005",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "This Hour Has 22 Minutes",
+            "FilmUrl": "https://www.imdb.com/title/tt0163963/?ref_=nm_flmg_slf_31",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Cathy Jones",
+                "Mark Critch",
+                "Shaun Majumder"
+            ],
+            "Genres": [
+                "Comedy",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "22 Minutes XIV",
+                "Alliance Atlantis Communications",
+                "DHX Media"
+            ],
+            "PlotKeywords": [
+                "journalist",
+                "current affairs",
+                "journalism",
+                "broadcasting",
+                "one liner"
+            ],
+            "UserReviews": 27,
+            "CriticReviews": 2
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "Citizens of Cosmopolis",
+            "FilmUrl": "https://www.imdb.com/title/tt2504440/?ref_=nm_flmg_slf_32",
+            "Directors": [
+                "Julie Ng"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Mathieu Amalric",
+                "Jay Baruchel",
+                "Juliette Binoche"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "ReleaseDate": "1 January 2013",
+            "RuntimeMinutes": 110
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2012",
+            "FilmTitle": "Charlie Rose",
+            "FilmUrl": "https://www.imdb.com/title/tt0270116/?ref_=nm_flmg_slf_33",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Charlie Rose",
+                "Mark Halperin",
+                "Al Hunt"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Charlie Rose"
+            ],
+            "PlotKeywords": [
+                "four word title",
+                "performer name in title",
+                "interview",
+                "current events",
+                "non fiction"
+            ],
+            "UserReviews": 12,
+            "ReleaseDate": "30 September 1991",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2008-2012",
+            "FilmTitle": "Up Close with Carrie Keagan",
+            "FilmUrl": "https://www.imdb.com/title/tt1434322/?ref_=nm_flmg_slf_34",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carrie Keagan",
+                "Shark Firestone",
+                "Bradley Cooper"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "No Good Entertainment"
+            ],
+            "PlotKeywords": [
+                "five word title",
+                "name in title",
+                "interview",
+                "performer name in title",
+                "non fiction"
+            ],
+            "ReleaseDate": "21 February 2007"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "The 12th Annual Canadian Comedy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2106676/?ref_=nm_flmg_slf_35",
+            "Directors": [],
+            "Writers": [
+                "Harry Doupe"
+            ],
+            "Stars": [
+                "Steve Patterson",
+                "Lindsay Ames",
+                "Dana Anderson"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Higher Ground Productions Inc."
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show",
+                "number in title"
+            ],
+            "ReleaseDate": "28 November 2011",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Pro-Semitism: Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt2073636/?ref_=nm_flmg_slf_36",
+            "Directors": [
+                "Matt Oates"
+            ],
+            "Writers": [
+                "Elon Gold"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Elon Gold"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Funny or Die"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "30 September 2011"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Long Story Short: CBC Turns 75",
+            "FilmUrl": "https://www.imdb.com/title/tt1935167/?ref_=nm_flmg_slf_37",
+            "Directors": [
+                "Chris Jaymes",
+                "Jesse Shamata"
+            ],
+            "Writers": [
+                "Paul Bates",
+                "Adam Nicholls"
+            ],
+            "Stars": [
+                "Martin Short",
+                "Marty Adams",
+                "Jay Baruchel"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Canadian Broadcasting Corporation (CBC)"
+            ],
+            "PlotKeywords": [
+                "canadian broadcasting corporation",
+                "television",
+                "archive footage",
+                "actor playing multiple roles",
+                "tv special"
+            ],
+            "ReleaseDate": "4 September 2011"
+        },
+        {
+            "CharacterName": "Self - User's Choice Winner &amp; Presenter",
+            "Year": "2011",
+            "FilmTitle": "31st Annual Genie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt1878838/?ref_=nm_flmg_slf_38",
+            "Directors": [
+                "Dave Russell"
+            ],
+            "Writers": [
+                "Adam Nicholls",
+                "Paul Bates"
+            ],
+            "Stars": [
+                "William Shatner",
+                "Lubna Azabal",
+                "Royal Winnipeg Ballet"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Academy of Canadian Cinema and Television"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "ReleaseDate": "10 March 2011",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "How to Train Your Dragon: Viking-Sized Cast",
+            "FilmUrl": "https://www.imdb.com/title/tt7639966/?ref_=nm_flmg_slf_39",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Bonnie Arnold",
+                "Jay Baruchel",
+                "Gerard Butler"
+            ],
+            "Genres": [
+                "Documentary",
+                "Animation",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation"
+            ],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "15 October 2010"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_slf_40",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "M\u00e1rio Augusto",
+                "Paulo Branco",
+                "Nicolau Breyner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "At\u00e9 ao Fim do Mundo"
+            ],
+            "PlotKeywords": [
+                "show",
+                "non fiction"
+            ],
+            "ReleaseDate": "3 March 2010"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2010",
+            "FilmTitle": "Breakfast",
+            "FilmUrl": "https://www.imdb.com/title/tt0262152/?ref_=nm_flmg_slf_41",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Charlie Stayt",
+                "Bill Turnbull",
+                "Carol Kirkwood"
+            ],
+            "Genres": [
+                "Family",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "BBC News"
+            ],
+            "PlotKeywords": [
+                "weather",
+                "one word title",
+                "headline",
+                "weather forecasting",
+                "breakfast tv"
+            ],
+            "UserReviews": 6,
+            "ReleaseDate": "2 October 2000",
+            "RuntimeMinutes": 180
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Mark at the Movies",
+            "FilmUrl": "https://www.imdb.com/title/tt1618221/?ref_=nm_flmg_slf_42",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Rachel Greninger",
+                "Mark S. Allen",
+                "Ashley Williams"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "review",
+                "non fiction"
+            ],
+            "ReleaseDate": "26 September 2009"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_43",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2010",
+            "FilmTitle": "The Tonight Show with Jay Leno",
+            "FilmUrl": "https://www.imdb.com/title/tt0103569/?ref_=nm_flmg_slf_44",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Leno",
+                "Kevin Eubanks",
+                "Edd Hall"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Big Dog Productions",
+                "Nelson Page Entertainment",
+                "Nerd Corps Productions V.1 Inc."
+            ],
+            "PlotKeywords": [
+                "20th century",
+                "21st century",
+                "1990s",
+                "2000s",
+                "2010s"
+            ],
+            "UserReviews": 85,
+            "CriticReviews": 2,
+            "ReleaseDate": "25 May 1992"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "The Rotten Tomatoes Show",
+            "FilmUrl": "https://www.imdb.com/title/tt1400986/?ref_=nm_flmg_slf_45",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Brett Erlich",
+                "Ellen Fox",
+                "Alonso Duralde"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Current TV"
+            ],
+            "PlotKeywords": [
+                "2000s",
+                "2010s",
+                "film review",
+                "film criticism",
+                "criticism"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "5 March 2009",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Star Wars: Adidas Originals - Cantina 2010",
+            "FilmUrl": "https://www.imdb.com/title/tt2086913/?ref_=nm_flmg_slf_46",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Neil Armstrong",
+                "Jay Baruchel",
+                "Franz Beckenbauer"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "commercial"
+            ],
+            "ReleaseDate": "4 June 2010",
+            "RuntimeMinutes": 3
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2010",
+            "FilmTitle": "Xpos\u00e9",
+            "FilmUrl": "https://www.imdb.com/title/tt1016283/?ref_=nm_flmg_slf_47",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Aisling O'Loughlin",
+                "Karen Koster",
+                "Lisa Cannon"
+            ],
+            "Genres": [
+                "Music",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "TV3 Television Network Ireland"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "non fiction"
+            ],
+            "ReleaseDate": "16 April 2007",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008-2010",
+            "FilmTitle": "HBO First Look",
+            "FilmUrl": "https://www.imdb.com/title/tt0318220/?ref_=nm_flmg_slf_48",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hanks",
+                "Sandra Bullock",
+                "Will Smith"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Automat Pictures",
+                "EMC West",
+                "Eminence Front Productions"
+            ],
+            "PlotKeywords": [
+                "behind the scenes",
+                "acronym in title",
+                "hbo",
+                "filmmaking"
+            ],
+            "UserReviews": 2,
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self - Actor / Hiccup",
+            "Year": "2010",
+            "FilmTitle": "Troldspejlet",
+            "FilmUrl": "https://www.imdb.com/title/tt0318251/?ref_=nm_flmg_slf_49",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jakob Stegelmann",
+                "Christopher Hedegaard Andersen",
+                "Jens Olesen"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Danmarks Radio (DR)",
+                "JSF"
+            ],
+            "PlotKeywords": [
+                "graphic novel",
+                "role playing game",
+                "reenactment",
+                "book review",
+                "movie trailer"
+            ],
+            "ReleaseDate": "3 February 1989",
+            "RuntimeMinutes": 25
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2009",
+            "FilmTitle": "4 Fanboys & 1 Fangirl",
+            "FilmUrl": "https://www.imdb.com/title/tt1442192/?ref_=nm_flmg_slf_50",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Kristen Bell",
+                "Dan Fogler"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Trigger Street Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "19 May 2009"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "The Movie Loft",
+            "FilmUrl": "https://www.imdb.com/title/tt1297644/?ref_=nm_flmg_slf_51",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ray Ellin",
+                "Adam Sandler",
+                "Stanley Tucci"
+            ],
+            "Genres": [
+                "Comedy",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Hot Bagels Entertainment",
+                "Laundry Service Media",
+                "Movie Loft Productions"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "non fiction"
+            ],
+            "ReleaseDate": "6 January 2001"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "The Cast of 'Tropic Thunder'",
+            "FilmUrl": "https://www.imdb.com/title/tt5489226/?ref_=nm_flmg_slf_52",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Jack Black",
+                "Steve Coogan"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 November 2008",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "Tropic Thunder: Before the Thunder",
+            "FilmUrl": "https://www.imdb.com/title/tt5489212/?ref_=nm_flmg_slf_53",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Jack Black",
+                "Steve Coogan"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 November 2008",
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2008",
+            "FilmTitle": "Tropic Thunder: The Hot LZ",
+            "FilmUrl": "https://www.imdb.com/title/tt5489232/?ref_=nm_flmg_slf_54",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Jack Black",
+                "Stuart Cornfeld"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 November 2008",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2005",
+            "FilmTitle": "Born to Fight",
+            "FilmUrl": "https://www.imdb.com/title/tt0477581/?ref_=nm_flmg_slf_55",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Clint Eastwood",
+                "Morgan Freeman"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Pond Films",
+                "Warner Bros. Entertainment"
+            ],
+            "PlotKeywords": [
+                "fistfight",
+                "celebrity interview",
+                "celebrity",
+                "interview",
+                "movie star"
+            ],
+            "ReleaseDate": "12 July 2005",
+            "RuntimeMinutes": 19
+        },
+        {
+            "CharacterName": "Jay",
+            "Year": "1997",
+            "FilmTitle": "Popular Mechanics for Kids",
+            "FilmUrl": "https://www.imdb.com/title/tt0126169/?ref_=nm_flmg_slf_56",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Elisha Cuthbert",
+                "Bruce Simpson"
+            ],
+            "Genres": [
+                "Documentary",
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Productions SDA",
+                "Motion International"
+            ],
+            "PlotKeywords": [
+                "science"
+            ],
+            "UserReviews": 4,
+            "CriticReviews": 8,
+            "ReleaseDate": "20 September 1997"
+        },
+        {
+            "CharacterName": "",
+            "Year": "2013",
+            "FilmTitle": "Rush: Clockwork Angels Tour",
+            "FilmUrl": "https://www.imdb.com/title/tt3238448/?ref_=nm_flmg_arf_1",
+            "Directors": [
+                "Dale Heslip"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Jay Baruchel",
+                "Alex Lifeson",
+                "Geddy Lee"
+            ],
+            "Genres": [
+                "Music"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "CriticReviews": 1,
+            "ReleaseDate": "19 November 2013",
+            "RuntimeMinutes": 183
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_arf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kylie Erica Mar",
+                "Julie L. Harkness",
+                "Patrick Stinson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Connection III Entertainment"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "celebrity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "30 September 2005"
+        }
+    ]
+}

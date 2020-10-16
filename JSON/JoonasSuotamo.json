@@ -1,0 +1,739 @@
+{
+    "Rank": 261,
+    "FullName": "Joonas Suotamo",
+    "DomesticBoxOfficeRevenue": 728970054,
+    "AverageDomesticBoxOfficeRevenue": 364485027,
+    "DataSourceUrl": "https://www.imdb.com/find?s=nm&q=Joonas+Suotamo&ref_=nv_sr_sm",
+    "LocalDataSourcePath": "./html/imdb_profiles/JoonasSuotamo.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BN2VkZTFhMmYtNTBjNy00MGUwLWJjYTEtYTBmMTM4YTQwY2E3XkEyXkFqcGdeQXVyNTYyNjYzODU@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "DOB": "1986-10-3",
+    "BornIn": "Espoo, Finland",
+    "Gender": "Male",
+    "Height": 2.12,
+    "AstrologicalSign": "Libra",
+    "Roles": [
+        {
+            "CharacterName": "Chewbacca",
+            "Year": "2019",
+            "FilmTitle": "Star Wars: Episode IX - The Rise of Skywalker",
+            "FilmUrl": "https://www.imdb.com/title/tt2527338/?ref_=nm_flmg_act_1",
+            "Directors": [
+                "J.J. Abrams"
+            ],
+            "Writers": [
+                "Chris Terrio",
+                "J.J. Abrams"
+            ],
+            "Stars": [
+                "Daisy Ridley",
+                "John Boyega",
+                "Oscar Isaac"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Walt Disney Pictures",
+                "Lucasfilm",
+                "Bad Robot"
+            ],
+            "PlotKeywords": [
+                "evil",
+                "disney star wars",
+                "villain not really dead cliche",
+                "return of dead character",
+                "puffy cheeks"
+            ],
+            "Metascore": 53,
+            "UserReviews": 7604,
+            "CriticReviews": 505,
+            "Popularity": 152,
+            "MotionPictureRating": "Rated PG-13 for sci-fi violence and action",
+            "ReleaseDate": "20 December 2019",
+            "Budget": 275000000,
+            "OpeningWeekend": 177383864,
+            "Gross": 515202542,
+            "CumulativeWorldwideGross": 1074144248,
+            "RuntimeMinutes": 141
+        },
+        {
+            "CharacterName": "Chewbacca",
+            "Year": "2019",
+            "FilmTitle": "Millennium Falcon: Smugglers Run",
+            "FilmUrl": "https://www.imdb.com/title/tt10374224/?ref_=nm_flmg_act_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jim Cummings",
+                "Robert Nairne",
+                "Joonas Suotamo"
+            ],
+            "Genres": [
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Hexany Audio",
+                "Walt Disney Imagineering (WDI)"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 2,
+            "ReleaseDate": "31 May 2019"
+        },
+        {
+            "CharacterName": "Chewbacca",
+            "Year": "2018",
+            "FilmTitle": "Solo: A Star Wars Story",
+            "FilmUrl": "https://www.imdb.com/title/tt3778644/?ref_=nm_flmg_act_3",
+            "Directors": [
+                "Ron Howard"
+            ],
+            "Writers": [
+                "Jonathan Kasdan",
+                "Lawrence Kasdan"
+            ],
+            "Stars": [
+                "Alden Ehrenreich",
+                "Woody Harrelson",
+                "Emilia Clarke"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Lucasfilm",
+                "Walt Disney Pictures",
+                "Allison Shearmur Productions"
+            ],
+            "PlotKeywords": [
+                "spin off",
+                "gangster",
+                "gambler",
+                "crime lord",
+                "cleavage"
+            ],
+            "Metascore": 62,
+            "UserReviews": 2496,
+            "CriticReviews": 547,
+            "Popularity": 672,
+            "MotionPictureRating": "Rated PG-13 for sequences of sci-fi action/violence",
+            "ReleaseDate": "25 May 2018",
+            "Budget": 275000000,
+            "OpeningWeekend": 84420489,
+            "Gross": 213767512,
+            "CumulativeWorldwideGross": 392924807,
+            "RuntimeMinutes": 135
+        },
+        {
+            "CharacterName": "Chewbacca",
+            "Year": "2017",
+            "FilmTitle": "Star Wars: Episode VIII - The Last Jedi",
+            "FilmUrl": "https://www.imdb.com/title/tt2527336/?ref_=nm_flmg_act_4",
+            "Directors": [
+                "Rian Johnson"
+            ],
+            "Writers": [
+                "Rian Johnson",
+                "George Lucas"
+            ],
+            "Stars": [
+                "Daisy Ridley",
+                "John Boyega",
+                "Mark Hamill"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Walt Disney Pictures",
+                "Lucasfilm",
+                "Ram Bergman Productions"
+            ],
+            "PlotKeywords": [
+                "wisecrack humor",
+                "one liner",
+                "sabotage",
+                "asiatic",
+                "chubby"
+            ],
+            "Metascore": 84,
+            "UserReviews": 6740,
+            "CriticReviews": 716,
+            "Popularity": 739,
+            "MotionPictureRating": "Rated PG-13 for sequences of sci-fi action and violence.",
+            "ReleaseDate": "15 December 2017",
+            "Budget": 317000000,
+            "OpeningWeekend": 220009584,
+            "Gross": 620181382,
+            "CumulativeWorldwideGross": 1332540187,
+            "RuntimeMinutes": 152
+        },
+        {
+            "CharacterName": "Chewbacca Double",
+            "Year": "2015",
+            "FilmTitle": "Star Wars: Episode VII - The Force Awakens",
+            "FilmUrl": "https://www.imdb.com/title/tt2488496/?ref_=nm_flmg_act_5",
+            "Directors": [
+                "J.J. Abrams"
+            ],
+            "Writers": [
+                "Lawrence Kasdan",
+                "J.J. Abrams"
+            ],
+            "Stars": [
+                "Daisy Ridley",
+                "John Boyega",
+                "Oscar Isaac"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Lucasfilm",
+                "Bad Robot",
+                "Truenorth Productions"
+            ],
+            "PlotKeywords": [
+                "reboot",
+                "sanitation employee",
+                "remake",
+                "wisecrack humor",
+                "sewer cleaner"
+            ],
+            "Metascore": 80,
+            "UserReviews": 4842,
+            "CriticReviews": 907,
+            "Popularity": 820,
+            "MotionPictureRating": "Rated PG-13 for sci-fi action violence",
+            "ReleaseDate": "18 December 2015",
+            "Budget": 245000000,
+            "OpeningWeekend": 247966675,
+            "Gross": 936662225,
+            "CumulativeWorldwideGross": 2068224036,
+            "RuntimeMinutes": 138
+        },
+        {
+            "CharacterName": "",
+            "Year": "2015",
+            "FilmTitle": "Star Wars: Episode VII - The Force Awakens",
+            "FilmUrl": "https://www.imdb.com/title/tt2488496/?ref_=nm_flmg_msc_1",
+            "Directors": [
+                "J.J. Abrams"
+            ],
+            "Writers": [
+                "Lawrence Kasdan",
+                "J.J. Abrams"
+            ],
+            "Stars": [
+                "Daisy Ridley",
+                "John Boyega",
+                "Oscar Isaac"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Lucasfilm",
+                "Bad Robot",
+                "Truenorth Productions"
+            ],
+            "PlotKeywords": [
+                "reboot",
+                "sanitation employee",
+                "remake",
+                "wisecrack humor",
+                "sewer cleaner"
+            ],
+            "Metascore": 80,
+            "UserReviews": 4842,
+            "CriticReviews": 907,
+            "Popularity": 820,
+            "MotionPictureRating": "Rated PG-13 for sci-fi action violence",
+            "ReleaseDate": "18 December 2015",
+            "Budget": 245000000,
+            "OpeningWeekend": 247966675,
+            "Gross": 936662225,
+            "CumulativeWorldwideGross": 2068224036,
+            "RuntimeMinutes": 138
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2020",
+            "FilmTitle": "The Skywalker Legacy",
+            "FilmUrl": "https://www.imdb.com/title/tt11975230/?ref_=nm_flmg_slf_1",
+            "Directors": [
+                "Debs Paterson"
+            ],
+            "Writers": [],
+            "Stars": [
+                "J.J. Abrams",
+                "Naomi Ackie",
+                "John Boyega"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Lucasfilm"
+            ],
+            "PlotKeywords": [
+                "making of",
+                "behind the scenes",
+                "star wars"
+            ],
+            "UserReviews": 3,
+            "ReleaseDate": "13 March 2020",
+            "RuntimeMinutes": 126
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Hollywood Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt8638066/?ref_=nm_flmg_slf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Pritan Ambroase",
+                "Tom Holland",
+                "Margot Robbie"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Hollywood Insider",
+                "Concierge Content"
+            ],
+            "PlotKeywords": [
+                "entertainment",
+                "non fiction"
+            ],
+            "ReleaseDate": "17 May 2018",
+            "Budget": 16000000
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "BuzzFeed Celeb",
+            "FilmUrl": "https://www.imdb.com/title/tt9793886/?ref_=nm_flmg_slf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Nick Jonas",
+                "Sofia Carson",
+                "Seth Rogen"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "19 August 2013"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Live from the Red Carpet of Star Wars: The Rise of Skywalker",
+            "FilmUrl": "https://www.imdb.com/title/tt11464830/?ref_=nm_flmg_slf_4",
+            "Directors": [
+                "Steve Meyer"
+            ],
+            "Writers": [],
+            "Stars": [
+                "J.J. Abrams",
+                "John Boyega",
+                "Madlyn Burkert"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "16 December 2019",
+            "RuntimeMinutes": 126
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "IMDb on the Scene - Interviews",
+            "FilmUrl": "https://www.imdb.com/title/tt8596744/?ref_=nm_flmg_slf_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Bret Federigan",
+                "Alex Logan",
+                "Albert Lawrence"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "IMDb Originals"
+            ],
+            "PlotKeywords": [
+                "cast",
+                "non fiction"
+            ],
+            "Popularity": 726,
+            "ReleaseDate": "3 July 2018"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Red Carpet Report",
+            "FilmUrl": "https://www.imdb.com/title/tt5611414/?ref_=nm_flmg_slf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kristyn Burtt",
+                "JJ Snyder",
+                "Linda Antwi"
+            ],
+            "Genres": [
+                "Short",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Mingle Media TV"
+            ],
+            "PlotKeywords": [
+                "famous",
+                "youtube",
+                "entertainment",
+                "journalism",
+                "lifestyle"
+            ],
+            "ReleaseDate": "26 September 2009"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017-2019",
+            "FilmTitle": "Huomenta Suomi",
+            "FilmUrl": "https://www.imdb.com/title/tt3309322/?ref_=nm_flmg_slf_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ivan Puopolo",
+                "Nina Rahkola",
+                "Joanna Kuvaja"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "1 December 1989"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "#ForceFriday Triple Force Friday Global Reveal",
+            "FilmUrl": "https://www.imdb.com/title/tt11064586/?ref_=nm_flmg_slf_8",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Naomi Ackie",
+                "John Boyega",
+                "Gina Carano"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "26 September 2019"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Solo: Team Chewie",
+            "FilmUrl": "https://www.imdb.com/title/tt9143154/?ref_=nm_flmg_slf_9",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Alden Ehrenreich",
+                "Ron Howard",
+                "Joonas Suotamo"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 September 2018",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Solo: The Director & Cast Roundtable",
+            "FilmUrl": "https://www.imdb.com/title/tt9142222/?ref_=nm_flmg_slf_10",
+            "Directors": [
+                "Ian Bucknole"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Emilia Clarke",
+                "Alden Ehrenreich",
+                "Donald Glover"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 September 2018",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2018",
+            "FilmTitle": "The IMDb Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7549864/?ref_=nm_flmg_slf_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tim Kash",
+                "Kerri Doherty",
+                "Alex Logan"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "IMDb Originals",
+                "IMDb",
+                "INE Entertainment"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "reference to imdb",
+                "entertainment",
+                "discussion",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "CriticReviews": 1,
+            "ReleaseDate": "16 November 2017",
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_12",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dean Richards",
+                "Mike Toomey",
+                "Robin Baumgarten"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "WGN Chicago"
+            ],
+            "PlotKeywords": [
+                "chicago illinois",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "6 September 1994"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Collider Jedi Council",
+            "FilmUrl": "https://www.imdb.com/title/tt5619980/?ref_=nm_flmg_slf_13",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kristian Harloff",
+                "Ken Napzok",
+                "Mark Ellis"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Complex Media",
+                "Collider Entertainment"
+            ],
+            "PlotKeywords": [
+                "reference to star wars",
+                "star wars",
+                "2010s",
+                "reference to collider",
+                "non fiction"
+            ],
+            "ReleaseDate": "12 March 2015"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Aamu-TV",
+            "FilmUrl": "https://www.imdb.com/title/tt0368470/?ref_=nm_flmg_slf_14",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Mika Aaltola",
+                "Nicholas Wancke",
+                "Anna Lehmusvesi"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Yleisradio (YLE)"
+            ],
+            "PlotKeywords": [
+                "morning",
+                "non fiction"
+            ],
+            "ReleaseDate": "3 March 1997"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Puoli seitsem\u00e4n",
+            "FilmUrl": "https://www.imdb.com/title/tt2117503/?ref_=nm_flmg_slf_15",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Mikko Kek\u00e4l\u00e4inen",
+                "Susanna Laine",
+                "Alexandra Kral-Leszczynski"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Yleisradio (YLE)"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "28 October 2009",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "The Oh My Disney Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7954808/?ref_=nm_flmg_slf_16",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Alexys Gabrielle",
+                "Michelle Lema",
+                "Daisy Ridley"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "ReleaseDate": "3 March 2017"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Live from the Red Carpet of Star Wars: The Last Jedi",
+            "FilmUrl": "https://www.imdb.com/title/tt7768586/?ref_=nm_flmg_slf_17",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ram Bergman",
+                "John Boyega",
+                "Anthony Carboni"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Lucasfilm"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "9 December 2017",
+            "RuntimeMinutes": 85
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "The Force Awakens: Crafting Creatures",
+            "FilmUrl": "https://www.imdb.com/title/tt5974804/?ref_=nm_flmg_slf_18",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "J.J. Abrams",
+                "Vanessa Bastyan",
+                "Maria Cork"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "5 April 2016",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Secrets of the Force Awakens: A Cinematic Journey",
+            "FilmUrl": "https://www.imdb.com/title/tt5532610/?ref_=nm_flmg_slf_19",
+            "Directors": [
+                "Laurent Bouzereau"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Mark Hamill",
+                "Carrie Fisher",
+                "Harrison Ford"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "making of",
+                "dvd extra",
+                "star wars"
+            ],
+            "UserReviews": 3,
+            "CriticReviews": 5,
+            "ReleaseDate": "18 April 2016",
+            "RuntimeMinutes": 69
+        }
+    ]
+}

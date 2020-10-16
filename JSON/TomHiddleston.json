@@ -1,0 +1,4930 @@
+{
+    "Rank": 49,
+    "FullName": "Tom Hiddleston",
+    "DomesticBoxOfficeRevenue": 2394719717,
+    "AverageDomesticBoxOfficeRevenue": 199559976,
+    "DataSourceUrl": "https://www.imdb.com/find?s=nm&q=Tom+Hiddleston&ref_=nv_sr_sm",
+    "LocalDataSourcePath": "./html/imdb_profiles/TomHiddleston.html",
+    "PhotoUrl": "https://m.media-amazon.com/images/M/MV5BNWYwODAyZjAtOTQ1My00MDY2LTg0NDQtZGFiMDRiYzY4ZmM2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY317_CR9,0,214,317_AL_.jpg",
+    "DOB": "1981-2-9",
+    "BornIn": "Westminster, London, England, UK",
+    "Gender": "Male",
+    "Height": 1.87,
+    "AstrologicalSign": "Aquarius",
+    "Trademark": "His wide, warm smile",
+    "AwardsWins": 5,
+    "AwardNominations": 33,
+    "Roles": [
+        {
+            "CharacterName": "James Cooper",
+            "Year": "",
+            "FilmTitle": "White Stork",
+            "FilmUrl": "https://www.imdb.com/title/tt11737052/?ref_=nm_flmg_act_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Eleven",
+                "Netflix"
+            ],
+            "PlotKeywords": [
+                "secret"
+            ]
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2021",
+            "FilmTitle": "Loki",
+            "FilmUrl": "https://www.imdb.com/title/tt9140554/?ref_=nm_flmg_act_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sophia Di Martino",
+                "Richard E. Grant",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios"
+            ],
+            "PlotKeywords": [
+                "marvel cinematic universe",
+                "marvel comics",
+                "based on comic",
+                "based on comic book",
+                "spin off"
+            ],
+            "Popularity": 159
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2021",
+            "FilmTitle": "What If...?",
+            "FilmUrl": "https://www.imdb.com/title/tt10168312/?ref_=nm_flmg_act_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jeffrey Wright",
+                "Hayley Atwell",
+                "Josh Brolin"
+            ],
+            "Genres": [
+                "Animation"
+            ],
+            "ProductionCompanies": [
+                "Flying Bark Productions",
+                "Marvel Studios"
+            ],
+            "PlotKeywords": [
+                "marvel comics",
+                "marvel cinematic universe",
+                "superhero"
+            ],
+            "Popularity": 994
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2019",
+            "FilmTitle": "Avengers: Endgame",
+            "FilmUrl": "https://www.imdb.com/title/tt4154796/?ref_=nm_flmg_act_4",
+            "Directors": [
+                "Anthony Russo",
+                "Joe Russo"
+            ],
+            "Writers": [
+                "Christopher Markus",
+                "Stephen McFeely"
+            ],
+            "Stars": [
+                "Robert Downey Jr.",
+                "Chris Evans",
+                "Mark Ruffalo"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios",
+                "Walt Disney Pictures"
+            ],
+            "PlotKeywords": [
+                "time travel",
+                "superhero",
+                "cosmic",
+                "super villain",
+                "marvel cinematic universe"
+            ],
+            "Metascore": 78,
+            "UserReviews": 8900,
+            "CriticReviews": 559,
+            "Popularity": 58,
+            "MotionPictureRating": "Rated PG-13 for sequences of sci-fi violence and action, and some language",
+            "ReleaseDate": "26 April 2019",
+            "Budget": 356000000,
+            "OpeningWeekend": 357115007,
+            "Gross": 858373000,
+            "CumulativeWorldwideGross": 2797800564,
+            "RuntimeMinutes": 181
+        },
+        {
+            "CharacterName": "Tom Hiddleston",
+            "Year": "2018",
+            "FilmTitle": "Leading Lady Parts",
+            "FilmUrl": "https://www.imdb.com/title/tt8743180/?ref_=nm_flmg_act_5",
+            "Directors": [
+                "Jessica Swale"
+            ],
+            "Writers": [
+                "Jessica Swale"
+            ],
+            "Stars": [
+                "Gemma Arterton",
+                "Gemma Chan",
+                "Emilia Clarke"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Popcorn Group",
+                "Rebel Park Productions"
+            ],
+            "PlotKeywords": [
+                "title directed by female"
+            ],
+            "UserReviews": 7,
+            "CriticReviews": 1,
+            "Popularity": 777,
+            "ReleaseDate": "30 July 2018",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2018",
+            "FilmTitle": "Avengers: Infinity War",
+            "FilmUrl": "https://www.imdb.com/title/tt4154756/?ref_=nm_flmg_act_6",
+            "Directors": [
+                "Anthony Russo",
+                "Joe Russo"
+            ],
+            "Writers": [
+                "Christopher Markus",
+                "Stephen McFeely"
+            ],
+            "Stars": [
+                "Robert Downey Jr.",
+                "Chris Hemsworth",
+                "Mark Ruffalo"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios",
+                "Jason Roberts Productions",
+                "South Pictures"
+            ],
+            "PlotKeywords": [
+                "death of recurring character",
+                "superhero",
+                "supervillain",
+                "ensemble cast",
+                "marvel cinematic universe"
+            ],
+            "Metascore": 68,
+            "UserReviews": 4281,
+            "CriticReviews": 611,
+            "Popularity": 222,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of sci-fi violence and action throughout, language and some crude references.",
+            "ReleaseDate": "27 April 2018",
+            "Budget": 321000000,
+            "OpeningWeekend": 257698183,
+            "Gross": 678815482,
+            "CumulativeWorldwideGross": 2048359754,
+            "RuntimeMinutes": 149
+        },
+        {
+            "CharacterName": "Lord Nooth (voice)",
+            "Year": "2018",
+            "FilmTitle": "Early Man",
+            "FilmUrl": "https://www.imdb.com/title/tt4701724/?ref_=nm_flmg_act_7",
+            "Directors": [
+                "Nick Park"
+            ],
+            "Writers": [
+                "Mark Burton",
+                "James Higginson"
+            ],
+            "Stars": [
+                "Eddie Redmayne",
+                "Tom Hiddleston",
+                "Maisie Williams"
+            ],
+            "Genres": [
+                "Animation",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Summit Entertainment",
+                "StudioCanal",
+                "Aardman Animations"
+            ],
+            "PlotKeywords": [
+                "soccer",
+                "claymation",
+                "football",
+                "caveman",
+                "stone age"
+            ],
+            "Metascore": 68,
+            "UserReviews": 121,
+            "CriticReviews": 181,
+            "Popularity": 301,
+            "MotionPictureRating": "Rated PG for rude humor and some action",
+            "ReleaseDate": "16 February 2018",
+            "Budget": 50000000,
+            "OpeningWeekend": 3190525,
+            "Gross": 8267544,
+            "CumulativeWorldwideGross": 54622814,
+            "RuntimeMinutes": 89
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2017",
+            "FilmTitle": "Thor: Ragnarok",
+            "FilmUrl": "https://www.imdb.com/title/tt3501632/?ref_=nm_flmg_act_8",
+            "Directors": [
+                "Taika Waititi"
+            ],
+            "Writers": [
+                "Eric Pearson",
+                "Craig Kyle"
+            ],
+            "Stars": [
+                "Chris Hemsworth",
+                "Tom Hiddleston",
+                "Cate Blanchett"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Walt Disney Pictures",
+                "Marvel Studios",
+                "Government of Australia"
+            ],
+            "PlotKeywords": [
+                "superhero",
+                "marvel comics",
+                "marvel cinematic universe",
+                "female villain",
+                "sequel"
+            ],
+            "Metascore": 74,
+            "UserReviews": 1611,
+            "CriticReviews": 521,
+            "Popularity": 131,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of sci-fi violence and action, and brief suggestive material",
+            "ReleaseDate": "3 November 2017",
+            "Budget": 180000000,
+            "OpeningWeekend": 122744989,
+            "Gross": 315058289,
+            "CumulativeWorldwideGross": 853980491,
+            "RuntimeMinutes": 130
+        },
+        {
+            "CharacterName": "James Conrad",
+            "Year": "2017",
+            "FilmTitle": "Kong: Skull Island",
+            "FilmUrl": "https://www.imdb.com/title/tt3731562/?ref_=nm_flmg_act_9",
+            "Directors": [
+                "Jordan Vogt-Roberts"
+            ],
+            "Writers": [
+                "Dan Gilroy",
+                "Max Borenstein"
+            ],
+            "Stars": [
+                "Tom Hiddleston",
+                "Samuel L. Jackson",
+                "Brie Larson"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Warner Bros.",
+                "Legendary Entertainment",
+                "Tencent Pictures"
+            ],
+            "PlotKeywords": [
+                "giant spider",
+                "monster movie",
+                "giant monster",
+                "monster versus monster",
+                "pointless self sacrifice"
+            ],
+            "Metascore": 62,
+            "UserReviews": 951,
+            "CriticReviews": 588,
+            "Popularity": 211,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of sci-fi violence and action, and for brief strong language.",
+            "ReleaseDate": "10 March 2017",
+            "Budget": 185000000,
+            "OpeningWeekend": 61025472,
+            "Gross": 168052812,
+            "CumulativeWorldwideGross": 566652812,
+            "RuntimeMinutes": 118
+        },
+        {
+            "CharacterName": "Kanjigar",
+            "Year": "2016",
+            "FilmTitle": "Trollhunters: Tales of Arcadia",
+            "FilmUrl": "https://www.imdb.com/title/tt1734135/?ref_=nm_flmg_act_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Charlie Saxton",
+                "Lexi Medrano",
+                "Anton Yelchin"
+            ],
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "DreamWorks Animation Television",
+                "Double Dare You (DDY)",
+                "DreamWorks Animation"
+            ],
+            "PlotKeywords": [
+                "troll",
+                "amulet",
+                "teenage hero",
+                "computer animation",
+                "based on novel"
+            ],
+            "UserReviews": 106,
+            "CriticReviews": 19,
+            "Popularity": 144,
+            "ReleaseDate": "23 December 2016",
+            "RuntimeMinutes": 23
+        },
+        {
+            "CharacterName": "Jonathan Pine",
+            "Year": "2016",
+            "FilmTitle": "The Night Manager",
+            "FilmUrl": "https://www.imdb.com/title/tt1399664/?ref_=nm_flmg_act_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Hugh Laurie",
+                "Tom Hiddleston",
+                "Elizabeth Debicki"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "The Ink Factory",
+                "Demarest Films",
+                "Character 7"
+            ],
+            "PlotKeywords": [
+                "arms dealer",
+                "night manager",
+                "spy",
+                "espionage",
+                "mi6"
+            ],
+            "UserReviews": 172,
+            "CriticReviews": 41,
+            "Popularity": 611,
+            "ReleaseDate": "19 April 2016",
+            "Budget": 30000000,
+            "RuntimeMinutes": 358
+        },
+        {
+            "CharacterName": "Narrator (voice)",
+            "Year": "2015",
+            "FilmTitle": "WillShake",
+            "FilmUrl": "https://www.imdb.com/title/tt3921486/?ref_=nm_flmg_act_12",
+            "Directors": [
+                "Joe Talbot"
+            ],
+            "Writers": [
+                "Sally Rosser"
+            ],
+            "Stars": [
+                "Jonnie Kimmins",
+                "Kian Graham",
+                "Michelle Wieczorek"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Short Form Film Company"
+            ],
+            "PlotKeywords": []
+        },
+        {
+            "CharacterName": "Thomas Sharpe",
+            "Year": "2015",
+            "FilmTitle": "Crimson Peak",
+            "FilmUrl": "https://www.imdb.com/title/tt2554274/?ref_=nm_flmg_act_13",
+            "Directors": [
+                "Guillermo del Toro"
+            ],
+            "Writers": [
+                "Guillermo del Toro",
+                "Matthew Robbins"
+            ],
+            "Stars": [
+                "Mia Wasikowska",
+                "Jessica Chastain",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Horror",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Double Dare You (DDY)",
+                "Legendary Entertainment"
+            ],
+            "PlotKeywords": [
+                "incest",
+                "ghost",
+                "gothic",
+                "loss of mother",
+                "haunted mansion"
+            ],
+            "Metascore": 66,
+            "UserReviews": 449,
+            "CriticReviews": 463,
+            "Popularity": 874,
+            "MotionPictureRating": "Rated R for bloody violence, some sexual content and brief strong language",
+            "ReleaseDate": "16 October 2015",
+            "Budget": 55000000,
+            "OpeningWeekend": 13143310,
+            "Gross": 31090320,
+            "CumulativeWorldwideGross": 74679822,
+            "RuntimeMinutes": 119
+        },
+        {
+            "CharacterName": "Robert Laing",
+            "Year": "2015",
+            "FilmTitle": "High-Rise",
+            "FilmUrl": "https://www.imdb.com/title/tt0462335/?ref_=nm_flmg_act_14",
+            "Directors": [
+                "Ben Wheatley"
+            ],
+            "Writers": [
+                "Amy Jump",
+                "J.G. Ballard"
+            ],
+            "Stars": [
+                "Tom Hiddleston",
+                "Jeremy Irons",
+                "Sienna Miller"
+            ],
+            "Genres": [
+                "Drama",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "HanWay Films",
+                "Film4",
+                "British Film Institute (BFI)"
+            ],
+            "PlotKeywords": [
+                "male full frontal nudity",
+                "sex standing up",
+                "high rise apartment building",
+                "male frontal nudity",
+                "male rear nudity"
+            ],
+            "Metascore": 65,
+            "UserReviews": 189,
+            "CriticReviews": 335,
+            "Popularity": 213,
+            "MotionPictureRating": "Rated R for violence, disturbing images, strong sexual content/graphic nudity, language and some drug use",
+            "ReleaseDate": "28 April 2016",
+            "OpeningWeekend": 79887,
+            "Gross": 346472,
+            "CumulativeWorldwideGross": 4289074,
+            "RuntimeMinutes": 119
+        },
+        {
+            "CharacterName": "Hank Williams",
+            "Year": "2015",
+            "FilmTitle": "I Saw the Light",
+            "FilmUrl": "https://www.imdb.com/title/tt1490785/?ref_=nm_flmg_act_15",
+            "Directors": [
+                "Marc Abraham"
+            ],
+            "Writers": [
+                "Marc Abraham",
+                "Colin Escott"
+            ],
+            "Stars": [
+                "Tom Hiddleston",
+                "Elizabeth Olsen",
+                "Maddie Hasson"
+            ],
+            "Genres": [
+                "Biography",
+                "Drama",
+                "Music",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "BRON Studios",
+                "RatPac Entertainment"
+            ],
+            "PlotKeywords": [
+                "year 1944",
+                "1940s",
+                "hank williams",
+                "reference to hank williams",
+                "singer"
+            ],
+            "Metascore": 47,
+            "UserReviews": 57,
+            "CriticReviews": 96,
+            "MotionPictureRating": "Rated R for some language and brief sexuality/nudity",
+            "ReleaseDate": "1 April 2016",
+            "Budget": 13000000,
+            "OpeningWeekend": 45471,
+            "Gross": 1646788,
+            "CumulativeWorldwideGross": 1767963,
+            "RuntimeMinutes": 123
+        },
+        {
+            "CharacterName": "The Great Escapo",
+            "Year": "2014",
+            "FilmTitle": "Muppets Most Wanted",
+            "FilmUrl": "https://www.imdb.com/title/tt2281587/?ref_=nm_flmg_act_16",
+            "Directors": [
+                "James Bobin"
+            ],
+            "Writers": [
+                "James Bobin",
+                "Nicholas Stoller"
+            ],
+            "Stars": [
+                "Ricky Gervais",
+                "Ty Burrell",
+                "Tina Fey"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Crime",
+                "Family",
+                "Musical",
+                "Mystery"
+            ],
+            "ProductionCompanies": [
+                "Walt Disney Pictures",
+                "Mandeville Films",
+                "Babieka"
+            ],
+            "PlotKeywords": [
+                "prison break",
+                "puppet",
+                "gulag",
+                "europe",
+                "fairy godmother character"
+            ],
+            "Metascore": 61,
+            "UserReviews": 126,
+            "CriticReviews": 282,
+            "MotionPictureRating": "Rated PG for some mild action",
+            "ReleaseDate": "21 March 2014",
+            "Budget": 50000000,
+            "OpeningWeekend": 17005126,
+            "Gross": 51183113,
+            "CumulativeWorldwideGross": 80383113,
+            "RuntimeMinutes": 107
+        },
+        {
+            "CharacterName": "James (voice)",
+            "Year": "2014",
+            "FilmTitle": "The Pirate Fairy",
+            "FilmUrl": "https://www.imdb.com/title/tt2483260/?ref_=nm_flmg_act_17",
+            "Directors": [
+                "Peggy Holmes"
+            ],
+            "Writers": [
+                "Jeffrey M. Howard",
+                "Kate Kondell"
+            ],
+            "Stars": [
+                "Mae Whitman",
+                "Christina Hendricks",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Animation",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Prana Studios",
+                "Disneytoon Studios"
+            ],
+            "PlotKeywords": [
+                "disney animated sequel",
+                "dust",
+                "keeper",
+                "captain",
+                "title directed by female"
+            ],
+            "Metascore": 51,
+            "UserReviews": 28,
+            "CriticReviews": 67,
+            "ReleaseDate": "13 February 2014",
+            "CumulativeWorldwideGross": 63998725,
+            "RuntimeMinutes": 78
+        },
+        {
+            "CharacterName": "",
+            "Year": "2014",
+            "FilmTitle": "Jaguar: Rendezvous",
+            "FilmUrl": "https://www.imdb.com/title/tt3587466/?ref_=nm_flmg_act_18",
+            "Directors": [
+                "Tom Hooper"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Cassandra Bell",
+                "Tom Hiddleston",
+                "Ben Kingsley"
+            ],
+            "Genres": [
+                "Short",
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "Smuggler Films"
+            ],
+            "PlotKeywords": [
+                "commercial"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "2 February 2014",
+            "RuntimeMinutes": 2
+        },
+        {
+            "CharacterName": "Caius Martius Coriolanus",
+            "Year": "2014",
+            "FilmTitle": "Coriolanus",
+            "FilmUrl": "https://www.imdb.com/title/tt3313066/?ref_=nm_flmg_act_19",
+            "Directors": [
+                "Ralph Fiennes"
+            ],
+            "Writers": [
+                "John Logan",
+                "William Shakespeare"
+            ],
+            "Stars": [
+                "Ralph Fiennes",
+                "Gerard Butler",
+                "Brian Cox"
+            ],
+            "Genres": [
+                "Drama",
+                "Thriller",
+                "War"
+            ],
+            "ProductionCompanies": [
+                "Hermetof Pictures",
+                "Piccadilly Pictures",
+                "Icon Entertainment International"
+            ],
+            "PlotKeywords": [
+                "honing a knife",
+                "food shortage",
+                "molotov cocktail",
+                "mockery",
+                "senator"
+            ],
+            "Metascore": 79,
+            "UserReviews": 134,
+            "CriticReviews": 208,
+            "Popularity": 849,
+            "MotionPictureRating": "Rated R for some bloody violence",
+            "ReleaseDate": "20 January 2012",
+            "OpeningWeekend": 61136,
+            "Gross": 757195,
+            "CumulativeWorldwideGross": 2435325,
+            "RuntimeMinutes": 123
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2013",
+            "FilmTitle": "Thor: The Dark World",
+            "FilmUrl": "https://www.imdb.com/title/tt1981115/?ref_=nm_flmg_act_20",
+            "Directors": [
+                "Alan Taylor"
+            ],
+            "Writers": [
+                "Christopher L. Yost",
+                "Christopher Markus"
+            ],
+            "Stars": [
+                "Chris Hemsworth",
+                "Natalie Portman",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Marvel Studios",
+                "Walt Disney Pictures"
+            ],
+            "PlotKeywords": [
+                "open ended",
+                "end of the world",
+                "adopted brother",
+                "funeral",
+                "shapeshifting"
+            ],
+            "Metascore": 54,
+            "UserReviews": 710,
+            "CriticReviews": 525,
+            "Popularity": 798,
+            "MotionPictureRating": "Rated PG-13 for sequences of intense sci-fi action and violence, and some suggestive content",
+            "ReleaseDate": "8 November 2013",
+            "Budget": 170000000,
+            "OpeningWeekend": 85737841,
+            "Gross": 206362140,
+            "CumulativeWorldwideGross": 644783140,
+            "RuntimeMinutes": 112
+        },
+        {
+            "CharacterName": "Male",
+            "Year": "2013/I",
+            "FilmTitle": "Out of Darkness",
+            "FilmUrl": "https://www.imdb.com/title/tt3071046/?ref_=nm_flmg_act_21",
+            "Directors": [
+                "Manjinder Virk"
+            ],
+            "Writers": [
+                "Manjinder Virk"
+            ],
+            "Stars": [
+                "Riz Ahmed",
+                "Asheq Akhtar",
+                "Jimmy Akingbola"
+            ],
+            "Genres": [
+                "Short",
+                "Drama"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "UserReviews": 1,
+            "ReleaseDate": "9 October 2013",
+            "Budget": 2000
+        },
+        {
+            "CharacterName": "Jamie Macmillan",
+            "Year": "2013",
+            "FilmTitle": "Exhibition",
+            "FilmUrl": "https://www.imdb.com/title/tt2436452/?ref_=nm_flmg_act_22",
+            "Directors": [
+                "Joanna Hogg"
+            ],
+            "Writers": [
+                "Joanna Hogg"
+            ],
+            "Stars": [
+                "Viv Albertine",
+                "Liam Gillick",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Wild Horses Film Company",
+                "British Film Institute (BFI)",
+                "BBC Films"
+            ],
+            "PlotKeywords": [
+                "female masturbation",
+                "exhibitionism",
+                "full frontal female nudity",
+                "f rated",
+                "farewell party"
+            ],
+            "Metascore": 72,
+            "UserReviews": 8,
+            "CriticReviews": 44,
+            "ReleaseDate": "25 April 2014",
+            "Gross": 14344,
+            "CumulativeWorldwideGross": 14378,
+            "RuntimeMinutes": 104
+        },
+        {
+            "CharacterName": "Adam",
+            "Year": "2013",
+            "FilmTitle": "Only Lovers Left Alive",
+            "FilmUrl": "https://www.imdb.com/title/tt1714915/?ref_=nm_flmg_act_23",
+            "Directors": [
+                "Jim Jarmusch"
+            ],
+            "Writers": [
+                "Jim Jarmusch",
+                "Marion Bessay"
+            ],
+            "Stars": [
+                "Tilda Swinton",
+                "Tom Hiddleston",
+                "Mia Wasikowska"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Recorded Picture Company (RPC)",
+                "Pandora Filmproduktion",
+                "Snow Wolf Produktion"
+            ],
+            "PlotKeywords": [
+                "vampire",
+                "musician",
+                "tangier morocco",
+                "abandoned city",
+                "detroit michigan"
+            ],
+            "Metascore": 79,
+            "UserReviews": 240,
+            "CriticReviews": 396,
+            "Popularity": 506,
+            "MotionPictureRating": "Rated R for language and brief nudity",
+            "ReleaseDate": "25 December 2013",
+            "Budget": 7000000,
+            "OpeningWeekend": 87989,
+            "Gross": 1879534,
+            "CumulativeWorldwideGross": 7609187,
+            "RuntimeMinutes": 123
+        },
+        {
+            "CharacterName": "Statue Griffin",
+            "Year": "2013",
+            "FilmTitle": "Family Guy",
+            "FilmUrl": "https://www.imdb.com/title/tt0182576/?ref_=nm_flmg_act_24",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Seth MacFarlane",
+                "Alex Borstein",
+                "Seth Green"
+            ],
+            "Genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "20th Century Fox Television",
+                "Fuzzy Door Productions",
+                "Fox Television Animation"
+            ],
+            "PlotKeywords": [
+                "sexual reference",
+                "sexual innuendo",
+                "animal as human",
+                "pedophile",
+                "adult animation"
+            ],
+            "UserReviews": 643,
+            "CriticReviews": 70,
+            "Popularity": 133,
+            "ReleaseDate": "31 January 1999",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Seuss Narrator / Killer Robot #1",
+            "Year": "2012",
+            "FilmTitle": "Robot Chicken",
+            "FilmUrl": "https://www.imdb.com/title/tt0437745/?ref_=nm_flmg_act_25",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Seth Green",
+                "Matthew Senreich",
+                "Breckin Meyer"
+            ],
+            "Genres": [
+                "Animation",
+                "Adventure",
+                "Comedy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Stoopid Buddy Stoodios",
+                "Aardman Animations",
+                "ShadowMachine"
+            ],
+            "PlotKeywords": [
+                "2000s",
+                "2010s",
+                "animal in series title",
+                "bird in series title",
+                "toy"
+            ],
+            "UserReviews": 90,
+            "CriticReviews": 31,
+            "Popularity": 436,
+            "ReleaseDate": "20 February 2005"
+        },
+        {
+            "CharacterName": "Tom",
+            "Year": "2012",
+            "FilmTitle": "Friend Request Pending",
+            "FilmUrl": "https://www.imdb.com/title/tt2069775/?ref_=nm_flmg_act_26",
+            "Directors": [
+                "Chris Foggin"
+            ],
+            "Writers": [
+                "Chris Croucher"
+            ],
+            "Stars": [
+                "Judi Dench",
+                "Penny Ryder",
+                "Philip Jackson"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "EMU Films"
+            ],
+            "PlotKeywords": [
+                "social networking",
+                "dating",
+                "friend request",
+                "senior citizen",
+                "telephone call"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 3,
+            "ReleaseDate": "28 September 2012",
+            "Budget": 5000
+        },
+        {
+            "CharacterName": "Prince Hal / Henry V",
+            "Year": "2012",
+            "FilmTitle": "The Hollow Crown",
+            "FilmUrl": "https://www.imdb.com/title/tt2262456/?ref_=nm_flmg_act_27",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Anton Lesser",
+                "Simon Russell Beale",
+                "Tom Georgeson"
+            ],
+            "Genres": [
+                "Drama",
+                "History"
+            ],
+            "ProductionCompanies": [
+                "Neal Street Productions",
+                "NBC Universal Television",
+                "Thirteen / WNET"
+            ],
+            "PlotKeywords": [
+                "15th century",
+                "english history",
+                "battle for throne",
+                "royalty",
+                "king"
+            ],
+            "UserReviews": 27,
+            "CriticReviews": 14,
+            "Popularity": 542,
+            "ReleaseDate": "20 September 2013",
+            "RuntimeMinutes": 150
+        },
+        {
+            "CharacterName": "Man",
+            "Year": "2012",
+            "FilmTitle": "Out of Time",
+            "FilmUrl": "https://www.imdb.com/title/tt2376736/?ref_=nm_flmg_act_28",
+            "Directors": [
+                "Carl Franklin"
+            ],
+            "Writers": [
+                "David Collard"
+            ],
+            "Stars": [
+                "Denzel Washington",
+                "Sanaa Lathan",
+                "Eva Mendes"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Metro-Goldwyn-Mayer (MGM)",
+                "Original Film",
+                "Monarch Pictures"
+            ],
+            "PlotKeywords": [
+                "florida noir",
+                "cell phone",
+                "woman murders a man",
+                "shooting a woman",
+                "deception"
+            ],
+            "Metascore": 63,
+            "UserReviews": 174,
+            "CriticReviews": 119,
+            "MotionPictureRating": "Rated PG-13 for sexual content, violence and some language.",
+            "ReleaseDate": "3 October 2003",
+            "Budget": 50000000,
+            "OpeningWeekend": 16185316,
+            "Gross": 41088845,
+            "CumulativeWorldwideGross": 55495563,
+            "RuntimeMinutes": 105
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2012",
+            "FilmTitle": "The Avengers",
+            "FilmUrl": "https://www.imdb.com/title/tt0848228/?ref_=nm_flmg_act_29",
+            "Directors": [
+                "Jeremiah S. Chechik"
+            ],
+            "Writers": [
+                "Sydney Newman",
+                "Don MacPherson"
+            ],
+            "Stars": [
+                "Ralph Fiennes",
+                "Uma Thurman",
+                "Sean Connery"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Warner Bros.",
+                "Jerry Weintraub Productions"
+            ],
+            "PlotKeywords": [
+                "good versus evil",
+                "heroine",
+                "evil man",
+                "villain",
+                "avengers"
+            ],
+            "Metascore": 12,
+            "UserReviews": 471,
+            "CriticReviews": 118,
+            "Popularity": 940,
+            "MotionPictureRating": "Rated PG-13 for brief strong language",
+            "ReleaseDate": "14 August 1998",
+            "Budget": 60000000,
+            "OpeningWeekend": 10305957,
+            "Gross": 23384939,
+            "CumulativeWorldwideGross": 23384939,
+            "RuntimeMinutes": 89
+        },
+        {
+            "CharacterName": "Capt. Nicholls",
+            "Year": "2011",
+            "FilmTitle": "War Horse",
+            "FilmUrl": "https://www.imdb.com/title/tt1568911/?ref_=nm_flmg_act_30",
+            "Directors": [
+                "Steven Spielberg"
+            ],
+            "Writers": [
+                "Lee Hall",
+                "Richard Curtis"
+            ],
+            "Stars": [
+                "Jeremy Irvine",
+                "Emily Watson",
+                "David Thewlis"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "History",
+                "War"
+            ],
+            "ProductionCompanies": [
+                "Dreamworks Pictures",
+                "Reliance Entertainment",
+                "Amblin Entertainment"
+            ],
+            "PlotKeywords": [
+                "world war one",
+                "horse riding",
+                "equestrian",
+                "cavalryman",
+                "military uniform"
+            ],
+            "Metascore": 72,
+            "UserReviews": 546,
+            "CriticReviews": 406,
+            "Popularity": 145,
+            "MotionPictureRating": "Rated PG-13 for intense sequences of war violence",
+            "ReleaseDate": "25 December 2011",
+            "Budget": 66000000,
+            "OpeningWeekend": 7515402,
+            "Gross": 79884879,
+            "CumulativeWorldwideGross": 177584879,
+            "RuntimeMinutes": 146
+        },
+        {
+            "CharacterName": "Freddie Page",
+            "Year": "2011",
+            "FilmTitle": "The Deep Blue Sea",
+            "FilmUrl": "https://www.imdb.com/title/tt1700844/?ref_=nm_flmg_act_31",
+            "Directors": [
+                "Terence Davies"
+            ],
+            "Writers": [
+                "Terence Rattigan",
+                "Terence Davies"
+            ],
+            "Stars": [
+                "Rachel Weisz",
+                "Tom Hiddleston",
+                "Ann Mitchell"
+            ],
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Camberwell / Fly Films",
+                "Film4",
+                "UK Film Council"
+            ],
+            "PlotKeywords": [
+                "1950s",
+                "based on play",
+                "marital separation",
+                "extramarital affair",
+                "suicide by gas"
+            ],
+            "Metascore": 82,
+            "UserReviews": 88,
+            "CriticReviews": 189,
+            "MotionPictureRating": "Rated R for a scene of sexuality and nudity",
+            "ReleaseDate": "25 November 2011",
+            "OpeningWeekend": 123841,
+            "Gross": 1126525,
+            "CumulativeWorldwideGross": 3143514,
+            "RuntimeMinutes": 98
+        },
+        {
+            "CharacterName": "F. Scott Fitzgerald",
+            "Year": "2011",
+            "FilmTitle": "Midnight in Paris",
+            "FilmUrl": "https://www.imdb.com/title/tt1605783/?ref_=nm_flmg_act_32",
+            "Directors": [
+                "Woody Allen"
+            ],
+            "Writers": [
+                "Woody Allen"
+            ],
+            "Stars": [
+                "Owen Wilson",
+                "Rachel McAdams",
+                "Kathy Bates"
+            ],
+            "Genres": [
+                "Comedy",
+                "Fantasy",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Mediapro",
+                "Vers\u00e1til Cinema",
+                "Gravier Productions"
+            ],
+            "PlotKeywords": [
+                "time travel romance",
+                "1920s",
+                "nostalgia",
+                "reference to auguste rodin",
+                "art history"
+            ],
+            "Metascore": 81,
+            "UserReviews": 631,
+            "CriticReviews": 529,
+            "Popularity": 243,
+            "MotionPictureRating": "Rated PG-13 for some sexual references and smoking",
+            "ReleaseDate": "10 June 2011",
+            "Budget": 17000000,
+            "OpeningWeekend": 599003,
+            "Gross": 56817045,
+            "CumulativeWorldwideGross": 153959590,
+            "RuntimeMinutes": 96
+        },
+        {
+            "CharacterName": "Loki (voice)",
+            "Year": "2011",
+            "FilmTitle": "Thor: God of Thunder",
+            "FilmUrl": "https://www.imdb.com/title/tt1699199/?ref_=nm_flmg_act_33",
+            "Directors": [
+                "Michael McCormick",
+                "Robert Taylor"
+            ],
+            "Writers": [
+                "Matt Fraction"
+            ],
+            "Stars": [
+                "Chris Hemsworth",
+                "Tom Hiddleston",
+                "Jaimie Alexander"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Liquid Entertainment",
+                "Marvel Entertainment",
+                "Sega"
+            ],
+            "PlotKeywords": [
+                "single player",
+                "nintendo ds",
+                "playstation 3",
+                "nintendo wii",
+                "xbox 360"
+            ],
+            "CriticReviews": 1,
+            "ReleaseDate": "3 May 2011"
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2011",
+            "FilmTitle": "Thor",
+            "FilmUrl": "https://www.imdb.com/title/tt0800369/?ref_=nm_flmg_act_34",
+            "Directors": [
+                "Kenneth Branagh"
+            ],
+            "Writers": [
+                "Ashley Miller",
+                "Zack Stentz"
+            ],
+            "Stars": [
+                "Chris Hemsworth",
+                "Anthony Hopkins",
+                "Natalie Portman"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Paramount Pictures",
+                "Marvel Entertainment",
+                "Marvel Studios"
+            ],
+            "PlotKeywords": [
+                "scientist",
+                "marvel cinematic universe",
+                "nick fury character",
+                "clint barton character",
+                "hawkeye character"
+            ],
+            "Metascore": 57,
+            "UserReviews": 924,
+            "CriticReviews": 564,
+            "Popularity": 449,
+            "MotionPictureRating": "Rated PG-13 for sequences of intense sci-fi action and violence",
+            "ReleaseDate": "6 May 2011",
+            "Budget": 150000000,
+            "OpeningWeekend": 65723338,
+            "Gross": 181030624,
+            "CumulativeWorldwideGross": 449326618,
+            "RuntimeMinutes": 115
+        },
+        {
+            "CharacterName": "Edward",
+            "Year": "2010",
+            "FilmTitle": "Archipelago",
+            "FilmUrl": "https://www.imdb.com/title/tt1527835/?ref_=nm_flmg_act_35",
+            "Directors": [
+                "Joanna Hogg"
+            ],
+            "Writers": [
+                "Joanna Hogg"
+            ],
+            "Stars": [
+                "Tom Hiddleston",
+                "Kate Fahy",
+                "Amy Lloyd"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Wild Horses Film Company"
+            ],
+            "PlotKeywords": [
+                "f rated",
+                "holiday"
+            ],
+            "Metascore": 82,
+            "UserReviews": 44,
+            "CriticReviews": 29,
+            "ReleaseDate": "4 March 2011",
+            "Budget": 500000,
+            "Gross": 7791,
+            "CumulativeWorldwideGross": 499389,
+            "RuntimeMinutes": 114
+        },
+        {
+            "CharacterName": "Magnus Martinsson",
+            "Year": "2008-2010",
+            "FilmTitle": "Wallander",
+            "FilmUrl": "https://www.imdb.com/title/tt1178618/?ref_=nm_flmg_act_36",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kenneth Branagh",
+                "Richard McCabe",
+                "Jeany Spark"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "Zodiak Entertainment",
+                "ARD Degeto Film",
+                "BBC Scotland"
+            ],
+            "PlotKeywords": [
+                "sweden",
+                "running on empty",
+                "alzheimer's disease",
+                "tragic hero",
+                "police station"
+            ],
+            "UserReviews": 79,
+            "CriticReviews": 29,
+            "Popularity": 637,
+            "ReleaseDate": "10 May 2009",
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "William Buxton",
+            "Year": "2009",
+            "FilmTitle": "Cranford",
+            "FilmUrl": "https://www.imdb.com/title/tt0974077/?ref_=nm_flmg_act_37",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Judi Dench",
+                "Julia McKenzie",
+                "Imelda Staunton"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)",
+                "WGBH",
+                "Chestermead"
+            ],
+            "PlotKeywords": [
+                "industrial revolution",
+                "period drama",
+                "gossip",
+                "1840s",
+                "small town"
+            ],
+            "UserReviews": 27,
+            "CriticReviews": 10,
+            "Popularity": 83,
+            "ReleaseDate": "4 May 2008",
+            "RuntimeMinutes": 469
+        },
+        {
+            "CharacterName": "Charles Darwin (voice)",
+            "Year": "2009",
+            "FilmTitle": "Darwin's Secret Notebooks",
+            "FilmUrl": "https://www.imdb.com/title/tt1409748/?ref_=nm_flmg_act_38",
+            "Directors": [
+                "Geoffrey Luck"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Josh Charles",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "National Geographic Television"
+            ],
+            "PlotKeywords": [
+                "reference to charles darwin",
+                "galapagos islands",
+                "travel",
+                "reenactment"
+            ],
+            "ReleaseDate": "10 February 2009",
+            "RuntimeMinutes": 50
+        },
+        {
+            "CharacterName": "Oakley",
+            "Year": "2007",
+            "FilmTitle": "Unrelated",
+            "FilmUrl": "https://www.imdb.com/title/tt1107850/?ref_=nm_flmg_act_39",
+            "Directors": [
+                "Joanna Hogg"
+            ],
+            "Writers": [
+                "Joanna Hogg"
+            ],
+            "Stars": [
+                "Kathryn Worth",
+                "Harry Kershaw",
+                "Emma Hiddleston"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Raw Siena"
+            ],
+            "PlotKeywords": [
+                "female full frontal nudity",
+                "male full frontal nudity",
+                "holiday",
+                "villa",
+                "summer holiday"
+            ],
+            "Metascore": 74,
+            "UserReviews": 19,
+            "CriticReviews": 25,
+            "ReleaseDate": "19 September 2008",
+            "Budget": 150000,
+            "Gross": 4529,
+            "CumulativeWorldwideGross": 158992,
+            "RuntimeMinutes": 100
+        },
+        {
+            "CharacterName": "Bill Hazledine",
+            "Year": "2006-2007",
+            "FilmTitle": "Suburban Shootout",
+            "FilmUrl": "https://www.imdb.com/title/tt0483862/?ref_=nm_flmg_act_40",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Anna Chancellor",
+                "Felicity Montagu",
+                "Amelia Bullmore"
+            ],
+            "Genres": [
+                "Comedy",
+                "Crime"
+            ],
+            "ProductionCompanies": [
+                "Oxygen Media",
+                "Feelgood Fiction"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 10,
+            "CriticReviews": 2,
+            "ReleaseDate": "22 March 2006",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Mr. John Plumptre",
+            "Year": "2007",
+            "FilmTitle": "Miss Austen Regrets",
+            "FilmUrl": "https://www.imdb.com/title/tt1076240/?ref_=nm_flmg_act_41",
+            "Directors": [
+                "Jeremy Lovering"
+            ],
+            "Writers": [
+                "Gwyneth Hughes"
+            ],
+            "Stars": [
+                "Samuel Roukin",
+                "Olivia Williams",
+                "Greta Scacchi"
+            ],
+            "Genres": [
+                "Biography",
+                "Drama",
+                "History",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)",
+                "WGBH"
+            ],
+            "PlotKeywords": [
+                "jane austen character",
+                "empire fashion",
+                "london england",
+                "writer",
+                "sister sister relationship"
+            ],
+            "UserReviews": 18,
+            "CriticReviews": 4,
+            "ReleaseDate": "3 February 2008",
+            "RuntimeMinutes": 90
+        },
+        {
+            "CharacterName": "Chris Vaughan",
+            "Year": "2007",
+            "FilmTitle": "Casualty",
+            "FilmUrl": "https://www.imdb.com/title/tt0096555/?ref_=nm_flmg_act_42",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Derek Thompson",
+                "Tony Marshall",
+                "Suzanne Packer"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "female doctor",
+                "soap opera",
+                "ambulance",
+                "famous opening theme",
+                "paramedic"
+            ],
+            "UserReviews": 22,
+            "CriticReviews": 3,
+            "Popularity": 347,
+            "ReleaseDate": "28 September 1998",
+            "RuntimeMinutes": 50
+        },
+        {
+            "CharacterName": "Capt John 'Jack' Randle",
+            "Year": "2006",
+            "FilmTitle": "Victoria Cross Heroes",
+            "FilmUrl": "https://www.imdb.com/title/tt0918370/?ref_=nm_flmg_act_43",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Prince Charles",
+                "Kenneth Cranham",
+                "Crispin Bonham-Carter"
+            ],
+            "Genres": [
+                "Documentary",
+                "History",
+                "War"
+            ],
+            "ProductionCompanies": [
+                "Empire Media Productions"
+            ],
+            "PlotKeywords": [
+                "reenactment"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "19 November 2006"
+        },
+        {
+            "CharacterName": "Charles Darwin",
+            "Year": "2006",
+            "FilmTitle": "Gal\u00e1pagos",
+            "FilmUrl": "https://www.imdb.com/title/tt0996614/?ref_=nm_flmg_act_44",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tilda Swinton",
+                "Richard Wollocombe",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv mini series",
+                "science",
+                "religion",
+                "religion versus science",
+                "galapagos islands"
+            ],
+            "UserReviews": 3,
+            "CriticReviews": 7,
+            "ReleaseDate": "18 March 2007"
+        },
+        {
+            "CharacterName": "John Hall",
+            "Year": "2005",
+            "FilmTitle": "A Waste of Shame: The Mystery of Shakespeare and His Sonnets",
+            "FilmUrl": "https://www.imdb.com/title/tt0491232/?ref_=nm_flmg_act_45",
+            "Directors": [
+                "John McKay"
+            ],
+            "Writers": [
+                "William Boyd"
+            ],
+            "Stars": [
+                "Rupert Graves",
+                "Tom Sturridge",
+                "Indira Varma"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "sonnet",
+                "male rear nudity",
+                "1600s",
+                "platonic love",
+                "poetry"
+            ],
+            "UserReviews": 5,
+            "CriticReviews": 1,
+            "ReleaseDate": "6 May 2006",
+            "RuntimeMinutes": 85
+        },
+        {
+            "CharacterName": "Randolph Churchill",
+            "Year": "2002",
+            "FilmTitle": "The Gathering Storm",
+            "FilmUrl": "https://www.imdb.com/title/tt0314097/?ref_=nm_flmg_act_46",
+            "Directors": [
+                "Richard Loncraine"
+            ],
+            "Writers": [
+                "Larry Ramin",
+                "Hugh Whitemore"
+            ],
+            "Stars": [
+                "Albert Finney",
+                "Vanessa Redgrave",
+                "Jim Broadbent"
+            ],
+            "Genres": [
+                "Biography",
+                "Drama",
+                "History"
+            ],
+            "ProductionCompanies": [
+                "HBO Films",
+                "BBC Films",
+                "Scott Free Productions"
+            ],
+            "PlotKeywords": [
+                "winston churchill",
+                "1930s",
+                "english politics",
+                "parliament",
+                "politics"
+            ],
+            "UserReviews": 47,
+            "CriticReviews": 17,
+            "ReleaseDate": "27 April 2002",
+            "Budget": 12000000,
+            "RuntimeMinutes": 96
+        },
+        {
+            "CharacterName": "Toby Sherrifmuir",
+            "Year": "2001",
+            "FilmTitle": "Armadillo",
+            "FilmUrl": "https://www.imdb.com/title/tt0295863/?ref_=nm_flmg_act_47",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "James Frain",
+                "Catherine McCormack",
+                "Stephen Rea"
+            ],
+            "Genres": [
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)",
+                "A+E Networks",
+                "Chestermead"
+            ],
+            "PlotKeywords": [
+                "battle"
+            ],
+            "UserReviews": 15,
+            "ReleaseDate": "3 August 2002"
+        },
+        {
+            "CharacterName": "Phone Operator",
+            "Year": "2001",
+            "FilmTitle": "Conspiracy",
+            "FilmUrl": "https://www.imdb.com/title/tt0266425/?ref_=nm_flmg_act_48",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Mark Bazeley",
+                "Aidan Creegan",
+                "Raj Persaud"
+            ],
+            "Genres": [
+                "Documentary",
+                "History"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "conspiracy"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "12 June 2015",
+            "RuntimeMinutes": 45
+        },
+        {
+            "CharacterName": "Lord",
+            "Year": "2001",
+            "FilmTitle": "The Life and Adventures of Nicholas Nickleby",
+            "FilmUrl": "https://www.imdb.com/title/tt0253312/?ref_=nm_flmg_act_49",
+            "Directors": [
+                "Stephen Whittaker"
+            ],
+            "Writers": [
+                "Charles Dickens",
+                "Martyn Hesford"
+            ],
+            "Stars": [
+                "John Dallimore",
+                "James D'Arcy",
+                "Sophia Myles"
+            ],
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "ProductionCompanies": [
+                "Company Television",
+                "Nickleby TV Ltd."
+            ],
+            "PlotKeywords": [
+                "england",
+                "london england",
+                "reference to william shakespeare",
+                "reference to shakespeare's a midsummer night's dream",
+                "schoolmaster"
+            ],
+            "UserReviews": 23,
+            "CriticReviews": 1,
+            "ReleaseDate": "29 January 2002",
+            "RuntimeMinutes": 200
+        },
+        {
+            "CharacterName": "",
+            "Year": "2016",
+            "FilmTitle": "The Night Manager",
+            "FilmUrl": "https://www.imdb.com/title/tt1399664/?ref_=nm_flmg_prd_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Hugh Laurie",
+                "Tom Hiddleston",
+                "Elizabeth Debicki"
+            ],
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "ProductionCompanies": [
+                "The Ink Factory",
+                "Demarest Films",
+                "Character 7"
+            ],
+            "PlotKeywords": [
+                "arms dealer",
+                "night manager",
+                "spy",
+                "espionage",
+                "mi6"
+            ],
+            "UserReviews": 172,
+            "CriticReviews": 41,
+            "Popularity": 611,
+            "ReleaseDate": "19 April 2016",
+            "Budget": 30000000,
+            "RuntimeMinutes": 358
+        },
+        {
+            "CharacterName": "",
+            "Year": "2015",
+            "FilmTitle": "I Saw the Light",
+            "FilmUrl": "https://www.imdb.com/title/tt1490785/?ref_=_1",
+            "Directors": [
+                "Marc Abraham"
+            ],
+            "Writers": [
+                "Marc Abraham",
+                "Colin Escott"
+            ],
+            "Stars": [
+                "Tom Hiddleston",
+                "Elizabeth Olsen",
+                "Maddie Hasson"
+            ],
+            "Genres": [
+                "Biography",
+                "Drama",
+                "Music",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "BRON Studios",
+                "RatPac Entertainment"
+            ],
+            "PlotKeywords": [
+                "year 1944",
+                "1940s",
+                "hank williams",
+                "reference to hank williams",
+                "singer"
+            ],
+            "Metascore": 47,
+            "UserReviews": 57,
+            "CriticReviews": 96,
+            "MotionPictureRating": "Rated R for some language and brief sexuality/nudity",
+            "ReleaseDate": "1 April 2016",
+            "Budget": 13000000,
+            "OpeningWeekend": 45471,
+            "Gross": 1646788,
+            "CumulativeWorldwideGross": 1767963,
+            "RuntimeMinutes": 123
+        },
+        {
+            "CharacterName": "",
+            "Year": "2014",
+            "FilmTitle": "The Pirate Fairy",
+            "FilmUrl": "https://www.imdb.com/title/tt2483260/?ref_=_2",
+            "Directors": [
+                "Peggy Holmes"
+            ],
+            "Writers": [
+                "Jeffrey M. Howard",
+                "Kate Kondell"
+            ],
+            "Stars": [
+                "Mae Whitman",
+                "Christina Hendricks",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Animation",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "ProductionCompanies": [
+                "Prana Studios",
+                "Disneytoon Studios"
+            ],
+            "PlotKeywords": [
+                "disney animated sequel",
+                "dust",
+                "keeper",
+                "captain",
+                "title directed by female"
+            ],
+            "Metascore": 51,
+            "UserReviews": 28,
+            "CriticReviews": 67,
+            "ReleaseDate": "13 February 2014",
+            "CumulativeWorldwideGross": 63998725,
+            "RuntimeMinutes": 78
+        },
+        {
+            "CharacterName": "",
+            "Year": "2014",
+            "FilmTitle": "The Reel Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3763844/?ref_=nm_flmg_tk_1",
+            "Directors": [
+                "Seraphina Gonzalez"
+            ],
+            "Writers": [
+                "Seraphina Gonzalez"
+            ],
+            "Stars": [
+                "Jon S. Baird",
+                "Moira Buffini",
+                "Sandy Foster"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short",
+                "History",
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Toska Productions"
+            ],
+            "PlotKeywords": [
+                "hollywood",
+                "art",
+                "london england",
+                "interview"
+            ],
+            "RuntimeMinutes": 33
+        },
+        {
+            "CharacterName": "",
+            "Year": "2014",
+            "FilmTitle": "Marvel Studios: Assembling a Universe",
+            "FilmUrl": "https://www.imdb.com/title/tt3591568/?ref_=nm_flmg_tk_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Axel Alonso",
+                "Victoria Alonso",
+                "Hayley Atwell"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short",
+                "History"
+            ],
+            "ProductionCompanies": [
+                "ABC Studios",
+                "Disney-ABC Domestic Television",
+                "Disney-ABC Television Group"
+            ],
+            "PlotKeywords": [
+                "behind the scenes",
+                "interview",
+                "s.h.i.e.l.d.",
+                "film series",
+                "marvel comics"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 1,
+            "ReleaseDate": "18 March 2014",
+            "RuntimeMinutes": 43
+        },
+        {
+            "CharacterName": "",
+            "Year": "2014",
+            "FilmTitle": "Paddy",
+            "FilmUrl": "https://www.imdb.com/title/tt2988300/?ref_=nm_flmg_tk_3",
+            "Directors": [
+                "Laurence Spellman",
+                "Immanuel von Bennigsen"
+            ],
+            "Writers": [
+                "Laurence Spellman"
+            ],
+            "Stars": [
+                "Arthur Crossin",
+                "Siobhan Hewlett",
+                "David Caves"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy",
+                "Drama",
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Phoenix Film Productions"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "11 September 2014",
+            "RuntimeMinutes": 16
+        },
+        {
+            "CharacterName": "",
+            "Year": "2012",
+            "FilmTitle": "Whitelands",
+            "FilmUrl": "https://www.imdb.com/title/tt1997603/?ref_=nm_flmg_tk_4",
+            "Directors": [
+                "Immanuel von Bennigsen"
+            ],
+            "Writers": [
+                "Georgie Paget",
+                "Immanuel von Bennigsen"
+            ],
+            "Stars": [
+                "Andrew Buchan",
+                "Romola Garai",
+                "Valerie Hulton"
+            ],
+            "Genres": [
+                "Short",
+                "Drama",
+                "Family",
+                "Romance"
+            ],
+            "ProductionCompanies": [
+                "Phoenix Film Productions"
+            ],
+            "PlotKeywords": [],
+            "UserReviews": 1,
+            "ReleaseDate": "12 July 2012",
+            "RuntimeMinutes": 15
+        },
+        {
+            "CharacterName": "",
+            "Year": "2010",
+            "FilmTitle": "How to Be the Life of a Cocktail Party",
+            "FilmUrl": "https://www.imdb.com/title/tt1677552/?ref_=nm_flmg_tk_5",
+            "Directors": [
+                "Michael Klein"
+            ],
+            "Writers": [
+                "Jasmine Elist"
+            ],
+            "Stars": [
+                "Katey Zouck",
+                "Jasmine Elist",
+                "Molly Cranna"
+            ],
+            "Genres": [
+                "Short",
+                "Comedy"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "RuntimeMinutes": 12
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "",
+            "FilmTitle": "Rock Chanel",
+            "FilmUrl": "https://www.imdb.com/title/tt8354806/?ref_=nm_flmg_slf_1",
+            "Directors": [
+                "Krishnar Lewis"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Bella Hadid",
+                "Tom Hiddleston",
+                "Meghan Trainor"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "Four Forty-Seven Productions",
+                "Krishwerkz Entertainment"
+            ],
+            "PlotKeywords": [
+                "fashion",
+                "chanel"
+            ],
+            "Budget": 728500
+        },
+        {
+            "CharacterName": "Self - Narrator",
+            "Year": "2020",
+            "FilmTitle": "Earth at Night in Color",
+            "FilmUrl": "https://www.imdb.com/title/tt13008036/?ref_=nm_flmg_slf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Offspring Films"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "4 December 2020"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2020",
+            "FilmTitle": "20/20",
+            "FilmUrl": "https://www.imdb.com/title/tt0124932/?ref_=nm_flmg_slf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "David Muir",
+                "Elizabeth Vargas",
+                "Amy Robach"
+            ],
+            "Genres": [
+                "Documentary",
+                "News"
+            ],
+            "ProductionCompanies": [
+                "ABC News"
+            ],
+            "PlotKeywords": [
+                "punctuation in title",
+                "newsmagazine",
+                "reenactment",
+                "number in title"
+            ],
+            "UserReviews": 13,
+            "ReleaseDate": "6 June 1978",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2020",
+            "FilmTitle": "Hollywood Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt8638066/?ref_=nm_flmg_slf_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Pritan Ambroase",
+                "Tom Holland",
+                "Margot Robbie"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Hollywood Insider",
+                "Concierge Content"
+            ],
+            "PlotKeywords": [
+                "entertainment",
+                "non fiction"
+            ],
+            "ReleaseDate": "17 May 2018",
+            "Budget": 16000000
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "Celebrating Marvel's Stan Lee",
+            "FilmUrl": "https://www.imdb.com/title/tt11522586/?ref_=nm_flmg_slf_5",
+            "Directors": [
+                "Lily Olszewski"
+            ],
+            "Writers": [
+                "Daniel Kibblesmith"
+            ],
+            "Stars": [
+                "Sana Amanat",
+                "Saquon Barkley",
+                "Paul Bettany"
+            ],
+            "Genres": [
+                "Documentary",
+                "Biography",
+                "News"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "20 December 2019",
+            "RuntimeMinutes": 42
+        },
+        {
+            "CharacterName": "Self / Self - The Marvel Bunch",
+            "Year": "2018-2019",
+            "FilmTitle": "The Tonight Show Starring Jimmy Fallon",
+            "FilmUrl": "https://www.imdb.com/title/tt3444938/?ref_=nm_flmg_slf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Fallon",
+                "The Roots",
+                "Steve Higgins"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "2010s",
+                "actor name in series title",
+                "six word series title",
+                "woke",
+                "2020s"
+            ],
+            "UserReviews": 84,
+            "CriticReviews": 11,
+            "Popularity": 761,
+            "ReleaseDate": "17 February 2014",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2019",
+            "FilmTitle": "The United Nations Association 2019 Global Citizen Awards & 12th Annual West Coast Global Forum",
+            "FilmUrl": "https://www.imdb.com/title/tt10921886/?ref_=nm_flmg_slf_7",
+            "Directors": [],
+            "Writers": [
+                "Richard Curtis",
+                "Barry Simon"
+            ],
+            "Stars": [
+                "Kate Winslet",
+                "Robert Pattinson",
+                "Matt Damon"
+            ],
+            "Genres": [
+                "Reality-TV"
+            ],
+            "ProductionCompanies": [
+                "KNEKT"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "18 September 2019"
+        },
+        {
+            "CharacterName": "Self - Guest / Self",
+            "Year": "2015-2019",
+            "FilmTitle": "The Late Show with Stephen Colbert",
+            "FilmUrl": "https://www.imdb.com/title/tt3697842/?ref_=nm_flmg_slf_8",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Stephen Colbert",
+                "Jonathan Batiste",
+                "Stay Human"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Spartina Productions",
+                "CBS Television Studios"
+            ],
+            "PlotKeywords": [
+                "six word series title",
+                "actor name in series title",
+                "2020s",
+                "woke",
+                "anti trump media"
+            ],
+            "UserReviews": 97,
+            "CriticReviews": 16,
+            "Popularity": 29,
+            "ReleaseDate": "8 September 2015",
+            "RuntimeMinutes": 41
+        },
+        {
+            "CharacterName": "Self - Spectator",
+            "Year": "2018",
+            "FilmTitle": "Wimbledon",
+            "FilmUrl": "https://www.imdb.com/title/tt3770700/?ref_=nm_flmg_slf_9",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sue Barker",
+                "John McEnroe",
+                "Andy Murray"
+            ],
+            "Genres": [
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "BBC Sport"
+            ],
+            "PlotKeywords": [
+                "wimbledon",
+                "tennis",
+                "ladies doubles tennis",
+                "men's doubles tennis",
+                "playing singles tennis"
+            ],
+            "ReleaseDate": "21 June 1937"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Ben Pao Ba Xiong Di",
+            "FilmUrl": "https://www.imdb.com/title/tt4325992/?ref_=nm_flmg_slf_10",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ryan Zheng",
+                "Chen Li",
+                "Angelababy"
+            ],
+            "Genres": [
+                "Reality-TV"
+            ],
+            "ProductionCompanies": [
+                "Xian Longrui Film And TV Culture Media Co."
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "10 October 2014"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2018",
+            "FilmTitle": "The IMDb Show",
+            "FilmUrl": "https://www.imdb.com/title/tt7549864/?ref_=nm_flmg_slf_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tim Kash",
+                "Kerri Doherty",
+                "Alex Logan"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "IMDb Originals",
+                "IMDb",
+                "INE Entertainment"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "reference to imdb",
+                "entertainment",
+                "discussion",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "CriticReviews": 1,
+            "ReleaseDate": "16 November 2017",
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017-2018",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_slf_12",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Renee Bargh",
+                "Mario Lopez",
+                "Charissa Thompson"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "Tinseltown Entertainment"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "show business",
+                "non fiction"
+            ],
+            "UserReviews": 8,
+            "ReleaseDate": "5 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self / Self - makes a surprise appearance in a King Kong costume / Self - Guest",
+            "Year": "2016-2018",
+            "FilmTitle": "Jimmy Kimmel Live!",
+            "FilmUrl": "https://www.imdb.com/title/tt0320037/?ref_=nm_flmg_slf_13",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jimmy Kimmel",
+                "Cleto and the Cletones",
+                "Cleto Escobedo III"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Jackhole Industries",
+                "12:05 Productions",
+                "ABC Studios"
+            ],
+            "PlotKeywords": [
+                "woke",
+                "actor plays himself",
+                "actor name in series title",
+                "exclamation point in series title",
+                "2000s"
+            ],
+            "UserReviews": 60,
+            "CriticReviews": 2,
+            "Popularity": 326,
+            "ReleaseDate": "26 January 2003",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015-2018",
+            "FilmTitle": "Ok! TV",
+            "FilmUrl": "https://www.imdb.com/title/tt3503424/?ref_=nm_flmg_slf_14",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sonia Isabelle",
+                "Jaymes Vaughan",
+                "Arthur Kade"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Unconventional Partners"
+            ],
+            "PlotKeywords": [
+                "celebrity",
+                "stars",
+                "non fiction"
+            ],
+            "ReleaseDate": "9 September 2013",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013-2018",
+            "FilmTitle": "Good Morning America",
+            "FilmUrl": "https://www.imdb.com/title/tt0072506/?ref_=nm_flmg_slf_15",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lara Spencer",
+                "Ginger Zee",
+                "Robin Roberts"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "American Broadcasting Company (ABC)",
+                "ABC News"
+            ],
+            "PlotKeywords": [
+                "country name in title",
+                "three word title",
+                "interview",
+                "current affairs",
+                "breakfast tv"
+            ],
+            "UserReviews": 19,
+            "Popularity": 935,
+            "ReleaseDate": "6 January 1975",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Getting in Touch with your Inner Thor",
+            "FilmUrl": "https://www.imdb.com/title/tt8512988/?ref_=nm_flmg_slf_16",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Chris Hemsworth",
+                "Tom Hiddleston",
+                "Taika Waititi"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra",
+                "superhero",
+                "marvel comics"
+            ],
+            "ReleaseDate": "6 March 2018",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2018",
+            "FilmTitle": "Thor: Finding Korg",
+            "FilmUrl": "https://www.imdb.com/title/tt8513006/?ref_=nm_flmg_slf_17",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Chris Hemsworth",
+                "Tom Hiddleston",
+                "Taika Waititi"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra",
+                "superhero",
+                "marvel comics"
+            ],
+            "ReleaseDate": "6 March 2018",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Thor Ragnarok Set Visit",
+            "FilmUrl": "https://www.imdb.com/title/tt11122056/?ref_=nm_flmg_slf_18",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Joel Maguire"
+            ],
+            "Genres": [
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Disney Channels Australia"
+            ],
+            "PlotKeywords": [
+                "tv mini series"
+            ],
+            "ReleaseDate": "17 November 2017"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "The British Academy Britannia Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt7595752/?ref_=nm_flmg_slf_19",
+            "Directors": [
+                "Alex Rudzinski"
+            ],
+            "Writers": [
+                "Alex Edelman"
+            ],
+            "Stars": [
+                "James Veitch",
+                "Jackie Chan",
+                "Steve Coogan"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Done and Dusted Productions"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "25 October 2019"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Movie Surfers",
+            "FilmUrl": "https://www.imdb.com/title/tt0295122/?ref_=nm_flmg_slf_20",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Blaine Miller",
+                "Stevanna Jackson",
+                "Gianfranco Terrin"
+            ],
+            "Genres": [
+                "Family",
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Disney Channel",
+                "Evolution Film & Tape",
+                "Imaging InFlight"
+            ],
+            "PlotKeywords": [
+                "disney",
+                "commercial",
+                "teenager",
+                "children",
+                "retroculture"
+            ],
+            "UserReviews": 3,
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "An Evening with George Smiley",
+            "FilmUrl": "https://www.imdb.com/title/tt7363290/?ref_=nm_flmg_slf_21",
+            "Directors": [
+                "John Kirby"
+            ],
+            "Writers": [
+                "John le Carr\u00e9"
+            ],
+            "Stars": [
+                "Hossein Amini",
+                "Simon Russell Beale",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Biography"
+            ],
+            "ProductionCompanies": [
+                "The Ink Factory"
+            ],
+            "PlotKeywords": [
+                "spy novel",
+                "british intelligence",
+                "live performance",
+                "intelligence agent",
+                "spy"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "7 September 2017",
+            "CumulativeWorldwideGross": 21370
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_slf_22",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "A Terrifying Paradise: Creating Skull Island",
+            "FilmUrl": "https://www.imdb.com/title/tt7169420/?ref_=nm_flmg_slf_23",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Brie Larson",
+                "Jordan Vogt-Roberts"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 July 2017",
+            "RuntimeMinutes": 12
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Creating a King: Realizing an Icon",
+            "FilmUrl": "https://www.imdb.com/title/tt7163600/?ref_=nm_flmg_slf_24",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Jason Mitchell",
+                "Jordan Vogt-Roberts"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 July 2017",
+            "RuntimeMinutes": 12
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Creating a King: Summoning a God",
+            "FilmUrl": "https://www.imdb.com/title/tt7163606/?ref_=nm_flmg_slf_25",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Samuel L. Jackson",
+                "Jordan Vogt-Roberts"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 July 2017",
+            "RuntimeMinutes": 13
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "On Location: Vietnam",
+            "FilmUrl": "https://www.imdb.com/title/tt7169388/?ref_=nm_flmg_slf_26",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Brie Larson",
+                "Jordan Vogt-Roberts"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 July 2017",
+            "RuntimeMinutes": 6
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Through the Lens: Brie Larson's Photography",
+            "FilmUrl": "https://www.imdb.com/title/tt7169408/?ref_=nm_flmg_slf_27",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Brie Larson",
+                "Jordan Vogt-Roberts"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 July 2017",
+            "RuntimeMinutes": 2
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Tom Hiddleston: The Intrepid Traveler",
+            "FilmUrl": "https://www.imdb.com/title/tt7169398/?ref_=nm_flmg_slf_28",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Brie Larson"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "18 July 2017",
+            "RuntimeMinutes": 7
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011-2017",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_slf_29",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kylie Erica Mar",
+                "Julie L. Harkness",
+                "Patrick Stinson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Connection III Entertainment"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "celebrity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "30 September 2005"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2017",
+            "FilmTitle": "Lorraine",
+            "FilmUrl": "https://www.imdb.com/title/tt0298674/?ref_=nm_flmg_slf_30",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lorraine Kelly",
+                "Mark Heyes",
+                "Tasmin Lucia-Khan"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "British Sky Broadcasting (BSkyB)",
+                "EMG Management",
+                "GMTV"
+            ],
+            "PlotKeywords": [
+                "daytime television",
+                "presenter name in title",
+                "celebrity",
+                "celebrity interview",
+                "entertainment news"
+            ],
+            "ReleaseDate": "3 September 2001",
+            "RuntimeMinutes": 56
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2017",
+            "FilmTitle": "Live with Kelly and Ryan",
+            "FilmUrl": "https://www.imdb.com/title/tt0096636/?ref_=nm_flmg_slf_31",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kelly Ripa",
+                "Ryan Seacrest",
+                "Michael Strahan"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "WABC",
+                "Buena Vista Television",
+                "Disney-ABC Home Entertainment & Television Distribution"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "actress name in series title",
+                "guest",
+                "interview",
+                "non fiction"
+            ],
+            "UserReviews": 36,
+            "ReleaseDate": "5 September 1988",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2015-2017",
+            "FilmTitle": "Today",
+            "FilmUrl": "https://www.imdb.com/title/tt0044298/?ref_=nm_flmg_slf_32",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Savannah Guthrie",
+                "Hoda Kotb",
+                "Al Roker"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "NBC News"
+            ],
+            "PlotKeywords": [
+                "weather",
+                "one word title",
+                "morning show",
+                "non fiction"
+            ],
+            "UserReviews": 16,
+            "ReleaseDate": "14 January 1952",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2015-2017",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_slf_33",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Graham Norton",
+                "Ricky Gervais",
+                "Judi Dench"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "So Television",
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "four word series title",
+                "opening monologue",
+                "interview",
+                "audience participation"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 1,
+            "Popularity": 305,
+            "ReleaseDate": "22 February 2007",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Year": "2017",
+            "FilmTitle": "74th Golden Globe Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5824900/?ref_=nm_flmg_slf_34",
+            "Directors": [
+                "Louis J. Horvitz"
+            ],
+            "Writers": [
+                "Barry Adelman",
+                "Jonathan Adler"
+            ],
+            "Stars": [
+                "Jimmy Fallon",
+                "Nicole Kidman",
+                "Amy Adams"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Dick Clark Productions",
+                "Hollywood Foreign Press Association (HFPA)"
+            ],
+            "PlotKeywords": [
+                "year 2017",
+                "2010s",
+                "golden globes",
+                "golden globe awards",
+                "awards show"
+            ],
+            "UserReviews": 3,
+            "CriticReviews": 1,
+            "ReleaseDate": "8 January 2017",
+            "RuntimeMinutes": 180
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2016",
+            "FilmTitle": "The Evening Standard Theatre Awards 2016",
+            "FilmUrl": "https://www.imdb.com/title/tt6602682/?ref_=nm_flmg_slf_35",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "David Attenborough",
+                "Orlando Bloom",
+                "Kenneth Branagh"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "CBS"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "ReleaseDate": "14 November 2016"
+        },
+        {
+            "CharacterName": "Self - Nominee &amp; Presenter",
+            "Year": "2016",
+            "FilmTitle": "The 68th Primetime Emmy Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5889946/?ref_=nm_flmg_slf_36",
+            "Directors": [
+                "Glenn Weiss"
+            ],
+            "Writers": [
+                "Jimmy Kimmel",
+                "Molly McNearney"
+            ],
+            "Stars": [
+                "Jimmy Kimmel",
+                "Anthony Anderson",
+                "Tracee Ellis Ross"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Academy of Television Arts and Sciences (ATAS)",
+                "Don Mischer Productions"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "acceptance speech",
+                "nomination",
+                "award"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "18 September 2016",
+            "RuntimeMinutes": 127
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Emmy Quickie",
+            "FilmUrl": "https://www.imdb.com/title/tt10881594/?ref_=nm_flmg_slf_37",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Finn Wittrock",
+                "Tituss Burgess",
+                "Asia Kate Dillon"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "TheWrap"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "5 May 2016",
+            "Budget": 125000
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013-2016",
+            "FilmTitle": "Nerd HQ",
+            "FilmUrl": "https://www.imdb.com/title/tt3109382/?ref_=nm_flmg_slf_38",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Zachary Levi",
+                "Nathan Fillion",
+                "Jared Padalecki"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "non fiction"
+            ]
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "Variety Studio: Actors on Actors",
+            "FilmUrl": "https://www.imdb.com/title/tt4267324/?ref_=nm_flmg_slf_39",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jenelle Riley",
+                "Michael Keaton",
+                "Benicio Del Toro"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Lodger Films",
+                "PBS SoCal"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "21 December 2014"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Year": "2014-2016",
+            "FilmTitle": "Cinema 3",
+            "FilmUrl": "https://www.imdb.com/title/tt0111920/?ref_=nm_flmg_slf_40",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jaume Figueras",
+                "Crisol Tu\u00e0",
+                "Monts Lluss\u00e0"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Televisi\u00f3 de Catalunya (TV3)"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ]
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2016",
+            "FilmTitle": "BAFTA Televsion Awards 2016",
+            "FilmUrl": "https://www.imdb.com/title/tt5704966/?ref_=nm_flmg_slf_41",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Graham Norton",
+                "Ronnie Barker",
+                "Mary Berry"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tribute",
+                "archive footage",
+                "british humour",
+                "observational comedy",
+                "tv special"
+            ],
+            "ReleaseDate": "8 May 2016",
+            "RuntimeMinutes": 120
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2016",
+            "FilmTitle": "The Late Late Show with James Corden",
+            "FilmUrl": "https://www.imdb.com/title/tt4280606/?ref_=nm_flmg_slf_42",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "James Corden",
+                "Reggie Watts",
+                "Louis Waymouth"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Fulwell 73",
+                "CBS Television Studios"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "seven word series title",
+                "woke",
+                "2010s",
+                "2020s"
+            ],
+            "UserReviews": 52,
+            "CriticReviews": 5,
+            "Popularity": 473,
+            "ReleaseDate": "23 March 2015",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2016",
+            "FilmTitle": "Late Night with Seth Meyers",
+            "FilmUrl": "https://www.imdb.com/title/tt3513388/?ref_=nm_flmg_slf_43",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Seth Meyers",
+                "Fred Armisen",
+                "The 8G Band"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Broadway Video",
+                "Universal Television"
+            ],
+            "PlotKeywords": [
+                "live comedy",
+                "five word series title",
+                "performer name in title",
+                "woke",
+                "making fun of the president"
+            ],
+            "UserReviews": 75,
+            "CriticReviews": 16,
+            "Popularity": 762,
+            "ReleaseDate": "24 February 2014",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Kong: Skull Island",
+            "Year": "2016",
+            "FilmTitle": "2016 MTV Movie Awards Pre-Show",
+            "FilmUrl": "https://www.imdb.com/title/tt5642744/?ref_=nm_flmg_slf_44",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Josh Horowitz",
+                "Cara Delevingne",
+                "Luc Besson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "ReleaseDate": "10 April 2016",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2016",
+            "FilmTitle": "The Talk",
+            "FilmUrl": "https://www.imdb.com/title/tt1740718/?ref_=nm_flmg_slf_45",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Sharon Osbourne",
+                "Julie Chen Moonves",
+                "Sheryl Underwood"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "CBS Productions"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "UserReviews": 52,
+            "Popularity": 925,
+            "ReleaseDate": "18 October 2010",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "51st Annual Academy of Country Music Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt5571716/?ref_=nm_flmg_slf_46",
+            "Directors": [
+                "Glenn Weiss"
+            ],
+            "Writers": [
+                "Jon Macks"
+            ],
+            "Stars": [
+                "Luke Bryan",
+                "Dierks Bentley",
+                "Jason Aldean"
+            ],
+            "Genres": [
+                "Music"
+            ],
+            "ProductionCompanies": [
+                "Dick Clark Productions"
+            ],
+            "PlotKeywords": [
+                "tv special",
+                "awards show",
+                "country music"
+            ],
+            "ReleaseDate": "3 April 2016",
+            "RuntimeMinutes": 180
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "WGN Morning News",
+            "FilmUrl": "https://www.imdb.com/title/tt5139360/?ref_=nm_flmg_slf_47",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dean Richards",
+                "Mike Toomey",
+                "Robin Baumgarten"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "WGN Chicago"
+            ],
+            "PlotKeywords": [
+                "chicago illinois",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "6 September 1994"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "Artsnight",
+            "FilmUrl": "https://www.imdb.com/title/tt4544930/?ref_=nm_flmg_slf_48",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Lynn Barber",
+                "Lily Cole",
+                "Armando Iannucci"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "art",
+                "non fiction"
+            ],
+            "ReleaseDate": "6 March 2015"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011-2015",
+            "FilmTitle": "Janela Indiscreta",
+            "FilmUrl": "https://www.imdb.com/title/tt1612376/?ref_=nm_flmg_slf_49",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "M\u00e1rio Augusto",
+                "Paulo Branco",
+                "Nicolau Breyner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "At\u00e9 ao Fim do Mundo"
+            ],
+            "PlotKeywords": [
+                "show",
+                "non fiction"
+            ],
+            "ReleaseDate": "3 March 2010"
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Year": "2015",
+            "FilmTitle": "D\u00edas de cine",
+            "FilmUrl": "https://www.imdb.com/title/tt0390699/?ref_=nm_flmg_slf_50",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Elena S. S\u00e1nchez",
+                "Gerardo S\u00e1nchez",
+                "Antonio Gasset"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Televisi\u00f3n Espa\u00f1ola (TVE)"
+            ],
+            "PlotKeywords": [
+                "cinema",
+                "non fiction"
+            ],
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2015",
+            "FilmTitle": "The Daily Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0115147/?ref_=nm_flmg_slf_51",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jon Stewart",
+                "Trevor Noah",
+                "Stephen Colbert"
+            ],
+            "Genres": [
+                "Comedy",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Ark Angel Entertainment",
+                "Mad Cow Productions",
+                "Comedy Central"
+            ],
+            "PlotKeywords": [
+                "interview",
+                "1990s",
+                "2000s",
+                "2010s",
+                "2020s"
+            ],
+            "UserReviews": 156,
+            "CriticReviews": 44,
+            "Popularity": 451,
+            "ReleaseDate": "22 July 1996",
+            "RuntimeMinutes": 22
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2015",
+            "FilmTitle": "The View",
+            "FilmUrl": "https://www.imdb.com/title/tt0123366/?ref_=nm_flmg_slf_52",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Whoopi Goldberg",
+                "Joy Behar",
+                "Virginia Hamilton"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "American Broadcasting Company (ABC)",
+                "Barwall Productions",
+                "The Walt Disney Company"
+            ],
+            "PlotKeywords": [
+                "1990s",
+                "2000s",
+                "2010s",
+                "2020s",
+                "anti trump media"
+            ],
+            "UserReviews": 264,
+            "CriticReviews": 2,
+            "Popularity": 17,
+            "ReleaseDate": "11 August 1997",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Interviewee",
+            "Year": "2015",
+            "FilmTitle": "Tria33",
+            "FilmUrl": "https://www.imdb.com/title/tt4711266/?ref_=nm_flmg_slf_53",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Txe Arana",
+                "Anna Guitart",
+                "Jaume Figueras"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Benec\u00e9 Produccions",
+                "Costa Est",
+                "Goroka TV"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "25 May 2015"
+        },
+        {
+            "CharacterName": "Narrator (voice)",
+            "Year": "2015",
+            "FilmTitle": "Unity",
+            "FilmUrl": "https://www.imdb.com/title/tt2049636/?ref_=nm_flmg_slf_54",
+            "Directors": [
+                "Shaun Monson"
+            ],
+            "Writers": [
+                "Shaun Monson"
+            ],
+            "Stars": [
+                "Aaron Paul",
+                "Adam Levine",
+                "Adrian Grenier"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Nation Earth"
+            ],
+            "PlotKeywords": [
+                "animal"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 10,
+            "ReleaseDate": "12 August 2015",
+            "RuntimeMinutes": 99
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015",
+            "FilmTitle": "MTV After Hours with Josh Horowitz",
+            "FilmUrl": "https://www.imdb.com/title/tt7914770/?ref_=nm_flmg_slf_55",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Josh Horowitz",
+                "Ben Affleck",
+                "Jack Black"
+            ],
+            "Genres": [
+                "Short",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Music Television (MTV)"
+            ],
+            "PlotKeywords": [
+                "non fiction"
+            ],
+            "ReleaseDate": "9 June 2015"
+        },
+        {
+            "CharacterName": "Self - Presenter",
+            "Year": "2015",
+            "FilmTitle": "The EE British Academy Film Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt4420868/?ref_=nm_flmg_slf_56",
+            "Directors": [
+                "Matthew Amos"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Stephen Fry",
+                "Amy Adams",
+                "Patricia Arquette"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Whizz Kid Entertainment",
+                "British Academy of Film and Television Arts (BAFTA)",
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "awards show",
+                "tv special"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "8 February 2015"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "The Reel Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3763844/?ref_=nm_flmg_slf_57",
+            "Directors": [
+                "Seraphina Gonzalez"
+            ],
+            "Writers": [
+                "Seraphina Gonzalez"
+            ],
+            "Stars": [
+                "Jon S. Baird",
+                "Moira Buffini",
+                "Sandy Foster"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short",
+                "History",
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Toska Productions"
+            ],
+            "PlotKeywords": [
+                "hollywood",
+                "art",
+                "london england",
+                "interview"
+            ],
+            "RuntimeMinutes": 33
+        },
+        {
+            "CharacterName": "Self - Actor &amp; RADA Graduate 2005",
+            "Year": "2014",
+            "FilmTitle": "Richard Attenborough: A Life",
+            "FilmUrl": "https://www.imdb.com/title/tt4020200/?ref_=nm_flmg_slf_58",
+            "Directors": [
+                "David Batty"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Hermione Norris",
+                "Richard Attenborough",
+                "David Attenborough"
+            ],
+            "Genres": [
+                "Biography"
+            ],
+            "ProductionCompanies": [
+                "ITN Productions",
+                "Channel 4 Television Corporation"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "26 August 2014",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "Travelling at Night with Jim Jarmusch",
+            "FilmUrl": "https://www.imdb.com/title/tt3720712/?ref_=nm_flmg_slf_59",
+            "Directors": [
+                "L\u00e9a Rinaldi"
+            ],
+            "Writers": [
+                "L\u00e9a Rinaldi"
+            ],
+            "Stars": [
+                "Tom Hiddleston",
+                "Jim Jarmusch",
+                "Tilda Swinton"
+            ],
+            "Genres": [
+                "Documentary",
+                "Biography"
+            ],
+            "ProductionCompanies": [
+                "Al\u00e9a Films"
+            ],
+            "PlotKeywords": [
+                "director"
+            ],
+            "UserReviews": 1,
+            "CriticReviews": 1,
+            "ReleaseDate": "16 June 2014",
+            "RuntimeMinutes": 50
+        },
+        {
+            "CharacterName": "Self - Nominee",
+            "Year": "2014",
+            "FilmTitle": "The Olivier Awards 2014",
+            "FilmUrl": "https://www.imdb.com/title/tt3721040/?ref_=nm_flmg_slf_60",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Benny Andersson",
+                "Gemma Arterton",
+                "Stephen Ashfield"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special",
+                "awards show"
+            ],
+            "ReleaseDate": "13 April 2014"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "Marvel Studios: Assembling a Universe",
+            "FilmUrl": "https://www.imdb.com/title/tt3591568/?ref_=nm_flmg_slf_61",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Axel Alonso",
+                "Victoria Alonso",
+                "Hayley Atwell"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short",
+                "History"
+            ],
+            "ProductionCompanies": [
+                "ABC Studios",
+                "Disney-ABC Domestic Television",
+                "Disney-ABC Television Group"
+            ],
+            "PlotKeywords": [
+                "behind the scenes",
+                "interview",
+                "s.h.i.e.l.d.",
+                "film series",
+                "marvel comics"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 1,
+            "ReleaseDate": "18 March 2014",
+            "RuntimeMinutes": 43
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2014",
+            "FilmTitle": "Piper's Picks TV",
+            "FilmUrl": "https://www.imdb.com/title/tt1915208/?ref_=nm_flmg_slf_62",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Piper Reese",
+                "Parker Ryan",
+                "Jennette McCurdy"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Piper's Picks"
+            ],
+            "PlotKeywords": [
+                "kids tv show",
+                "actor",
+                "young hollywood",
+                "student reporter",
+                "entertainer"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "2 May 2008",
+            "Budget": 10000
+        },
+        {
+            "CharacterName": "Self - 'Loki'",
+            "Year": "2014",
+            "FilmTitle": "A Brothers' Journey: Thor & Loki",
+            "FilmUrl": "https://www.imdb.com/title/tt5484872/?ref_=nm_flmg_slf_63",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Feige",
+                "Craig Kyle",
+                "Louis D'Esposito"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 February 2014",
+            "RuntimeMinutes": 32
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "Loki: The God of Mischief",
+            "FilmUrl": "https://www.imdb.com/title/tt6749932/?ref_=nm_flmg_slf_64",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Stan Lee",
+                "Alan Taylor"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "25 February 2014",
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2014",
+            "FilmTitle": "WEDU Arts Plus",
+            "FilmUrl": "https://www.imdb.com/title/tt11349646/?ref_=nm_flmg_slf_65",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Dalia Colon",
+                "Gabe Ortiz",
+                "Megan Voeller"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "PBS",
+                "Public Broadcasting Service (PBS)",
+                "WEDU / PBS"
+            ],
+            "PlotKeywords": [
+                "culture"
+            ],
+            "ReleaseDate": "28 February 2013"
+        },
+        {
+            "CharacterName": "Self - Special Guest",
+            "Year": "2014",
+            "FilmTitle": "Top Gear",
+            "FilmUrl": "https://www.imdb.com/title/tt1628033/?ref_=nm_flmg_slf_66",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jeremy Clarkson",
+                "Richard Hammond",
+                "James May"
+            ],
+            "Genres": [
+                "Adventure",
+                "Comedy",
+                "Reality-TV",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "car",
+                "british",
+                "road trip",
+                "challenge",
+                "test drive"
+            ],
+            "UserReviews": 131,
+            "CriticReviews": 27,
+            "Popularity": 551,
+            "ReleaseDate": "20 October 2002",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012-2013",
+            "FilmTitle": "Fant\u00e1stico",
+            "FilmUrl": "https://www.imdb.com/title/tt0381753/?ref_=nm_flmg_slf_67",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Zeca Camargo",
+                "Tadeu Schmidt",
+                "Renata Ceribelli"
+            ],
+            "Genres": [
+                "Crime",
+                "Music",
+                "News",
+                "Reality-TV",
+                "Sport"
+            ],
+            "ProductionCompanies": [
+                "Rede Globo de Televis\u00e3o"
+            ],
+            "PlotKeywords": [
+                "brazilian journalism",
+                "non fiction"
+            ],
+            "ReleaseDate": "5 August 1973"
+        },
+        {
+            "CharacterName": "Self (segment Stars in Cars)",
+            "Year": "2013",
+            "FilmTitle": "Taff",
+            "FilmUrl": "https://www.imdb.com/title/tt0355143/?ref_=nm_flmg_slf_68",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Annemarie Carpendale",
+                "Daniel Aminati",
+                "Nela Panghy-Lee"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "fun",
+                "deutschland",
+                "brd",
+                "pro7",
+                "yellow journalism"
+            ]
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Smosh",
+            "FilmUrl": "https://www.imdb.com/title/tt1500910/?ref_=nm_flmg_slf_69",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ian Hecox",
+                "Anthony Padilla",
+                "Shayne Topp"
+            ],
+            "Genres": [
+                "Comedy",
+                "Family",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Smosh Productions"
+            ],
+            "PlotKeywords": [
+                "over acting",
+                "toilet humor",
+                "surrealism",
+                "comic violence",
+                "absurdism"
+            ],
+            "UserReviews": 12,
+            "Popularity": 88,
+            "ReleaseDate": "19 November 2005"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2013",
+            "FilmTitle": "Chelsea Lately",
+            "FilmUrl": "https://www.imdb.com/title/tt1002838/?ref_=nm_flmg_slf_70",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Chuy Bravo",
+                "Chelsea Handler",
+                "Mike Rock"
+            ],
+            "Genres": [
+                "Comedy",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Borderline Amazing Productions",
+                "E! Entertainment Television"
+            ],
+            "PlotKeywords": [
+                "2000s",
+                "2010s",
+                "21st century",
+                "chelsea handler",
+                "reference to chelsea handler"
+            ],
+            "UserReviews": 13,
+            "CriticReviews": 2
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Thor: The Dark World Special",
+            "FilmUrl": "https://www.imdb.com/title/tt3313706/?ref_=nm_flmg_slf_71",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kat Dennings",
+                "Christopher Eccleston",
+                "Kevin Feige"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "British Sky Broadcasting (BSkyB)"
+            ],
+            "PlotKeywords": [],
+            "Budget": 0,
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Saturday Night Live Korea",
+            "FilmUrl": "https://www.imdb.com/title/tt3294962/?ref_=nm_flmg_slf_72",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jason Nelson",
+                "Carson Allen",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "tvN"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "3 December 2011",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2013",
+            "FilmTitle": "Muse of Fire",
+            "FilmUrl": "https://www.imdb.com/title/tt2395343/?ref_=nm_flmg_slf_73",
+            "Directors": [
+                "Dan Poole",
+                "Giles Terera"
+            ],
+            "Writers": [
+                "Dan Poole",
+                "Giles Terera"
+            ],
+            "Stars": [
+                "Ian McKellen",
+                "Judi Dench",
+                "Mark Rylance"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [
+                "Muse Of Fire Film",
+                "Lion Television",
+                "Timebomb Pictures"
+            ],
+            "PlotKeywords": [
+                "acting",
+                "actor",
+                "london england",
+                "actress",
+                "reference to william shakespeare"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 2,
+            "Budget": 350000,
+            "RuntimeMinutes": 59
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2012-2013",
+            "FilmTitle": "Big Morning Buzz Live",
+            "FilmUrl": "https://www.imdb.com/title/tt1907886/?ref_=nm_flmg_slf_74",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carrie Keagan",
+                "Jason Dundas",
+                "Jim Shearer"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "New Pop Culture Productions"
+            ],
+            "PlotKeywords": [
+                "live",
+                "celebrity",
+                "musical performance",
+                "interview",
+                "guest"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "9 May 2011",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self - Winner",
+            "Year": "2013",
+            "FilmTitle": "2013 MTV Movie Awards",
+            "FilmUrl": "https://www.imdb.com/title/tt2806252/?ref_=nm_flmg_slf_75",
+            "Directors": [
+                "Hamish Hamilton",
+                "Troy Miller"
+            ],
+            "Writers": [
+                "Josh Comers",
+                "Lauren Greenberg"
+            ],
+            "Stars": [
+                "Rebel Wilson",
+                "Utkarsh Ambudkar",
+                "Skylar Astin"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Den of Thieves",
+                "MTV Productions"
+            ],
+            "PlotKeywords": [
+                "tv special"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "14 April 2013",
+            "RuntimeMinutes": 140
+        },
+        {
+            "CharacterName": "Self / Prince Hal",
+            "Year": "2012",
+            "FilmTitle": "The Making of Henry IV Part 1",
+            "FilmUrl": "https://www.imdb.com/title/tt7487492/?ref_=nm_flmg_slf_76",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Simon Russell Beale",
+                "Richard Eyre",
+                "Tom Hiddleston"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "RuntimeMinutes": 12
+        },
+        {
+            "CharacterName": "Self / Prince Hal",
+            "Year": "2012",
+            "FilmTitle": "The Making of Henry IV Part 2",
+            "FilmUrl": "https://www.imdb.com/title/tt7492124/?ref_=nm_flmg_slf_77",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Simon Russell Beale",
+                "Richard Eyre",
+                "Rupert Goold"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "RuntimeMinutes": 14
+        },
+        {
+            "CharacterName": "Self / Henry V",
+            "Year": "2012",
+            "FilmTitle": "The Making of Henry V",
+            "FilmUrl": "https://www.imdb.com/title/tt7494612/?ref_=nm_flmg_slf_78",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Tom Hiddleston",
+                "Paterson Joseph",
+                "Rupert Ryle-Hodges"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "56th BFI London Film Festival",
+            "FilmUrl": "https://www.imdb.com/title/tt2471884/?ref_=nm_flmg_slf_79",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Rowan Athale",
+                "Jacques Audiard",
+                "Helena Bonham Carter"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "tv special",
+                "film festival"
+            ],
+            "ReleaseDate": "10 October 2012"
+        },
+        {
+            "CharacterName": "Self - 'Loki'",
+            "Year": "2012",
+            "FilmTitle": "The Avengers: Assembling the Ultimate Team",
+            "FilmUrl": "https://www.imdb.com/title/tt5180254/?ref_=nm_flmg_slf_80",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Joss Whedon",
+                "Robert Downey Jr.",
+                "Chris Hemsworth"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "ReleaseDate": "25 September 2012",
+            "RuntimeMinutes": 8
+        },
+        {
+            "CharacterName": "Henry V / Self",
+            "Year": "2012",
+            "FilmTitle": "Shakespeare Uncovered",
+            "FilmUrl": "https://www.imdb.com/title/tt2693980/?ref_=nm_flmg_slf_81",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jade Anouka",
+                "Harriet Walter",
+                "Simon Russell Beale"
+            ],
+            "Genres": [
+                "Documentary"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [],
+            "UserReviews": 1,
+            "CriticReviews": 1,
+            "ReleaseDate": "25 January 2012",
+            "RuntimeMinutes": 55
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "The Avengers Assemble Premiere",
+            "FilmUrl": "https://www.imdb.com/title/tt10075836/?ref_=nm_flmg_slf_82",
+            "Directors": [
+                "Steve Bonich"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Robert Downey Jr.",
+                "Chris Evans",
+                "Chris Hemsworth"
+            ],
+            "Genres": [
+                "Action"
+            ],
+            "ProductionCompanies": [
+                "Sassy Films"
+            ],
+            "PlotKeywords": [],
+            "ReleaseDate": "19 April 2012"
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2012",
+            "FilmTitle": "Evening Urgant",
+            "FilmUrl": "https://www.imdb.com/title/tt4264964/?ref_=nm_flmg_slf_83",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Ivan Urgant",
+                "Frukt'Y",
+                "Dmitriy Khrustalyov"
+            ],
+            "Genres": [
+                "Comedy",
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Channel One Russia"
+            ],
+            "PlotKeywords": [
+                "guest",
+                "studio audience",
+                "interview",
+                "celebrity interview",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "16 April 2012",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "Film '72",
+            "FilmUrl": "https://www.imdb.com/title/tt0192897/?ref_=nm_flmg_slf_84",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Barry Norman",
+                "Danny Leigh",
+                "Claudia Winkleman"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "film review",
+                "1970s",
+                "1980s",
+                "1990s",
+                "2000s"
+            ],
+            "UserReviews": 7,
+            "ReleaseDate": "16 November 1971",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "55th BFI London Film Festival",
+            "FilmUrl": "https://www.imdb.com/title/tt2106293/?ref_=nm_flmg_slf_85",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Gillian Anderson",
+                "B\u00e9r\u00e9nice Bejo",
+                "Nick Broomfield"
+            ],
+            "Genres": [],
+            "ProductionCompanies": [
+                "Screensmith"
+            ],
+            "PlotKeywords": [
+                "film festival",
+                "tv special"
+            ],
+            "ReleaseDate": "12 October 2011"
+        },
+        {
+            "CharacterName": "Self - 'Loki'",
+            "Year": "2011",
+            "FilmTitle": "Thor: Assembling the Troupe",
+            "FilmUrl": "https://www.imdb.com/title/tt5484382/?ref_=nm_flmg_slf_86",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kenneth Branagh",
+                "Craig Kyle",
+                "Natalie Portman"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "13 September 2011",
+            "RuntimeMinutes": 5
+        },
+        {
+            "CharacterName": "Self - 'Loki'",
+            "Year": "2011",
+            "FilmTitle": "Thor: From Asgard to Earth",
+            "FilmUrl": "https://www.imdb.com/title/tt5484208/?ref_=nm_flmg_slf_87",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Feige",
+                "Kenneth Branagh",
+                "Craig Kyle"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "ReleaseDate": "13 September 2011",
+            "RuntimeMinutes": 20
+        },
+        {
+            "CharacterName": "Self - 'Loki'",
+            "Year": "2011",
+            "FilmTitle": "Thor: Our Fearless Leader",
+            "FilmUrl": "https://www.imdb.com/title/tt5484228/?ref_=nm_flmg_slf_88",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Anthony Hopkins",
+                "Chris Hemsworth",
+                "Natalie Portman"
+            ],
+            "Genres": [
+                "Short"
+            ],
+            "ProductionCompanies": [],
+            "PlotKeywords": [
+                "superhero",
+                "dvd extra"
+            ],
+            "ReleaseDate": "13 September 2011",
+            "RuntimeMinutes": 3
+        },
+        {
+            "CharacterName": "Self - Guest",
+            "Year": "2011",
+            "FilmTitle": "Up Close with Carrie Keagan",
+            "FilmUrl": "https://www.imdb.com/title/tt1434322/?ref_=nm_flmg_slf_89",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Carrie Keagan",
+                "Shark Firestone",
+                "Bradley Cooper"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "No Good Entertainment"
+            ],
+            "PlotKeywords": [
+                "five word title",
+                "name in title",
+                "interview",
+                "performer name in title",
+                "non fiction"
+            ],
+            "ReleaseDate": "21 February 2007"
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2011",
+            "FilmTitle": "The Big Picture",
+            "FilmUrl": "https://www.imdb.com/title/tt1908337/?ref_=nm_flmg_slf_90",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Johnny Fleming",
+                "Charlotte Mills",
+                "Simon Thompson"
+            ],
+            "Genres": [
+                "Family"
+            ],
+            "ProductionCompanies": [
+                "Digital Media Services (DMS)"
+            ],
+            "PlotKeywords": [
+                "picture",
+                "moviestar",
+                "star",
+                "moviemento",
+                "fun"
+            ],
+            "ReleaseDate": "1 February 2011",
+            "RuntimeMinutes": 10
+        },
+        {
+            "CharacterName": "Self - Actor / Loki",
+            "Year": "2011",
+            "FilmTitle": "Troldspejlet",
+            "FilmUrl": "https://www.imdb.com/title/tt0318251/?ref_=nm_flmg_slf_91",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Jakob Stegelmann",
+                "Christopher Hedegaard Andersen",
+                "Jens Olesen"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Danmarks Radio (DR)",
+                "JSF"
+            ],
+            "PlotKeywords": [
+                "graphic novel",
+                "role playing game",
+                "reenactment",
+                "book review",
+                "movie trailer"
+            ],
+            "ReleaseDate": "3 February 1989",
+            "RuntimeMinutes": 25
+        },
+        {
+            "CharacterName": "Self / William Buxton",
+            "Year": "2009",
+            "FilmTitle": "Cranford in Detail",
+            "FilmUrl": "https://www.imdb.com/title/tt4583362/?ref_=nm_flmg_slf_92",
+            "Directors": [
+                "Sven Arnstein"
+            ],
+            "Writers": [],
+            "Stars": [
+                "Jim Carter",
+                "Julia McKenzie",
+                "Judi Dench"
+            ],
+            "Genres": [
+                "Documentary",
+                "Short"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)",
+                "Chestermead",
+                "WGBH"
+            ],
+            "PlotKeywords": [
+                "dvd extra"
+            ],
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017-2019",
+            "FilmTitle": "Good Morning Britain",
+            "FilmUrl": "https://www.imdb.com/title/tt3644198/?ref_=nm_flmg_arf_1",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Andi Peters",
+                "Lorraine Kelly",
+                "Susanna Reid"
+            ],
+            "Genres": [
+                "News",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "ITV Studios"
+            ],
+            "PlotKeywords": [
+                "celebrity guest",
+                "morning",
+                "breakfast tv",
+                "non fiction",
+                "mainstream media"
+            ],
+            "UserReviews": 7,
+            "ReleaseDate": "28 April 2014",
+            "RuntimeMinutes": 150
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2015-2017",
+            "FilmTitle": "Entertainment Tonight",
+            "FilmUrl": "https://www.imdb.com/title/tt0081857/?ref_=nm_flmg_arf_2",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kevin Frazier",
+                "Nancy O'Dell",
+                "Nischelle Turner"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "CBS Paramount Domestic Television",
+                "Paramount Domestic Television",
+                "Cox Broadcasting"
+            ],
+            "PlotKeywords": [
+                "two word title",
+                "music industry",
+                "film industry",
+                "promotional",
+                "interview"
+            ],
+            "UserReviews": 23,
+            "Popularity": 58,
+            "ReleaseDate": "14 September 1981",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016-2017",
+            "FilmTitle": "Extra with Billy Bush",
+            "FilmUrl": "https://www.imdb.com/title/tt0247094/?ref_=nm_flmg_arf_3",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Renee Bargh",
+                "Mario Lopez",
+                "Charissa Thompson"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Time Telepictures Television",
+                "Tinseltown Entertainment"
+            ],
+            "PlotKeywords": [
+                "one word title",
+                "show business",
+                "non fiction"
+            ],
+            "UserReviews": 8,
+            "ReleaseDate": "5 September 1994",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Rotten Tomatoes",
+            "FilmUrl": "https://www.imdb.com/title/tt5368216/?ref_=nm_flmg_arf_4",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Grae Drake",
+                "Mark Ellis",
+                "Maude Garrett"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Rotten Tomatoes"
+            ],
+            "PlotKeywords": [
+                "actor",
+                "non fiction"
+            ],
+            "UserReviews": 2,
+            "ReleaseDate": "30 August 2012",
+            "RuntimeMinutes": 2
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "Access Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0167515/?ref_=nm_flmg_arf_5",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Billy Bush",
+                "Kit Hoover",
+                "Natalie Morales"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "KNBC",
+                "National Broadcasting Company (NBC)"
+            ],
+            "PlotKeywords": [
+                "gossip",
+                "show business",
+                "film industry",
+                "non fiction"
+            ],
+            "UserReviews": 11,
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2017",
+            "FilmTitle": "The Graham Norton Show",
+            "FilmUrl": "https://www.imdb.com/title/tt0924651/?ref_=nm_flmg_arf_6",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Graham Norton",
+                "Ricky Gervais",
+                "Judi Dench"
+            ],
+            "Genres": [
+                "Comedy",
+                "Music",
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "So Television",
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "actor name in series title",
+                "four word series title",
+                "opening monologue",
+                "interview",
+                "audience participation"
+            ],
+            "UserReviews": 12,
+            "CriticReviews": 1,
+            "Popularity": 305,
+            "ReleaseDate": "22 February 2007",
+            "RuntimeMinutes": 60
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2016",
+            "FilmTitle": "The Insider",
+            "FilmUrl": "https://www.imdb.com/title/tt0430836/?ref_=nm_flmg_arf_7",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Keltie Knight",
+                "Michael Yo",
+                "Louis Aguirre"
+            ],
+            "Genres": [
+                "News"
+            ],
+            "ProductionCompanies": [
+                "Paramount Network Television",
+                "CBS Paramount Network Television"
+            ],
+            "PlotKeywords": [
+                "scandal",
+                "infotainment",
+                "gossip",
+                "celebrity",
+                "celebrity scandal"
+            ],
+            "UserReviews": 7,
+            "ReleaseDate": "13 September 2004",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Jonathan Pine - The Night Manager",
+            "Year": "2016",
+            "FilmTitle": "Too Much TV",
+            "FilmUrl": "https://www.imdb.com/title/tt5532338/?ref_=nm_flmg_arf_8",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Aled Jones",
+                "Emma Bunton",
+                "Sara Cox"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "British Broadcasting Corporation (BBC)"
+            ],
+            "PlotKeywords": [
+                "tv guide",
+                "tv show theme song",
+                "television remote control",
+                "television ratings",
+                "television show clip"
+            ],
+            "ReleaseDate": "29 February 2016",
+            "RuntimeMinutes": 30
+        },
+        {
+            "CharacterName": "Loki",
+            "Year": "2016",
+            "FilmTitle": "Lego Marvel's Avengers",
+            "FilmUrl": "https://www.imdb.com/title/tt4776398/?ref_=nm_flmg_arf_9",
+            "Directors": [
+                "Arthur Parsons"
+            ],
+            "Writers": [
+                "Joe Moore",
+                "Dewi Roberts"
+            ],
+            "Stars": [
+                "Charlie Adler",
+                "Hayley Atwell",
+                "Laura Bailey"
+            ],
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "ProductionCompanies": [
+                "Traveller's Tales"
+            ],
+            "PlotKeywords": [
+                "lego",
+                "marvel comics",
+                "avengers",
+                "superhero",
+                "superheroine"
+            ],
+            "UserReviews": 2,
+            "CriticReviews": 3,
+            "ReleaseDate": "26 January 2016"
+        },
+        {
+            "CharacterName": "Tom",
+            "Year": "2012",
+            "FilmTitle": "Stars in Shorts",
+            "FilmUrl": "https://www.imdb.com/title/tt2644980/?ref_=nm_flmg_arf_10",
+            "Directors": [
+                "Jacob Chase",
+                "Robert Festinger"
+            ],
+            "Writers": [
+                "Travis Crim",
+                "Chris Croucher"
+            ],
+            "Stars": [
+                "Lily Tomlin",
+                "Jesse Tyler Ferguson",
+                "Lucy Punch"
+            ],
+            "Genres": [
+                "Comedy"
+            ],
+            "ProductionCompanies": [
+                "Biscuit Pictures",
+                "Mission Filmworks",
+                "Contemptible Entertainment"
+            ],
+            "PlotKeywords": [],
+            "Metascore": 49,
+            "CriticReviews": 10,
+            "ReleaseDate": "28 September 2012",
+            "RuntimeMinutes": 108
+        },
+        {
+            "CharacterName": "Self",
+            "Year": "2012",
+            "FilmTitle": "Made in Hollywood",
+            "FilmUrl": "https://www.imdb.com/title/tt0911896/?ref_=nm_flmg_arf_11",
+            "Directors": [],
+            "Writers": [],
+            "Stars": [
+                "Kylie Erica Mar",
+                "Julie L. Harkness",
+                "Patrick Stinson"
+            ],
+            "Genres": [
+                "Talk-Show"
+            ],
+            "ProductionCompanies": [
+                "Connection III Entertainment"
+            ],
+            "PlotKeywords": [
+                "three word title",
+                "guest",
+                "celebrity"
+            ],
+            "UserReviews": 1,
+            "ReleaseDate": "30 September 2005"
+        }
+    ]
+}

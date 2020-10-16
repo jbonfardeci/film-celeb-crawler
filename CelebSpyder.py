@@ -356,12 +356,12 @@ class CelebSpyder():
                 # Directors
                 if h4 and re.search(r'^Director', h4.text):
                     for director in item.select("a"):
-                        if director.text not in role.Directors:
+                        if director.text not in role.Directors and not re.search(r'^\d+\smore', director.text):
                             role.Directors.append(director.text)
                 # Writers
                 elif h4 and re.search(r'^Writer', h4.text):
                     for writer in item.select("a"):
-                        if writer.text not in role.Writers:
+                        if writer.text not in role.Writers and not re.search(r'^\d+\smore', writer.text):
                             role.Writers.append(writer.text)
                 # Stars
                 elif h4 and re.search(r'^Star', h4.text):
@@ -459,7 +459,7 @@ class CelebSpyder():
 # Get first 5 pages of celebrities
 if __name__ == '__main__':
     start_url="https://www.the-numbers.com/box-office-star-records/domestic/lifetime-acting/top-grossing-leading-stars"
-    for page_num in range(0, 5):
+    for page_num in range(0, 2):
         url = start_url if page_num < 1 else str.format('{0}/{1}01', start_url, page_num)
         print(url)
         spyder = CelebSpyder(celeb_list_url=url, page_num=page_num, debug=True)
