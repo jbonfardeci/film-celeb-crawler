@@ -30,7 +30,6 @@ class CelebSpyder():
         """
         Get list of celebrity objects.
         @param num_processes (int) the number of processors to use. If '0', uses all available CPUs.
-        @return List[Celeb]
         """
 
         self.__log('Getting celebrity profiles...')
@@ -56,8 +55,8 @@ class CelebSpyder():
         if num_processes == 0:
             num_processes = multiprocessing.cpu_count()
 
-        list_len = len(celeb_list)
-        n = 25
+        list_len = len(celeb_list) # =100
+        n = list_len//num_processes # =25
         chunks = [celeb_list[i:i + n] for i in range(0, list_len, n)]
         procs = [] 
         for chunk in chunks:
