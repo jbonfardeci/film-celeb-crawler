@@ -94,6 +94,9 @@ class CelebSpyder():
         @returns output_path (str)
         """
         try:
+            dirs = os.path.dirname(output_path)
+            if not os.path.exists(dirs):
+                os.makedirs(dirs, exist_ok=True)
             with open(output_path, 'w', encoding='utf8') as output:
                 output.write(contents)
                 output.close()
@@ -102,15 +105,22 @@ class CelebSpyder():
         except Exception as e:
             raise e
     
-    def __get_html(self, url: str) -> str:
+    def __get_html(self, url: str, host_name: str=None) -> str:
         """
         Gets the raw HTML from a web page URL.
         @param url (str)
         @returns html (str)
         """
+        headers = {
+            'User-Agent': 'RIVA Solutions, Inc.',
+            'Accept-Encoding': 'gzip, deflate'
+        }
+        
+        if host_name is not None:
+            headers['Host'] = host_name
         try:
             http: PoolManager = urllib.PoolManager()
-            res: HTTPResponse = http.request('GET', url)
+            res: HTTPResponse = http.request('GET', url, headers=headers)
             html = res.data.decode('utf-8')
             return html
         except Exception as e:
@@ -172,9 +182,9 @@ class CelebSpyder():
         """
 
         filename = str.format('./JSON/{0}.json', re.sub(r'[^a-zA-Z]', '', celeb.FullName))
-
-        if os.path.exists(filename):
-            return celeb
+        dirs = os.path.dirname(filename)
+        if not os.path.exists(dirs):
+            os.makedirs(dirs)
 
         def _export_json(celeb_obj: Celeb):
             # Export to JSON
@@ -199,28 +209,24 @@ class CelebSpyder():
         """
         celeb_name_clean: str = re.sub(r'\W', '', celeb.FullName)
         output_path: str = str.format("./html/imdb_profiles/{0}.html", celeb_name_clean)
+        celeb.LocalDataSourcePath = output_path
+        dirs = os.path.dirname(output_path)
+        if not os.path.exists(dirs):
+            os.makedirs(dirs, exist_ok=True)
 
-        if not os.path.exists(output_path):
-            self.__log(str.format('Downloading HTML from IMDB for {0}...', celeb.FullName))
-            imdb_base_url: str = self._imdb_url
-            celeb_name_param: str = re.sub(r'\s', '+', celeb.FullName)
-            imdb_search_url = str.format("{0}/find?s=nm&q={1}&ref_=nv_sr_sm", imdb_base_url, celeb_name_param)
-            celeb.DataSourceUrl = imdb_search_url
-            search_results_html: str = self.__get_html(imdb_search_url)
-            soup = BeautifulSoup(search_results_html, 'html.parser')
-            celeb_url_list: List[Tag] = soup.select("div#main table.findList > tr.findResult:first-child > td.result_text > a:first-child")
-            if len(celeb_url_list) > 0:
-                celeb_url = str.format("{0}{1}", imdb_base_url, celeb_url_list[0]['href'])
-                celeb_profile_html: str = self.__get_html(celeb_url)
-                self.__save_file(celeb_profile_html, output_path)
-                self.__log(str.format('IMDB HTML retreived for {0}.', celeb.FullName))
-            else:
-                self.__log(str.format('Could not retreive IMDB HTML for {0}.', celeb.FullName))
-        else:
-            self.__log(str.format('IMDB HTML already exists for {0}.', celeb.FullName)) 
-                
-        self.__log(str.format('Retrieved IMDB HTML for {0} at {1}.', celeb.FullName, output_path))  
-        celeb.LocalDataSourcePath = output_path    
+        self.__log(str.format('Downloading HTML from IMDB for {0}...', celeb.FullName))
+        imdb_base_url: str = self._imdb_url
+        celeb_name_param: str = re.sub(r'\s', '+', celeb.FullName)
+        imdb_search_url = str.format("{0}/find?s=nm&q={1}&ref_=nv_sr_sm", imdb_base_url, celeb_name_param)
+        celeb.DataSourceUrl = imdb_search_url
+        search_results_html: str = self.__get_html(imdb_search_url)
+        soup = BeautifulSoup(search_results_html, 'html.parser')
+        celeb_url_el: List[Tag] = soup.select_one("section[data-testid='find-results-section-name'] a:first-child")
+        celeb_url = str.format("{0}{1}", imdb_base_url, celeb_url_el['href'])
+        celeb_profile_html: str = self.__get_html(celeb_url)
+        self.__save_file(celeb_profile_html, output_path)
+        self.__log(str.format('IMDB HTML retreived for {0}.', celeb.FullName))      
+        self.__log(str.format('Retrieved IMDB HTML for {0} at {1}.', celeb.FullName, output_path))    
         return celeb
 
     def _parse_celeb_profile_html(self, celeb: Celeb) -> Celeb:
@@ -229,8 +235,7 @@ class CelebSpyder():
         @param celeb (Celeb)
         @param profile_html (str)
         @returns Celeb
-        """  
-
+        """
         with open(celeb.LocalDataSourcePath, 'r', encoding='utf-8') as profile_html:    
             soup = BeautifulSoup(profile_html, 'html.parser')
 
